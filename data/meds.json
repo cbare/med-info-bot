@@ -51,7 +51,7 @@
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Acetaminophen"
+        "url": "https://en.wikipedia.org/wiki/Paracetamol"
       },
       {
         "source": "Wikipedia",
@@ -61,7 +61,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Caffeine"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00316"
+    }
   },
   "Acetaminophen; Codeine": {
     "name": "Acetaminophen; Codeine",
@@ -310,9 +313,12 @@
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Alendronate"
+        "url": "https://en.wikipedia.org/wiki/Alendronic_acid"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00630"
+    }
   },
   "Alendronic acid; Colecalciferol": {
     "name": "Alendronic acid and Colecalciferol",
@@ -547,17 +553,20 @@
       "accession": "DB01060"
     }
   },
-  "Amphotericin": {
+  "Amphotericin B": {
     "name": "Amphotericin B",
     "forms": [
       "lozenge",
       "injection"
     ],
     "description": "Amphotericin B is an antifungal medication used for fungal infections and leishmaniasis.",
+    "drugbank": {
+      "accession": "DB00681"
+    },
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Amphotericin"
+        "url": "https://en.wikipedia.org/wiki/amphotericin_B"
       }
     ]
   },
@@ -1627,9 +1636,12 @@
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Cephalexin"
+        "url": "https://en.wikipedia.org/wiki/Cefalexin"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00567"
+    }
   },
   "Cetirizine": {
     "name": "Cetirizine",
@@ -1741,9 +1753,12 @@
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Chlorthalidone"
+        "url": "https://en.wikipedia.org/wiki/Chlortalidone"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00310"
+    }
   },
   "Cholecalciferol": {
     "name": "Cholecalciferol",
@@ -2062,11 +2077,15 @@
   },
   "Cyanocobalamin": {
     "name": "Cyanocobalamin",
+    "alt-names": ["Vitamin B12"],
     "clincalc": {
       "name": "Cyanocobalamin",
       "rank": 131,
       "prescriptions_2022": 4663173,
       "patients_2022": 1489713
+    },
+    "drugbank": {
+      "accession": "DB00115"
     },
     "links": [
       {
@@ -2136,6 +2155,9 @@
       "prescriptions_2022": 2478714,
       "patients_2022": 864942
     },
+    "drugbank": {
+      "accession": "DB00091"
+    },
     "links": [
       {
         "source": "Wikipedia",
@@ -2163,6 +2185,9 @@
   },
   "Cyproterone": {
     "name": "Cyproterone",
+    "drugbank": {
+      "accession": "DB04839"
+    },
     "links": [
       {
         "source": "Wikipedia",
@@ -2172,6 +2197,9 @@
   },
   "Dabigatran": {
     "name": "Dabigatran",
+    "drugbank": {
+      "accession": "DB14726"
+    },
     "links": [
       {
         "source": "Wikipedia",
@@ -2181,10 +2209,13 @@
   },
   "Dalteparin": {
     "name": "Dalteparin",
+    "drugbank": {
+      "accession": "DB06779"
+    },
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Dalteparin"
+        "url": "https://en.wikipedia.org/wiki/Dalteparin_sodium"
       }
     ]
   },
@@ -2340,9 +2371,12 @@
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Dexamfetamine"
+        "url": "https://en.wikipedia.org/wiki/Dextroamphetamine"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB01576"
+    }
   },
   "Dexchlorpheniramine": {
     "name": "Dexchlorpheniramine",
@@ -2506,9 +2540,12 @@
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Dicyclomine"
+        "url": "https://en.wikipedia.org/wiki/Dicycloverine"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00804"
+    }
   },
   "Diflucortolone": {
     "name": "Diflucortolone",
@@ -2925,10 +2962,13 @@
   },
   "Enoxaparin": {
     "name": "Enoxaparin",
+    "drugbank": {
+      "accession": "DB01225"
+    },
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Enoxaparin"
+        "url": "https://en.wikipedia.org/wiki/Enoxaparin_sodium"
       }
     ]
   },
@@ -2964,10 +3004,13 @@
       "prescriptions_2022": 1458094,
       "patients_2022": 992912
     },
+    "drugbank": {
+      "accession": "DB00668"
+    },
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Epinephrine"
+        "url": "https://en.wikipedia.org/wiki/Adrenaline"
       }
     ]
   },
@@ -3115,13 +3158,16 @@
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Ethinyl_Estradiol"
+        "url": "https://en.wikipedia.org/wiki/Ethinylestradiol"
       },
       {
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Ethynodiol"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00977"
+    }
   },
   "Ethinyl Estradiol; Etonogestrel": {
     "name": "Ethinyl Estradiol; Etonogestrel",
@@ -3203,13 +3249,16 @@
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Ethinyl_Estradiol"
+        "url": "https://en.wikipedia.org/wiki/Ethinylestradiol"
       },
       {
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Norgestimate"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00977"
+    }
   },
   "Ethinyl Estradiol; Norgestrel": {
     "name": "Ethinyl Estradiol; Norgestrel",
@@ -3222,13 +3271,16 @@
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Ethinyl_Estradiol"
+        "url": "https://en.wikipedia.org/wiki/Ethinylestradiol"
       },
       {
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Norgestrel"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00977"
+    }
   },
   "Ethosuximide": {
     "name": "Ethosuximide",
@@ -3359,7 +3411,7 @@
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Ferrous_Sulfate"
+        "url": "https://en.wikipedia.org/wiki/Iron(II)_sulfate"
       }
     ]
   },
@@ -3621,16 +3673,20 @@
   },
   "Folic Acid": {
     "name": "Folic Acid",
+    "alt-names": ["Folate"],
     "clincalc": {
       "name": "Folic Acid",
       "rank": 65,
       "prescriptions_2022": 10185562,
       "patients_2022": 2602156
     },
+    "drugbank": {
+      "accession": "DB00158"
+    },
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Folic_Acid"
+        "url": "https://en.wikipedia.org/wiki/Folate"
       }
     ]
   },
@@ -4178,9 +4234,12 @@
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Indomethacin"
+        "url": "https://en.wikipedia.org/wiki/Indometacin"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00328"
+    }
   },
   "Insulin Aspart": {
     "name": "Insulin Aspart",
@@ -4260,10 +4319,13 @@
       "prescriptions_2022": 2234041,
       "patients_2022": 447324
     },
+    "drugbank": {
+      "accession": "DB00030"
+    },
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Insulin_Human"
+        "url": "https://en.wikipedia.org/wiki/Insulin_(medication)"
       },
       {
         "source": "Wikipedia",
@@ -4294,10 +4356,13 @@
       "prescriptions_2022": 1718729,
       "patients_2022": 650607
     },
+    "drugbank": {
+      "accession": "DB00332"
+    },
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Ipratropium"
+        "url": "https://en.wikipedia.org/wiki/Ipratropium_bromide"
       }
     ]
   },
@@ -5862,15 +5927,15 @@
       "prescriptions_2022": 6554547,
       "patients_2022": 1703089
     },
+    "drugbank": {
+      "accession": "DB00275"
+    },
     "links": [
       {
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Olmesartan"
       }
-    ],
-    "drugbank": {
-      "accession": "DB00275"
-    }
+    ]
   },
   "Olopatadine": {
     "name": "Olopatadine",
@@ -6060,16 +6125,19 @@
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Pamidronate"
+        "url": "https://en.wikipedia.org/wiki/Pamidronic_acid"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00282"
+    }
   },
   "Pancreatin": {
     "name": "Pancreatin",
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Pancreatin"
+        "url": "https://en.wikipedia.org/wiki/Pancreatic_enzymes_(medication)"
       }
     ]
   },
@@ -6078,7 +6146,7 @@
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Pancrelipase"
+        "url": "https://en.wikipedia.org/wiki/Pancreatic_enzymes_(medication)"
       }
     ]
   },
@@ -6143,9 +6211,12 @@
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Penicillin_V"
+        "url": "https://en.wikipedia.org/wiki/Phenoxymethylpenicillin"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00417"
+    }
   },
   "Perindopril": {
     "name": "Perindopril",
@@ -6707,10 +6778,13 @@
   },
   "Risedronate": {
     "name": "Risedronate",
+    "drugbank": {
+      "accession": "DB00884"
+    },
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Risedronate"
+        "url": "https://en.wikipedia.org/wiki/Risedronic_acid"
       }
     ]
   },
@@ -6953,9 +7027,12 @@
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Sennosides"
+        "url": "https://en.wikipedia.org/wiki/Senna_glycoside"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB11365"
+    }
   },
   "Sertraline": {
     "name": "Sertraline",
@@ -7319,9 +7396,12 @@
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Tenofovir"
+        "url": "https://en.wikipedia.org/wiki/Tenofovir_disoproxil"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB14126"
+    }
   },
   "Tenoxicam": {
     "name": "Tenoxicam",
@@ -7488,9 +7568,12 @@
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Tinzaparin"
+        "url": "https://en.wikipedia.org/wiki/Tinzaparin_sodium"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB06822"
+    }
   },
   "Tiotropium": {
     "name": "Tiotropium",
@@ -7500,10 +7583,13 @@
       "prescriptions_2022": 3585223,
       "patients_2022": 916849
     },
+    "drugbank": {
+      "accession": "DB01409"
+    },
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Tiotropium"
+        "url": "https://en.wikipedia.org/wiki/Tiotropium_bromide"
       }
     ]
   },
@@ -7572,6 +7658,7 @@
   },
   "Torsemide": {
     "name": "Torsemide",
+    "brand-names": ["Demadex", "Soaanz"],
     "clincalc": {
       "name": "Torsemide",
       "rank": 184,
@@ -7581,9 +7668,12 @@
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Torsemide"
+        "url": "https://en.wikipedia.org/wiki/Torasemide"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00214"
+    }
   },
   "Tramadol": {
     "name": "Tramadol",
@@ -7766,9 +7856,12 @@
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Valacyclovir"
+        "url": "https://en.wikipedia.org/wiki/Valaciclovir"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00577"
+    }
   },
   "Valganciclovir": {
     "name": "Valganciclovir",
@@ -7932,7 +8025,7 @@
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Vitamin_B_complex"
+        "url": "https://en.wikipedia.org/wiki/B_vitamins"
       }
     ]
   },
@@ -7970,6 +8063,9 @@
       "rank": 85,
       "prescriptions_2022": 8135552,
       "patients_2022": 1602377
+    },
+    "drugbank": {
+      "accession": "DB00682"
     },
     "links": [
       {
