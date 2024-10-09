@@ -1,0 +1,6848 @@
+{
+  "Acarbose": {
+    "name": "Acarbose",
+    "description": "Acarbose is a medication used to treat type 2 diabetes. It works by inhibiting alpha-glucosidase, an enzyme responsible for breaking down complex carbohydrates into glucose in the small intestine.",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Acarbose"
+      }
+    ]
+  },
+  "Acetaminophen": {
+    "name": "Acetaminophen",
+    "alt-names": ["Paracetamol"],
+    "clincalc": {
+      "name": "Acetaminophen",
+      "rank": 114,
+      "prescriptions_2022": 5512120,
+      "patients_2022": 2703476
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Acetaminophen"
+      }
+    ]
+  },
+  "Acetaminophen; Butalbital; Caffeine": {
+    "name": "Acetaminophen; Butalbital; Caffeine",
+    "alt-names": ["Paracetamol; Butalbital; Caffeine"],
+    "clincalc": {
+      "name": "Acetaminophen; Butalbital; Caffeine",
+      "rank": 248,
+      "prescriptions_2022": 1308103,
+      "patients_2022": 392352
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Acetaminophen"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Butalbital"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Caffeine"
+      }
+    ]
+  },
+  "Acetaminophen; Codeine": {
+    "name": "Acetaminophen; Codeine",
+    "alt-names": ["Paracetamol; Codeine"],
+    "clincalc": {
+      "name": "Acetaminophen; Codeine",
+      "rank": 166,
+      "prescriptions_2022": 3179641,
+      "patients_2022": 1402706
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Acetaminophen"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Codeine"
+      }
+    ]
+  },
+  "Acetaminophen; Hydrocodone": {
+    "name": "Acetaminophen; Hydrocodone",
+    "alt-names": ["Paracetamol; Hydrocodone"],
+    "clincalc": {
+      "name": "Acetaminophen; Hydrocodone",
+      "rank": 23,
+      "prescriptions_2022": 23521228,
+      "patients_2022": 7972417
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Acetaminophen"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hydrocodone"
+      }
+    ]
+  },
+  "Acetaminophen; Oxycodone": {
+    "name": "Acetaminophen; Oxycodone",
+    "alt-names": ["Paracetamol; Oxycodone"],
+    "clincalc": {
+      "name": "Acetaminophen; Oxycodone",
+      "rank": 98,
+      "prescriptions_2022": 6531255,
+      "patients_2022": 2280831
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Acetaminophen"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Oxycodone"
+      }
+    ]
+  },
+  "Acetazolamide": {
+    "name": "Acetazolamide",
+    "description": "Acetazolamide is a first generation carbonic anhydrase inhibitor used to treat glaucoma, epilepsy, altitude sickness, and heart failure related edema.",
+    "brand-names": [
+      "Diamox"
+    ],
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Acetazolamide"
+      }
+    ]
+  },
+  "Acitretin": {
+    "name": "Acitretin",
+    "description": "Acitretin is a second-generation oral retinoid used in the treatment of severe resistant psoriasis. Because of the potential for problems and severe side effects it is generally used in only very severe cases that have been unresponsive to other treatments.",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Acitretin"
+      }
+    ]
+  },
+  "Acyclovir": {
+    "name": "Acyclovir",
+    "alt-names": [
+      "Aciclovir"
+    ],
+    "forms": [
+      "injection",
+      "tablet"
+    ],
+    "clincalc": {
+      "name": "Acyclovir",
+      "rank": 134,
+      "prescriptions_2022": 4458457,
+      "patients_2022": 1322764
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Acyclovir"
+      }
+    ]
+  },
+  "Adalimumab": {
+    "name": "Adalimumab",
+    "clincalc": {
+      "name": "Adalimumab",
+      "rank": 241,
+      "prescriptions_2022": 1449438,
+      "patients_2022": 323337
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Adalimumab"
+      }
+    ]
+  },
+  "Adapalene": {
+    "name": "Adapalene",
+    "description": "Adapalene is a third-generation topical retinoid primarily used in the treatment of mild-moderate acne, and is also used off-label to treat keratosis pilaris.",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Adapalene"
+      }
+    ]
+  },
+  "Adapalene; Benzoyl Peroxide": {
+    "name": "Adapalene; Benzoyl Peroxide",
+    "clincalc": {
+      "name": "Adapalene; Benzoyl Peroxide",
+      "rank": 292,
+      "prescriptions_2022": 478394,
+      "patients_2022": 292591
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Adapalene"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Benzoyl_Peroxide"
+      }
+    ]
+  },
+  "Albuterol": {
+    "name": "Albuterol",
+    "clincalc": {
+      "name": "Albuterol",
+      "rank": 7,
+      "prescriptions_2022": 59075269,
+      "patients_2022": 19265334
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Albuterol"
+      }
+    ]
+  },
+  "Albuterol; Ipratropium": {
+    "name": "Albuterol; Ipratropium",
+    "clincalc": {
+      "name": "Albuterol; Ipratropium",
+      "rank": 178,
+      "prescriptions_2022": 2771010,
+      "patients_2022": 794788
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Albuterol"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ipratropium"
+      }
+    ]
+  },
+  "Alendronate": {
+    "name": "Alendronate",
+    "alt-names": [
+      "Alendronic acid",
+      "Alendronate Sodium"
+    ],
+    "brand-names": [
+      "Fosamax",
+      "Binosto"
+    ],
+    "clincalc": {
+      "name": "Alendronate",
+      "rank": 103,
+      "prescriptions_2022": 6127862,
+      "patients_2022": 1912735
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Alendronate"
+      }
+    ]
+  },
+  "Alendronic acid; Colecalciferol": {
+    "name": "Alendronic acid and Colecalciferol",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Alendronic_acid"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Colecalciferol"
+      }
+    ]
+  },
+  "Alfacalcidol": {
+    "name": "Alfacalcidol",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Alfacalcidol"
+      }
+    ]
+  },
+  "Allopurinol": {
+    "name": "Allopurinol",
+    "clincalc": {
+      "name": "Allopurinol",
+      "rank": 39,
+      "prescriptions_2022": 15235132,
+      "patients_2022": 3867218
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Allopurinol"
+      }
+    ]
+  },
+  "Alprazolam": {
+    "name": "Alprazolam",
+    "clincalc": {
+      "name": "Alprazolam",
+      "rank": 41,
+      "prescriptions_2022": 14988526,
+      "patients_2022": 3336114
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Alprazolam"
+      }
+    ]
+  },
+  "Amantadine": {
+    "name": "Amantadine",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Amantadine"
+      }
+    ]
+  },
+  "Amikacin": {
+    "name": "Amikacin",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Amikacin"
+      }
+    ]
+  },
+  "Amiloride; furosemide": {
+    "name": "Amiloride and furosemide",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Amiloride"
+      }
+    ]
+  },
+  "Amiloride; hydrochlorothiazide": {
+    "name": "Amiloride and hydrochlorothiazide",
+    "links": []
+  },
+  "Amiodarone": {
+    "name": "Amiodarone",
+    "clincalc": {
+      "name": "Amiodarone",
+      "rank": 237,
+      "prescriptions_2022": 1501094,
+      "patients_2022": 431294
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Amiodarone"
+      }
+    ]
+  },
+  "Amitriptyline": {
+    "name": "Amitriptyline",
+    "clincalc": {
+      "name": "Amitriptyline",
+      "rank": 87,
+      "prescriptions_2022": 7887977,
+      "patients_2022": 1675744
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Amitriptyline"
+      }
+    ]
+  },
+  "Amlodipine": {
+    "name": "Amlodipine",
+    "clincalc": {
+      "name": "Amlodipine",
+      "rank": 5,
+      "prescriptions_2022": 70766211,
+      "patients_2022": 17789649
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Amlodipine"
+      }
+    ]
+  },
+  "Amlodipine; Benazepril": {
+    "name": "Amlodipine; Benazepril",
+    "clincalc": {
+      "name": "Amlodipine; Benazepril",
+      "rank": 170,
+      "prescriptions_2022": 3083302,
+      "patients_2022": 839349
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Amlodipine"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Benazepril"
+      }
+    ]
+  },
+  "Amoxicillin": {
+    "name": "Amoxicillin",
+    "forms": ["capsule", "liquid", "injection"],
+    "clincalc": {
+      "name": "Amoxicillin",
+      "rank": 26,
+      "prescriptions_2022": 20465164,
+      "patients_2022": 15998871
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Amoxicillin"
+      }
+    ]
+  },
+  "Amoxicillin; Clavulanate": {
+    "name": "Amoxicillin; Clavulanate",
+    "alt-names": [
+      "Amoxicillin and clavulanic acid"
+    ],
+    "forms": ["injection", "tablet", "liquid"],
+    "clincalc": {
+      "name": "Amoxicillin; Clavulanate",
+      "rank": 96,
+      "prescriptions_2022": 6874603,
+      "patients_2022": 5534480
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Amoxicillin"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Clavulanate"
+      }
+    ]
+  },
+  "Amphotericin": {
+    "name": "Amphotericin B",
+    "forms": [
+      "lozenge",
+      "injection"
+    ],
+    "description": "Amphotericin B is an antifungal medication used for fungal infections and leishmaniasis.",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Amphotericin"
+      }
+    ]
+  },
+  "Anastrozole": {
+    "name": "Anastrozole",
+    "clincalc": {
+      "name": "Anastrozole",
+      "rank": 179,
+      "prescriptions_2022": 2676294,
+      "patients_2022": 623266
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Anastrozole"
+      }
+    ]
+  },
+  "Apixaban": {
+    "name": "Apixaban",
+    "clincalc": {
+      "name": "Apixaban",
+      "rank": 27,
+      "prescriptions_2022": 19420949,
+      "patients_2022": 4494660
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Apixaban"
+      }
+    ]
+  },
+  "Apomorphine": {
+    "name": "Apomorphine",
+    "forms": [
+      "injection"
+    ],
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Apomorphine"
+      }
+    ]
+  },
+  "Aprepitant": {
+    "name": "Aprepitant",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Aprepitant"
+      }
+    ]
+  },
+  "Aripiprazole": {
+    "name": "Aripiprazole",
+    "clincalc": {
+      "name": "Aripiprazole",
+      "rank": 106,
+      "prescriptions_2022": 6053911,
+      "patients_2022": 1275362
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Aripiprazole"
+      }
+    ]
+  },
+  "Ascorbic Acid": {
+    "name": "Ascorbic Acid",
+    "alt-names": ["Vitamin C"],
+    "clincalc": {
+      "name": "Ascorbic Acid",
+      "rank": 226,
+      "prescriptions_2022": 1588475,
+      "patients_2022": 432016
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Vitamin_C"
+      }
+    ]
+  },
+  "Aspirin": {
+    "name": "Aspirin",
+    "alt-names": ["acetylsalicylic acid"],
+    "clincalc": {
+      "name": "Aspirin",
+      "rank": 36,
+      "prescriptions_2022": 16981811,
+      "patients_2022": 5095974
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Aspirin"
+      }
+    ]
+  },
+  "Atazanavir": {
+    "name": "Atazanavir",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Atazanavir"
+      }
+    ]
+  },
+  "Atenolol": {
+    "name": "Atenolol",
+    "clincalc": {
+      "name": "Atenolol",
+      "rank": 63,
+      "prescriptions_2022": 10675235,
+      "patients_2022": 2625632
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Atenolol"
+      }
+    ]
+  },
+  "Atgam (antithymocyte immunoglobulin - equine)": {
+    "name": "Atgam",
+    "alt-names": ["anti-thymocyte immunoglobulin", "Atgam (antithymocyte immunoglobulin - equine)"],
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Anti-thymocyte_globulin"
+      }
+    ]
+  },
+  "Atomoxetine": {
+    "name": "Atomoxetine",
+    "clincalc": {
+      "name": "Atomoxetine",
+      "rank": 213,
+      "prescriptions_2022": 1822924,
+      "patients_2022": 458585
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Atomoxetine"
+      }
+    ]
+  },
+  "Atorvastatin": {
+    "name": "Atorvastatin",
+    "clincalc": {
+      "name": "Atorvastatin",
+      "rank": 1,
+      "prescriptions_2022": 109582746,
+      "patients_2022": 27935702
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Atorvastatin"
+      }
+    ]
+  },
+  "Atovaquone; proguanil": {
+    "name": "Atovaquone; proguanil",
+    "brand-names": ["Malarone"],
+    "description": "Atovaquone/proguanil, sold under the brand name Malarone among others, is a fixed-dose combination medication used to treat and prevent malaria, including chloroquine-resistant malaria.",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Atovaquone/proguanil"
+      }
+    ]
+  },
+  "Atropine; Diphenoxylate": {
+    "name": "Atropine; Diphenoxylate",
+    "clincalc": {
+      "name": "Atropine; Diphenoxylate",
+      "rank": 284,
+      "prescriptions_2022": 603871,
+      "patients_2022": 214972
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Atropine/diphenoxylate"
+      }
+    ]
+  },
+  "Auranofin ('Gold')": {
+    "name": "Auranofin",
+    "alt-names": ["Auranofin ('Gold')"],
+    "brand-names": ["Ridaura"],
+    "description": "Auranofin is a gold salt used to treat rheumatoid arthritis sold under the brand name Ridaura.",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Auranofin"
+      }
+    ]
+  },
+  "Azathioprine": {
+    "name": "Azathioprine",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Azathioprine"
+      }
+    ]
+  },
+  "Azelastine": {
+    "name": "Azelastine",
+    "clincalc": {
+      "name": "Azelastine",
+      "rank": 124,
+      "prescriptions_2022": 5195092,
+      "patients_2022": 1746057
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Azelastine"
+      }
+    ]
+  },
+  "Azelastine; Fluticasone": {
+    "name": "Azelastine; Fluticasone",
+    "clincalc": {
+      "name": "Azelastine; Fluticasone",
+      "rank": 299,
+      "prescriptions_2022": 394381,
+      "patients_2022": 106697
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Azelastine"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fluticasone"
+      }
+    ]
+  },
+  "Azelate": {
+    "name": "Azelate",
+    "alt-names": ["azelaic acid"],
+    "brand-names": ["Azelex", "Finacea"],
+    "forms": ["Cream (topical)"],
+    "clincalc": {
+      "name": "Azelate",
+      "rank": 298,
+      "prescriptions_2022": 395502,
+      "patients_2022": 202965
+    },
+    "links": []
+  },
+  "Azithromycin": {
+    "name": "Azithromycin",
+    "clincalc": {
+      "name": "Azithromycin",
+      "rank": 78,
+      "prescriptions_2022": 8770185,
+      "patients_2022": 7146386
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Azithromycin"
+      }
+    ]
+  },
+  "Baclofen": {
+    "name": "Baclofen",
+    "clincalc": {
+      "name": "Baclofen",
+      "rank": 104,
+      "prescriptions_2022": 6099128,
+      "patients_2022": 1603798
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Baclofen"
+      }
+    ]
+  },
+  "Beclometasone (inhaler)": {
+    "name": "Beclometasone",
+    "alt-names": ["beclomethasone", "beclomethasone dipropionate"],
+    "brand-names": ["Qvar"],
+    "forms": ["inhaler"],
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Beclometasone"
+      }
+    ]
+  },
+  "Benazepril": {
+    "name": "Benazepril",
+    "clincalc": {
+      "name": "Benazepril",
+      "rank": 159,
+      "prescriptions_2022": 3424799,
+      "patients_2022": 993316
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Benazepril"
+      }
+    ]
+  },
+  "Bendroflumethiazide": {
+    "name": "Bendroflumethiazide",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bendroflumethiazide"
+      }
+    ]
+  },
+  "Benzatropine": {
+    "name": "Benzatropine",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Benzatropine"
+      }
+    ]
+  },
+  "Benzbromarone": {
+    "name": "Benzbromarone",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Benzbromarone"
+      }
+    ]
+  },
+  "Benzonatate": {
+    "name": "Benzonatate",
+    "clincalc": {
+      "name": "Benzonatate",
+      "rank": 130,
+      "prescriptions_2022": 4735583,
+      "patients_2022": 3264685
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Benzonatate"
+      }
+    ]
+  },
+  "Benzylpenicillin": {
+    "name": "Benzylpenicillin",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Benzylpenicillin"
+      }
+    ]
+  },
+  "Betahistine": {
+    "name": "Betahistine",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Betahistine"
+      }
+    ]
+  },
+  "Betamethasone": {
+    "name": "Betamethasone",
+    "clincalc": {
+      "name": "Betamethasone",
+      "rank": 263,
+      "prescriptions_2022": 1058995,
+      "patients_2022": 579888
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Betamethasone"
+      }
+    ]
+  },
+  "Betamethasone; Clotrimazole": {
+    "name": "Betamethasone; Clotrimazole",
+    "clincalc": {
+      "name": "Betamethasone; Clotrimazole",
+      "rank": 242,
+      "prescriptions_2022": 1401056,
+      "patients_2022": 773514
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Clotrimazole/betamethasone_dipropionate"
+      }
+    ]
+  },
+  "Bezafibrate": {
+    "name": "Bezafibrate",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bezafibrate"
+      }
+    ]
+  },
+  "Bicalutamide": {
+    "name": "Bicalutamide",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bicalutamide"
+      }
+    ]
+  },
+  "Bimatoprost": {
+    "name": "Bimatoprost",
+    "clincalc": {
+      "name": "Bimatoprost",
+      "rank": 195,
+      "prescriptions_2022": 2197512,
+      "patients_2022": 520908
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bimatoprost"
+      }
+    ]
+  },
+  "Bisacodyl": {
+    "name": "Bisacodyl",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bisacodyl"
+      }
+    ]
+  },
+  "Bisoprolol": {
+    "name": "Bisoprolol",
+    "clincalc": {
+      "name": "Bisoprolol",
+      "rank": 249,
+      "prescriptions_2022": 1295378,
+      "patients_2022": 412169
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bisoprolol"
+      }
+    ]
+  },
+  "Bivalirudin": {
+    "name": "Bivalirudin",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bivalirudin"
+      }
+    ]
+  },
+  "Brimonidine": {
+    "name": "Brimonidine",
+    "clincalc": {
+      "name": "Brimonidine",
+      "rank": 199,
+      "prescriptions_2022": 2126110,
+      "patients_2022": 692801
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Brimonidine"
+      }
+    ]
+  },
+  "Bromocriptine": {
+    "name": "Bromocriptine",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bromocriptine"
+      }
+    ]
+  },
+  "Brompheniramine; Dextromethorphan; Pseudoephedrine": {
+    "name": "Brompheniramine; Dextromethorphan; Pseudoephedrine",
+    "brand-names": ["Bromanate DM", "Bromfed DM", "Dimetane DX"],
+    "clincalc": {
+      "name": "Brompheniramine; Dextromethorphan; Pseudoephedrine",
+      "rank": 265,
+      "prescriptions_2022": 1039411,
+      "patients_2022": 833240
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Brompheniramine"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dextromethorphan"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pseudoephedrine"
+      }
+    ]
+  },
+  "Budesonide": {
+    "name": "Budesonide",
+    "forms": ["capsule", "tablet", "inhaler"],
+    "clincalc": {
+      "name": "Budesonide",
+      "rank": 177,
+      "prescriptions_2022": 2800249,
+      "patients_2022": 864807
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Budesonide"
+      }
+    ]
+  },
+  "Budesonide; Formoterol": {
+    "name": "Budesonide; Formoterol",
+    "alt-names": [],
+    "clincalc": {
+      "name": "Budesonide; Formoterol",
+      "rank": 83,
+      "prescriptions_2022": 8225092,
+      "patients_2022": 1875357
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Budesonide/formoterol"
+      }
+    ]
+  },
+  "Bumetanide": {
+    "name": "Bumetanide",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bumetanide"
+      }
+    ]
+  },
+  "Bupropion": {
+    "name": "Bupropion",
+    "clincalc": {
+      "name": "Bupropion",
+      "rank": 21,
+      "prescriptions_2022": 25197923,
+      "patients_2022": 6111736
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bupropion"
+      }
+    ]
+  },
+  "Buspirone": {
+    "name": "Buspirone",
+    "clincalc": {
+      "name": "Buspirone",
+      "rank": 54,
+      "prescriptions_2022": 12332589,
+      "patients_2022": 2671839
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Buspirone"
+      }
+    ]
+  },
+  "Cabergoline": {
+    "name": "Cabergoline",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cabergoline"
+      }
+    ]
+  },
+  "Calcitriol": {
+    "name": "Calcitriol",
+    "clincalc": {
+      "name": "Calcitriol",
+      "rank": 254,
+      "prescriptions_2022": 1142930,
+      "patients_2022": 260804
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Calcitriol"
+      }
+    ]
+  },
+  "Calcium": {
+    "name": "Calcium",
+    "clincalc": {
+      "name": "Calcium",
+      "rank": 277,
+      "prescriptions_2022": 768263,
+      "patients_2022": 290244
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Calcium"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Calcium_supplements"
+      }
+    ]
+  },
+  "Calcium Phosphate; Cholecalciferol": {
+    "name": "Calcium Phosphate; Cholecalciferol",
+    "clincalc": {
+      "name": "Calcium Phosphate; Cholecalciferol",
+      "rank": 246,
+      "prescriptions_2022": 1319343,
+      "patients_2022": 441950
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Calcium_Phosphate"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cholecalciferol"
+      }
+    ]
+  },
+  "Candesartan": {
+    "name": "Candesartan",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Candesartan"
+      }
+    ]
+  },
+  "Capsaicin": {
+    "name": "Capsaicin",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Capsaicin"
+      }
+    ]
+  },
+  "Carbamazepine": {
+    "name": "Carbamazepine",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Carbamazepine"
+      }
+    ]
+  },
+  "Carbidopa; Levodopa": {
+    "name": "Carbidopa; Levodopa",
+    "clincalc": {
+      "name": "Carbidopa; Levodopa",
+      "rank": 278,
+      "prescriptions_2022": 761577,
+      "patients_2022": 164386
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Carbidopa/levodopa"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Carbidopa"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Levodopa"
+      }
+    ]
+  },
+  "Carbimazole": {
+    "name": "Carbimazole",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Carbimazole"
+      }
+    ]
+  },
+  "Carvedilol": {
+    "name": "Carvedilol",
+    "clincalc": {
+      "name": "Carvedilol",
+      "rank": 34,
+      "prescriptions_2022": 17067595,
+      "patients_2022": 4472118
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Carvedilol"
+      }
+    ]
+  },
+  "Cefaclor": {
+    "name": "Cefaclor",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cefaclor"
+      }
+    ]
+  },
+  "Cefalexin": {
+    "name": "Cefalexin",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cefalexin"
+      }
+    ]
+  },
+  "Cefazolin": {
+    "name": "Cefazolin",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cefazolin"
+      }
+    ]
+  },
+  "Cefdinir": {
+    "name": "Cefdinir",
+    "clincalc": {
+      "name": "Cefdinir",
+      "rank": 168,
+      "prescriptions_2022": 3098850,
+      "patients_2022": 2412211
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cefdinir"
+      }
+    ]
+  },
+  "Cefepime": {
+    "name": "Cefepime",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cefepime"
+      }
+    ]
+  },
+  "Cefotaxime": {
+    "name": "Cefotaxime",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cefotaxime"
+      }
+    ]
+  },
+  "Cefoxitin": {
+    "name": "Cefoxitin",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cefoxitin"
+      }
+    ]
+  },
+  "Ceftazidime": {
+    "name": "Ceftazidime",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ceftazidime"
+      }
+    ]
+  },
+  "Ceftriaxone": {
+    "name": "Ceftriaxone",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ceftriaxone"
+      }
+    ]
+  },
+  "Cefuroxime": {
+    "name": "Cefuroxime",
+    "forms": ["injection", "tablet"],
+    "clincalc": {
+      "name": "Cefuroxime",
+      "rank": 283,
+      "prescriptions_2022": 623309,
+      "patients_2022": 528036
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cefuroxime"
+      }
+    ]
+  },
+  "Celecoxib": {
+    "name": "Celecoxib",
+    "clincalc": {
+      "name": "Celecoxib",
+      "rank": 93,
+      "prescriptions_2022": 7023511,
+      "patients_2022": 2410924
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Celecoxib"
+      }
+    ]
+  },
+  "Celiprolol": {
+    "name": "Celiprolol",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Celiprolol"
+      }
+    ]
+  },
+  "Cephalexin": {
+    "name": "Cephalexin",
+    "clincalc": {
+      "name": "Cephalexin",
+      "rank": 101,
+      "prescriptions_2022": 6228250,
+      "patients_2022": 4570468
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cephalexin"
+      }
+    ]
+  },
+  "Cetirizine": {
+    "name": "Cetirizine",
+    "clincalc": {
+      "name": "Cetirizine",
+      "rank": 43,
+      "prescriptions_2022": 13899342,
+      "patients_2022": 4436602
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cetirizine"
+      }
+    ]
+  },
+  "Chlorambucil": {
+    "name": "Chlorambucil",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Chlorambucil"
+      }
+    ]
+  },
+  "Chlorhexidine": {
+    "name": "Chlorhexidine",
+    "clincalc": {
+      "name": "Chlorhexidine",
+      "rank": 230,
+      "prescriptions_2022": 1549906,
+      "patients_2022": 879237
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Chlorhexidine"
+      }
+    ]
+  },
+  "Chlorpheniramine": {
+    "name": "Chlorpheniramine",
+    "clincalc": {
+      "name": "Chlorpheniramine",
+      "rank": 291,
+      "prescriptions_2022": 487007,
+      "patients_2022": 155471
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Chlorpheniramine"
+      }
+    ]
+  },
+  "Chlorpromazine": {
+    "name": "Chlorpromazine",
+    "alt-names": ["CPZ"],
+    "brand-names": ["Thorazine", "Largactil"],
+    "forms": ["injection", "tablet"],
+    "description": "Chlorpromazine is an antipsychotic medication used to treat schizophrenia and bipolar disorder.",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Chlorpromazine"
+      }
+    ]
+  },
+  "Chlortalidone": {
+    "name": "Chlortalidone",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Chlortalidone"
+      }
+    ]
+  },
+  "Chlorthalidone": {
+    "name": "Chlorthalidone",
+    "clincalc": {
+      "name": "Chlorthalidone",
+      "rank": 108,
+      "prescriptions_2022": 5928576,
+      "patients_2022": 1597980
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Chlorthalidone"
+      }
+    ]
+  },
+  "Cholecalciferol": {
+    "name": "Cholecalciferol",
+    "alt-names": ["Colecalciferol", "Vitamin D"],
+    "clincalc": {
+      "name": "Cholecalciferol",
+      "rank": 62,
+      "prescriptions_2022": 10833991,
+      "patients_2022": 3330178
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cholecalciferol"
+      }
+    ]
+  },
+  "Choline salicylate gel": {
+    "name": "Choline salicylate gel",
+    "links": []
+  },
+  "Ciclopirox": {
+    "name": "Ciclopirox",
+    "clincalc": {
+      "name": "Ciclopirox",
+      "rank": 247,
+      "prescriptions_2022": 1317601,
+      "patients_2022": 570071
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ciclopirox"
+      }
+    ]
+  },
+  "Cilazapril": {
+    "name": "Cilazapril",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cilazapril"
+      }
+    ]
+  },
+  "Ciprofloxacin": {
+    "name": "Ciprofloxacin",
+    "clincalc": {
+      "name": "Ciprofloxacin",
+      "rank": 181,
+      "prescriptions_2022": 2622220,
+      "patients_2022": 1994293
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ciprofloxacin"
+      }
+    ]
+  },
+  "Ciprofloxacin; Dexamethasone": {
+    "name": "Ciprofloxacin; Dexamethasone",
+    "clincalc": {
+      "name": "Ciprofloxacin; Dexamethasone",
+      "rank": 286,
+      "prescriptions_2022": 543930,
+      "patients_2022": 440167
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ciprofloxacin/dexamethasone"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ciprofloxacin"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dexamethasone"
+      }
+    ]
+  },
+  "Citalopram": {
+    "name": "Citalopram",
+    "clincalc": {
+      "name": "Citalopram",
+      "rank": 40,
+      "prescriptions_2022": 15047663,
+      "patients_2022": 3540540
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Citalopram"
+      }
+    ]
+  },
+  "Clarithromycin": {
+    "name": "Clarithromycin",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Clarithromycin"
+      }
+    ]
+  },
+  "Clindamycin": {
+    "name": "Clindamycin",
+    "clincalc": {
+      "name": "Clindamycin",
+      "rank": 147,
+      "prescriptions_2022": 3855100,
+      "patients_2022": 2369863
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Clindamycin"
+      }
+    ]
+  },
+  "Clobazam": {
+    "name": "Clobazam",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Clobazam"
+      }
+    ]
+  },
+  "Clobetasol": {
+    "name": "Clobetasol",
+    "clincalc": {
+      "name": "Clobetasol",
+      "rank": 156,
+      "prescriptions_2022": 3528926,
+      "patients_2022": 1930537
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Clobetasol"
+      }
+    ]
+  },
+  "Clomipramine": {
+    "name": "Clomipramine",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Clomipramine"
+      }
+    ]
+  },
+  "Clonazepam": {
+    "name": "Clonazepam",
+    "clincalc": {
+      "name": "Clonazepam",
+      "rank": 57,
+      "prescriptions_2022": 11711065,
+      "patients_2022": 1968091
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Clonazepam"
+      }
+    ]
+  },
+  "Clonidine": {
+    "name": "Clonidine",
+    "clincalc": {
+      "name": "Clonidine",
+      "rank": 71,
+      "prescriptions_2022": 9626080,
+      "patients_2022": 1877700
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Clonidine"
+      }
+    ]
+  },
+  "Clopidogrel": {
+    "name": "Clopidogrel",
+    "clincalc": {
+      "name": "Clopidogrel",
+      "rank": 47,
+      "prescriptions_2022": 13568821,
+      "patients_2022": 3767583
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Clopidogrel"
+      }
+    ]
+  },
+  "Codeine": {
+    "name": "Codeine",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Codeine"
+      }
+    ]
+  },
+  "Codeine; Guaifenesin": {
+    "name": "Codeine; Guaifenesin",
+    "clincalc": {
+      "name": "Codeine; Guaifenesin",
+      "rank": 272,
+      "prescriptions_2022": 862860,
+      "patients_2022": 774451
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Codeine"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Guaifenesin"
+      }
+    ]
+  },
+  "Colchicine": {
+    "name": "Colchicine",
+    "clincalc": {
+      "name": "Colchicine",
+      "rank": 197,
+      "prescriptions_2022": 2153766,
+      "patients_2022": 923806
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Colchicine"
+      }
+    ]
+  },
+  "Colestyramine": {
+    "name": "Colestyramine",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Colestyramine"
+      }
+    ]
+  },
+  "Colistin": {
+    "name": "Colistin",
+    "alt-names": ["Colistimethate", "Colistimethate sodium"],
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Colistin"
+      }
+    ]
+  },
+  "Cyanocobalamin": {
+    "name": "Cyanocobalamin",
+    "clincalc": {
+      "name": "Cyanocobalamin",
+      "rank": 131,
+      "prescriptions_2022": 4663173,
+      "patients_2022": 1489713
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cyanocobalamin"
+      }
+    ]
+  },
+  "Cyclizine": {
+    "name": "Cyclizine",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cyclizine"
+      }
+    ]
+  },
+  "Cyclobenzaprine": {
+    "name": "Cyclobenzaprine",
+    "clincalc": {
+      "name": "Cyclobenzaprine",
+      "rank": 45,
+      "prescriptions_2022": 13724245,
+      "patients_2022": 5016775
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cyclobenzaprine"
+      }
+    ]
+  },
+  "Cyclophosphamide": {
+    "name": "Cyclophosphamide",
+    "alt-names": ["cytophosphane"],
+    "forms": ["injection", "tablet"],
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cyclophosphamide"
+      }
+    ]
+  },
+  "Cyclosporine": {
+    "name": "Cyclosporine",
+    "alt-names": ["Ciclosporin", "Cyclosporin"],
+    "clincalc": {
+      "name": "Cyclosporine",
+      "rank": 185,
+      "prescriptions_2022": 2478714,
+      "patients_2022": 864942
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ciclosporin"
+      }
+    ]
+  },
+  "Cyproheptadine": {
+    "name": "Cyproheptadine",
+    "clincalc": {
+      "name": "Cyproheptadine",
+      "rank": 293,
+      "prescriptions_2022": 473479,
+      "patients_2022": 189412
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cyproheptadine"
+      }
+    ]
+  },
+  "Cyproterone": {
+    "name": "Cyproterone",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cyproterone"
+      }
+    ]
+  },
+  "Dabigatran": {
+    "name": "Dabigatran",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dabigatran"
+      }
+    ]
+  },
+  "Dalteparin": {
+    "name": "Dalteparin",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dalteparin"
+      }
+    ]
+  },
+  "Dantrolene": {
+    "name": "Dantrolene",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dantrolene"
+      }
+    ]
+  },
+  "Dapagliflozin": {
+    "name": "Dapagliflozin",
+    "clincalc": {
+      "name": "Dapagliflozin",
+      "rank": 115,
+      "prescriptions_2022": 5503867,
+      "patients_2022": 1372807
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dapagliflozin"
+      }
+    ]
+  },
+  "Darunavir": {
+    "name": "Darunavir",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Darunavir"
+      }
+    ]
+  },
+  "Deferoxamine": {
+    "name": "Deferoxamine",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Deferoxamine"
+      }
+    ]
+  },
+  "Desloratadine": {
+    "name": "Desloratadine",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Desloratadine"
+      }
+    ]
+  },
+  "Desogestrel; Ethinyl Estradiol": {
+    "name": "Desogestrel; Ethinyl Estradiol",
+    "brand-names": ["Marvelon"],
+    "clincalc": {
+      "name": "Desogestrel; Ethinyl Estradiol",
+      "rank": 161,
+      "prescriptions_2022": 3308281,
+      "patients_2022": 957396
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ethinylestradiol/desogestrel"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Desogestrel"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ethinyl_Estradiol"
+      }
+    ]
+  },
+  "Desvenlafaxine": {
+    "name": "Desvenlafaxine",
+    "clincalc": {
+      "name": "Desvenlafaxine",
+      "rank": 208,
+      "prescriptions_2022": 1947177,
+      "patients_2022": 467816
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Desvenlafaxine"
+      }
+    ]
+  },
+  "Dexamethasone": {
+    "name": "Dexamethasone",
+    "clincalc": {
+      "name": "Dexamethasone",
+      "rank": 234,
+      "prescriptions_2022": 1524943,
+      "patients_2022": 832040
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dexamethasone"
+      }
+    ]
+  },
+  "Dexamethasone; Neomycin; Polymyxin B": {
+    "name": "Dexamethasone; Neomycin; Polymyxin B",
+    "brand-names": ["Dexacidin", "Dexasporin", "Maxitrol"],
+    "clincalc": {
+      "name": "Dexamethasone; Neomycin; Polymyxin B",
+      "rank": 274,
+      "prescriptions_2022": 831263,
+      "patients_2022": 572963
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dexamethasone"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Neomycin"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Polymyxin_B"
+      }
+    ]
+  },
+  "Dexamfetamine": {
+    "name": "Dexamfetamine",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dexamfetamine"
+      }
+    ]
+  },
+  "Dexchlorpheniramine": {
+    "name": "Dexchlorpheniramine",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dexchlorpheniramine"
+      }
+    ]
+  },
+  "Dexlansoprazole": {
+    "name": "Dexlansoprazole",
+    "clincalc": {
+      "name": "Dexlansoprazole",
+      "rank": 186,
+      "prescriptions_2022": 2454438,
+      "patients_2022": 674083
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dexlansoprazole"
+      }
+    ]
+  },
+  "Dexmethylphenidate": {
+    "name": "Dexmethylphenidate",
+    "clincalc": {
+      "name": "Dexmethylphenidate",
+      "rank": 109,
+      "prescriptions_2022": 5809075,
+      "patients_2022": 727981
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dexmethylphenidate"
+      }
+    ]
+  },
+  "Dextroamphetamine; Dextroamphetamine Saccharate; Amphetamine; Amphetamine Aspartate": {
+    "name": "Dextroamphetamine; Dextroamphetamine Saccharate; Amphetamine; Amphetamine Aspartate",
+    "brand-names": ["Adderall"],
+    "clincalc": {
+      "name": "Dextroamphetamine; Dextroamphetamine Saccharate; Amphetamine; Amphetamine Aspartate",
+      "rank": 14,
+      "prescriptions_2022": 34690297,
+      "patients_2022": 4652545
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Adderall"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dextroamphetamine"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Amphetamine"
+      }
+    ]
+  },
+  "Dextromethorphan; Guaifenesin": {
+    "name": "Dextromethorphan; Guaifenesin",
+    "clincalc": {
+      "name": "Dextromethorphan; Guaifenesin",
+      "rank": 290,
+      "prescriptions_2022": 487449,
+      "patients_2022": 293388
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dextromethorphan"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Guaifenesin"
+      }
+    ]
+  },
+  "Dextromethorphan; Promethazine": {
+    "name": "Dextromethorphan; Promethazine",
+    "alt-names": ["Promethazine DM"],
+    "clincalc": {
+      "name": "Dextromethorphan; Promethazine",
+      "rank": 260,
+      "prescriptions_2022": 1088231,
+      "patients_2022": 765144
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dextromethorphan"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Promethazine"
+      }
+    ]
+  },
+  "Diazepam": {
+    "name": "Diazepam",
+    "clincalc": {
+      "name": "Diazepam",
+      "rank": 169,
+      "prescriptions_2022": 3093210,
+      "patients_2022": 1011956
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Diazepam"
+      }
+    ]
+  },
+  "Diclofenac": {
+    "name": "Diclofenac",
+    "clincalc": {
+      "name": "Diclofenac",
+      "rank": 51,
+      "prescriptions_2022": 12480262,
+      "patients_2022": 4295892
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Diclofenac"
+      }
+    ]
+  },
+  "Dicyclomine": {
+    "name": "Dicyclomine",
+    "clincalc": {
+      "name": "Dicyclomine",
+      "rank": 176,
+      "prescriptions_2022": 2924051,
+      "patients_2022": 1008828
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dicyclomine"
+      }
+    ]
+  },
+  "Diflucortolone": {
+    "name": "Diflucortolone",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Diflucortolone_valerate"
+      }
+    ]
+  },
+  "Digoxin": {
+    "name": "Digoxin",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Digoxin"
+      }
+    ]
+  },
+  "Dihydrocodeine": {
+    "name": "Dihydrocodeine",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dihydrocodeine"
+      }
+    ]
+  },
+  "Diltiazem": {
+    "name": "Diltiazem",
+    "clincalc": {
+      "name": "Diltiazem",
+      "rank": 100,
+      "prescriptions_2022": 6257580,
+      "patients_2022": 1785422
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Diltiazem"
+      }
+    ]
+  },
+  "Diphenhydramine": {
+    "name": "Diphenhydramine",
+    "clincalc": {
+      "name": "Diphenhydramine",
+      "rank": 258,
+      "prescriptions_2022": 1091279,
+      "patients_2022": 391183
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Diphenhydramine"
+      }
+    ]
+  },
+  "Dipyridamole": {
+    "name": "Dipyridamole",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dipyridamole"
+      }
+    ]
+  },
+  "Disopyramide": {
+    "name": "Disopyramide",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Disopyramide"
+      }
+    ]
+  },
+  "Docusate": {
+    "name": "Docusate",
+    "clincalc": {
+      "name": "Docusate",
+      "rank": 148,
+      "prescriptions_2022": 3801797,
+      "patients_2022": 1558611
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Docusate"
+      }
+    ]
+  },
+  "Docusate and sennoside B": {
+    "name": "Docusate and sennoside B",
+    "links": []
+  },
+  "Dolutegravir": {
+    "name": "Dolutegravir",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dolutegravir"
+      }
+    ]
+  },
+  "Dolutegravir; lamivudine": {
+    "name": "Dolutegravir; lamivudine",
+    "brand-names": ["Dovato"],
+    "description": "Dolutegravir/lamivudine, sold under the brand name Dovato, is a fixed-dose combination antiretroviral medication for the treatment of HIV/AIDS.",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dolutegravir/lamivudine"
+      }
+    ]
+  },
+  "Domperidone": {
+    "name": "Domperidone",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Domperidone"
+      }
+    ]
+  },
+  "Donepezil": {
+    "name": "Donepezil",
+    "clincalc": {
+      "name": "Donepezil",
+      "rank": 146,
+      "prescriptions_2022": 3855535,
+      "patients_2022": 1015233
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Donepezil"
+      }
+    ]
+  },
+  "Dorzolamide": {
+    "name": "Dorzolamide",
+    "clincalc": {
+      "name": "Dorzolamide",
+      "rank": 201,
+      "prescriptions_2022": 2039520,
+      "patients_2022": 501702
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dorzolamide"
+      }
+    ]
+  },
+  "Dorzolamide; Timolol": {
+    "name": "Dorzolamide; Timolol",
+    "clincalc": {
+      "name": "Dorzolamide; Timolol",
+      "rank": 225,
+      "prescriptions_2022": 1606746,
+      "patients_2022": 403173
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dorzolamide/timolol"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dorzolamide"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Timolol"
+      }
+    ]
+  },
+  "Dosulepin": {
+    "name": "Dosulepin",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dosulepin"
+      }
+    ]
+  },
+  "Doxazosin": {
+    "name": "Doxazosin",
+    "clincalc": {
+      "name": "Doxazosin",
+      "rank": 180,
+      "prescriptions_2022": 2644458,
+      "patients_2022": 659808
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Doxazosin"
+      }
+    ]
+  },
+  "Doxepin": {
+    "name": "Doxepin",
+    "clincalc": {
+      "name": "Doxepin",
+      "rank": 218,
+      "prescriptions_2022": 1729965,
+      "patients_2022": 435375
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Doxepin"
+      }
+    ]
+  },
+  "Doxycycline": {
+    "name": "Doxycycline",
+    "clincalc": {
+      "name": "Doxycycline",
+      "rank": 68,
+      "prescriptions_2022": 9833973,
+      "patients_2022": 5787510
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Doxycycline"
+      }
+    ]
+  },
+  "Drospirenone; Ethinyl Estradiol": {
+    "name": "Drospirenone; Ethinyl Estradiol",
+    "clincalc": {
+      "name": "Drospirenone; Ethinyl Estradiol",
+      "rank": 142,
+      "prescriptions_2022": 4033582,
+      "patients_2022": 972919
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ethinylestradiol/drospirenone"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Drospirenone"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ethinyl_Estradiol"
+      }
+    ]
+  },
+  "Drospirenone; Ethinyl Estradiol; Levomefolate": {
+    "name": "Drospirenone; Ethinyl Estradiol; Levomefolate",
+    "clincalc": {
+      "name": "Drospirenone; Ethinyl Estradiol; Levomefolate",
+      "rank": 285,
+      "prescriptions_2022": 550034,
+      "patients_2022": 118022
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Drospirenone/ethinylestradiol/levomefolic_acid"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Drospirenone"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ethinyl_Estradiol"
+      }
+    ]
+  },
+  "Dulaglutide": {
+    "name": "Dulaglutide",
+    "clincalc": {
+      "name": "Dulaglutide",
+      "rank": 74,
+      "prescriptions_2022": 8968874,
+      "patients_2022": 2001700
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dulaglutide"
+      }
+    ]
+  },
+  "Duloxetine": {
+    "name": "Duloxetine",
+    "clincalc": {
+      "name": "Duloxetine",
+      "rank": 31,
+      "prescriptions_2022": 18066468,
+      "patients_2022": 4042916
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Duloxetine"
+      }
+    ]
+  },
+  "Efavirenz": {
+    "name": "Efavirenz",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Efavirenz"
+      }
+    ]
+  },
+  "Empagliflozin": {
+    "name": "Empagliflozin",
+    "clincalc": {
+      "name": "Empagliflozin",
+      "rank": 56,
+      "prescriptions_2022": 12009951,
+      "patients_2022": 3063605
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Empagliflozin"
+      }
+    ]
+  },
+  "Empagliflozin; metformin": {
+    "name": "Empagliflozin; metformin",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Empagliflozin/metformin"
+      }
+    ]
+  },
+  "Emtricitabine": {
+    "name": "Emtricitabine",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Emtricitabine"
+      }
+    ]
+  },
+  "Enalapril": {
+    "name": "Enalapril",
+    "clincalc": {
+      "name": "Enalapril",
+      "rank": 141,
+      "prescriptions_2022": 4066367,
+      "patients_2022": 906186
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Enalapril"
+      }
+    ]
+  },
+  "Enoxaparin": {
+    "name": "Enoxaparin",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Enoxaparin"
+      }
+    ]
+  },
+  "Entacapone": {
+    "name": "Entacapone",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Entacapone"
+      }
+    ]
+  },
+  "Entecavir": {
+    "name": "Entecavir",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Entecavir"
+      }
+    ]
+  },
+  "Epinephrine": {
+    "name": "Epinephrine",
+    "clincalc": {
+      "name": "Epinephrine",
+      "rank": 240,
+      "prescriptions_2022": 1458094,
+      "patients_2022": 992912
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Epinephrine"
+      }
+    ]
+  },
+  "Eplerenone": {
+    "name": "Eplerenone",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Eplerenone"
+      }
+    ]
+  },
+  "Ergocalciferol": {
+    "name": "Ergocalciferol",
+    "alt-names": ["Vitamin D2"],
+    "clincalc": {
+      "name": "Ergocalciferol",
+      "rank": 38,
+      "prescriptions_2022": 15914322,
+      "patients_2022": 4987258
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ergocalciferol"
+      }
+    ]
+  },
+  "Ertapenem": {
+    "name": "Ertapenem",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ertapenem"
+      }
+    ]
+  },
+  "Erythromycin": {
+    "name": "Erythromycin",
+    "clincalc": {
+      "name": "Erythromycin",
+      "rank": 271,
+      "prescriptions_2022": 874051,
+      "patients_2022": 657189
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Erythromycin"
+      }
+    ]
+  },
+  "Escitalopram": {
+    "name": "Escitalopram",
+    "brand-names": ["Lexapro", "Cipralex"],
+    "clincalc": {
+      "name": "Escitalopram",
+      "rank": 15,
+      "prescriptions_2022": 30750612,
+      "patients_2022": 7493104
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Escitalopram"
+      }
+    ]
+  },
+  "Esomeprazole": {
+    "name": "Esomeprazole",
+    "clincalc": {
+      "name": "Esomeprazole",
+      "rank": 122,
+      "prescriptions_2022": 5207671,
+      "patients_2022": 1215844
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Esomeprazole"
+      }
+    ]
+  },
+  "Estradiol": {
+    "name": "Estradiol",
+    "clincalc": {
+      "name": "Estradiol",
+      "rank": 50,
+      "prescriptions_2022": 12622775,
+      "patients_2022": 3300902
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Estradiol"
+      }
+    ]
+  },
+  "Ethambutol": {
+    "name": "Ethambutol",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ethambutol"
+      }
+    ]
+  },
+  "Ethinyl Estradiol; Ethynodiol": {
+    "name": "Ethinyl Estradiol; Ethynodiol",
+    "brand-names": ["Demulen", "Kelnor", "Malmorede", "Zovia"],
+    "clincalc": {
+      "name": "Ethinyl Estradiol; Ethynodiol",
+      "rank": 294,
+      "prescriptions_2022": 466837,
+      "patients_2022": 102788
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ethinyl_Estradiol"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ethynodiol"
+      }
+    ]
+  },
+  "Ethinyl Estradiol; Etonogestrel": {
+    "name": "Ethinyl Estradiol; Etonogestrel",
+    "clincalc": {
+      "name": "Ethinyl Estradiol; Etonogestrel",
+      "rank": 194,
+      "prescriptions_2022": 2217838,
+      "patients_2022": 604521
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ethinylestradiol/etonogestrel"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ethinyl_Estradiol"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Etonogestrel"
+      }
+    ]
+  },
+  "Ethinyl Estradiol; Levonorgestrel": {
+    "name": "Ethinyl Estradiol; Levonorgestrel",
+    "clincalc": {
+      "name": "Ethinyl Estradiol; Levonorgestrel",
+      "rank": 128,
+      "prescriptions_2022": 4846343,
+      "patients_2022": 1327012
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ethinylestradiol/levonorgestrel"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ethinyl_Estradiol"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Levonorgestrel"
+      }
+    ]
+  },
+  "Ethinyl Estradiol; Norethindrone": {
+    "name": "Ethinyl Estradiol; Norethindrone",
+    "clincalc": {
+      "name": "Ethinyl Estradiol; Norethindrone",
+      "rank": 80,
+      "prescriptions_2022": 8582372,
+      "patients_2022": 2406285
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ethinylestradiol/norethisterone_acetate"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ethinyl_Estradiol"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Norethindrone"
+      }
+    ]
+  },
+  "Ethinyl Estradiol; Norgestimate": {
+    "name": "Ethinyl Estradiol; Norgestimate",
+    "clincalc": {
+      "name": "Ethinyl Estradiol; Norgestimate",
+      "rank": 99,
+      "prescriptions_2022": 6339863,
+      "patients_2022": 1867085
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ethinyl_Estradiol"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Norgestimate"
+      }
+    ]
+  },
+  "Ethinyl Estradiol; Norgestrel": {
+    "name": "Ethinyl Estradiol; Norgestrel",
+    "clincalc": {
+      "name": "Ethinyl Estradiol; Norgestrel",
+      "rank": 264,
+      "prescriptions_2022": 1049661,
+      "patients_2022": 217769
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ethinyl_Estradiol"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Norgestrel"
+      }
+    ]
+  },
+  "Ethosuximide": {
+    "name": "Ethosuximide",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ethosuximide"
+      }
+    ]
+  },
+  "Exemestane": {
+    "name": "Exemestane",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Exemestane"
+      }
+    ]
+  },
+  "Ezetimibe": {
+    "name": "Ezetimibe",
+    "clincalc": {
+      "name": "Ezetimibe",
+      "rank": 79,
+      "prescriptions_2022": 8656499,
+      "patients_2022": 2228797
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ezetimibe"
+      }
+    ]
+  },
+  "Ezetimibe; simvastatin": {
+    "name": "Ezetimibe; simvastatin",
+    "brand-names": ["Inegy", "Vytorin"],
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ezetimibe/simvastatin"
+      }
+    ]
+  },
+  "Famotidine": {
+    "name": "Famotidine",
+    "clincalc": {
+      "name": "Famotidine",
+      "rank": 49,
+      "prescriptions_2022": 13156330,
+      "patients_2022": 4182077
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Famotidine"
+      }
+    ]
+  },
+  "Felodipine": {
+    "name": "Felodipine",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Felodipine"
+      }
+    ]
+  },
+  "Fenofibrate": {
+    "name": "Fenofibrate",
+    "clincalc": {
+      "name": "Fenofibrate",
+      "rank": 88,
+      "prescriptions_2022": 7816415,
+      "patients_2022": 1955538
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fenofibrate"
+      }
+    ]
+  },
+  "Fentanyl": {
+    "name": "Fentanyl",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fentanyl"
+      }
+    ]
+  },
+  "Ferrous Sulfate": {
+    "name": "Ferrous Sulfate",
+    "clincalc": {
+      "name": "Ferrous Sulfate",
+      "rank": 107,
+      "prescriptions_2022": 6042033,
+      "patients_2022": 2327497
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ferrous_Sulfate"
+      }
+    ]
+  },
+  "Fexofenadine": {
+    "name": "Fexofenadine",
+    "clincalc": {
+      "name": "Fexofenadine",
+      "rank": 257,
+      "prescriptions_2022": 1095265,
+      "patients_2022": 517008
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fexofenadine"
+      }
+    ]
+  },
+  "Filgrastim": {
+    "name": "Filgrastim",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Filgrastim"
+      }
+    ]
+  },
+  "Finasteride": {
+    "name": "Finasteride",
+    "clincalc": {
+      "name": "Finasteride",
+      "rank": 73,
+      "prescriptions_2022": 9203008,
+      "patients_2022": 2626865
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Finasteride"
+      }
+    ]
+  },
+  "Flecainide": {
+    "name": "Flecainide",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Flecainide"
+      }
+    ]
+  },
+  "Flucloxacillin": {
+    "name": "Flucloxacillin",
+    "alt-names": ["floxacillin"],
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Flucloxacillin"
+      }
+    ]
+  },
+  "Fluconazole": {
+    "name": "Fluconazole",
+    "clincalc": {
+      "name": "Fluconazole",
+      "rank": 160,
+      "prescriptions_2022": 3398872,
+      "patients_2022": 2006839
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fluconazole"
+      }
+    ]
+  },
+  "Fludrocortisone": {
+    "name": "Fludrocortisone",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fludrocortisone"
+      }
+    ]
+  },
+  "Fluocinonide": {
+    "name": "Fluocinonide",
+    "clincalc": {
+      "name": "Fluocinonide",
+      "rank": 266,
+      "prescriptions_2022": 1018705,
+      "patients_2022": 512275
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fluocinonide"
+      }
+    ]
+  },
+  "Fluorouracil": {
+    "name": "Fluorouracil",
+    "clincalc": {
+      "name": "Fluorouracil",
+      "rank": 270,
+      "prescriptions_2022": 924015,
+      "patients_2022": 716895
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fluorouracil"
+      }
+    ]
+  },
+  "Fluoxetine": {
+    "name": "Fluoxetine",
+    "clincalc": {
+      "name": "Fluoxetine",
+      "rank": 22,
+      "prescriptions_2022": 24014263,
+      "patients_2022": 5174534
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fluoxetine"
+      }
+    ]
+  },
+  "Flutamide": {
+    "name": "Flutamide",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Flutamide"
+      }
+    ]
+  },
+  "Fluticasone": {
+    "name": "Fluticasone",
+    "clincalc": {
+      "name": "Fluticasone",
+      "rank": 25,
+      "prescriptions_2022": 22557458,
+      "patients_2022": 7453010
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fluticasone"
+      }
+    ]
+  },
+  "Fluticasone; Salmeterol": {
+    "name": "Fluticasone; Salmeterol",
+    "clincalc": {
+      "name": "Fluticasone; Salmeterol",
+      "rank": 59,
+      "prescriptions_2022": 11570693,
+      "patients_2022": 3163220
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Salmeterol"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fluticasone"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Salmeterol"
+      }
+    ]
+  },
+  "Fluticasone; Umeclidinium; Vilanterol": {
+    "name": "Fluticasone; Umeclidinium; Vilanterol",
+    "clincalc": {
+      "name": "Fluticasone; Umeclidinium; Vilanterol",
+      "rank": 144,
+      "prescriptions_2022": 3919607,
+      "patients_2022": 827181
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Vilanterol"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fluticasone"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Umeclidinium"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Vilanterol"
+      }
+    ]
+  },
+  "Fluticasone; Vilanterol": {
+    "name": "Fluticasone; Vilanterol",
+    "clincalc": {
+      "name": "Fluticasone; Vilanterol",
+      "rank": 145,
+      "prescriptions_2022": 3879209,
+      "patients_2022": 945692
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Vilanterol"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fluticasone"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Vilanterol"
+      }
+    ]
+  },
+  "Folic Acid": {
+    "name": "Folic Acid",
+    "clincalc": {
+      "name": "Folic Acid",
+      "rank": 65,
+      "prescriptions_2022": 10185562,
+      "patients_2022": 2602156
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Folic_Acid"
+      }
+    ]
+  },
+  "Formoterol": {
+    "name": "Formoterol",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Formoterol"
+      }
+    ]
+  },
+  "Furosemide": {
+    "name": "Furosemide",
+    "clincalc": {
+      "name": "Furosemide",
+      "rank": 24,
+      "prescriptions_2022": 23067424,
+      "patients_2022": 5845466
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Furosemide"
+      }
+    ]
+  },
+  "Fusidic acid": {
+    "name": "Fusidic acid",
+    "alt-names": ["Fusidic acid", "Fusidate sodium", "Sodium Fusidate"],
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fusidic_acid"
+      }
+    ]
+  },
+  "Gabapentin": {
+    "name": "Gabapentin",
+    "clincalc": {
+      "name": "Gabapentin",
+      "rank": 10,
+      "prescriptions_2022": 40141486,
+      "patients_2022": 9889546
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gabapentin"
+      }
+    ]
+  },
+  "Galantamine": {
+    "name": "Galantamine",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Galantamine"
+      }
+    ]
+  },
+  "Ganciclovir (injection)": {
+    "name": "Ganciclovir (injection)",
+    "links": []
+  },
+  "Gemfibrozil": {
+    "name": "Gemfibrozil",
+    "clincalc": {
+      "name": "Gemfibrozil",
+      "rank": 231,
+      "prescriptions_2022": 1543770,
+      "patients_2022": 469675
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gemfibrozil"
+      }
+    ]
+  },
+  "Gentamicin": {
+    "name": "Gentamicin",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gentamicin"
+      }
+    ]
+  },
+  "Glecaprevir; pibrentasvir": {
+    "name": "Glecaprevir; pibrentasvir",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Glecaprevir/pibrentasvir"
+      }
+    ]
+  },
+  "Glibenclamide": {
+    "name": "Glibenclamide",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Glibenclamide"
+      }
+    ]
+  },
+  "Gliclazide": {
+    "name": "Gliclazide",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gliclazide"
+      }
+    ]
+  },
+  "Glimepiride": {
+    "name": "Glimepiride",
+    "clincalc": {
+      "name": "Glimepiride",
+      "rank": 64,
+      "prescriptions_2022": 10407351,
+      "patients_2022": 2285854
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Glimepiride"
+      }
+    ]
+  },
+  "Glipizide": {
+    "name": "Glipizide",
+    "clincalc": {
+      "name": "Glipizide",
+      "rank": 42,
+      "prescriptions_2022": 14521604,
+      "patients_2022": 3697042
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Glipizide"
+      }
+    ]
+  },
+  "Goserelin": {
+    "name": "Goserelin",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Goserelin"
+      }
+    ]
+  },
+  "Guaifenesin": {
+    "name": "Guaifenesin",
+    "clincalc": {
+      "name": "Guaifenesin",
+      "rank": 295,
+      "prescriptions_2022": 450288,
+      "patients_2022": 223383
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Guaifenesin"
+      }
+    ]
+  },
+  "Guanfacine": {
+    "name": "Guanfacine",
+    "clincalc": {
+      "name": "Guanfacine",
+      "rank": 275,
+      "prescriptions_2022": 828447,
+      "patients_2022": 147207
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Guanfacine"
+      }
+    ]
+  },
+  "Haloperidol": {
+    "name": "Haloperidol",
+    "brand-names": ["Haldol"],
+    "forms": ["injection", "liquid", "tablet"],
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Haloperidol"
+      }
+    ]
+  },
+  "Hydralazine": {
+    "name": "Hydralazine",
+    "clincalc": {
+      "name": "Hydralazine",
+      "rank": 121,
+      "prescriptions_2022": 5298188,
+      "patients_2022": 1544740
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hydralazine"
+      }
+    ]
+  },
+  "Hydrochlorothiazide": {
+    "name": "Hydrochlorothiazide",
+    "clincalc": {
+      "name": "Hydrochlorothiazide",
+      "rank": 12,
+      "prescriptions_2022": 38153288,
+      "patients_2022": 9758721
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hydrochlorothiazide"
+      }
+    ]
+  },
+  "Hydrochlorothiazide; Lisinopril": {
+    "name": "Hydrochlorothiazide; Lisinopril",
+    "clincalc": {
+      "name": "Hydrochlorothiazide; Lisinopril",
+      "rank": 53,
+      "prescriptions_2022": 12335355,
+      "patients_2022": 2917147
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lisinopril/hydrochlorothiazide"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hydrochlorothiazide"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lisinopril"
+      }
+    ]
+  },
+  "Hydrochlorothiazide; Losartan": {
+    "name": "Hydrochlorothiazide; Losartan",
+    "clincalc": {
+      "name": "Hydrochlorothiazide; Losartan",
+      "rank": 75,
+      "prescriptions_2022": 8825878,
+      "patients_2022": 2442356
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Losartan/hydrochlorothiazide"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hydrochlorothiazide"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Losartan"
+      }
+    ]
+  },
+  "Hydrochlorothiazide; Olmesartan": {
+    "name": "Hydrochlorothiazide; Olmesartan",
+    "clincalc": {
+      "name": "Hydrochlorothiazide; Olmesartan",
+      "rank": 235,
+      "prescriptions_2022": 1512684,
+      "patients_2022": 448602
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Olmesartan/hydrochlorothiazide"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hydrochlorothiazide"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Olmesartan"
+      }
+    ]
+  },
+  "Hydrochlorothiazide; Triamterene": {
+    "name": "Hydrochlorothiazide; Triamterene",
+    "clincalc": {
+      "name": "Hydrochlorothiazide; Triamterene",
+      "rank": 116,
+      "prescriptions_2022": 5500903,
+      "patients_2022": 1489499
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hydrochlorothiazide/triamterene"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hydrochlorothiazide"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Triamterene"
+      }
+    ]
+  },
+  "Hydrocortisone": {
+    "name": "Hydrocortisone",
+    "clincalc": {
+      "name": "Hydrocortisone",
+      "rank": 202,
+      "prescriptions_2022": 2010948,
+      "patients_2022": 1412526
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hydrocortisone"
+      }
+    ]
+  },
+  "Hydromorphone": {
+    "name": "Hydromorphone",
+    "clincalc": {
+      "name": "Hydromorphone",
+      "rank": 233,
+      "prescriptions_2022": 1531448,
+      "patients_2022": 500776
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hydromorphone"
+      }
+    ]
+  },
+  "Hydroquinone": {
+    "name": "Hydroquinone",
+    "clincalc": {
+      "name": "Hydroquinone",
+      "rank": 268,
+      "prescriptions_2022": 966577,
+      "patients_2022": 622158
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hydroquinone"
+      }
+    ]
+  },
+  "Hydroxychloroquine": {
+    "name": "Hydroxychloroquine",
+    "clincalc": {
+      "name": "Hydroxychloroquine",
+      "rank": 112,
+      "prescriptions_2022": 5566988,
+      "patients_2022": 1214358
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hydroxychloroquine"
+      }
+    ]
+  },
+  "Hydroxyzine": {
+    "name": "Hydroxyzine",
+    "clincalc": {
+      "name": "Hydroxyzine",
+      "rank": 46,
+      "prescriptions_2022": 13652751,
+      "patients_2022": 3675422
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hydroxyzine"
+      }
+    ]
+  },
+  "Hyoscine butylbromide": {
+    "name": "Hyoscine butylbromide",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hyoscine_butylbromide"
+      }
+    ]
+  },
+  "Ibuprofen": {
+    "name": "Ibuprofen",
+    "clincalc": {
+      "name": "Ibuprofen",
+      "rank": 33,
+      "prescriptions_2022": 17493911,
+      "patients_2022": 9340903
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ibuprofen"
+      }
+    ]
+  },
+  "Icosapent Ethyl": {
+    "name": "Icosapent Ethyl",
+    "clincalc": {
+      "name": "Icosapent Ethyl",
+      "rank": 229,
+      "prescriptions_2022": 1551621,
+      "patients_2022": 438450
+    },
+    "links": []
+  },
+  "Imipramine": {
+    "name": "Imipramine",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Imipramine"
+      }
+    ]
+  },
+  "Imiquimod": {
+    "name": "Imiquimod",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Imiquimod"
+      }
+    ]
+  },
+  "Indapamide": {
+    "name": "Indapamide",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Indapamide"
+      }
+    ]
+  },
+  "Indomethacin": {
+    "name": "Indomethacin",
+    "alt-names": ["Indometacin"],
+    "clincalc": {
+      "name": "Indomethacin",
+      "rank": 256,
+      "prescriptions_2022": 1097589,
+      "patients_2022": 410990
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Indomethacin"
+      }
+    ]
+  },
+  "Insulin Aspart": {
+    "name": "Insulin Aspart",
+    "clincalc": {
+      "name": "Insulin Aspart",
+      "rank": 76,
+      "prescriptions_2022": 8813259,
+      "patients_2022": 1733883
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Insulin_Aspart"
+      }
+    ]
+  },
+  "Insulin Degludec": {
+    "name": "Insulin Degludec",
+    "clincalc": {
+      "name": "Insulin Degludec",
+      "rank": 138,
+      "prescriptions_2022": 4306212,
+      "patients_2022": 903028
+    },
+    "links": []
+  },
+  "Insulin Detemir": {
+    "name": "Insulin Detemir",
+    "clincalc": {
+      "name": "Insulin Detemir",
+      "rank": 127,
+      "prescriptions_2022": 4867207,
+      "patients_2022": 905394
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Insulin_Detemir"
+      }
+    ]
+  },
+  "Insulin Glargine": {
+    "name": "Insulin Glargine",
+    "clincalc": {
+      "name": "Insulin Glargine",
+      "rank": 28,
+      "prescriptions_2022": 18983905,
+      "patients_2022": 3808867
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Insulin_glargine"
+      }
+    ]
+  },
+  "Insulin Glulisine": {
+    "name": "Insulin Glulisine",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Insulin_glulisine"
+      }
+    ]
+  },
+  "Insulin Human; Insulin Isophane Human": {
+    "name": "Insulin Human; Insulin Isophane Human",
+    "clincalc": {
+      "name": "Insulin Human; Insulin Isophane Human",
+      "rank": 192,
+      "prescriptions_2022": 2234041,
+      "patients_2022": 447324
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Insulin_Human"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Insulin_Human"
+      }
+    ]
+  },
+  "Insulin Lispro": {
+    "name": "Insulin Lispro",
+    "clincalc": {
+      "name": "Insulin Lispro",
+      "rank": 70,
+      "prescriptions_2022": 9647313,
+      "patients_2022": 2183803
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Insulin_Lispro"
+      }
+    ]
+  },
+  "Ipratropium": {
+    "name": "Ipratropium",
+    "clincalc": {
+      "name": "Ipratropium",
+      "rank": 219,
+      "prescriptions_2022": 1718729,
+      "patients_2022": 650607
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ipratropium"
+      }
+    ]
+  },
+  "Ipratropium; Salbutamol": {
+    "name": "Ipratropium; Salbutamol",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ipratropium_bromide/salbutamol"
+      }
+    ]
+  },
+  "Irbesartan": {
+    "name": "Irbesartan",
+    "clincalc": {
+      "name": "Irbesartan",
+      "rank": 200,
+      "prescriptions_2022": 2067518,
+      "patients_2022": 566827
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Irbesartan"
+      }
+    ]
+  },
+  "Isoniazid": {
+    "name": "Isoniazid",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Isoniazid"
+      }
+    ]
+  },
+  "Isoniazid; rifampicin": {
+    "name": "Isoniazid; rifampicin",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Isoniazid/rifampicin"
+      }
+    ]
+  },
+  "Isosorbide": {
+    "name": "Isosorbide",
+    "clincalc": {
+      "name": "Isosorbide",
+      "rank": 119,
+      "prescriptions_2022": 5429185,
+      "patients_2022": 1322047
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Isosorbide"
+      }
+    ]
+  },
+  "Isotretinoin": {
+    "name": "Isotretinoin",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Isotretinoin"
+      }
+    ]
+  },
+  "Itraconazole": {
+    "name": "Itraconazole",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Itraconazole"
+      }
+    ]
+  },
+  "Ivermectin": {
+    "name": "Ivermectin",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ivermectin"
+      }
+    ]
+  },
+  "Ketoconazole": {
+    "name": "Ketoconazole",
+    "clincalc": {
+      "name": "Ketoconazole",
+      "rank": 175,
+      "prescriptions_2022": 2955996,
+      "patients_2022": 1496073
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ketoconazole"
+      }
+    ]
+  },
+  "Ketoprofen": {
+    "name": "Ketoprofen",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ketoprofen"
+      }
+    ]
+  },
+  "Ketorolac": {
+    "name": "Ketorolac",
+    "clincalc": {
+      "name": "Ketorolac",
+      "rank": 223,
+      "prescriptions_2022": 1681241,
+      "patients_2022": 1072108
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ketorolac"
+      }
+    ]
+  },
+  "Ketotifen": {
+    "name": "Ketotifen",
+    "clincalc": {
+      "name": "Ketotifen",
+      "rank": 243,
+      "prescriptions_2022": 1390223,
+      "patients_2022": 596366
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ketotifen"
+      }
+    ]
+  },
+  "Labetalol": {
+    "name": "Labetalol",
+    "clincalc": {
+      "name": "Labetalol",
+      "rank": 215,
+      "prescriptions_2022": 1789474,
+      "patients_2022": 589247
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Labetalol"
+      }
+    ]
+  },
+  "Lacosamide": {
+    "name": "Lacosamide",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lacosamide"
+      }
+    ]
+  },
+  "Lactate": {
+    "name": "Lactate",
+    "clincalc": {
+      "name": "Lactate",
+      "rank": 287,
+      "prescriptions_2022": 527506,
+      "patients_2022": 347719
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lactate"
+      }
+    ]
+  },
+  "Lactulose": {
+    "name": "Lactulose",
+    "clincalc": {
+      "name": "Lactulose",
+      "rank": 267,
+      "prescriptions_2022": 983709,
+      "patients_2022": 333478
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lactulose"
+      }
+    ]
+  },
+  "Lamivudine": {
+    "name": "Lamivudine",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lamivudine"
+      }
+    ]
+  },
+  "Lamotrigine": {
+    "name": "Lamotrigine",
+    "clincalc": {
+      "name": "Lamotrigine",
+      "rank": 58,
+      "prescriptions_2022": 11704668,
+      "patients_2022": 1880284
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lamotrigine"
+      }
+    ]
+  },
+  "Lansoprazole": {
+    "name": "Lansoprazole",
+    "clincalc": {
+      "name": "Lansoprazole",
+      "rank": 224,
+      "prescriptions_2022": 1652249,
+      "patients_2022": 461555
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lansoprazole"
+      }
+    ]
+  },
+  "Latanoprost": {
+    "name": "Latanoprost",
+    "clincalc": {
+      "name": "Latanoprost",
+      "rank": 67,
+      "prescriptions_2022": 9971002,
+      "patients_2022": 2723057
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Latanoprost"
+      }
+    ]
+  },
+  "Leflunomide": {
+    "name": "Leflunomide",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Leflunomide"
+      }
+    ]
+  },
+  "Letrozole": {
+    "name": "Letrozole",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Letrozole"
+      }
+    ]
+  },
+  "Levetiracetam": {
+    "name": "Levetiracetam",
+    "clincalc": {
+      "name": "Levetiracetam",
+      "rank": 123,
+      "prescriptions_2022": 5202579,
+      "patients_2022": 1182326
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Levetiracetam"
+      }
+    ]
+  },
+  "Levocetirizine": {
+    "name": "Levocetirizine",
+    "clincalc": {
+      "name": "Levocetirizine",
+      "rank": 152,
+      "prescriptions_2022": 3646727,
+      "patients_2022": 973836
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Levocetirizine"
+      }
+    ]
+  },
+  "Levofloxacin": {
+    "name": "Levofloxacin",
+    "clincalc": {
+      "name": "Levofloxacin",
+      "rank": 251,
+      "prescriptions_2022": 1242308,
+      "patients_2022": 937974
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Levofloxacin"
+      }
+    ]
+  },
+  "Levomepromazine": {
+    "name": "Levomepromazine",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Levomepromazine"
+      }
+    ]
+  },
+  "Levonorgestrel": {
+    "name": "Levonorgestrel",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Levonorgestrel"
+      }
+    ]
+  },
+  "Levothyroxine": {
+    "name": "Levothyroxine",
+    "clincalc": {
+      "name": "Levothyroxine",
+      "rank": 4,
+      "prescriptions_2022": 82431914,
+      "patients_2022": 18130331
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Levothyroxine"
+      }
+    ]
+  },
+  "Lidocaine": {
+    "name": "Lidocaine",
+    "clincalc": {
+      "name": "Lidocaine",
+      "rank": 262,
+      "prescriptions_2022": 1072084,
+      "patients_2022": 467244
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lidocaine"
+      }
+    ]
+  },
+  "Linaclotide": {
+    "name": "Linaclotide",
+    "clincalc": {
+      "name": "Linaclotide",
+      "rank": 189,
+      "prescriptions_2022": 2378887,
+      "patients_2022": 534890
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Linaclotide"
+      }
+    ]
+  },
+  "Linezolid": {
+    "name": "Linezolid",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Linezolid"
+      }
+    ]
+  },
+  "Liothyronine": {
+    "name": "Liothyronine",
+    "clincalc": {
+      "name": "Liothyronine",
+      "rank": 204,
+      "prescriptions_2022": 1990788,
+      "patients_2022": 553774
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Liothyronine"
+      }
+    ]
+  },
+  "Liraglutide": {
+    "name": "Liraglutide",
+    "clincalc": {
+      "name": "Liraglutide",
+      "rank": 139,
+      "prescriptions_2022": 4271706,
+      "patients_2022": 789348
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Liraglutide"
+      }
+    ]
+  },
+  "Lisdexamfetamine": {
+    "name": "Lisdexamfetamine",
+    "clincalc": {
+      "name": "Lisdexamfetamine",
+      "rank": 69,
+      "prescriptions_2022": 9791955,
+      "patients_2022": 1529700
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lisdexamfetamine"
+      }
+    ]
+  },
+  "Lisinopril": {
+    "name": "Lisinopril",
+    "clincalc": {
+      "name": "Lisinopril",
+      "rank": 3,
+      "prescriptions_2022": 82513967,
+      "patients_2022": 20314304
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lisinopril"
+      }
+    ]
+  },
+  "Lithium": {
+    "name": "Lithium",
+    "clincalc": {
+      "name": "Lithium",
+      "rank": 212,
+      "prescriptions_2022": 1861584,
+      "patients_2022": 393262
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lithium"
+      }
+    ]
+  },
+  "Loperamide": {
+    "name": "Loperamide",
+    "clincalc": {
+      "name": "Loperamide",
+      "rank": 297,
+      "prescriptions_2022": 410958,
+      "patients_2022": 128701
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Loperamide"
+      }
+    ]
+  },
+  "Loratadine": {
+    "name": "Loratadine",
+    "brand-names": ["Claritin"],
+    "clincalc": {
+      "name": "Loratadine",
+      "rank": 72,
+      "prescriptions_2022": 9230347,
+      "patients_2022": 2593104
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Loratadine"
+      }
+    ]
+  },
+  "Loratadine; Pseudoephedrine": {
+    "name": "Loratadine; Pseudoephedrine",
+    "brand-names": ["Claritin-D"],
+    "clincalc": {
+      "name": "Loratadine; Pseudoephedrine",
+      "rank": 289,
+      "prescriptions_2022": 506936,
+      "patients_2022": 171920
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pseudoephedrine/loratadine"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Loratadine"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pseudoephedrine"
+      }
+    ]
+  },
+  "Lorazepam": {
+    "name": "Lorazepam",
+    "clincalc": {
+      "name": "Lorazepam",
+      "rank": 81,
+      "prescriptions_2022": 8502480,
+      "patients_2022": 2170621
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lorazepam"
+      }
+    ]
+  },
+  "Lormetazepam": {
+    "name": "Lormetazepam",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lormetazepam"
+      }
+    ]
+  },
+  "Losartan": {
+    "name": "Losartan",
+    "clincalc": {
+      "name": "Losartan",
+      "rank": 8,
+      "prescriptions_2022": 53555510,
+      "patients_2022": 13150031
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Losartan"
+      }
+    ]
+  },
+  "Lovastatin": {
+    "name": "Lovastatin",
+    "clincalc": {
+      "name": "Lovastatin",
+      "rank": 111,
+      "prescriptions_2022": 5745441,
+      "patients_2022": 1419808
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lovastatin"
+      }
+    ]
+  },
+  "Macrogol": {
+    "name": "Macrogol",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Macrogol"
+      }
+    ]
+  },
+  "Magnesium Salts": {
+    "name": "Magnesium Salts",
+    "clincalc": {
+      "name": "Magnesium Salts",
+      "rank": 207,
+      "prescriptions_2022": 1958089,
+      "patients_2022": 649137
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Magnesium_supplements"
+      }
+    ]
+  },
+  "Mebendazole": {
+    "name": "Mebendazole",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mebendazole"
+      }
+    ]
+  },
+  "Meclizine": {
+    "name": "Meclizine",
+    "alt-names": ["Meclozine"],
+    "clincalc": {
+      "name": "Meclizine",
+      "rank": 129,
+      "prescriptions_2022": 4776929,
+      "patients_2022": 1493854
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Meclizine"
+      }
+    ]
+  },
+  "Medroxyprogesterone": {
+    "name": "Medroxyprogesterone",
+    "clincalc": {
+      "name": "Medroxyprogesterone",
+      "rank": 276,
+      "prescriptions_2022": 810406,
+      "patients_2022": 540820
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Medroxyprogesterone"
+      }
+    ]
+  },
+  "Mefenamic acid": {
+    "name": "Mefenamic acid",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mefenamic_acid"
+      }
+    ]
+  },
+  "Mefloquine": {
+    "name": "Mefloquine",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mefloquine"
+      }
+    ]
+  },
+  "Megestrol": {
+    "name": "Megestrol",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Megestrol"
+      }
+    ]
+  },
+  "Melatonin": {
+    "name": "Melatonin",
+    "clincalc": {
+      "name": "Melatonin",
+      "rank": 217,
+      "prescriptions_2022": 1733014,
+      "patients_2022": 466647
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Melatonin"
+      }
+    ]
+  },
+  "Meloxicam": {
+    "name": "Meloxicam",
+    "clincalc": {
+      "name": "Meloxicam",
+      "rank": 29,
+      "prescriptions_2022": 18859721,
+      "patients_2022": 6284853
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Meloxicam"
+      }
+    ]
+  },
+  "Memantine": {
+    "name": "Memantine",
+    "clincalc": {
+      "name": "Memantine",
+      "rank": 150,
+      "prescriptions_2022": 3703293,
+      "patients_2022": 896917
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Memantine"
+      }
+    ]
+  },
+  "Meropenem": {
+    "name": "Meropenem",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Meropenem"
+      }
+    ]
+  },
+  "Mesalazine": {
+    "name": "Mesalazine",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mesalazine"
+      }
+    ]
+  },
+  "Metformin": {
+    "name": "Metformin",
+    "clincalc": {
+      "name": "Metformin",
+      "rank": 2,
+      "prescriptions_2022": 86747907,
+      "patients_2022": 19536027
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Metformin"
+      }
+    ]
+  },
+  "Metformin; Sitagliptin": {
+    "name": "Metformin; Sitagliptin",
+    "clincalc": {
+      "name": "Metformin; Sitagliptin",
+      "rank": 182,
+      "prescriptions_2022": 2611967,
+      "patients_2022": 597745
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sitagliptin/metformin"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Metformin"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sitagliptin"
+      }
+    ]
+  },
+  "Methadone": {
+    "name": "Methadone",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Methadone"
+      }
+    ]
+  },
+  "Methocarbamol": {
+    "name": "Methocarbamol",
+    "clincalc": {
+      "name": "Methocarbamol",
+      "rank": 126,
+      "prescriptions_2022": 5109104,
+      "patients_2022": 2345639
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Methocarbamol"
+      }
+    ]
+  },
+  "Methotrexate": {
+    "name": "Methotrexate",
+    "clincalc": {
+      "name": "Methotrexate",
+      "rank": 132,
+      "prescriptions_2022": 4565259,
+      "patients_2022": 1077459
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Methotrexate"
+      }
+    ]
+  },
+  "Methyldopa": {
+    "name": "Methyldopa",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Methyldopa"
+      }
+    ]
+  },
+  "Methylphenidate": {
+    "name": "Methylphenidate",
+    "clincalc": {
+      "name": "Methylphenidate",
+      "rank": 32,
+      "prescriptions_2022": 17705265,
+      "patients_2022": 2586485
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Methylphenidate"
+      }
+    ]
+  },
+  "Methylprednisolone": {
+    "name": "Methylprednisolone",
+    "clincalc": {
+      "name": "Methylprednisolone",
+      "rank": 153,
+      "prescriptions_2022": 3595226,
+      "patients_2022": 2813645
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Methylprednisolone"
+      }
+    ]
+  },
+  "Metoclopramide": {
+    "name": "Metoclopramide",
+    "clincalc": {
+      "name": "Metoclopramide",
+      "rank": 245,
+      "prescriptions_2022": 1344931,
+      "patients_2022": 585505
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Metoclopramide"
+      }
+    ]
+  },
+  "Metolazone": {
+    "name": "Metolazone",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Metolazone"
+      }
+    ]
+  },
+  "Metoprolol": {
+    "name": "Metoprolol",
+    "clincalc": {
+      "name": "Metoprolol",
+      "rank": 6,
+      "prescriptions_2022": 65245216,
+      "patients_2022": 15542999
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Metoprolol"
+      }
+    ]
+  },
+  "Metronidazole": {
+    "name": "Metronidazole",
+    "clincalc": {
+      "name": "Metronidazole",
+      "rank": 133,
+      "prescriptions_2022": 4493311,
+      "patients_2022": 2696460
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Metronidazole"
+      }
+    ]
+  },
+  "Mexiletine": {
+    "name": "Mexiletine",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mexiletine"
+      }
+    ]
+  },
+  "Midazolam": {
+    "name": "Midazolam",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Midazolam"
+      }
+    ]
+  },
+  "Midodrine": {
+    "name": "Midodrine",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Midodrine"
+      }
+    ]
+  },
+  "Minocycline": {
+    "name": "Minocycline",
+    "clincalc": {
+      "name": "Minocycline",
+      "rank": 269,
+      "prescriptions_2022": 942133,
+      "patients_2022": 334540
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Minocycline"
+      }
+    ]
+  },
+  "Mirabegron": {
+    "name": "Mirabegron",
+    "clincalc": {
+      "name": "Mirabegron",
+      "rank": 222,
+      "prescriptions_2022": 1698060,
+      "patients_2022": 513421
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mirabegron"
+      }
+    ]
+  },
+  "Mirtazapine": {
+    "name": "Mirtazapine",
+    "clincalc": {
+      "name": "Mirtazapine",
+      "rank": 105,
+      "prescriptions_2022": 6069480,
+      "patients_2022": 1310009
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mirtazapine"
+      }
+    ]
+  },
+  "Modafinil": {
+    "name": "Modafinil",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Modafinil"
+      }
+    ]
+  },
+  "Mometasone": {
+    "name": "Mometasone",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mometasone"
+      }
+    ]
+  },
+  "Montelukast": {
+    "name": "Montelukast",
+    "clincalc": {
+      "name": "Montelukast",
+      "rank": 17,
+      "prescriptions_2022": 29187952,
+      "patients_2022": 6825788
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Montelukast"
+      }
+    ]
+  },
+  "Morphine": {
+    "name": "Morphine",
+    "clincalc": {
+      "name": "Morphine",
+      "rank": 140,
+      "prescriptions_2022": 4101413,
+      "patients_2022": 799046
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Morphine"
+      }
+    ]
+  },
+  "Moxifloxacin": {
+    "name": "Moxifloxacin",
+    "clincalc": {
+      "name": "Moxifloxacin",
+      "rank": 273,
+      "prescriptions_2022": 836134,
+      "patients_2022": 603154
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Moxifloxacin"
+      }
+    ]
+  },
+  "Mupirocin": {
+    "name": "Mupirocin",
+    "clincalc": {
+      "name": "Mupirocin",
+      "rank": 162,
+      "prescriptions_2022": 3302563,
+      "patients_2022": 2396124
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mupirocin"
+      }
+    ]
+  },
+  "Mycophenolate Mofetil": {
+    "name": "Mycophenolate Mofetil",
+    "clincalc": {
+      "name": "Mycophenolate Mofetil",
+      "rank": 227,
+      "prescriptions_2022": 1578829,
+      "patients_2022": 278094
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mycophenolic_acid"
+      }
+    ]
+  },
+  "Nabumetone": {
+    "name": "Nabumetone",
+    "clincalc": {
+      "name": "Nabumetone",
+      "rank": 239,
+      "prescriptions_2022": 1463755,
+      "patients_2022": 306014
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nabumetone"
+      }
+    ]
+  },
+  "Nadolol": {
+    "name": "Nadolol",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nadolol"
+      }
+    ]
+  },
+  "Naltrexone": {
+    "name": "Naltrexone",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Naltrexone"
+      }
+    ]
+  },
+  "Naltrexone; bupropion": {
+    "name": "Naltrexone and bupropion",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Naltrexone/bupropion"
+      }
+    ]
+  },
+  "Naproxen": {
+    "name": "Naproxen",
+    "clincalc": {
+      "name": "Naproxen",
+      "rank": 89,
+      "prescriptions_2022": 7381940,
+      "patients_2022": 3270262
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Naproxen"
+      }
+    ]
+  },
+  "Nebivolol": {
+    "name": "Nebivolol",
+    "clincalc": {
+      "name": "Nebivolol",
+      "rank": 173,
+      "prescriptions_2022": 3006294,
+      "patients_2022": 724281
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nebivolol"
+      }
+    ]
+  },
+  "Nefopam": {
+    "name": "Nefopam",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nefopam"
+      }
+    ]
+  },
+  "Neomycin; Polymyxin B; Hydrocortisone": {
+    "name": "Neomycin; Polymyxin B; Hydrocortisone",
+    "clincalc": {
+      "name": "Neomycin; Polymyxin B; Hydrocortisone",
+      "rank": 296,
+      "prescriptions_2022": 418234,
+      "patients_2022": 364330
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Neomycin/polymyxin_B/hydrocortisone"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Neomycin"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Polymyxin_B"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hydrocortisone"
+      }
+    ]
+  },
+  "Nicorandil": {
+    "name": "Nicorandil",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nicorandil"
+      }
+    ]
+  },
+  "Nifedipine": {
+    "name": "Nifedipine",
+    "clincalc": {
+      "name": "Nifedipine",
+      "rank": 151,
+      "prescriptions_2022": 3681537,
+      "patients_2022": 1138199
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nifedipine"
+      }
+    ]
+  },
+  "Nimodipine": {
+    "name": "Nimodipine",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nimodipine"
+      }
+    ]
+  },
+  "Nirmatrelvir; Ritonavir": {
+    "name": "Nirmatrelvir; Ritonavir",
+    "clincalc": {
+      "name": "Nirmatrelvir; Ritonavir",
+      "rank": 164,
+      "prescriptions_2022": 3240848,
+      "patients_2022": 2965795
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ritonavir"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nirmatrelvir"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ritonavir"
+      }
+    ]
+  },
+  "Nitrofurantoin": {
+    "name": "Nitrofurantoin",
+    "clincalc": {
+      "name": "Nitrofurantoin",
+      "rank": 158,
+      "prescriptions_2022": 3448530,
+      "patients_2022": 2502989
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nitrofurantoin"
+      }
+    ]
+  },
+  "Nitroglycerin": {
+    "name": "Nitroglycerin",
+    "alt-names": ["glyceryl trinitrate", "GTN", "nitroglycerine"],
+    "clincalc": {
+      "name": "Nitroglycerin",
+      "rank": 196,
+      "prescriptions_2022": 2158295,
+      "patients_2022": 1227621
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nitroglycerin_(medication)"
+      }
+    ]
+  },
+  "Norethindrone": {
+    "name": "Norethindrone",
+    "clincalc": {
+      "name": "Norethindrone",
+      "rank": 135,
+      "prescriptions_2022": 4337336,
+      "patients_2022": 1420212
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Norethindrone"
+      }
+    ]
+  },
+  "Norethisterone": {
+    "name": "Norethisterone",
+    "alt-names": ["norethindrone"],
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Norethisterone"
+      }
+    ]
+  },
+  "Norfloxacin": {
+    "name": "Norfloxacin",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Norfloxacin"
+      }
+    ]
+  },
+  "Nortriptyline": {
+    "name": "Nortriptyline",
+    "clincalc": {
+      "name": "Nortriptyline",
+      "rank": 191,
+      "prescriptions_2022": 2256836,
+      "patients_2022": 647355
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nortriptyline"
+      }
+    ]
+  },
+  "Nystatin": {
+    "name": "Nystatin",
+    "clincalc": {
+      "name": "Nystatin",
+      "rank": 236,
+      "prescriptions_2022": 1511023,
+      "patients_2022": 945486
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nystatin"
+      }
+    ]
+  },
+  "Ofloxacin": {
+    "name": "Ofloxacin",
+    "clincalc": {
+      "name": "Ofloxacin",
+      "rank": 206,
+      "prescriptions_2022": 1963626,
+      "patients_2022": 1577360
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ofloxacin"
+      }
+    ]
+  },
+  "Olanzapine": {
+    "name": "Olanzapine",
+    "clincalc": {
+      "name": "Olanzapine",
+      "rank": 171,
+      "prescriptions_2022": 3028056,
+      "patients_2022": 443521
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Olanzapine"
+      }
+    ]
+  },
+  "Olmesartan": {
+    "name": "Olmesartan",
+    "clincalc": {
+      "name": "Olmesartan",
+      "rank": 97,
+      "prescriptions_2022": 6554547,
+      "patients_2022": 1703089
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Olmesartan"
+      }
+    ]
+  },
+  "Olopatadine": {
+    "name": "Olopatadine",
+    "clincalc": {
+      "name": "Olopatadine",
+      "rank": 250,
+      "prescriptions_2022": 1264678,
+      "patients_2022": 510555
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Olopatadine"
+      }
+    ]
+  },
+  "Olsalazine": {
+    "name": "Olsalazine",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Olsalazine"
+      }
+    ]
+  },
+  "Omega-3-acid Ethyl Esters": {
+    "name": "Omega-3-acid Ethyl Esters",
+    "clincalc": {
+      "name": "Omega-3-acid Ethyl Esters",
+      "rank": 220,
+      "prescriptions_2022": 1712400,
+      "patients_2022": 506241
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Omega-3-acid_Ethyl_Esters"
+      }
+    ]
+  },
+  "Omeprazole": {
+    "name": "Omeprazole",
+    "clincalc": {
+      "name": "Omeprazole",
+      "rank": 9,
+      "prescriptions_2022": 52132950,
+      "patients_2022": 13802111
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Omeprazole"
+      }
+    ]
+  },
+  "Ondansetron": {
+    "name": "Ondansetron",
+    "clincalc": {
+      "name": "Ondansetron",
+      "rank": 61,
+      "prescriptions_2022": 10880346,
+      "patients_2022": 5755033
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ondansetron"
+      }
+    ]
+  },
+  "Orlistat": {
+    "name": "Orlistat",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Orlistat"
+      }
+    ]
+  },
+  "Ornidazole": {
+    "name": "Ornidazole",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ornidazole"
+      }
+    ]
+  },
+  "Orphenadrine": {
+    "name": "Orphenadrine",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Orphenadrine"
+      }
+    ]
+  },
+  "Oseltamivir": {
+    "name": "Oseltamivir",
+    "clincalc": {
+      "name": "Oseltamivir",
+      "rank": 205,
+      "prescriptions_2022": 1965319,
+      "patients_2022": 1742833
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Oseltamivir"
+      }
+    ]
+  },
+  "Oxcarbazepine": {
+    "name": "Oxcarbazepine",
+    "clincalc": {
+      "name": "Oxcarbazepine",
+      "rank": 167,
+      "prescriptions_2022": 3138991,
+      "patients_2022": 623643
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Oxcarbazepine"
+      }
+    ]
+  },
+  "Oxybutynin": {
+    "name": "Oxybutynin",
+    "clincalc": {
+      "name": "Oxybutynin",
+      "rank": 110,
+      "prescriptions_2022": 5781797,
+      "patients_2022": 1749942
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Oxybutynin"
+      }
+    ]
+  },
+  "Oxycodone": {
+    "name": "Oxycodone",
+    "clincalc": {
+      "name": "Oxycodone",
+      "rank": 60,
+      "prescriptions_2022": 11314082,
+      "patients_2022": 4797946
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Oxycodone"
+      }
+    ]
+  },
+  "Pamidronate": {
+    "name": "Pamidronate",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pamidronate"
+      }
+    ]
+  },
+  "Pancreatin": {
+    "name": "Pancreatin",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pancreatin"
+      }
+    ]
+  },
+  "Pancrelipase": {
+    "name": "Pancrelipase",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pancrelipase"
+      }
+    ]
+  },
+  "Pancrelipase Amylase; Pancrelipase Lipase; Pancrelipase Protease": {
+    "name": "Pancrelipase Amylase; Pancrelipase Lipase; Pancrelipase Protease",
+    "clincalc": {
+      "name": "Pancrelipase Amylase; Pancrelipase Lipase; Pancrelipase Protease",
+      "rank": 253,
+      "prescriptions_2022": 1197188,
+      "patients_2022": 232124
+    },
+    "links": []
+  },
+  "Pantoprazole": {
+    "name": "Pantoprazole",
+    "clincalc": {
+      "name": "Pantoprazole",
+      "rank": 16,
+      "prescriptions_2022": 30670528,
+      "patients_2022": 7979792
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pantoprazole"
+      }
+    ]
+  },
+  "Paroxetine": {
+    "name": "Paroxetine",
+    "clincalc": {
+      "name": "Paroxetine",
+      "rank": 92,
+      "prescriptions_2022": 7127748,
+      "patients_2022": 1470173
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Paroxetine"
+      }
+    ]
+  },
+  "Penicillin V": {
+    "name": "Penicillin V",
+    "alt-names": ["Penicillin", "Phenoxymethylpenicillin"],
+    "clincalc": {
+      "name": "Penicillin V",
+      "rank": 259,
+      "prescriptions_2022": 1090353,
+      "patients_2022": 832213
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Penicillin_V"
+      }
+    ]
+  },
+  "Perindopril": {
+    "name": "Perindopril",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Perindopril"
+      }
+    ]
+  },
+  "Permethrin": {
+    "name": "Permethrin",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Permethrin"
+      }
+    ]
+  },
+  "Pethidine": {
+    "name": "Pethidine",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pethidine"
+      }
+    ]
+  },
+  "Phenobarbital": {
+    "name": "Phenobarbital",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Phenobarbital"
+      }
+    ]
+  },
+  "Phentermine": {
+    "name": "Phentermine",
+    "clincalc": {
+      "name": "Phentermine",
+      "rank": 149,
+      "prescriptions_2022": 3738423,
+      "patients_2022": 1030978
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Phentermine"
+      }
+    ]
+  },
+  "Phenytoin": {
+    "name": "Phenytoin",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Phenytoin"
+      }
+    ]
+  },
+  "Pimozide": {
+    "name": "Pimozide",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pimozide"
+      }
+    ]
+  },
+  "Pioglitazone": {
+    "name": "Pioglitazone",
+    "clincalc": {
+      "name": "Pioglitazone",
+      "rank": 120,
+      "prescriptions_2022": 5389600,
+      "patients_2022": 1162718
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pioglitazone"
+      }
+    ]
+  },
+  "Piperacillin; tazobactam": {
+    "name": "Piperacillin; tazobactam",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Piperacillin/tazobactam"
+      }
+    ]
+  },
+  "Pivmecillinam": {
+    "name": "Pivmecillinam",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pivmecillinam"
+      }
+    ]
+  },
+  "Pizotifen": {
+    "name": "Pizotifen",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pizotifen"
+      }
+    ]
+  },
+  "Polyethylene Glycol 3350": {
+    "name": "Polyethylene Glycol 3350",
+    "clincalc": {
+      "name": "Polyethylene Glycol 3350",
+      "rank": 209,
+      "prescriptions_2022": 1922665,
+      "patients_2022": 984333
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Polyethylene_Glycol_3350"
+      }
+    ]
+  },
+  "Polyethylene Glycol 3350 With Electrolytes": {
+    "name": "Polyethylene Glycol 3350 With Electrolytes",
+    "clincalc": {
+      "name": "Polyethylene Glycol 3350 With Electrolytes",
+      "rank": 282,
+      "prescriptions_2022": 628486,
+      "patients_2022": 521884
+    },
+    "links": []
+  },
+  "Polymyxin B; Trimethoprim": {
+    "name": "Polymyxin B; Trimethoprim",
+    "clincalc": {
+      "name": "Polymyxin B; Trimethoprim",
+      "rank": 252,
+      "prescriptions_2022": 1235661,
+      "patients_2022": 905769
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Trimethoprim/polymyxin"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Polymyxin_B"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Trimethoprim"
+      }
+    ]
+  },
+  "Posaconazole": {
+    "name": "Posaconazole",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Posaconazole"
+      }
+    ]
+  },
+  "Potassium Chloride": {
+    "name": "Potassium Chloride",
+    "clincalc": {
+      "name": "Potassium Chloride",
+      "rank": 35,
+      "prescriptions_2022": 16993841,
+      "patients_2022": 4513952
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Potassium_Chloride"
+      }
+    ]
+  },
+  "Pramipexole": {
+    "name": "Pramipexole",
+    "clincalc": {
+      "name": "Pramipexole",
+      "rank": 193,
+      "prescriptions_2022": 2224945,
+      "patients_2022": 654960
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pramipexole"
+      }
+    ]
+  },
+  "Pravastatin": {
+    "name": "Pravastatin",
+    "clincalc": {
+      "name": "Pravastatin",
+      "rank": 37,
+      "prescriptions_2022": 16317126,
+      "patients_2022": 3949800
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pravastatin"
+      }
+    ]
+  },
+  "Prazosin": {
+    "name": "Prazosin",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Prazosin"
+      }
+    ]
+  },
+  "Prednisolone": {
+    "name": "Prednisolone",
+    "clincalc": {
+      "name": "Prednisolone",
+      "rank": 136,
+      "prescriptions_2022": 4327569,
+      "patients_2022": 2421943
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Prednisolone"
+      }
+    ]
+  },
+  "Prednisone": {
+    "name": "Prednisone",
+    "clincalc": {
+      "name": "Prednisone",
+      "rank": 30,
+      "prescriptions_2022": 18201857,
+      "patients_2022": 8722579
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Prednisone"
+      }
+    ]
+  },
+  "Pregabalin": {
+    "name": "Pregabalin",
+    "clincalc": {
+      "name": "Pregabalin",
+      "rank": 91,
+      "prescriptions_2022": 7167540,
+      "patients_2022": 1601090
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pregabalin"
+      }
+    ]
+  },
+  "Primidone": {
+    "name": "Primidone",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Primidone"
+      }
+    ]
+  },
+  "Probenecid": {
+    "name": "Probenecid",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Probenecid"
+      }
+    ]
+  },
+  "Procyclidine": {
+    "name": "Procyclidine",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Procyclidine"
+      }
+    ]
+  },
+  "Progesterone": {
+    "name": "Progesterone",
+    "clincalc": {
+      "name": "Progesterone",
+      "rank": 125,
+      "prescriptions_2022": 5153382,
+      "patients_2022": 1095601
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Progesterone"
+      }
+    ]
+  },
+  "Promethazine": {
+    "name": "Promethazine",
+    "clincalc": {
+      "name": "Promethazine",
+      "rank": 198,
+      "prescriptions_2022": 2149358,
+      "patients_2022": 857334
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Promethazine"
+      }
+    ]
+  },
+  "Propranolol": {
+    "name": "Propranolol",
+    "clincalc": {
+      "name": "Propranolol",
+      "rank": 77,
+      "prescriptions_2022": 8810846,
+      "patients_2022": 2153812
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Propranolol"
+      }
+    ]
+  },
+  "Propylthiouracil": {
+    "name": "Propylthiouracil",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Propylthiouracil"
+      }
+    ]
+  },
+  "Pyrazinamide": {
+    "name": "Pyrazinamide",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pyrazinamide"
+      }
+    ]
+  },
+  "Pyridoxine": {
+    "name": "Pyridoxine",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pyridoxine"
+      }
+    ]
+  },
+  "Quetiapine": {
+    "name": "Quetiapine",
+    "clincalc": {
+      "name": "Quetiapine",
+      "rank": 82,
+      "prescriptions_2022": 8443014,
+      "patients_2022": 1585405
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Quetiapine"
+      }
+    ]
+  },
+  "Quinapril": {
+    "name": "Quinapril",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Quinapril"
+      }
+    ]
+  },
+  "Raltegravir": {
+    "name": "Raltegravir",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Raltegravir"
+      }
+    ]
+  },
+  "Ramipril": {
+    "name": "Ramipril",
+    "clincalc": {
+      "name": "Ramipril",
+      "rank": 187,
+      "prescriptions_2022": 2404446,
+      "patients_2022": 558392
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ramipril"
+      }
+    ]
+  },
+  "Ranolazine": {
+    "name": "Ranolazine",
+    "clincalc": {
+      "name": "Ranolazine",
+      "rank": 232,
+      "prescriptions_2022": 1543317,
+      "patients_2022": 444873
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ranolazine"
+      }
+    ]
+  },
+  "Rasagiline": {
+    "name": "Rasagiline",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Rasagiline"
+      }
+    ]
+  },
+  "Remdesivir": {
+    "name": "Remdesivir",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Remdesivir"
+      }
+    ]
+  },
+  "Ribavirin": {
+    "name": "Ribavirin",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ribavirin"
+      }
+    ]
+  },
+  "Rifabutin": {
+    "name": "Rifabutin",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Rifabutin"
+      }
+    ]
+  },
+  "Rifampicin": {
+    "name": "Rifampicin",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Rifampicin"
+      }
+    ]
+  },
+  "Risedronate": {
+    "name": "Risedronate",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Risedronate"
+      }
+    ]
+  },
+  "Risperidone": {
+    "name": "Risperidone",
+    "clincalc": {
+      "name": "Risperidone",
+      "rank": 183,
+      "prescriptions_2022": 2609294,
+      "patients_2022": 536202
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Risperidone"
+      }
+    ]
+  },
+  "Ritonavir": {
+    "name": "Ritonavir",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ritonavir"
+      }
+    ]
+  },
+  "Rituximab": {
+    "name": "Rituximab",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Rituximab"
+      }
+    ]
+  },
+  "Rivaroxaban": {
+    "name": "Rivaroxaban",
+    "clincalc": {
+      "name": "Rivaroxaban",
+      "rank": 90,
+      "prescriptions_2022": 7298837,
+      "patients_2022": 1913151
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Rivaroxaban"
+      }
+    ]
+  },
+  "Rivastigmine": {
+    "name": "Rivastigmine",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Rivastigmine"
+      }
+    ]
+  },
+  "Rizatriptan": {
+    "name": "Rizatriptan",
+    "clincalc": {
+      "name": "Rizatriptan",
+      "rank": 190,
+      "prescriptions_2022": 2297918,
+      "patients_2022": 588662
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Rizatriptan"
+      }
+    ]
+  },
+  "Ropinirole": {
+    "name": "Ropinirole",
+    "clincalc": {
+      "name": "Ropinirole",
+      "rank": 163,
+      "prescriptions_2022": 3241699,
+      "patients_2022": 781835
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ropinirole"
+      }
+    ]
+  },
+  "Rosuvastatin": {
+    "name": "Rosuvastatin",
+    "clincalc": {
+      "name": "Rosuvastatin",
+      "rank": 13,
+      "prescriptions_2022": 37095971,
+      "patients_2022": 9721324
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Rosuvastatin"
+      }
+    ]
+  },
+  "Roxithromycin": {
+    "name": "Roxithromycin",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Roxithromycin"
+      }
+    ]
+  },
+  "Sacubitril; Valsartan": {
+    "name": "Sacubitril; Valsartan",
+    "clincalc": {
+      "name": "Sacubitril; Valsartan",
+      "rank": 165,
+      "prescriptions_2022": 3183215,
+      "patients_2022": 727811
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sacubitril/valsartan"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sacubitril"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Valsartan"
+      }
+    ]
+  },
+  "Salbutamol": {
+    "name": "Salbutamol",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Salbutamol"
+      }
+    ]
+  },
+  "Salmeterol": {
+    "name": "Salmeterol",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Salmeterol"
+      }
+    ]
+  },
+  "Saxagliptin": {
+    "name": "Saxagliptin",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Saxagliptin"
+      }
+    ]
+  },
+  "Selegiline": {
+    "name": "Selegiline",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Selegiline"
+      }
+    ]
+  },
+  "Semaglutide": {
+    "name": "Semaglutide",
+    "clincalc": {
+      "name": "Semaglutide",
+      "rank": 48,
+      "prescriptions_2022": 13523981,
+      "patients_2022": 3281179
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Semaglutide"
+      }
+    ]
+  },
+  "Senna; Docusate": {
+    "name": "Senna; Docusate",
+    "clincalc": {
+      "name": "Senna; Docusate",
+      "rank": 261,
+      "prescriptions_2022": 1085886,
+      "patients_2022": 541654
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Senna"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Docusate"
+      }
+    ]
+  },
+  "Sennosides": {
+    "name": "Sennosides",
+    "clincalc": {
+      "name": "Sennosides",
+      "rank": 280,
+      "prescriptions_2022": 666134,
+      "patients_2022": 224312
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sennosides"
+      }
+    ]
+  },
+  "Sertraline": {
+    "name": "Sertraline",
+    "clincalc": {
+      "name": "Sertraline",
+      "rank": 11,
+      "prescriptions_2022": 39891990,
+      "patients_2022": 8422729
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sertraline"
+      }
+    ]
+  },
+  "Sildenafil": {
+    "name": "Sildenafil",
+    "clincalc": {
+      "name": "Sildenafil",
+      "rank": 157,
+      "prescriptions_2022": 3459590,
+      "patients_2022": 1127720
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sildenafil"
+      }
+    ]
+  },
+  "Silver Sulfadiazine": {
+    "name": "Silver Sulfadiazine",
+    "clincalc": {
+      "name": "Silver Sulfadiazine",
+      "rank": 279,
+      "prescriptions_2022": 730442,
+      "patients_2022": 421315
+    },
+    "links": []
+  },
+  "Simvastatin": {
+    "name": "Simvastatin",
+    "clincalc": {
+      "name": "Simvastatin",
+      "rank": 19,
+      "prescriptions_2022": 26459069,
+      "patients_2022": 6986630
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Simvastatin"
+      }
+    ]
+  },
+  "Sirolimus": {
+    "name": "Sirolimus",
+    "alt-names": ["Rapamycin"],
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sirolimus"
+      }
+    ]
+  },
+  "Sitagliptin": {
+    "name": "Sitagliptin",
+    "clincalc": {
+      "name": "Sitagliptin",
+      "rank": 86,
+      "prescriptions_2022": 7947929,
+      "patients_2022": 1739317
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sitagliptin"
+      }
+    ]
+  },
+  "Sodium Fluoride": {
+    "name": "Sodium Fluoride",
+    "clincalc": {
+      "name": "Sodium Fluoride",
+      "rank": 221,
+      "prescriptions_2022": 1706755,
+      "patients_2022": 770752
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sodium_Fluoride"
+      }
+    ]
+  },
+  "Sodium Salts": {
+    "name": "Sodium Salts",
+    "clincalc": {
+      "name": "Sodium Salts",
+      "rank": 216,
+      "prescriptions_2022": 1776480,
+      "patients_2022": 595810
+    },
+    "links": []
+  },
+  "Solifenacin": {
+    "name": "Solifenacin",
+    "clincalc": {
+      "name": "Solifenacin",
+      "rank": 210,
+      "prescriptions_2022": 1902096,
+      "patients_2022": 476646
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Solifenacin"
+      }
+    ]
+  },
+  "Sotalol": {
+    "name": "Sotalol",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sotalol"
+      }
+    ]
+  },
+  "Spironolactone": {
+    "name": "Spironolactone",
+    "clincalc": {
+      "name": "Spironolactone",
+      "rank": 52,
+      "prescriptions_2022": 12450600,
+      "patients_2022": 3229839
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Spironolactone"
+      }
+    ]
+  },
+  "Sucralfate": {
+    "name": "Sucralfate",
+    "clincalc": {
+      "name": "Sucralfate",
+      "rank": 214,
+      "prescriptions_2022": 1809436,
+      "patients_2022": 693203
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sucralfate"
+      }
+    ]
+  },
+  "Sulfacetamide; Sulfur": {
+    "name": "Sulfacetamide; Sulfur",
+    "clincalc": {
+      "name": "Sulfacetamide; Sulfur",
+      "rank": 300,
+      "prescriptions_2022": 377314,
+      "patients_2022": 144486
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sulfacetamide/sulfur"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sulfacetamide"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sulfur"
+      }
+    ]
+  },
+  "Sulfamethoxazole; Trimethoprim": {
+    "name": "Sulfamethoxazole; Trimethoprim",
+    "clincalc": {
+      "name": "Sulfamethoxazole; Trimethoprim",
+      "rank": 143,
+      "prescriptions_2022": 3932844,
+      "patients_2022": 2772821
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Trimethoprim/sulfamethoxazole"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sulfamethoxazole"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Trimethoprim"
+      }
+    ]
+  },
+  "Sulfasalazine": {
+    "name": "Sulfasalazine",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sulfasalazine"
+      }
+    ]
+  },
+  "Sumatriptan": {
+    "name": "Sumatriptan",
+    "clincalc": {
+      "name": "Sumatriptan",
+      "rank": 95,
+      "prescriptions_2022": 6899199,
+      "patients_2022": 2105101
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sumatriptan"
+      }
+    ]
+  },
+  "Tadalafil": {
+    "name": "Tadalafil",
+    "clincalc": {
+      "name": "Tadalafil",
+      "rank": 172,
+      "prescriptions_2022": 3024680,
+      "patients_2022": 709112
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tadalafil"
+      }
+    ]
+  },
+  "Tamoxifen": {
+    "name": "Tamoxifen",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tamoxifen"
+      }
+    ]
+  },
+  "Tamsulosin": {
+    "name": "Tamsulosin",
+    "clincalc": {
+      "name": "Tamsulosin",
+      "rank": 20,
+      "prescriptions_2022": 25306357,
+      "patients_2022": 6758617
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tamsulosin"
+      }
+    ]
+  },
+  "Tecovirimat": {
+    "name": "Tecovirimat",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tecovirimat"
+      }
+    ]
+  },
+  "Teicoplanin": {
+    "name": "Teicoplanin",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Teicoplanin"
+      }
+    ]
+  },
+  "Telmisartan": {
+    "name": "Telmisartan",
+    "clincalc": {
+      "name": "Telmisartan",
+      "rank": 228,
+      "prescriptions_2022": 1577534,
+      "patients_2022": 406238
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Telmisartan"
+      }
+    ]
+  },
+  "Temazepam": {
+    "name": "Temazepam",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Temazepam"
+      }
+    ]
+  },
+  "Tenofovir": {
+    "name": "Tenofovir",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tenofovir"
+      }
+    ]
+  },
+  "Tenoxicam": {
+    "name": "Tenoxicam",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tenoxicam"
+      }
+    ]
+  },
+  "Terazosin": {
+    "name": "Terazosin",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Terazosin"
+      }
+    ]
+  },
+  "Terbinafine": {
+    "name": "Terbinafine",
+    "clincalc": {
+      "name": "Terbinafine",
+      "rank": 255,
+      "prescriptions_2022": 1120530,
+      "patients_2022": 692169
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Terbinafine"
+      }
+    ]
+  },
+  "Terbutaline": {
+    "name": "Terbutaline",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Terbutaline"
+      }
+    ]
+  },
+  "Testosterone": {
+    "name": "Testosterone",
+    "clincalc": {
+      "name": "Testosterone",
+      "rank": 118,
+      "prescriptions_2022": 5432642,
+      "patients_2022": 1394497
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Testosterone"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Testosterone_(patch)"
+      }
+    ]
+  },
+  "Tetracycline": {
+    "name": "Tetracycline",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tetracycline"
+      }
+    ]
+  },
+  "Theophylline": {
+    "name": "Theophylline",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Theophylline"
+      }
+    ]
+  },
+  "Thiamine": {
+    "name": "Thiamine",
+    "clincalc": {
+      "name": "Thiamine",
+      "rank": 288,
+      "prescriptions_2022": 511319,
+      "patients_2022": 138521
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Thiamine"
+      }
+    ]
+  },
+  "Thyroid": {
+    "name": "Thyroid",
+    "clincalc": {
+      "name": "Thyroid",
+      "rank": 137,
+      "prescriptions_2022": 4312524,
+      "patients_2022": 823819
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Thyroid"
+      }
+    ]
+  },
+  "Ticagrelor": {
+    "name": "Ticagrelor",
+    "clincalc": {
+      "name": "Ticagrelor",
+      "rank": 203,
+      "prescriptions_2022": 2002395,
+      "patients_2022": 494570
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ticagrelor"
+      }
+    ]
+  },
+  "Timolol": {
+    "name": "Timolol",
+    "clincalc": {
+      "name": "Timolol",
+      "rank": 155,
+      "prescriptions_2022": 3536135,
+      "patients_2022": 860252
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Timolol"
+      }
+    ]
+  },
+  "Tinzaparin": {
+    "name": "Tinzaparin",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tinzaparin"
+      }
+    ]
+  },
+  "Tiotropium": {
+    "name": "Tiotropium",
+    "clincalc": {
+      "name": "Tiotropium",
+      "rank": 154,
+      "prescriptions_2022": 3585223,
+      "patients_2022": 916849
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tiotropium"
+      }
+    ]
+  },
+  "Tizanidine": {
+    "name": "Tizanidine",
+    "clincalc": {
+      "name": "Tizanidine",
+      "rank": 94,
+      "prescriptions_2022": 6971104,
+      "patients_2022": 2286583
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tizanidine"
+      }
+    ]
+  },
+  "Tobramycin": {
+    "name": "Tobramycin",
+    "clincalc": {
+      "name": "Tobramycin",
+      "rank": 281,
+      "prescriptions_2022": 633043,
+      "patients_2022": 424914
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tobramycin"
+      }
+    ]
+  },
+  "Tolcapone": {
+    "name": "Tolcapone",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tolcapone"
+      }
+    ]
+  },
+  "Topiramate": {
+    "name": "Topiramate",
+    "clincalc": {
+      "name": "Topiramate",
+      "rank": 84,
+      "prescriptions_2022": 8210654,
+      "patients_2022": 1983577
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Topiramate"
+      }
+    ]
+  },
+  "Torsemide": {
+    "name": "Torsemide",
+    "clincalc": {
+      "name": "Torsemide",
+      "rank": 184,
+      "prescriptions_2022": 2524293,
+      "patients_2022": 631189
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Torsemide"
+      }
+    ]
+  },
+  "Tramadol": {
+    "name": "Tramadol",
+    "clincalc": {
+      "name": "Tramadol",
+      "rank": 55,
+      "prescriptions_2022": 12203197,
+      "patients_2022": 4050454
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tramadol"
+      }
+    ]
+  },
+  "Tranexamic acid": {
+    "name": "Tranexamic acid",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tranexamic_acid"
+      }
+    ]
+  },
+  "Tranylcypromine": {
+    "name": "Tranylcypromine",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tranylcypromine"
+      }
+    ]
+  },
+  "Trazodone": {
+    "name": "Trazodone",
+    "clincalc": {
+      "name": "Trazodone",
+      "rank": 18,
+      "prescriptions_2022": 27363318,
+      "patients_2022": 5759352
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Trazodone"
+      }
+    ]
+  },
+  "Tretinoin": {
+    "name": "Tretinoin",
+    "clincalc": {
+      "name": "Tretinoin",
+      "rank": 238,
+      "prescriptions_2022": 1495700,
+      "patients_2022": 921774
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tretinoin"
+      }
+    ]
+  },
+  "Triamcinolone": {
+    "name": "Triamcinolone",
+    "clincalc": {
+      "name": "Triamcinolone",
+      "rank": 102,
+      "prescriptions_2022": 6216924,
+      "patients_2022": 4171508
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Triamcinolone"
+      }
+    ]
+  },
+  "Trifluoperazine": {
+    "name": "Trifluoperazine",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Trifluoperazine"
+      }
+    ]
+  },
+  "Trimethoprim": {
+    "name": "Trimethoprim",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Trimethoprim"
+      }
+    ]
+  },
+  "Umeclidinium; Vilanterol": {
+    "name": "Umeclidinium; Vilanterol",
+    "clincalc": {
+      "name": "Umeclidinium; Vilanterol",
+      "rank": 211,
+      "prescriptions_2022": 1875873,
+      "patients_2022": 423184
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Vilanterol"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Umeclidinium"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Vilanterol"
+      }
+    ]
+  },
+  "Ursodeoxycholic acid": {
+    "name": "Ursodeoxycholic acid",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ursodeoxycholic_acid"
+      }
+    ]
+  },
+  "Ustekinumab": {
+    "name": "Ustekinumab",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ustekinumab"
+      }
+    ]
+  },
+  "Valacyclovir": {
+    "name": "Valacyclovir",
+    "alt-names": ["Valaciclovir"],
+    "clincalc": {
+      "name": "Valacyclovir",
+      "rank": 113,
+      "prescriptions_2022": 5529292,
+      "patients_2022": 2563195
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Valacyclovir"
+      }
+    ]
+  },
+  "Valganciclovir": {
+    "name": "Valganciclovir",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Valganciclovir"
+      }
+    ]
+  },
+  "Valproate": {
+    "name": "Valproate",
+    "alt-names": ["Valproate sodium", "Sodium Valproate"],
+    "clincalc": {
+      "name": "Valproate",
+      "rank": 174,
+      "prescriptions_2022": 2969360,
+      "patients_2022": 553891
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Valproate"
+      }
+    ]
+  },
+  "Valsartan": {
+    "name": "Valsartan",
+    "clincalc": {
+      "name": "Valsartan",
+      "rank": 117,
+      "prescriptions_2022": 5450866,
+      "patients_2022": 1714202
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Valsartan"
+      }
+    ]
+  },
+  "Vancomycin": {
+    "name": "Vancomycin",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Vancomycin"
+      }
+    ]
+  },
+  "Vardenafil": {
+    "name": "Vardenafil",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Vardenafil"
+      }
+    ]
+  },
+  "Varenicline": {
+    "name": "Varenicline",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Varenicline"
+      }
+    ]
+  },
+  "Venlafaxine": {
+    "name": "Venlafaxine",
+    "clincalc": {
+      "name": "Venlafaxine",
+      "rank": 44,
+      "prescriptions_2022": 13881022,
+      "patients_2022": 2844672
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Venlafaxine"
+      }
+    ]
+  },
+  "Verapamil": {
+    "name": "Verapamil",
+    "clincalc": {
+      "name": "Verapamil",
+      "rank": 188,
+      "prescriptions_2022": 2384033,
+      "patients_2022": 642398
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Verapamil"
+      }
+    ]
+  },
+  "Vigabatrin": {
+    "name": "Vigabatrin",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Vigabatrin"
+      }
+    ]
+  },
+  "Vildagliptin": {
+    "name": "Vildagliptin",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Vildagliptin"
+      }
+    ]
+  },
+  "Vildagliptin; metformin": {
+    "name": "Vildagliptin; metformin",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Vildagliptin/metformin"
+      }
+    ]
+  },
+  "Vitamin B complex": {
+    "name": "Vitamin B complex",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Vitamin_B_complex"
+      }
+    ]
+  },
+  "Vitamin E": {
+    "name": "Vitamin E",
+    "clincalc": {
+      "name": "Vitamin E",
+      "rank": 244,
+      "prescriptions_2022": 1345853,
+      "patients_2022": 420372
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Vitamin_E"
+      }
+    ]
+  },
+  "Voriconazole": {
+    "name": "Voriconazole",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Voriconazole"
+      }
+    ]
+  },
+  "Warfarin": {
+    "name": "Warfarin",
+    "clincalc": {
+      "name": "Warfarin",
+      "rank": 85,
+      "prescriptions_2022": 8135552,
+      "patients_2022": 1602377
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Warfarin"
+      }
+    ]
+  },
+  "Zoledronic acid": {
+    "name": "Zoledronic acid",
+    "alt-names": ["zoledronate"],
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Zoledronic_acid"
+      }
+    ]
+  },
+  "Zolpidem": {
+    "name": "Zolpidem",
+    "clincalc": {
+      "name": "Zolpidem",
+      "rank": 66,
+      "prescriptions_2022": 9972232,
+      "patients_2022": 1983061
+    },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Zolpidem"
+      }
+    ]
+  },
+  "Zopiclone": {
+    "name": "Zopiclone",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Zopiclone"
+      }
+    ]
+  },
+  "Zuclopenthixol": {
+    "name": "Zuclopenthixol",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Zuclopenthixol"
+      }
+    ]
+  }
+}
