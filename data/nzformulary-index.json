@@ -1,0 +1,3386 @@
+{
+  "medications": [
+    {
+      "medication": "Acarbose",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Acarbose?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Acarbose.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Acarbose?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Acetazolamide",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Acetazolamide?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Acetazolamide?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Aciclovir (injection)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Aciclovir-(injection)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Aciclovir-(injection)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Aciclovir (tablet)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Aciclovir-(tablet)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Aciclovir-(tablet)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Acitretin",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Acitretin?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Acitretin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Adapalene",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Adapalene?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Adapalene?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Alendronate (Healthify He Puna Waiora)",
+      "links": {
+        "English": "https://healthify.nz/assets/Brochures/factsheet-alendronate-english.pdf",
+        "Traditional Chinese": "https://healthify.nz/assets/Brochures/alendronate-traditional_chinese-factsheet.pdf"
+      }
+    },
+    {
+      "medication": "Alendronic acid",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Alendronic-acid?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Alendronic-acid?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Alendronic acid and Colecalciferol",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Alendronic-acid-and-colecalciferol?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Alendronic-acid-and-colecalciferol?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Alfacalcidol",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Alfacalcidol?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Alfacalcidol?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Allopurinol",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Allopurinol?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Allopurinol.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Allopurinol?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Allopurinol for gout (Healthify He Puna Waiora)",
+      "links": {
+        "English": "https://healthify.nz/assets/Brochures/Healthify-Resources/Allopurinol-for-gout-factsheet-English.pdf",
+        "Te Reo M\u0101ori": "https://healthify.nz/assets/Brochures/Healthify-Resources/Allopurinol-for-gout-factsheet-Maori-May-2024.pdf",
+        "Samoan": "https://healthify.nz/assets/Brochures/Healthify-Resources/Allopurinol-for-gout-factsheet-Samoan-May-2024.pdf",
+        "Tongan": "https://healthify.nz/assets/Brochures/Healthify-Resources/Allopurinol-for-gout-factsheet-Tongan-May-2024.pdf"
+      }
+    },
+    {
+      "medication": "Alprazolam",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Alprazolam?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Alprazolam?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Amantadine",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Amantadine?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Amantadine?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Amikacin",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Amikacin?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Amikacin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Amiloride and furosemide",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Amiloride-and-furosemide?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Amiloride-and-furosemide?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Amiloride and hydrochlorothiazide",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Amiloride-and-hydrochlorothiazide?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Amiloride-and-hydrochlorothiazide?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Amiodarone",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Amiodarone?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Amiodarone?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Amitriptyline",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Amitriptyline?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Amitriptyline?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Amlodipine",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Amlodipine?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Amlodipine.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Amlodipine?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Amoxicillin (capsule or liquid)",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/04zLnYn8SXo=?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Amoxicillin-(capsule-or-liquid).pdf",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/04zLnYn8SXo=?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Amoxicillin (injection)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Amoxicillin-(injection)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Amoxicillin-(injection)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Amoxicillin and clavulanic acid (injection)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Amoxicillin-and-clavulanic-acid-(injection)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Amoxicillin-and-clavulanic-acid-(injection)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Amoxicillin and clavulanic acid (tablet or liquid)",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/BO4yn3dXXVc=?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/BO4yn3dXXVc=?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Amphotericin B (as liposomal injection)",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Amphotericin-B-(as-liposomal-injection)?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Amphotericin-B-(as-liposomal-injection)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Amphotericin (lozenge)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Amphotericin-(lozenge)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Amphotericin-(lozenge)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Anastrozole",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Anastrozole?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Anastrozole?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Atgam (antithymocyte immunoglobulin - equine)",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/kMisZ1bf5Bk=?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/kMisZ1bf5Bk=?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Apomorphine (injection)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Apomorphine-(injection)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Apomorphine-(injection)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Aprepitant",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Aprepitant?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Aprepitant?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Aspirin (low dose)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Aspirin-(low-dose)?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Aspirin-(low-dose).pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Aspirin-(low-dose)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Aspirin (for pain)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Aspirin-%28for-pain%29?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Aspirin-%28for-pain%29?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Atazanavir",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Atazanavir?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Atazanavir?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Atenolol",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Atenolol?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Atenolol?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Atomoxetine",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Atomoxetine?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Atomoxetine?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Atorvastatin",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Atorvastatin?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Atorvastatin.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Atorvastatin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Atovaquone and proguanil",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Atovaquone-and-proguanil?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Atovaquone-and-proguanil?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Auranofin ('Gold')",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Auranofin-(Gold)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Auranofin-(Gold)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Azathioprine",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Azathioprine?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Azathioprine?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Azathioprine (for transplant patients)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Azathioprine-(for-transplant-patients)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Azathioprine-(for-transplant-patients)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Azithromycin",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Azithromycin?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Azithromycin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Azithromycin (for chlamydia)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Azithromycin-(for-chlamydia)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Azithromycin-(for-chlamydia)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Baclofen",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Baclofen?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Baclofen?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Beclometasone (inhaler)",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/ieEka20psds=?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Beclometasone-(for-inhalation).pdf",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/ieEka20psds=?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Bendroflumethiazide",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Bendroflumethiazide?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/home/servefile/Bendroflumethiazide",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Bendroflumethiazide?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Benzatropine",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Benzatropine?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Benzatropine?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Benzbromarone",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Benzbromarone?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Benzbromarone.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Benzbromarone?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Benzylpenicillin",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Benzylpenicillin?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Benzylpenicillin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Betahistine",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Betahistine?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Betahistine?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Betamethasone (skin cream or ointment)",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Betamethasone-(skin-cream-or-ointment)?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Betamethasone-(skin-cream-or-ointment)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Betamethasone (scalp application)",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Betamethasone-(scalp-application)?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Betamethasone-(scalp-application)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Bezafibrate",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Bezafibrate?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Bezafibrate?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Bicalutamide",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Bicalutamide?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Bicalutamide?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Bisacodyl",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Bisacodyl?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Bisacodyl?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Bisoprolol",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Bisoprolol?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Bisoprolol.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Bisoprolol?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Bivalirudin",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Bivalirudin?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Bivalirudin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Bromocriptine",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Bromocriptine?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Bromocriptine?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Budesonide (inhaler)",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/ipweK_y69iw=?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Budesonide-(for-inhalation).pdf",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/ipweK_y69iw=?format=pdfA4&inline=true"
+      }
+    },
+    {
+      "medication": "Budesonide (capsule or tablet)",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Budesonide-(capsule-or-tablet)?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Budesonide-(capsule-or-tablet)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Budesonide and Formoterol",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Budesonide-and-formoterol?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Budesonide-and-formoterol.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Budesonide-and-formoterol?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Bulk laxatives",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Bulk-laxatives?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Bulk-laxatives?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Bumetanide",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Bumetanide?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/home/servefile/Bumetanide",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Bumetanide?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Bupropion",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Bupropion?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Bupropion?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Cabergoline",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Cabergoline?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Cabergoline?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Calcitriol",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Calcitriol?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Calcitriol?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Calcium supplements",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Calcium-supplements?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Calcium-supplements?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Candesartan",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Candesartan?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Candesartan.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Candesartan?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Cannabidiol and tetrahydrocannabinol (CBD and THC)",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Cannabidiol-and-tetrahydrocannabinol-(CBD-and-THC)?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Cannabidiol-and-tetrahydrocannabinol-(CBD-and-THC)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Capsaicin",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Capsaicin?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Capsaicin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Carbamazepine",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Carbamazepine?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Carbamazepine?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Carbimazole",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Carbimazole?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Carbimazole?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Carvedilol",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Carvedilol?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Carvedilol.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Carvedilol?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Cefaclor",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Cefaclor?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Cefaclor?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Cefalexin",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Cefalexin?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Cefalexin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Cefazolin",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Cefazolin?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Cefazolin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Cefepime",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Cefepime?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Cefepime?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Cefotaxime",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Cefotaxime?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Cefotaxime?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Cefoxitin",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Cefoxitin?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Cefoxitin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Ceftazidime",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Ceftazidime?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Ceftazidime?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Ceftriaxone",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Ceftriaxone?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Ceftriaxone?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Cefuroxime (injection)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Cefuroxime-(injection)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Cefuroxime-(injection)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Cefuroxime (tablet)",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/HbczZNWar2Y=?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/HbczZNWar2Y=?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Celecoxib",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Celecoxib?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Celecoxib?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Celiprolol",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Celiprolol?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Celiprolol?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Cetirizine",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Cetirizine?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Cetirizine?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Chickenpox vaccine",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/_sI02iatKBc=?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/_sI02iatKBc=?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Chlorambucil",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Chlorambucil?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Chlorambucil?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Chlorpromazine (tablet)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Chlorpromazine-(tablet)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Chlorpromazine-(tablet)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Chlorpromazine (injection)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Chlorpromazine-(injection)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Chlorpromazine-(injection)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Chlortalidone",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Chlortalidone?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Chlortalidone?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Choline salicylate gel",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/9mC0tgW38LA=?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/9mC0tgW38LA=?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Ciclosporin (capsule for transplant patients)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Ciclosporin-(capsule-for-transplant-patients)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Ciclosporin-(capsule-for-transplant-patients)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Ciclosporin (capsule)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Ciclosporin-(capsule)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Ciclosporin-(capsule)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Ciclosporin (liquid)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Ciclosporin-(liquid)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Ciclosporin-(liquid)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Cilazapril",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Cilazapril?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Cilazapril.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Cilazapril?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Ciprofloxacin",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Ciprofloxacin?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Ciprofloxacin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Citalopram",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Citalopram?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Citalopram.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Citalopram?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Clarithromycin",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Clarithromycin?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Clarithromycin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Clindamycin",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Clindamycin?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Clindamycin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Clobazam",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Clobazam?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Clobazam?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Clobetasol (skin cream or ointment)",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Clobetasol-(skin-cream-or-ointment)?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Clobetasol-(skin-cream-or-ointment)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Clobetasol (scalp application)",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Clobetasol-(scalp-application)?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Clobetasol-(scalp-application)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Clobetasone (skin cream)",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Clobetasone-(skin-cream)?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Clobetasone-(skin-cream)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Clomipramine",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Clomipramine?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Clomipramine?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Clonazepam",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Clonazepam?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Clonazepam?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Clonidine (patch)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Clonidine-(patch)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Clonidine-(patch)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Clonidine (tablet)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Clonidine-(tablet)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Clonidine-(tablet)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Clopidogrel",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Clopidogrel?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Clopidogrel.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Clopidogrel?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Codeine",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Codeine?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Codeine?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Colchicine",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Colchicine?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Colchicine.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Colchicine?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Colecalciferol",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Colecalciferol?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Colecalciferol?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Colestyramine",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Colestyramine?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Colestyramine?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Colistimethate (for inhalation)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Colistimethate-(for-inhalation)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Colistimethate-(for-inhalation)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Colistimethate (injection)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Colistimethate-(injection)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Colistimethate-(injection)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Combined contraceptive tablets",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Combined-contraceptive-tablets?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Combined-contraceptive-tablets?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "COVID-19 vaccine (Pfizer - BioNTech)",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/p4VyAK6Nk3o=?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/p4VyAK6Nk3o=?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Cyclizine",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Cyclizine?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Cyclizine?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Cyclophosphamide (injection for inflammatory conditions)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Cyclophosphamide-(injection-for-inflammatory-conditions)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Cyclophosphamide-(injection-for-inflammatory-conditions)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Cyclophosphamide (tablet for inflammatory conditions)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Cyclophosphamide-(tablet-for-inflammatory-conditions)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Cyclophosphamide-(tablet-for-inflammatory-conditions)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Cyclophosphamide (for cancer patients)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Cyclophosphamide-(for-cancer-patients)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Cyclophosphamide-(for-cancer-patients)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Cyproterone",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Cyproterone-?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Cyproterone-?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Dabigatran",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Dabigatran?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Dabigatran.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Dabigatran?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Dabigatran (Healthify He Puna Waiora)",
+      "links": {
+        "English": "https://healthify.nz/assets/Brochures/dabigatran-english-factsheet.pdf",
+        "Te reo M\u0101ori": "https://healthify.nz/assets/Brochures/dabigatran-tereomaori-factsheet.pdf",
+        "Samoan": "https://healthify.nz/assets/Brochures/dabigatran-samoan-factsheet.pdf",
+        "Cook Islands M\u0101ori": "https://healthify.nz/assets/Brochures/dabigatran-cookislandsmaori-factsheet.pdf",
+        "Tongan": "https://healthify.nz/assets/Brochures/dabigatran-tongan-factsheet.pdf",
+        "Hindi": "https://healthify.nz/assets/Brochures/dabigatran-hindi-factsheet.pdf",
+        "Korean": "https://healthify.nz/assets/Brochures/factsheet-dabigatran-korean.pdf",
+        "Simplified Chinese": "https://healthify.nz/assets/Brochures/dabigatran-simplified-chinese-factsheet.pdf",
+        "Traditional Chinese": "https://healthify.nz/assets/Brochures/dabigatran-traditionalchinese-factsheet.pdf"
+      }
+    },
+    {
+      "medication": "Dalteparin",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Dalteparin?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Dalteparin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Dantrolene",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Dantrolene?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Dantrolene?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Darunavir",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Darunavir?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Darunavir?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Deferoxamine (injection)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Deferoxamine-(injection)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Deferoxamine-(injection)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Desloratadine",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Desloratadine?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Desloratadine?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Dexamethasone",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Dexamethasone?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Dexamethasone?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Dexamfetamine",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Dexamfetamine?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Dexamfetamine?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Dexchlorpheniramine",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Dexchlorpheniramine?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Dexchlorpheniramine?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Diazepam (injection)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Diazepam-(injection)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Diazepam-(injection)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Diazepam (oral)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Diazepam-(oral)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Diazepam-(oral)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Diclofenac",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Diclofenac?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Diclofenac.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Diclofenac?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Diflucortolone (skin cream or ointment)",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Diflucortolone-(skin-cream-or-ointment)?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Diflucortolone-(skin-cream-or-ointment)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Digoxin",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Digoxin?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Digoxin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Dihydrocodeine",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Dihydrocodeine?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Dihydrocodeine?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Diltiazem",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Diltiazem?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Diltiazem.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Diltiazem?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Dipyridamole",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Dipyridamole?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Dipyridamole?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Disopyramide",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Disopyramide?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Disopyramide?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Docusate",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Docusate?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Docusate?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Docusate and sennoside B",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Docusate-and-sennoside-B?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Docusate-and-sennoside-B?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Dolutegravir",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/qLRZzt8ruso=?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/qLRZzt8ruso=?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Dolutegravir and lamivudine",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/SheetLink/Dolutegravir-and-lamivudine-pdfA4",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/iHjtVvqzQaE=?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Domperidone",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Domperidone?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Domperidone?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Donepezil",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Donepezil?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Donepezil?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Dosulepin",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Dosulepin?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Dosulepin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Doxazosin",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Doxazosin?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Doxazosin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Doxepin",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Doxepin?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Doxepin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Doxycycline",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Doxycycline?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Doxycycline?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Dulaglutide",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Dulaglutide?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Dulaglutide?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Efavirenz",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Efavirenz?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Efavirenz?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Empagliflozin",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Empagliflozin?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Empagliflozin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Empagliflozin (Healthify He Puna Waiora)",
+      "links": {
+        "English": "https://healthify.nz/assets/Brochures/empagliflozin-english-factsheet-v2.pdf",
+        "Te Reo M\u0101ori": "https://healthify.nz/assets/Brochures/empagliflozin-tereomaori-factsheet.pdf",
+        "Cook Islands M\u0101ori": "https://healthify.nz/assets/Brochures/empagliflozin_cook_islands_maori_factsheet.pdf",
+        "Samoan": "https://healthify.nz/assets/Brochures/empagliflozin-samoan-factsheet.pdf",
+        "Tongan": "https://healthify.nz/assets/Brochures/empagliflozin-tongan-factsheet.pdf",
+        "Tuvaluan": "https://healthify.nz/assets/Brochures/empagliflozin-tuvaluan-factsheet.pdf",
+        "Tokelauan": "https://healthify.nz/assets/Brochures/empagliflozin-tokelauan-factsheet.pdf",
+        "Traditional Chinese": "https://healthify.nz/assets/Brochures/empagliflozin-factsheet-chinese-traditional.pdf",
+        "Simplified Chinese": "https://healthify.nz/assets/Brochures/empagliflozin-simplified-chinese-factsheet.pdf",
+        "Hindi": "https://healthify.nz/assets/Brochures/empagliflozin-hindi-factsheet.pdf",
+        "Niuean": "https://healthify.nz/assets/Brochures/empagliflozin-factsheet-niuean.pdf"
+      }
+    },
+    {
+      "medication": "Empagliflozin and metformin",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/3UhG3aTdlI0=?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://www.mymedicines.nz/home/sheet/JXfamDkRqoE=?format=pdfA4",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/3UhG3aTdlI0=?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Empagliflozin + metformin (Healthify He Puna Waiora)",
+      "links": {
+        "English": "https://healthify.nz/assets/Brochures/jardiamet-for-diabetes-english-factsheet.pdf"
+      }
+    },
+    {
+      "medication": "Emtricitabine",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Emtricitabine?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Emtricitabine?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Enalapril",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Enalapril?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Enalapril.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Enalapril?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Enoxaparin",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Enoxaparin?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Enoxaparin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Entacapone",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Entacapone?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Entacapone?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Entecavir",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Entecavir?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Entecavir?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Eplerenone",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Eplerenone?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/home/servefile/Eplerenone",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Eplerenone?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Ertapenem",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Ertapenem?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Ertapenem?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Erythromycin",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Erythromycin?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Erythromycin.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Erythromycin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Escitalopram",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Escitalopram?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Escitalopram.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Escitalopram?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Ethambutol",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Ethambutol?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Ethambutol?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Ethosuximide",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Ethosuximide?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Ethosuximide?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Exemestane",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Exemestane?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Exemestane?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Ezetimibe",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Ezetimibe?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Ezetimibe?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Ezetimibe and simvastatin",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Ezetimibe-and-simvastatin?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Ezetimibe-and-simvastatin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Famotidine",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Famotidine?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Famotidine?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Felodipine",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Felodipine?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Felodipine.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Felodipine?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Fentanyl (patch)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Fentanyl-(patch)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Fentanyl-(patch)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Fexofenadine",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Fexofenadine?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Fexofenadine?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Filgrastim",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Filgrastim?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Filgrastim?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Finasteride",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Finasteride?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Finasteride?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Flecainide",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Flecainide?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Flecainide?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Flucloxacillin (capsule or liquid)",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/0fBRKHugtQ8=?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Flucloxacillin-(capsule-or-liquid).pdf",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/0fBRKHugtQ8=?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Flucloxacillin (injection)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Flucloxacillin-(injection)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Flucloxacillin-(injection)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Fluconazole (capsule and liquid)",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Fluconazole-(capsule-and-liquid)?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Fluconazole-(capsule-and-liquid)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Fluconazole (for vaginal thrush)",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Fluconazole-(for-vaginal-thrush)?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Fluconazole-(for-vaginal-thrush)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Fluconazole (injection)",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Fluconazole-(injection)?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Fluconazole-(injection)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Fludrocortisone",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Fludrocortisone?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Fludrocortisone?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Fluorouracil (skin cream)",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/7Yv0yedGYZo=?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/7Yv0yedGYZo=?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Fluoxetine",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Fluoxetine?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Fluoxetine.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Fluoxetine?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Flutamide",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Flutamide?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Flutamide?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Fluticasone (inhaler)",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/DWVP_aC6jos=?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Fluticasone-(for-inhalation).pdf",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/DWVP_aC6jos=?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Fluticasone and Salmeterol",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Fluticasone-and-salmeterol?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Fluticasone-and-salmeterol.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Fluticasone-and-salmeterol?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Fluticasone, umeclidinium, and vilanterol (Trelegy Ellipta for COPD) (Healthify He Puna Waiora)",
+      "links": {
+        "English": "https://healthify.nz/assets/Brochures/Healthify-Resources/Trelegy-Ellipta-Factsheet-English-FINAL.pdf"
+      }
+    },
+    {
+      "medication": "Folic acid",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Folic-acid?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Folic-acid?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Formoterol",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Formoterol?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Formoterol?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Furosemide",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Furosemide?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Furosemide.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Furosemide?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Fusidate sodium",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Fusidate-sodium?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Fusidate-sodium?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Gabapentin",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Gabapentin?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Gabapentin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Galantamine",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Galantamine?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Galantamine?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Ganciclovir (injection)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Ganciclovir-(injection)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Ganciclovir-(injection)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Gentamicin (injection)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Gentamicin-(injection)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Gentamicin-(injection)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Glecaprevir and pibrentasvir",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Glecaprevir-and-pibrentasvir?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Glecaprevir-and-pibrentasvir?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Glibenclamide",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Glibenclamide?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://www.mymedicines.nz/home/servefile/Glibenclamide",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Glibenclamide?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Gliclazide",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Gliclazide?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Gliclazide.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Gliclazide?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Glipizide",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Glipizide?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Glipizide.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Glipizide?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Glyceryl trinitrate (ointment)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Glyceryl-trinitrate-(ointment)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Glyceryl-trinitrate-(ointment)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Glyceryl trinitrate (patch)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Glyceryl-trinitrate-(patch)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Glyceryl-trinitrate-(patch)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Glyceryl trinitrate (spray)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Glyceryl-trinitrate-(spray)?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Glyceryl-trinitrate-(spray).pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Glyceryl-trinitrate-(spray)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Goserelin",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Goserelin?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Goserelin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Haloperidol (injection)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Haloperidol-(injection)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Haloperidol-(injection)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Haloperidol (tablets and liquid)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Haloperidol-(tablets-and-liquid)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Haloperidol-(tablets-and-liquid)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Hydrocortisone (tablet)",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/TlCPU5KgVe4=?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/TlCPU5KgVe4=?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Hydrocortisone (skin cream)",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Hydrocortisone-(skin-cream)?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Hydrocortisone-(skin-cream)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Hydrocortisone butyrate (skin cream or ointment)",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Hydrocortisone-butyrate-(skin-cream-or-ointment)?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Hydrocortisone-butyrate-(skin-cream-or-ointment)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Hydroxychloroquine (for malaria)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Hydroxychloroquine-(for-malaria)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Hydroxychloroquine-(for-malaria)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Hydroxychloroquine (for rheumatoid arthritis)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Hydroxychloroquine-(for-rheumatoid-arthritis)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Hydroxychloroquine-(for-rheumatoid-arthritis)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Hyoscine butylbromide",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Hyoscine-butylbromide?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Hyoscine-butylbromide?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Hyoscine hydrobromide (patch)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Hyoscine-hydrobromide-(patch)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Hyoscine-hydrobromide-(patch)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Ibuprofen",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Ibuprofen?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Ibuprofen.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Ibuprofen?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Ibuprofen (Healthify He Puna Waiora)",
+      "links": {
+        "English": "https://healthify.nz/assets/Brochures/ibuprofen-factsheet-english.pdf",
+        "Te reo M\u0101ori": "https://healthify.nz/assets/Brochures/ibuprofen-tereomaori-factsheet.pdf",
+        "Samoan": "https://healthify.nz/assets/Brochures/ibuprofen-samoan-factsheet.pdf",
+        "Cook Islands M\u0101ori": "https://healthify.nz/assets/Brochures/ibuprofen-cookislandsmaori-factsheet.pdf",
+        "Tongan": "https://healthify.nz/assets/Brochures/ibuprofen-tongan-factsheet.pdf",
+        "Simplified Chinese": "https://healthify.nz/assets/Brochures/ibuprofen-chinese-simplified-factsheet.pdf"
+      }
+    },
+    {
+      "medication": "Imipramine",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Imipramine?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Imipramine?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Imiquimod (skin cream)",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Imiquimod-(skin-cream)?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Imiquimod-(skin-cream)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Indapamide",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Indapamide?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Indapamide?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Indometacin",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Indometacin?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Indometacin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Insulin aspart",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Insulin-aspart?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Insulin-aspart.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Insulin-aspart?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Insulin aspart and aspart protamine",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/A7xd5GNf4KQ=?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://www.mymedicines.nz/home/sheet/74VAxIRmOcg=?format=pdfA4",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/A7xd5GNf4KQ=?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Insulin degludec",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/3C2g793bpkc=?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://www.mymedicines.nz/home/sheet/4J-i0Ko_wT0=?format=pdfA4",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/3C2g793bpkc=?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Insulin detemir",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Insulin-detemir?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Insulin-detemir.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Insulin-detemir?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Insulin glargine",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Insulin-glargine?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Insulin-glargine.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Insulin-glargine?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Insulin glulisine",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Insulin-glulisine?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Insulin-glulisine.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Insulin-glulisine?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Insulin isophane",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Insulin-isophane?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Insulin-isophane.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Insulin-isophane?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Insulin lispro",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Insulin-lispro?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Insulin-lispro.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Insulin-lispro?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Insulin lispro and lispro protamine",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/_b2O-4QcBws=?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://www.mymedicines.nz/home/sheet/mldeEkrHcJ8=?format=pdfA4",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/_b2O-4QcBws=?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Insulin neutral",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Insulin-neutral?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Insulin-neutral.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Insulin-neutral?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Insulin neutral and isophane",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Insulin-neutral-and-isophane?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Insulin-neutral-and-isophane.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Insulin-neutral-and-isophane?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Ipratropium (inhaler and nebules)",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/w41ITv4lYX8=?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Ipratropium-(for-inhalation).pdf",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/w41ITv4lYX8=?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Ipratropium and Salbutamol",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Ipratropium-and-salbutamol?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Ipratropium-and-salbutamol.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Ipratropium-and-salbutamol?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Iron (as ferric carboxymaltose)",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/4mAmskHhTno=?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/4mAmskHhTno=?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Iron (as polymaltose)",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Iron-(as-polymaltose)?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Iron-(as-polymaltose)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Iron supplements",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Iron-supplements?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Iron-supplements?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Isoniazid",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Isoniazid?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Isoniazid?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Isoniazid and rifampicin",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Isoniazid-and-rifampicin?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Isoniazid-and-rifampicin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Isosorbide mononitrate",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Isosorbide-mononitrate?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Isosorbide-mononitrate.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Isosorbide-mononitrate?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Isotretinoin",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Isotretinoin?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Isotretinoin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Itraconazole",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Itraconazole?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Itraconazole?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Ivermectin",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Ivermectin?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Ivermectin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Ketoprofen",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/EbSmOOdDw2s=?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/EbSmOOdDw2s=?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Labetalol",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Labetalol?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Labetalol?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Lacosamide",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/hoOZe8LsJf0=?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/hoOZe8LsJf0=?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Lactulose",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Lactulose?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Lactulose?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Lamivudine",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Lamivudine?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Lamivudine?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Lamotrigine",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Lamotrigine?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Lamotrigine?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Lansoprazole",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Lansoprazole?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Lansoprazole?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Leflunomide",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Leflunomide?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Leflunomide?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Letrozole",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Letrozole?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Letrozole?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Levetiracetam",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Levetiracetam?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Levetiracetam?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Levodopa and benserazide",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Levodopa-and-benserazide?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Levodopa-and-benserazide?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Levodopa and carbidopa",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Levodopa-and-carbidopa?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Levodopa-and-carbidopa?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Levomepromazine (injection)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Levomepromazine-(injection)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Levomepromazine-(injection)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Levomepromazine (tablet)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Levomepromazine-(tablet)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Levomepromazine-(tablet)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Levonorgestrel (Emergency Contraceptive Pill)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Levonorgestrel-(Emergency-Contraceptive-Pill)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Levonorgestrel-(Emergency-Contraceptive-Pill)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Levonorgestrel (implant)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Levonorgestrel-(implant)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Levonorgestrel-(implant)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Levonorgestrel (intrauterine system - IUS)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Levonorgestrel-(intrauterine-system---IUS)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Levonorgestrel-(intrauterine-system---IUS)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Levothyroxine",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Levothyroxine?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Levothyroxine?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Linezolid (injection)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Linezolid-(injection)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Linezolid-(injection)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Linezolid (liquid)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Linezolid-(liquid)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Linezolid-(liquid)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Linezolid (tablet)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Linezolid-(tablet)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Linezolid-(tablet)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Liraglutide",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Eoy1Ar-c4r4=?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Eoy1Ar-c4r4=?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Lisinopril",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Lisinopril?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Lisinopril?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "LOLA (L-ornithine-L-aspartate)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/LOLA-(L-ornithine-L-aspartate)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/LOLA-(L-ornithine-L-aspartate)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Loperamide",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Loperamide?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Loperamide?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Loratadine",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Loratadine?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Loratadine?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Lorazepam",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Lorazepam?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Lorazepam?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Lormetazepam",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Lormetazepam?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Lormetazepam?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Losartan",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Losartan?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Losartan.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Losartan?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Losartan and hydrochlorothiazide",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Losartan-and-hydrochlorothiazide?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Losartan-and-hydrochlorothiazide?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Macrogol",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Macrogol?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Macrogol?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Magnesium supplements",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Magnesium-supplements?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Magnesium-supplements?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Mebendazole",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Mebendazole?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Mebendazole?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Meclozine",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Meclozine?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Meclozine?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Medroxyprogesterone (tablet)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Medroxyprogesterone-(tablet)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Medroxyprogesterone-(tablet)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Medroxyprogesterone depot (injection)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Medroxyprogesterone-depot-(injection)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Medroxyprogesterone-depot-(injection)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Mefenamic acid",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Mefenamic-acid?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Mefenamic-acid?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Mefloquine",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Mefloquine?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Mefloquine?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Megestrol",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Megestrol?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Megestrol?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Meloxicam",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Meloxicam?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Meloxicam?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Menopausal hormone therapy (MHT) - pessary",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/5Yclytn4KqU=?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/5Yclytn4KqU=?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Menopausal hormone therapy (MHT) - progesterone capsule",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/W8EQX3crd6Y=?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/W8EQX3crd6Y=?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Menopausal hormone therapy (MHT) - tablets",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/H4YOijrOVus=?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/H4YOijrOVus=?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Menopausal hormone therapy (MHT) - vaginal cream",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Tr5sAyKflkk=?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Tr5sAyKflkk=?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Meropenem",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Meropenem?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Meropenem?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Mesalazine",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Mesalazine?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Mesalazine?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Metformin",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Metformin?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Metformin.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Metformin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Methadone",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Methadone?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Methadone?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Methotrexate (for inflammatory conditions)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Methotrexate-(for-inflammatory-conditions)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Methotrexate-(for-inflammatory-conditions)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Methyldopa",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Methyldopa?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Methyldopa?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Methylphenidate",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Methylphenidate?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Methylphenidate?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Methylprednisolone (skin cream or ointment)",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Methylprednisolone-(skin-cream-or-ointment)?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Methylprednisolone-(skin-cream-or-ointment)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Metoclopramide",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Metoclopramide?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Metoclopramide?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Metolazone",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Metolazone?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Metolazone?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Metoprolol",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Metoprolol?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Metoprolol.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Metoprolol?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Metronidazole (Healthify He Puna Waiora)",
+      "links": {
+        "Medicine information": "https://healthify.nz/medicines-a-z/m/metronidazole/"
+      }
+    },
+    {
+      "medication": "Mexiletine",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Mexiletine?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Mexiletine?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Midazolam (before procedures)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Midazolam-(before-procedures)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Midazolam-(before-procedures)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Midazolam (injection)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Midazolam-(injection)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Midazolam-(injection)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Midodrine",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Midodrine?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Midodrine?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Modafinil",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Modafinil?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Modafinil?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Mometasone (skin cream or ointment)",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Mometasone-(skin-cream-or-ointment)?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Mometasone-(skin-cream-or-ointment)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Morphine (long acting)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Morphine-(long-acting)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Morphine-(long-acting)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Morphine (short acting)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Morphine-(short-acting)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Morphine-(short-acting)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Moxifloxacin",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Moxifloxacin?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Moxifloxacin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Multivitamins",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Multivitamins?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Multivitamins?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Nadolol",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Nadolol?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Nadolol?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Naltrexone",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/6MPc_sQI1Tc=?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/6MPc_sQI1Tc=?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Naltrexone and bupropion",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/LESnIhonZd0=?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/LESnIhonZd0=?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Naproxen",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Naproxen?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Naproxen.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Naproxen?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Nefopam",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Nefopam?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Nefopam?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Nicorandil",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Nicorandil?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Nicorandil?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Nicotine replacement therapy",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Nicotine-replacement-therapy-(NRT)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Nicotine-replacement-therapy-(NRT)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Nifedipine",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Nifedipine?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Nifedipine?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Nirmatrelvir and ritonavir",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Nirmatrelvir-and-ritonavir?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Nirmatrelvir-and-ritonavir?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Nirmatrelvir and ritonavir (Paxlovid) (Healthify He Puna Waiora)",
+      "links": {
+        "English": "https://healthify.nz/assets/Brochures/paxlovid-english-factsheet.pdf",
+        "Te reo M\u0101ori": "https://healthify.nz/assets/Brochures/paxlovid-tereomaori-factsheet.pdf",
+        "Samoan": "https://healthify.nz/assets/Brochures/paxlovid-samoan-factsheet.pdf",
+        "Tongan": "https://healthify.nz/assets/Brochures/paxlovid-tongan-factsheet.pdf",
+        "Simplified Chinese": "https://healthify.nz/assets/Brochures/paxlovid-chinesesimplified-factsheet.pdf",
+        "Cook Islands M\u0101ori": "https://healthify.nz/assets/Brochures/paxlovid-cookislandsmaori-factsheet.pdf",
+        "Niuean": "https://healthify.nz/assets/Brochures/paxlovid-factsheet-niuean.pdf"
+      }
+    },
+    {
+      "medication": "Nitrofurantoin",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Nitrofurantoin?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Nitrofurantoin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Nimodipine",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Nimodipine?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Nimodipine?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Norethisterone (5 mg tablet)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Norethisterone-(5-mg-tablet)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Norethisterone-(5-mg-tablet)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Norfloxacin",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Norfloxacin?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Norfloxacin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Nortriptyline",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Nortriptyline?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Nortriptyline?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Nystatin (liquid, tablet and capsule)",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Nystatin-(liquid%2c-tablet-and-capsule)?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Nystatin-(liquid%2c-tablet-and-capsule)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Olsalazine",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Olsalazine?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Olsalazine?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Omeprazole",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Omeprazole?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Omeprazole.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Omeprazole?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Ondansetron",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Ondansetron?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Ondansetron?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Orlistat",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Orlistat?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Orlistat?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Ornidazole",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Ornidazole?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Ornidazole?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Orphenadrine",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Orphenadrine?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Orphenadrine?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Oseltamivir",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Oseltamivir?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Oseltamivir?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Oxybutynin",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Oxybutynin?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Oxybutynin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Oxycodone (long acting)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Oxycodone-(long-acting)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Oxycodone-(long-acting)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Oxycodone (short acting)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Oxycodone-(short-acting)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Oxycodone-(short-acting)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Pamidronate",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Pamidronate?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Pamidronate?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Pancreatin",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Pancreatin?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Pancreatin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Pancrelipase",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Pancrelipase?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Pancrelipase?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Pantoprazole",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Pantoprazole?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Pantoprazole?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Paracetamol",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Paracetamol?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Paracetamol.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Paracetamol?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Paracetamol (Healthify He Puna Waiora)",
+      "links": {
+        "English": "https://healthify.nz/assets/Brochures/paracetamol-english-factsheet.pdf",
+        "Te reo M\u0101ori": "https://healthify.nz/assets/Brochures/paracetamol-tereomaori-factsheet.pdf",
+        "Samoan": "https://healthify.nz/assets/Brochures/paracetamol-samoan-factsheet.pdf",
+        "Cook Islands M\u0101ori": "https://healthify.nz/assets/Brochures/paracetamol-cookislandsmaori-factsheet.pdf",
+        "Tongan": "https://healthify.nz/assets/Brochures/paracetamol-tongan-factsheet.pdf"
+      }
+    },
+    {
+      "medication": "Paracetamol and Codeine",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Paracetamol-and-codeine?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Paracetamol-and-codeine?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Paroxetine",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Paroxetine?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Paroxetine?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Perindopril",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Perindopril?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Perindopril?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Permethrin (for scabies)",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Permethrin-(for-scabies)?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Permethrin-(for-scabies)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Pethidine",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Pethidine?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Pethidine?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Phenobarbital",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Phenobarbital?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Phenobarbital?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Phenoxymethylpenicillin",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Phenoxymethylpenicillin?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Phenoxymethylpenicillin.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Phenoxymethylpenicillin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Phenytoin",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Phenytoin?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Phenytoin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Pimozide",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Pimozide?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Pimozide?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Pioglitazone",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Pioglitazone?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Pioglitazone?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Piperacillin and tazobactam",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Piperacillin-and-tazobactam?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Piperacillin-and-tazobactam?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Pivmecillinam",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Pivmecillinam?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Pivmecillinam?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Pizotifen",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Pizotifen?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Pizotifen?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Posaconazole (liquid)",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Posaconazole-(liquid)?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Posaconazole-(liquid)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Posaconazole (tablet)",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Posaconazole-(tablet)?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Posaconazole-(tablet)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Potassium Supplements",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Potassium-supplements?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Potassium-supplements?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Pramipexole",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Pramipexole?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Pramipexole?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Pravastatin",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Pravastatin?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Pravastatin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Prazosin",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Prazosin?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Prazosin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Prednisone",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Prednisone?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Prednisone.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Prednisone?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Prednisone (for transplant patients)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Prednisone-(for-transplant-patients)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Prednisone-(for-transplant-patients)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Pregabalin",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Pregabalin?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Pregabalin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Primidone",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Primidone?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Primidone?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Probenecid",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Probenecid?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Probenecid.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Probenecid?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Procyclidine",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Procyclidine?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Procyclidine?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Progestogen-only contraceptive tablets",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Progestogen-only-contraceptive-tablets?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Progestogen-only-contraceptive-tablets?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Promethazine",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Promethazine?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Promethazine?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Propranolol",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Propranolol?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Propranolol?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Propylthiouracil",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Propylthiouracil?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Propylthiouracil?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Pyrazinamide",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Pyrazinamide?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Pyrazinamide?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Pyridoxine",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Pyridoxine?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Pyridoxine?format=pdfA5&inline=true&inline=true"
+      }
+    },
+    {
+      "medication": "Quinapril",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Quinapril?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Quinapril.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Quinapril?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Raltegravir",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Raltegravir?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Raltegravir?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Ramipril",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/e141J2j2eIE=?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/e141J2j2eIE=?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Rasagiline",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/KUgzI0QBL-A=?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/KUgzI0QBL-A=?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Remdesivir",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Remdesivir?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Remdesivir?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Ribavirin",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Ribavirin?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Ribavirin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Rifabutin",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Rifabutin?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Rifabutin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Rifampicin",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Rifampicin?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Rifampicin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Risedronate",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Risedronate?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Risedronate?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Risedronate (Healthify He Puna Waiora)",
+      "links": {
+        "English": "https://healthify.nz/assets/Brochures/risedronate-english-factsheet.pdf"
+      }
+    },
+    {
+      "medication": "Ritonavir",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Ritonavir?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Ritonavir?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Rituximab",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Rituximab?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Rituximab?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Rituximab (for transplant patients)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Rituximab-(for-transplant-patients)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Rituximab-(for-transplant-patients)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Rivaroxaban",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Rivaroxaban?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Rivaroxaban.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Rivaroxaban?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Rivaroxaban (Healthify He Puna Waiora)",
+      "links": {
+        "English": "https://healthify.nz/assets/Brochures/rivaroxaban-english-factsheet.pdf",
+        "Te reo M\u0101ori": "https://healthify.nz/assets/Brochures/rivaroxaban-te-reo-maori-factsheet.pdf",
+        "Samoan": "https://healthify.nz/assets/Brochures/rivaroxaban-samoan-factsheet.pdf",
+        "Cook Island M\u0101ori": "https://healthify.nz/assets/Brochures/rivaroxaban-cook-islands-maori-factsheet.pdf",
+        "Tongan": "https://healthify.nz/assets/Brochures/rivaroxaban-tongan-factsheet.pdf",
+        "Hindi": "https://healthify.nz/assets/Brochures/rivaroxaban-hindi-factsheet.pdf",
+        "Korean": "https://healthify.nz/assets/Brochures/rivaroxaban-korean-factsheet.pdf",
+        "Simplified Chinese": "https://healthify.nz/assets/Brochures/rivaroxaban-factsheet-chinese-simplified.pdf",
+        "Traditional Chinese": "https://healthify.nz/assets/Brochures/factsheet-rivaroxaban-traditional-chinese.pdf"
+      }
+    },
+    {
+      "medication": "Rivastigmine (capsule)",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Rivastigmine-(capsule)?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Rivastigmine-(capsule)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Rivastigmine (patch)",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Rivastigmine-(patch)?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Rivastigmine-(patch)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Rizatriptan",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Rizatriptan?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Rizatriptan?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Ropinirole",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Ropinirole?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Ropinirole?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Rosuvastatin",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Rosuvastatin?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Rosuvastatin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Roxithromycin",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Roxithromycin?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Roxithromycin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Sacubitril and Valsartan",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Sacubitril-and-valsartan?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Sacubitril-and-valsartan?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Salbutamol (inhaler and nebules)",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/usDIQ6LxINM=?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Salbutamol-(for-inhalation).pdf",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/usDIQ6LxINM=?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Salbutamol (liquid)",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/OzVQ7IlFszw=?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/OzVQ7IlFszw=?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Salmeterol",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Salmeterol?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Salmeterol.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Salmeterol?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Saxagliptin",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Saxagliptin?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Saxagliptin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Selegiline",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Selegiline?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Selegiline?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Sennoside B",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Sennoside-B?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Sennoside-B?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Sertraline",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Sertraline?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Sertraline.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Sertraline?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Shingles vaccine (Shingrix",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/jq9zVz-virk=?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/jq9zVz-virk=?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Sildenafil",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Sildenafil?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Sildenafil?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Sildenafil (for erectile dysfunction)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Sildenafil-(for-erectile-dysfunction)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Sildenafil-(for-erectile-dysfunction)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Simvastatin",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Simvastatin?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Simvastatin.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Simvastatin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Sirolimus (for transplant patients)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Sirolimus-(for-transplant-patients)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Sirolimus-(for-transplant-patients)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Sitagliptin",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Sitagliptin?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Sitagliptin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Sodium supplements (tablet)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Sodium-supplements-%28tablet%29?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Sodium-supplements-%28tablet%29?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Solifenacin",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Solifenacin?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Solifenacin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Sotalol",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Sotalol?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Sotalol?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Spironolactone",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Spironolactone?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/home/servefile/Spironolactone",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Spironolactone?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Sulfasalazine",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Sulfasalazine?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Sulfasalazine?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Sumatriptan",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Sumatriptan?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Sumatriptan?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Tadalafil",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Tadalafil?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Tadalafil?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Tadalafil (for erectile dysfunction)",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Tadalafil-(for-erectile-dysfunction)?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Tadalafil-(for-erectile-dysfunction)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Tamoxifen",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Tamoxifen?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Tamoxifen?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Tamsulosin",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Tamsulosin?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Tamsulosin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Tecovirimat (capsule)",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Tecovirimat-(capsule)?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Tecovirimat-(capsule)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Teicoplanin",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Teicoplanin?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Teicoplanin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Temazepam",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Temazepam?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Temazepam?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Tenofovir",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Tenofovir?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Tenofovir?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Tenoxicam",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/rzne-yqy-vE=?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/rzne-yqy-vE=?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Terazosin",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Terazosin?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Terazosin?format=pdfA4&inline=true"
+      }
+    },
+    {
+      "medication": "Terbinafine (tablet)",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Terbinafine-(tablet)?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Terbinafine-(tablet)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Terbutaline (for inhalation)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Terbutaline?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Terbutaline.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Terbutaline?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Testosterone (capsule)",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Testosterone-(capsule)?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Testosterone-(capsule)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Testosterone (injection)",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Testosterone-(injection)?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Testosterone-(injection)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Testosterone (patch)",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Testosterone-(patch)?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Testosterone-(patch)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Tetracycline",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/JxkmRW1dTK4=?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/JxkmRW1dTK4=?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Theophylline",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Theophylline?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Theophylline?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Ticagrelor",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Ticagrelor?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Ticagrelor.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Ticagrelor?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Tinzaparin",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Tinzaparin?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Tinzaparin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Thiamine (tablet)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Thiamine-%28tablet%29?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Thiamine-%28tablet%29?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Tiotropium",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Tiotropium?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Tiotropium.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Tiotropium?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Tobramycin (injection)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Tobramycin-(injection)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Tobramycin-(injection)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Tolcapone",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Tolcapone?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Tolcapone?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Topiramate",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Topiramate?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Topiramate?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Tramadol",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Tramadol?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Tramadol?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Tranexamic acid (tablet)",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/YS27SXd08C0=?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/YS27SXd08C0=?format=pdfA5&inline=truee=true"
+      }
+    },
+    {
+      "medication": "Tranylcypromine",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Tranylcypromine?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Tranylcypromine?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Tretinoin (cream)",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/UCu-LzFxLgA=?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/UCu-LzFxLgA=?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Triamcinolone (skin cream or ointment)",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Triamcinolone-(skin-cream-or-ointment)?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Triamcinolone-(skin-cream-or-ointment)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Trifluoperazine",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Trifluoperazine?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Trifluoperazine?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Trimethoprim",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Trimethoprim?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Trimethoprim?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Trimethoprim and sulfamethoxazole",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Trimethoprim-and-sulfamethoxazole?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Trimethoprim-and-sulfamethoxazole?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Ursodeoxycholic acid",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Ursodeoxycholic-acid?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Ursodeoxycholic-acid?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Ustekinumab",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/bi8Cu2l_bN4=?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/bi8Cu2l_bN4=?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Valaciclovir",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Valaciclovir?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Valaciclovir?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Valganciclovir",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Valganciclovir?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Valganciclovir?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Valproate sodium",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Valproate-sodium?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Valproate-sodium?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Vancomycin (injection)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Vancomycin-(injection)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Vancomycin-(injection)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Vancomycin (for C.difficile)",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Vancomycin-(for-C-difficile)?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Vancomycin-(for-C-difficile)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Vardenafil (for erectile dysfunction)",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Vardenafil-(for-erectile-dysfunction)?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Vardenafil-(for-erectile-dysfunction)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Varenicline",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Varenicline?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Varenicline?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Venlafaxine",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Venlafaxine?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Venlafaxine?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Verapamil",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Verapamil?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Verapamil?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Viekira Pak (dasabuvir, ombitasvir, paritaprevir and ritonavir)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Viekira-Pak-(dasabuvir%2c-ombitasvir%2c-paritaprevir-and-ritonavir)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Viekira-Pak-(dasabuvir%2c-ombitasvir%2c-paritaprevir-and-ritonavir)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Vigabatrin",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Vigabatrin?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Vigabatrin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Vildagliptin",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Vildagliptin?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Vildagliptin.pdf",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Vildagliptin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Vildagliptin and metformin",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Vildagliptin-and-metformin?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Vildagliptin-and-metformin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Vitabdeck",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/VitABDECK?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/VitABDECK?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Vitamin B complex",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Vitamin-B-complex?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Vitamin-B-complex?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Voriconazole",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Voriconazole?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Voriconazole?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Warfarin",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Warfarin?format=pdfA4&inline=true",
+        "A4 printable (Te Reo M\u0101ori)": "https://mymedicines.nz/TeReo/NZF/Warfarin.pdf",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Warfarin?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Zoledronic acid (for cancer patients)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Zoledronic-acid-%28for-cancer-patients%29?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Zoledronic-acid-%28for-cancer-patients%29?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Zoledronic acid (for osteoporosis)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Zoledronic-acid-%28for-osteoporosis%29?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Zoledronic-acid-%28for-osteoporosis%29?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Zopiclone",
+      "links": {
+        "A4 printable": "https://www.mymedicines.nz/home/sheet/Zopiclone?format=pdfA4&inline=true",
+        "A5 printable": "https://www.mymedicines.nz/home/sheet/Zopiclone?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Zuclopenthixol (injection)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Zuclopenthixol-(injection)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Zuclopenthixol-(injection)?format=pdfA5&inline=true"
+      }
+    },
+    {
+      "medication": "Zuclopenthixol (tablet)",
+      "links": {
+        "A4 printable": "http://www.mymedicines.nz/home/sheet/Zuclopenthixol-(tablet)?format=pdfA4&inline=true",
+        "A5 printable": "http://www.mymedicines.nz/home/sheet/Zuclopenthixol-(tablet)?format=pdfA5&inline=true"
+      }
+    }
+  ]
+}
