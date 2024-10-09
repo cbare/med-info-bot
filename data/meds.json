@@ -12,16 +12,21 @@
   "Acetaminophen": {
     "name": "Acetaminophen",
     "alt-names": ["Paracetamol"],
+    "brand-names": ["Tylenol"],
+    "description": "Acetaminophen, also known as paracetamol or by the brand name Tylenol, is an analgesic and antipyretic.",
     "clincalc": {
       "name": "Acetaminophen",
       "rank": 114,
       "prescriptions_2022": 5512120,
       "patients_2022": 2703476
     },
+    "drugbank": {
+      "accession": "DB00316"
+    },
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Acetaminophen"
+        "url": "https://en.wikipedia.org/wiki/Paracetamol"
       }
     ]
   },
@@ -61,17 +66,14 @@
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Acetaminophen"
-      },
-      {
-        "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Codeine"
+        "url": "https://en.wikipedia.org/wiki/Codeine/paracetamol"
       }
     ]
   },
   "Acetaminophen; Hydrocodone": {
     "name": "Acetaminophen; Hydrocodone",
     "alt-names": ["Paracetamol; Hydrocodone"],
+    "brand-names": ["Vicodin", "Norco", "Lorcet"],
     "clincalc": {
       "name": "Acetaminophen; Hydrocodone",
       "rank": 23,
@@ -81,17 +83,14 @@
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Acetaminophen"
-      },
-      {
-        "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Hydrocodone"
+        "url": "https://en.wikipedia.org/wiki/Hydrocodone/paracetamol"
       }
     ]
   },
   "Acetaminophen; Oxycodone": {
     "name": "Acetaminophen; Oxycodone",
     "alt-names": ["Paracetamol; Oxycodone"],
+    "brand-names": ["Percocet"],
     "clincalc": {
       "name": "Acetaminophen; Oxycodone",
       "rank": 98,
@@ -101,7 +100,7 @@
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Acetaminophen"
+        "url": "https://en.wikipedia.org/wiki/Oxycodone/paracetamol"
       },
       {
         "source": "Wikipedia",
@@ -115,6 +114,9 @@
     "brand-names": [
       "Diamox"
     ],
+    "drugbank": {
+      "accession": "DB00819"
+    },
     "links": [
       {
         "source": "Wikipedia",
@@ -147,10 +149,13 @@
       "prescriptions_2022": 4458457,
       "patients_2022": 1322764
     },
+    "drugbank": {
+      "accession": "DB00787"
+    },
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Acyclovir"
+        "url": "https://en.wikipedia.org/wiki/Aciclovir"
       }
     ]
   },
@@ -190,6 +195,10 @@
     "links": [
       {
         "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Adapalene/benzoyl_peroxide"
+      },
+      {
+        "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Adapalene"
       },
       {
@@ -200,11 +209,18 @@
   },
   "Albuterol": {
     "name": "Albuterol",
+    "alt-names": [
+      "Salbutamol"
+    ],
+    "description": "Albuterol, also known as Salbutamol, is a short-acting, selective beta2-adrenergic receptor agonist used to treat asthma and COPD.",
     "clincalc": {
       "name": "Albuterol",
       "rank": 7,
       "prescriptions_2022": 59075269,
       "patients_2022": 19265334
+    },
+    "drugbank": {
+      "accession": "DB01001"
     },
     "links": [
       {
@@ -215,6 +231,8 @@
   },
   "Albuterol; Ipratropium": {
     "name": "Albuterol; Ipratropium",
+    "alt-names": ["Ipratropium; Salbutamol", "Albuterol Sulfate; Ipratropium Bromide"],
+    "brand-names": ["Combivent", "Duoneb"],
     "clincalc": {
       "name": "Albuterol; Ipratropium",
       "rank": 178,
@@ -222,6 +240,10 @@
       "patients_2022": 794788
     },
     "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ipratropium_bromide/salbutamol"
+      },
       {
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Albuterol"
@@ -236,7 +258,8 @@
     "name": "Alendronate",
     "alt-names": [
       "Alendronic acid",
-      "Alendronate Sodium"
+      "Alendronate Sodium",
+      "Sodium Alendronate"
     ],
     "brand-names": [
       "Fosamax",
@@ -284,6 +307,9 @@
       "rank": 39,
       "prescriptions_2022": 15235132,
       "patients_2022": 3867218
+    },
+    "drugbank": {
+      "accession": "DB00437"
     },
     "links": [
       {
@@ -346,6 +372,9 @@
       "prescriptions_2022": 1501094,
       "patients_2022": 431294
     },
+    "drugbank": {
+      "accession": "DB01118"
+    },
     "links": [
       {
         "source": "Wikipedia",
@@ -361,6 +390,9 @@
       "prescriptions_2022": 7887977,
       "patients_2022": 1675744
     },
+    "drugbank": {
+      "accession": "DB00321"
+    },
     "links": [
       {
         "source": "Wikipedia",
@@ -375,6 +407,9 @@
       "rank": 5,
       "prescriptions_2022": 70766211,
       "patients_2022": 17789649
+    },
+    "drugbank": {
+      "accession": "DB00381"
     },
     "links": [
       {
@@ -410,6 +445,9 @@
       "rank": 26,
       "prescriptions_2022": 20465164,
       "patients_2022": 15998871
+    },
+    "drugbank": {
+      "accession": "DB01060"
     },
     "links": [
       {
@@ -478,6 +516,9 @@
       "prescriptions_2022": 19420949,
       "patients_2022": 4494660
     },
+    "drugbank": {
+      "accession": "DB06605"
+    },
     "links": [
       {
         "source": "Wikipedia",
@@ -508,11 +549,15 @@
   },
   "Aripiprazole": {
     "name": "Aripiprazole",
+    "description": "Aripiprazole is an atypical antipsychotic used in the treatment of psychiatric disorders.",
     "clincalc": {
       "name": "Aripiprazole",
       "rank": 106,
       "prescriptions_2022": 6053911,
       "patients_2022": 1275362
+    },
+    "drugbank": {
+      "accession": "DB01238"
     },
     "links": [
       {
@@ -530,6 +575,9 @@
       "prescriptions_2022": 1588475,
       "patients_2022": 432016
     },
+    "drugbank": {
+      "accession": "DB00126"
+    },
     "links": [
       {
         "source": "Wikipedia",
@@ -545,6 +593,9 @@
       "rank": 36,
       "prescriptions_2022": 16981811,
       "patients_2022": 5095974
+    },
+    "drugbank": {
+      "accession": "DB00945"
     },
     "links": [
       {
@@ -564,11 +615,15 @@
   },
   "Atenolol": {
     "name": "Atenolol",
+    "description": "Atenolol is a selective beta-1 blocker used to treat hypertension and angina.",
     "clincalc": {
       "name": "Atenolol",
       "rank": 63,
       "prescriptions_2022": 10675235,
       "patients_2022": 2625632
+    },
+    "drugbank": {
+      "accession": "DB00335"
     },
     "links": [
       {
@@ -589,11 +644,15 @@
   },
   "Atomoxetine": {
     "name": "Atomoxetine",
+    "description": "Atomoxetine is a selective norepinephrine reuptake inhibitor (SNRI) used in the management of attention deficit hyperactivity disorder (ADHD).",
     "clincalc": {
       "name": "Atomoxetine",
       "rank": 213,
       "prescriptions_2022": 1822924,
       "patients_2022": 458585
+    },
+    "drugbank": {
+      "accession": "DB00289"
     },
     "links": [
       {
@@ -604,11 +663,15 @@
   },
   "Atorvastatin": {
     "name": "Atorvastatin",
+    "description": "Atorvastatin is a cholesterol-lowering HMG-CoA reductase inhibitor used to reduce risk of cardiovascular disease.",
     "clincalc": {
       "name": "Atorvastatin",
       "rank": 1,
       "prescriptions_2022": 109582746,
       "patients_2022": 27935702
+    },
+    "drugbank": {
+      "accession": "DB01076"
     },
     "links": [
       {
@@ -643,7 +706,7 @@
       }
     ]
   },
-  "Auranofin ('Gold')": {
+  "Auranofin": {
     "name": "Auranofin",
     "alt-names": ["Auranofin ('Gold')"],
     "brand-names": ["Ridaura"],
@@ -657,6 +720,9 @@
   },
   "Azathioprine": {
     "name": "Azathioprine",
+    "drugbank": {
+      "accession": "DB00993"
+    },
     "links": [
       {
         "source": "Wikipedia",
@@ -666,11 +732,15 @@
   },
   "Azelastine": {
     "name": "Azelastine",
+    "description": "Azelastine is a histamine H1-receptor antagonist used intranasally to treat allergic and vasomotor rhinitis and in an ophthalmic solution to treat allergic conjunctivitis.",
     "clincalc": {
       "name": "Azelastine",
       "rank": 124,
       "prescriptions_2022": 5195092,
       "patients_2022": 1746057
+    },
+    "drugbank": {
+      "accession": "DB00972"
     },
     "links": [
       {
@@ -713,6 +783,8 @@
   },
   "Azithromycin": {
     "name": "Azithromycin",
+    "brand-names": ["Zithromax"],
+    "descrption": "Azithromycin is a macrolide antibiotic used to treat bacterial infections.",
     "clincalc": {
       "name": "Azithromycin",
       "rank": 78,
@@ -734,6 +806,9 @@
       "prescriptions_2022": 6099128,
       "patients_2022": 1603798
     },
+    "drugbank": {
+      "accession": "DB00181"
+    },
     "links": [
       {
         "source": "Wikipedia",
@@ -741,7 +816,7 @@
       }
     ]
   },
-  "Beclometasone (inhaler)": {
+  "Beclometasone": {
     "name": "Beclometasone",
     "alt-names": ["beclomethasone", "beclomethasone dipropionate"],
     "brand-names": ["Qvar"],
@@ -755,11 +830,15 @@
   },
   "Benazepril": {
     "name": "Benazepril",
+    "description": "Benazepril is an ACE inhibitor used to treat hypertension.",
     "clincalc": {
       "name": "Benazepril",
       "rank": 159,
       "prescriptions_2022": 3424799,
       "patients_2022": 993316
+    },
+    "drugbank": {
+      "accession": "DB00542"
     },
     "links": [
       {
@@ -2434,7 +2513,7 @@
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Enoxaparin"
+        "url": "https://en.wikipedia.org/wiki/Enoxaparin_sodium"
       }
     ]
   },
@@ -3233,6 +3312,9 @@
     "name": "Haloperidol",
     "brand-names": ["Haldol"],
     "forms": ["injection", "liquid", "tablet"],
+    "drugbank": {
+      "accession": "DB00502"
+    },
     "links": [
       {
         "source": "Wikipedia",
@@ -3624,15 +3706,6 @@
       {
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Ipratropium"
-      }
-    ]
-  },
-  "Ipratropium; Salbutamol": {
-    "name": "Ipratropium; Salbutamol",
-    "links": [
-      {
-        "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Ipratropium_bromide/salbutamol"
       }
     ]
   },
@@ -5838,15 +5911,6 @@
       {
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Valsartan"
-      }
-    ]
-  },
-  "Salbutamol": {
-    "name": "Salbutamol",
-    "links": [
-      {
-        "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Salbutamol"
       }
     ]
   },
