@@ -63,7 +63,11 @@
       }
     ],
     "drugbank": {
-      "accession": "DB00316"
+      "accessions": {
+        "Acetaminophen": "DB00316",
+        "Butalbital": "DB00241",
+        "Caffeine": "DB00201"
+      }
     }
   },
   "Acetaminophen; Codeine": {
@@ -82,7 +86,13 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Codeine/paracetamol"
       }
-    ]
+    ],
+    "drugbank": {
+      "accessions": {
+        "Acetaminophen": "DB00316",
+        "Codeine": "DB00318"
+      }
+    }
   },
   "Acetaminophen; Hydrocodone": {
     "name": "Acetaminophen; Hydrocodone",
@@ -953,7 +963,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Beclometasone"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00394"
+    }
   },
   "Benazepril": {
     "name": "Benazepril",
@@ -993,7 +1006,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Benzatropine"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00245"
+    }
   },
   "Benzbromarone": {
     "name": "Benzbromarone",
@@ -1128,7 +1144,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Bisacodyl"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB09020"
+    }
   },
   "Bisoprolol": {
     "name": "Bisoprolol",
@@ -1395,7 +1414,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Capsaicin"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB06774"
+    }
   },
   "Carbamazepine": {
     "name": "Carbamazepine",
@@ -1547,7 +1569,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Cefoxitin"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB01331"
+    }
   },
   "Ceftazidime": {
     "name": "Ceftazidime",
@@ -1777,7 +1802,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Cholecalciferol"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00169"
+    }
   },
   "Choline salicylate gel": {
     "name": "Choline salicylate gel",
@@ -2077,7 +2105,9 @@
   },
   "Cyanocobalamin": {
     "name": "Cyanocobalamin",
-    "alt-names": ["Vitamin B12"],
+    "alt-names": [
+      "Vitamin B12"
+    ],
     "clincalc": {
       "name": "Cyanocobalamin",
       "rank": 131,
@@ -2244,7 +2274,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Dapagliflozin"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB06292"
+    }
   },
   "Darunavir": {
     "name": "Darunavir",
@@ -2265,7 +2298,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Deferoxamine"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00746"
+    }
   },
   "Desloratadine": {
     "name": "Desloratadine",
@@ -2336,7 +2372,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Dexamethasone"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB01234"
+    }
   },
   "Dexamethasone; Neomycin; Polymyxin B": {
     "name": "Dexamethasone; Neomycin; Polymyxin B",
@@ -2509,7 +2548,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Diazepam"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00829"
+    }
   },
   "Diclofenac": {
     "name": "Diclofenac",
@@ -2653,7 +2695,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Docusate"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB11089"
+    }
   },
   "Docusate and sennoside B": {
     "name": "Docusate and sennoside B",
@@ -2666,7 +2711,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Dolutegravir"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB08930"
+    }
   },
   "Dolutegravir; lamivudine": {
     "name": "Dolutegravir; lamivudine",
@@ -2874,7 +2922,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Dulaglutide"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB09045"
+    }
   },
   "Duloxetine": {
     "name": "Duloxetine",
@@ -2919,7 +2970,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Empagliflozin"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB09038"
+    }
   },
   "Empagliflozin; metformin": {
     "name": "Empagliflozin; metformin",
@@ -3042,7 +3096,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Ergocalciferol"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00153"
+    }
   },
   "Ertapenem": {
     "name": "Ertapenem",
@@ -3139,7 +3196,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Ethambutol"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00330"
+    }
   },
   "Ethinyl Estradiol; Ethynodiol": {
     "name": "Ethinyl Estradiol; Ethynodiol",
@@ -3440,7 +3500,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Filgrastim"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00099"
+    }
   },
   "Finasteride": {
     "name": "Finasteride",
@@ -3482,7 +3545,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Flucloxacillin"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00301"
+    }
   },
   "Fluconazole": {
     "name": "Fluconazole",
@@ -3593,7 +3659,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Fluticasone"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00588"
+    }
   },
   "Fluticasone; Salmeterol": {
     "name": "Fluticasone; Salmeterol",
@@ -3632,7 +3701,7 @@
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Vilanterol"
+        "url": "https://en.wikipedia.org/wiki/Fluticasone_furoate/umeclidinium_bromide/vilanterol"
       },
       {
         "source": "Wikipedia",
@@ -3673,7 +3742,9 @@
   },
   "Folic Acid": {
     "name": "Folic Acid",
-    "alt-names": ["Folate"],
+    "alt-names": [
+      "Folate"
+    ],
     "clincalc": {
       "name": "Folic Acid",
       "rank": 65,
@@ -3796,7 +3867,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Gentamicin"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00798"
+    }
   },
   "Glecaprevir; pibrentasvir": {
     "name": "Glecaprevir; pibrentasvir",
@@ -3844,7 +3918,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Glimepiride"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00222"
+    }
   },
   "Glipizide": {
     "name": "Glipizide",
@@ -4109,7 +4186,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Hydroquinone"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB09526"
+    }
   },
   "Hydroxychloroquine": {
     "name": "Hydroxychloroquine",
@@ -4346,7 +4426,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Insulin_lispro"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00046"
+    }
   },
   "Ipratropium": {
     "name": "Ipratropium",
@@ -4418,7 +4501,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Isosorbide"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB09401"
+    }
   },
   "Isotretinoin": {
     "name": "Isotretinoin",
@@ -4607,7 +4693,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Lamotrigine"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00555"
+    }
   },
   "Lansoprazole": {
     "name": "Lansoprazole",
@@ -4682,7 +4771,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Levetiracetam"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB01202"
+    }
   },
   "Levocetirizine": {
     "name": "Levocetirizine",
@@ -4727,7 +4819,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Levomepromazine"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB01403"
+    }
   },
   "Levonorgestrel": {
     "name": "Levonorgestrel",
@@ -4754,7 +4849,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Levothyroxine"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00451"
+    }
   },
   "Lidocaine": {
     "name": "Lidocaine",
@@ -4769,7 +4867,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Lidocaine"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00281"
+    }
   },
   "Linaclotide": {
     "name": "Linaclotide",
@@ -4829,7 +4930,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Liraglutide"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB06655"
+    }
   },
   "Lisdexamfetamine": {
     "name": "Lisdexamfetamine",
@@ -4895,7 +4999,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Loperamide"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00836"
+    }
   },
   "Loratadine": {
     "name": "Loratadine",
@@ -4913,7 +5020,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Loratadine"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00455"
+    }
   },
   "Loratadine; Pseudoephedrine": {
     "name": "Loratadine; Pseudoephedrine",
@@ -4954,7 +5064,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Lorazepam"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00186"
+    }
   },
   "Lormetazepam": {
     "name": "Lormetazepam",
@@ -5056,7 +5169,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Meclizine"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00737"
+    }
   },
   "Medroxyprogesterone": {
     "name": "Medroxyprogesterone",
@@ -5119,7 +5235,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Melatonin"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB01065"
+    }
   },
   "Meloxicam": {
     "name": "Meloxicam",
@@ -5194,7 +5313,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Metformin"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00331"
+    }
   },
   "Metformin; Sitagliptin": {
     "name": "Metformin; Sitagliptin",
@@ -5430,7 +5552,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Minocycline"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB01017"
+    }
   },
   "Mirabegron": {
     "name": "Mirabegron",
@@ -5445,7 +5570,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Mirabegron"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB08893"
+    }
   },
   "Mirtazapine": {
     "name": "Mirtazapine",
@@ -5980,7 +6108,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Omega-3-acid_ethyl_esters"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB09539"
+    }
   },
   "Omeprazole": {
     "name": "Omeprazole",
@@ -6025,7 +6156,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Orlistat"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB01083"
+    }
   },
   "Ornidazole": {
     "name": "Ornidazole",
@@ -6237,7 +6371,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Permethrin"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB04930"
+    }
   },
   "Pethidine": {
     "name": "Pethidine",
@@ -6426,7 +6563,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Potassium_chloride"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00761"
+    }
   },
   "Pramipexole": {
     "name": "Pramipexole",
@@ -6507,7 +6647,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Prednisone"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00635"
+    }
   },
   "Pregabalin": {
     "name": "Pregabalin",
@@ -6558,7 +6701,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Procyclidine"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00387"
+    }
   },
   "Progesterone": {
     "name": "Progesterone",
@@ -6645,7 +6791,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Pyridoxine"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00165"
+    }
   },
   "Quetiapine": {
     "name": "Quetiapine",
@@ -6684,7 +6833,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Raltegravir"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB06817"
+    }
   },
   "Ramipril": {
     "name": "Ramipril",
@@ -6741,7 +6893,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Remdesivir"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB14761"
+    }
   },
   "Ribavirin": {
     "name": "Ribavirin",
@@ -6774,7 +6929,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Rifampicin"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB01045"
+    }
   },
   "Risedronate": {
     "name": "Risedronate",
@@ -6813,7 +6971,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Ritonavir"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00503"
+    }
   },
   "Rituximab": {
     "name": "Rituximab",
@@ -6995,7 +7156,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Semaglutide"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB13928"
+    }
   },
   "Senna; Docusate": {
     "name": "Senna; Docusate",
@@ -7217,7 +7381,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Sucralfate"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00364"
+    }
   },
   "Sulfacetamide; Sulfur": {
     "name": "Sulfacetamide; Sulfur",
@@ -7350,7 +7517,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Tecovirimat"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB12020"
+    }
   },
   "Teicoplanin": {
     "name": "Teicoplanin",
@@ -7389,7 +7559,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Temazepam"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00231"
+    }
   },
   "Tenofovir": {
     "name": "Tenofovir",
@@ -7449,7 +7622,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Terbutaline"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00871"
+    }
   },
   "Testosterone": {
     "name": "Testosterone",
@@ -7510,7 +7686,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Thiamine"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00152"
+    }
   },
   "Thyroid": {
     "name": "Thyroid",
@@ -7654,11 +7833,17 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Topiramate"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00273"
+    }
   },
   "Torsemide": {
     "name": "Torsemide",
-    "brand-names": ["Demadex", "Soaanz"],
+    "brand-names": [
+      "Demadex",
+      "Soaanz"
+    ],
     "clincalc": {
       "name": "Torsemide",
       "rank": 184,
@@ -7806,7 +7991,7 @@
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Vilanterol"
+        "url": "https://en.wikipedia.org/wiki/Umeclidinium_bromide/vilanterol"
       },
       {
         "source": "Wikipedia",
@@ -8084,7 +8269,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Zoledronic_acid"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00399"
+    }
   },
   "Zolpidem": {
     "name": "Zolpidem",

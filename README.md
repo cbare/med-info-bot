@@ -10,6 +10,7 @@ A project to organize information about prescription and over the counter medica
 - [My Medicines NZ][5]
 - Wikipedia
 - [DrugBank][3]
+- [MSD Manuals][6] - aka The Merck Manual
 
 
 [1]: https://clincalc.com/DrugStats/Top300Drugs.aspx
@@ -17,3 +18,4 @@ A project to organize information about prescription and over the counter medica
 [3]: https://go.drugbank.com/
 [4]: https://nzformulary.org/
 [5]: https://www.mymedicines.nz/
+[6]: https://www.msdmanuals.com/
