@@ -73,7 +73,8 @@
   "Acetaminophen; Codeine": {
     "name": "Acetaminophen; Codeine",
     "alt-names": [
-      "Paracetamol; Codeine"
+      "Paracetamol; Codeine",
+      "Paracetamol with codeine"
     ],
     "clincalc": {
       "name": "Acetaminophen; Codeine",
@@ -276,7 +277,8 @@
     "name": "Albuterol; Ipratropium",
     "alt-names": [
       "Ipratropium; Salbutamol",
-      "Albuterol Sulfate; Ipratropium Bromide"
+      "Albuterol Sulfate; Ipratropium Bromide",
+      "Salbutamol with ipratropium bromide"
     ],
     "brand-names": [
       "Combivent",
@@ -404,7 +406,10 @@
     ],
     "drugbank": {
       "accession": "DB00915"
-    }
+    },
+    "alt-names": [
+      "Amantadine hydrochloride"
+    ]
   },
   "Amikacin": {
     "name": "Amikacin",
@@ -428,11 +433,17 @@
     ],
     "drugbank": {
       "accession": "DB00594"
-    }
+    },
+    "alt-names": [
+      "Amiloride hydrochloride with furosemide"
+    ]
   },
   "Amiloride; hydrochlorothiazide": {
     "name": "Amiloride and hydrochlorothiazide",
-    "links": []
+    "links": [],
+    "alt-names": [
+      "Amiloride hydrochloride with hydrochlorothiazide"
+    ]
   },
   "Amiodarone": {
     "name": "Amiodarone",
@@ -450,6 +461,9 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Amiodarone"
       }
+    ],
+    "alt-names": [
+      "Amiodarone hydrochloride"
     ]
   },
   "Amitriptyline": {
@@ -536,7 +550,8 @@
   "Amoxicillin; Clavulanate": {
     "name": "Amoxicillin; Clavulanate",
     "alt-names": [
-      "Amoxicillin and clavulanic acid"
+      "Amoxicillin and clavulanic acid",
+      "Amoxicillin with clavulanic acid"
     ],
     "forms": [
       "injection",
@@ -735,11 +750,12 @@
       }
     ]
   },
-  "Atgam (antithymocyte immunoglobulin - equine)": {
+  "Atgam": {
     "name": "Atgam",
     "alt-names": [
       "anti-thymocyte immunoglobulin",
-      "Atgam (antithymocyte immunoglobulin - equine)"
+      "Atgam (antithymocyte immunoglobulin - equine)",
+      "Antithymocyte globulin (equine)"
     ],
     "links": [
       {
@@ -904,7 +920,15 @@
       "prescriptions_2022": 395502,
       "patients_2022": 202965
     },
-    "links": []
+    "links": [
+      {
+        "source": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Azelaic_acid"
+      }
+    ],
+    "drugbank": {
+      "accession": "DB00548"
+    }
   },
   "Azithromycin": {
     "name": "Azithromycin",
@@ -1307,7 +1331,10 @@
     ],
     "drugbank": {
       "accession": "DB01156"
-    }
+    },
+    "alt-names": [
+      "Bupropion hydrochloride"
+    ]
   },
   "Buspirone": {
     "name": "Buspirone",
@@ -1325,7 +1352,10 @@
     ],
     "drugbank": {
       "accession": "DB00490"
-    }
+    },
+    "alt-names": [
+      "Buspirone hydrochloride"
+    ]
   },
   "Cabergoline": {
     "name": "Cabergoline",
@@ -1684,7 +1714,10 @@
     ],
     "drugbank": {
       "accession": "DB00341"
-    }
+    },
+    "alt-names": [
+      "Cetirizine hydrochloride"
+    ]
   },
   "Chlorambucil": {
     "name": "Chlorambucil",
@@ -1729,12 +1762,16 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Chlorpheniramine"
       }
+    ],
+    "alt-names": [
+      "Chlorpheniramine maleate"
     ]
   },
   "Chlorpromazine": {
     "name": "Chlorpromazine",
     "alt-names": [
-      "CPZ"
+      "CPZ",
+      "Chlorpromazine hydrochloride"
     ],
     "brand-names": [
       "Thorazine",
@@ -1898,7 +1935,10 @@
     ],
     "drugbank": {
       "accession": "DB00215"
-    }
+    },
+    "alt-names": [
+      "Citalopram hydrobromide"
+    ]
   },
   "Clarithromycin": {
     "name": "Clarithromycin",
@@ -1955,6 +1995,9 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Clobetasol"
       }
+    ],
+    "alt-names": [
+      "Clobetasol propionate"
     ]
   },
   "Clomipramine": {
@@ -1967,7 +2010,10 @@
     ],
     "drugbank": {
       "accession": "DB01242"
-    }
+    },
+    "alt-names": [
+      "Clomipramine hydrochloride"
+    ]
   },
   "Clonazepam": {
     "name": "Clonazepam",
@@ -2223,6 +2269,9 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Cyproterone"
       }
+    ],
+    "alt-names": [
+      "Cyproterone acetate"
     ]
   },
   "Dabigatran": {
@@ -2569,7 +2618,10 @@
     ],
     "drugbank": {
       "accession": "DB00586"
-    }
+    },
+    "alt-names": [
+      "Diclofenac sodium"
+    ]
   },
   "Dicyclomine": {
     "name": "Dicyclomine",
@@ -2620,7 +2672,10 @@
     ],
     "drugbank": {
       "accession": "DB01551"
-    }
+    },
+    "alt-names": [
+      "Dihydrocodeine tartrate"
+    ]
   },
   "Diltiazem": {
     "name": "Diltiazem",
@@ -2638,7 +2693,10 @@
     ],
     "drugbank": {
       "accession": "DB00343"
-    }
+    },
+    "alt-names": [
+      "Diltiazem hydrochloride"
+    ]
   },
   "Diphenhydramine": {
     "name": "Diphenhydramine",
@@ -2843,7 +2901,10 @@
     ],
     "drugbank": {
       "accession": "DB01142"
-    }
+    },
+    "alt-names": [
+      "Doxepin hydrochloride"
+    ]
   },
   "Doxycycline": {
     "name": "Doxycycline",
@@ -3012,7 +3073,10 @@
     ],
     "drugbank": {
       "accession": "DB00584"
-    }
+    },
+    "alt-names": [
+      "Enalapril maleate"
+    ]
   },
   "Enoxaparin": {
     "name": "Enoxaparin",
@@ -3491,7 +3555,10 @@
     ],
     "drugbank": {
       "accession": "DB00950"
-    }
+    },
+    "alt-names": [
+      "Fexofenadine hydrochloride"
+    ]
   },
   "Filgrastim": {
     "name": "Filgrastim",
@@ -3632,7 +3699,10 @@
     ],
     "drugbank": {
       "accession": "DB00472"
-    }
+    },
+    "alt-names": [
+      "Fluoxetine hydrochloride"
+    ]
   },
   "Flutamide": {
     "name": "Flutamide",
@@ -3688,7 +3758,10 @@
     ],
     "drugbank": {
       "accession": "DB00938"
-    }
+    },
+    "alt-names": [
+      "Fluticasone with salmeterol"
+    ]
   },
   "Fluticasone; Umeclidinium; Vilanterol": {
     "name": "Fluticasone; Umeclidinium; Vilanterol",
@@ -3870,7 +3943,10 @@
     ],
     "drugbank": {
       "accession": "DB00798"
-    }
+    },
+    "alt-names": [
+      "Gentamicin sulphate"
+    ]
   },
   "Glecaprevir; pibrentasvir": {
     "name": "Glecaprevir; pibrentasvir",
@@ -4274,7 +4350,10 @@
     ],
     "drugbank": {
       "accession": "DB00458"
-    }
+    },
+    "alt-names": [
+      "Imipramine hydrochloride"
+    ]
   },
   "Imiquimod": {
     "name": "Imiquimod",
@@ -4486,6 +4565,9 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Isoniazid/rifampicin"
       }
+    ],
+    "alt-names": [
+      "Isoniazid with rifampicin"
     ]
   },
   "Isosorbide": {
@@ -4588,7 +4670,10 @@
     ],
     "drugbank": {
       "accession": "DB00465"
-    }
+    },
+    "alt-names": [
+      "Ketorolac  trometamol"
+    ]
   },
   "Ketotifen": {
     "name": "Ketotifen",
@@ -4648,6 +4733,9 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Lactate"
       }
+    ],
+    "alt-names": [
+      "Cyclizine lactate"
     ]
   },
   "Lactulose": {
@@ -4984,6 +5072,9 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Lithium"
       }
+    ],
+    "alt-names": [
+      "Lithium carbonate"
     ]
   },
   "Loperamide": {
@@ -5002,7 +5093,10 @@
     ],
     "drugbank": {
       "accession": "DB00836"
-    }
+    },
+    "alt-names": [
+      "Loperamide hydrochloride"
+    ]
   },
   "Loratadine": {
     "name": "Loratadine",
@@ -5139,6 +5233,9 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Magnesium_supplements"
       }
+    ],
+    "alt-names": [
+      "Magnesium chloride"
     ]
   },
   "Mebendazole": {
@@ -5316,7 +5413,10 @@
     ],
     "drugbank": {
       "accession": "DB00331"
-    }
+    },
+    "alt-names": [
+      "Metformin hydrochloride"
+    ]
   },
   "Metformin; Sitagliptin": {
     "name": "Metformin; Sitagliptin",
@@ -5351,7 +5451,10 @@
     ],
     "drugbank": {
       "accession": "DB00333"
-    }
+    },
+    "alt-names": [
+      "Methadone hydrochloride"
+    ]
   },
   "Methocarbamol": {
     "name": "Methocarbamol",
@@ -5417,7 +5520,10 @@
     ],
     "drugbank": {
       "accession": "DB00422"
-    }
+    },
+    "alt-names": [
+      "Methylphenidate hydrochloride"
+    ]
   },
   "Methylprednisolone": {
     "name": "Methylprednisolone",
@@ -5453,7 +5559,10 @@
     ],
     "drugbank": {
       "accession": "DB01233"
-    }
+    },
+    "alt-names": [
+      "Metoclopramide hydrochloride"
+    ]
   },
   "Metolazone": {
     "name": "Metolazone",
@@ -5483,7 +5592,10 @@
     ],
     "drugbank": {
       "accession": "DB00264"
-    }
+    },
+    "alt-names": [
+      "Metoprolol tartrate"
+    ]
   },
   "Metronidazole": {
     "name": "Metronidazole",
@@ -5651,7 +5763,10 @@
     ],
     "drugbank": {
       "accession": "DB00295"
-    }
+    },
+    "alt-names": [
+      "Morphine hydrochloride"
+    ]
   },
   "Moxifloxacin": {
     "name": "Moxifloxacin",
@@ -5747,7 +5862,10 @@
     ],
     "drugbank": {
       "accession": "DB00704"
-    }
+    },
+    "alt-names": [
+      "Naltrexone hydrochloride"
+    ]
   },
   "Naltrexone; bupropion": {
     "name": "Naltrexone and bupropion",
@@ -5991,7 +6109,10 @@
     ],
     "drugbank": {
       "accession": "DB00540"
-    }
+    },
+    "alt-names": [
+      "Nortriptyline hydrochloride"
+    ]
   },
   "Nystatin": {
     "name": "Nystatin",
@@ -6252,7 +6373,10 @@
     ],
     "drugbank": {
       "accession": "DB00497"
-    }
+    },
+    "alt-names": [
+      "Oxycodone hydrochloride"
+    ]
   },
   "Pamidronate": {
     "name": "Pamidronate",
@@ -6740,7 +6864,10 @@
     ],
     "drugbank": {
       "accession": "DB01069"
-    }
+    },
+    "alt-names": [
+      "Promethazine hydrochloride"
+    ]
   },
   "Propranolol": {
     "name": "Propranolol",
@@ -6794,7 +6921,10 @@
     ],
     "drugbank": {
       "accession": "DB00165"
-    }
+    },
+    "alt-names": [
+      "Pyridoxine hydrochloride"
+    ]
   },
   "Quetiapine": {
     "name": "Quetiapine",
@@ -7141,7 +7271,10 @@
     ],
     "drugbank": {
       "accession": "DB01037"
-    }
+    },
+    "alt-names": [
+      "Selegiline hydrochloride"
+    ]
   },
   "Semaglutide": {
     "name": "Semaglutide",
@@ -7242,7 +7375,10 @@
       "prescriptions_2022": 730442,
       "patients_2022": 421315
     },
-    "links": []
+    "links": [],
+    "alt-names": [
+      "Sulfadiazine silver"
+    ]
   },
   "Simvastatin": {
     "name": "Simvastatin",
@@ -7318,7 +7454,10 @@
       "prescriptions_2022": 1776480,
       "patients_2022": 595810
     },
-    "links": []
+    "links": [],
+    "alt-names": [
+      "Sodium chloride with sodium bicarbonate"
+    ]
   },
   "Solifenacin": {
     "name": "Solifenacin",
@@ -7490,7 +7629,10 @@
     ],
     "drugbank": {
       "accession": "DB00675"
-    }
+    },
+    "alt-names": [
+      "Tamoxifen citrate"
+    ]
   },
   "Tamsulosin": {
     "name": "Tamsulosin",
@@ -7876,7 +8018,10 @@
     ],
     "drugbank": {
       "accession": "DB00193"
-    }
+    },
+    "alt-names": [
+      "Tramadol hydrochloride"
+    ]
   },
   "Tranexamic acid": {
     "name": "Tranexamic acid",
@@ -7954,7 +8099,10 @@
     ],
     "drugbank": {
       "accession": "DB00620"
-    }
+    },
+    "alt-names": [
+      "Triamcinolone hexacetonide"
+    ]
   },
   "Trifluoperazine": {
     "name": "Trifluoperazine",
@@ -8064,7 +8212,8 @@
     "name": "Valproate",
     "alt-names": [
       "Valproate sodium",
-      "Sodium Valproate"
+      "Sodium Valproate",
+      "Sodium valproate"
     ],
     "clincalc": {
       "name": "Valproate",
@@ -8170,7 +8319,10 @@
     ],
     "drugbank": {
       "accession": "DB00661"
-    }
+    },
+    "alt-names": [
+      "Verapamil hydrochloride"
+    ]
   },
   "Vigabatrin": {
     "name": "Vigabatrin",
@@ -8306,6 +8458,13 @@
   },
   "Zuclopenthixol": {
     "name": "Zuclopenthixol",
+    "alt-names": [
+      "Zuclopentixol",
+      "Zuclopenthixolum",
+      "Zuclopenthixol acetate",
+      "Zuclopenthixol decanoate",
+      "Zuclopenthixol hydrochloride"
+    ],
     "links": [
       {
         "source": "Wikipedia",
