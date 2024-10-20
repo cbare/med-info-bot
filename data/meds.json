@@ -2348,6 +2348,20 @@
       "accession": "DB01264"
     }
   },
+  "Dasatinib": {
+    "name": "Dasatinib",
+    "brand-names": ["Sprycel"],
+    "description": "Dasatinib is a tyrosine kinase inhibitor used to treat chronic myeloid leukemia and acute lymphoblastic leukemia.",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dasatinib"
+      }
+    ],
+    "drugbank": {
+      "accession": "DB01254"
+    }
+  },
   "Deferoxamine": {
     "name": "Deferoxamine",
     "links": [
@@ -3178,6 +3192,20 @@
       "accession": "DB00153"
     }
   },
+  "Erlotinib": {
+    "name": "Erlotinib",
+    "brand-names": ["Tarceva"],
+    "description": "Erlotinib is an epidermal growth factor receptor (EGFR) inhibitor used to treat non-small cell lung cancer and pancreatic cancer.",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Erlotinib"
+      }
+    ],
+    "drugbank": {
+      "accession": "DB00530"
+    }
+  },
   "Ertapenem": {
     "name": "Ertapenem",
     "links": [
@@ -3928,6 +3956,20 @@
     "name": "Ganciclovir (injection)",
     "links": []
   },
+  "Gefitinib": {
+    "name": "Gefitinib",
+    "brand-names": ["Iressa"],
+    "description": "Gefitinib is an EGFR inhibitor used to treat non-small cell lung cancer with certain EGFR mutations.",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gefitinib"
+      }
+    ],
+    "drugbank": {
+      "accession": "DB00317"
+    }
+  },
   "Gemfibrozil": {
     "name": "Gemfibrozil",
     "clincalc": {
@@ -4325,6 +4367,20 @@
       }
     ]
   },
+  "Ibrutinib": {
+    "name": "Ibrutinib",
+    "brand-names": ["Imbruvica"],
+    "description": "Ibrutinib is a Bruton’s tyrosine kinase inhibitor used to treat B-cell cancers such as mantle cell lymphoma and chronic lymphocytic leukemia.",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ibrutinib"
+      }
+    ],
+    "drugbank": {
+      "accession": "DB09053"
+    }
+  },
   "Ibuprofen": {
     "name": "Ibuprofen",
     "clincalc": {
@@ -4352,6 +4408,20 @@
       "patients_2022": 438450
     },
     "links": []
+  },
+  "Imatinib": {
+    "name": "Imatinib",
+    "brand-names": ["Gleevec"],
+    "description": "Imatinib is a tyrosine kinase inhibitor used to treat chronic myeloid leukemia (CML) and gastrointestinal stromal tumors (GIST).",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Imatinib"
+      }
+    ],
+    "drugbank": {
+      "accession": "DB00619"
+    }
   },
   "Imipramine": {
     "name": "Imipramine",
@@ -7249,6 +7319,20 @@
       "accession": "DB00778"
     }
   },
+  "Ruxolitinib": {
+    "name": "Ruxolitinib",
+    "brand-names": ["Jakafi"],
+    "description": "Ruxolitinib is a Janus kinase (JAK) inhibitor used to treat myelofibrosis and polycythemia vera.",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ruxolitinib"
+      }
+    ],
+    "drugbank": {
+      "accession": "DB08877"
+    }
+  },
   "Sacubitril; Valsartan": {
     "name": "Sacubitril; Valsartan",
     "clincalc": {
@@ -7517,6 +7601,20 @@
       "accession": "DB01591"
     }
   },
+  "Sorafenib": {
+    "name": "Sorafenib",
+    "brand-names": ["Nexavar"],
+    "description": "Sorafenib is a kinase inhibitor used to treat hepatocellular carcinoma, renal cell carcinoma, and thyroid cancer.",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sorafenib"
+      }
+    ],
+    "drugbank": {
+      "accession": "DB00398"
+    }
+  },
   "Sotalol": {
     "name": "Sotalol",
     "links": [
@@ -7639,6 +7737,20 @@
     ],
     "drugbank": {
       "accession": "DB00669"
+    }
+  },
+  "Sunitinib": {
+    "name": "Sunitinib",
+    "brand-names": ["Sutent"],
+    "description": "Sunitinib is a multi-targeted receptor tyrosine kinase inhibitor used to treat renal cell carcinoma and gastrointestinal stromal tumors.",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sunitinib"
+      }
+    ],
+    "drugbank": {
+      "accession": "DB01268"
     }
   },
   "Tadalafil": {
@@ -7995,6 +8107,20 @@
       "accession": "DB00684"
     }
   },
+  "Tofacitinib": {
+    "name": "Tofacitinib",
+    "brand-names": ["Xeljanz"],
+    "description": "Tofacitinib is a Janus kinase (JAK) inhibitor used to treat rheumatoid arthritis and ulcerative colitis.",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tofacitinib"
+      }
+    ],
+    "drugbank": {
+      "accession": "DB08895"
+    }
+  },
   "Tolcapone": {
     "name": "Tolcapone",
     "links": [
@@ -8332,6 +8458,20 @@
     ],
     "drugbank": {
       "accession": "DB01273"
+    }
+  },
+  "Vemurafenib": {
+    "name": "Vemurafenib",
+    "brand-names": ["Zelboraf"],
+    "description": "Vemurafenib is a BRAF inhibitor used to treat BRAF-mutated metastatic melanoma.",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Vemurafenib"
+      }
+    ],
+    "drugbank": {
+      "accession": "DB08881"
     }
   },
   "Venlafaxine": {
