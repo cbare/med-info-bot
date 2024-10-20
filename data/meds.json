@@ -199,6 +199,8 @@
   },
   "Adalimumab": {
     "name": "Adalimumab",
+    "brand-names":  ["Humira"],
+    "description": "Used to treat autoimmune conditions such as rheumatoid arthritis, Crohn's disease, and psoriasis by targeting TNF-alpha.",
     "clincalc": {
       "name": "Adalimumab",
       "rank": 241,
@@ -701,7 +703,8 @@
   "Aspirin": {
     "name": "Aspirin",
     "alt-names": [
-      "acetylsalicylic acid"
+      "acetylsalicylic acid",
+      "Salicylic acid"
     ],
     "clincalc": {
       "name": "Aspirin",
@@ -1118,6 +1121,11 @@
         "url": "https://en.wikipedia.org/wiki/Clotrimazole/betamethasone_dipropionate"
       }
     ]
+  },
+  "Bevacizumab": {
+    "name": "Bevacizumab",
+    "brand-names":  ["Avastin"],
+    "description": "Used in cancer therapy for conditions like colorectal and lung cancer by inhibiting vascular endothelial growth factor (VEGF)."
   },
   "Bezafibrate": {
     "name": "Bezafibrate",
@@ -3006,6 +3014,11 @@
       "accession": "DB00476"
     }
   },
+  "Dupilumab": {
+    "name": "Dupilumab",
+    "brand-names":  ["Dupixent"],
+    "description": "Treats moderate-to-severe atopic dermatitis, asthma, and chronic rhinosinusitis by targeting IL-4 and IL-13 receptors."
+  },
   "Efavirenz": {
     "name": "Efavirenz",
     "links": [
@@ -4400,6 +4413,11 @@
       "accession": "DB00328"
     }
   },
+  "Infliximab": {
+    "name": "Infliximab",
+    "brand-names":  ["Remicade"],
+    "description": "Used for autoimmune diseases such as Crohn's disease, ulcerative colitis, and rheumatoid arthritis by inhibiting TNF-alpha."
+  },
   "Insulin Aspart": {
     "name": "Insulin Aspart",
     "clincalc": {
@@ -4672,7 +4690,7 @@
       "accession": "DB00465"
     },
     "alt-names": [
-      "Ketorolac  trometamol"
+      "Ketorolac trometamol"
     ]
   },
   "Ketotifen": {
@@ -6051,6 +6069,11 @@
       "accession": "DB00727"
     }
   },
+  "Nivolumab": {
+    "name": "Nivolumab",
+    "brand-names":  ["Opdivo"],
+    "description": "A PD-1 checkpoint inhibitor used to treat cancers like melanoma, non-small cell lung cancer, and renal cell carcinoma."
+  },
   "Norethindrone": {
     "name": "Norethindrone",
     "clincalc": {
@@ -6215,6 +6238,11 @@
     "drugbank": {
       "accession": "DB01250"
     }
+  },
+  "Omalizumab": {
+    "name": "Omalizumab",
+    "brand-names":  ["Xolair"],
+    "description": "Treats allergic asthma and chronic idiopathic urticaria by targeting IgE to reduce allergic response."
   },
   "Omega-3-acid Ethyl Esters": {
     "name": "Omega-3-acid Ethyl Esters",
@@ -6453,6 +6481,11 @@
     "drugbank": {
       "accession": "DB00715"
     }
+  },
+  "Pembrolizumab": {
+    "name": "Pembrolizumab",
+    "brand-names":  ["Keytruda"],
+    "description": "An immune checkpoint inhibitor used to treat various cancers, including melanoma and lung cancer, by targeting PD-1."
   },
   "Penicillin V": {
     "name": "Penicillin V",
@@ -7108,6 +7141,8 @@
   },
   "Rituximab": {
     "name": "Rituximab",
+    "brand-names":  ["Rituxan"],
+    "description": "Treats conditions like non-Hodgkin's lymphoma, chronic lymphocytic leukemia, and rheumatoid arthritis by targeting CD20 on B cells.",
     "links": [
       {
         "source": "Wikipedia",
@@ -7260,6 +7295,11 @@
     "drugbank": {
       "accession": "DB06335"
     }
+  },
+  "Secukinumab": {
+    "name": "Secukinumab",
+    "brand-names":  ["Cosentyx"],
+    "description": "Used to treat plaque psoriasis, ankylosing spondylitis, and psoriatic arthritis by targeting IL-17A."
   },
   "Selegiline": {
     "name": "Selegiline",
@@ -7771,6 +7811,11 @@
   },
   "Testosterone": {
     "name": "Testosterone",
+    "alt-names": [
+      "Testosterone cipionate",
+      "Testosterone esters",
+      "Testosterone undecanoate"
+    ],
     "clincalc": {
       "name": "Testosterone",
       "rank": 118,
@@ -8047,6 +8092,11 @@
       "accession": "DB00752"
     }
   },
+  "Trastuzumab": {
+    "name": "Trastuzumab",
+    "brand-names":  ["Herceptin"],
+    "description": "Used to treat HER2-positive breast cancer and gastric cancer by targeting the HER2 receptor."
+  },
   "Trazodone": {
     "name": "Trazodone",
     "clincalc": {
@@ -8212,8 +8262,7 @@
     "name": "Valproate",
     "alt-names": [
       "Valproate sodium",
-      "Sodium Valproate",
-      "Sodium valproate"
+      "Sodium Valproate"
     ],
     "clincalc": {
       "name": "Valproate",
@@ -8350,6 +8399,7 @@
   },
   "Vildagliptin; metformin": {
     "name": "Vildagliptin; metformin",
+    "alt-names": ["Vildagliptin with metformin hydrochloride"],
     "links": [
       {
         "source": "Wikipedia",
@@ -8395,6 +8445,7 @@
   },
   "Warfarin": {
     "name": "Warfarin",
+    "alt-names": ["Warfarin sodium"],
     "clincalc": {
       "name": "Warfarin",
       "rank": 85,
@@ -8410,6 +8461,29 @@
         "url": "https://en.wikipedia.org/wiki/Warfarin"
       }
     ]
+  },
+  "Xylometazoline": {
+    "name": "Xylometazoline",
+    "alt-names": ["Xylometazoline hydrochloride"],
+    "description": "Xylometazoline is a direct-acting alpha-adrenergic agonist used for the treatment of nasal congestion.",
+    "drugbank": {
+      "accession": "DB06694"
+    }
+  },
+  "Zanamivir": {
+    "name": "Zanamivir",
+    "description": "Zanamivir is a neuraminidase inhibitor used to treat influenza A and B.",
+    "drugbank": {
+      "accession": "DB00558"
+    }
+  },
+  "Zidovudine": {
+    "name": "Zidovudine",
+    "alt-names": ["Zidovudine [AZT]", "AZT"]
+  },
+  "Ziprasidone": {
+    "name": "Ziprasidone",
+    "": "Ziprasidone is an atypical antipsychotic used to manage schizophrenia and bipolar mania"
   },
   "Zoledronic acid": {
     "name": "Zoledronic acid",
