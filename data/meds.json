@@ -767,6 +767,20 @@
       }
     ]
   },
+  "Atogepant": {
+    "name": "Atogepant",
+    "brand-names": ["Qulipta"],
+    "description": "Atogepant is a small molecule CGRP receptor antagonist (gepant) used for the preventive treatment of migraines.",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Atogepant"
+      }
+    ],
+    "drugbank": {
+      "accession": "DB15104"
+    }
+  },
   "Atomoxetine": {
     "name": "Atomoxetine",
     "description": "Atomoxetine is a selective norepinephrine reuptake inhibitor (SNRI) used in the management of attention deficit hyperactivity disorder (ADHD).",
@@ -3171,6 +3185,34 @@
       "accession": "DB00700"
     }
   },
+  "Eptinezumab": {
+    "name": "Eptinezumab",
+    "brand-names": ["Vyepti"],
+    "description": "Eptinezumab is a monoclonal antibody that targets the calcitonin gene-related peptide (CGRP) ligand, used for the preventive treatment of migraines.",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Eptinezumab"
+      }
+    ],
+    "drugbank": {
+      "accession": "DB12944"
+    }
+  },
+  "Erenumab": {
+    "name": "Erenumab",
+    "brand-names": ["Aimovig"],
+    "description": "Erenumab is a monoclonal antibody that targets the calcitonin gene-related peptide (CGRP) receptor, used for migraine prevention.",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Erenumab"
+      }
+    ],
+    "drugbank": {
+      "accession": "DB13950"
+    }
+  },
   "Ergocalciferol": {
     "name": "Ergocalciferol",
     "alt-names": [
@@ -3887,6 +3929,20 @@
       "accession": "DB00983"
     }
   },
+  "Fremanezumab": {
+    "name": "Fremanezumab",
+    "brand-names": ["Ajovy"],
+    "description": "Fremanezumab is a monoclonal antibody that targets the calcitonin gene-related peptide (CGRP) ligand, used for migraine prevention.",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fremanezumab"
+      }
+    ],
+    "drugbank": {
+      "accession": "DB13951"
+    }
+  },
   "Furosemide": {
     "name": "Furosemide",
     "clincalc": {
@@ -3952,9 +4008,19 @@
       "accession": "DB00674"
     }
   },
-  "Ganciclovir (injection)": {
-    "name": "Ganciclovir (injection)",
-    "links": []
+  "Galcanezumab": {
+    "name": "Galcanezumab",
+    "brand-names": ["Emgality"],
+    "description": "Galcanezumab is a monoclonal antibody that targets the calcitonin gene-related peptide (CGRP) ligand, used to prevent migraines and cluster headaches.",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Galcanezumab"
+      }
+    ],
+    "drugbank": {
+      "accession": "DB14039"
+    }
   },
   "Gefitinib": {
     "name": "Gefitinib",
@@ -7167,6 +7233,20 @@
       "accession": "DB01045"
     }
   },
+  "Rimegepant": {
+    "name": "Rimegepant",
+    "brand-names": ["Nurtec ODT"],
+    "description": "Rimegepant is a small molecule CGRP receptor antagonist (gepant) used for the acute treatment of migraine and preventive treatment.",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Rimegepant"
+      }
+    ],
+    "drugbank": {
+      "accession": "DB11857"
+    }
+  },
   "Risedronate": {
     "name": "Risedronate",
     "drugbank": {
@@ -8304,6 +8384,20 @@
       "accession": "DB00440"
     }
   },
+  "Ubrogepant": {
+    "name": "Ubrogepant",
+    "brand-names": ["Ubrelvy"],
+    "description": "Ubrogepant is a small molecule CGRP receptor antagonist (gepant) used for the acute treatment of migraine attacks.",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ubrogepant"
+      }
+    ],
+    "drugbank": {
+      "accession": "DB12363"
+    }
+  },
   "Umeclidinium; Vilanterol": {
     "name": "Umeclidinium; Vilanterol",
     "clincalc": {
@@ -8615,6 +8709,20 @@
     "description": "Zanamivir is a neuraminidase inhibitor used to treat influenza A and B.",
     "drugbank": {
       "accession": "DB00558"
+    }
+  },
+  "Zavegepant": {
+    "name": "Zavegepant",
+    "brand-names": ["Zavzpret"],
+    "description": "Zavegepant is a small molecule CGRP receptor antagonist (gepant) used for the acute treatment of migraine, available as a nasal spray.",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Zavegepant"
+      }
+    ],
+    "drugbank": {
+      "accession": "DB16247"
     }
   },
   "Zidovudine": {
