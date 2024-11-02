@@ -2,7 +2,7 @@
   "Abciximab": {
     "name": "Abciximab",
     "brand-names": [
-      "ReoPro"
+      "Any brand"
     ],
     "links": [
       {
@@ -26,7 +26,10 @@
         "tg2": "Immunosuppressants",
         "tg3": "Monoclonal Antibodies"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00054"
+    }
   },
   "Acarbose": {
     "name": "Acarbose",
@@ -672,7 +675,10 @@
         "tg2": "Antiarrhythmics",
         "tg3": "Antiarrhythmics"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00640"
+    }
   },
   "Adrenaline": {
     "name": "Adrenaline",
@@ -1151,6 +1157,9 @@
   },
   "Alteplase": {
     "name": "Alteplase",
+    "brand-names": [
+      "Any brand"
+    ],
     "links": [
       {
         "source": "Wikipedia",
@@ -1185,7 +1194,10 @@
         "tg2": "Antithrombotics",
         "tg3": "Fibrinolytic Agents"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00009"
+    }
   },
   "Amantadine": {
     "name": "Amantadine",
@@ -1224,7 +1236,7 @@
   "Ambrisentan": {
     "name": "Ambrisentan",
     "brand-names": [
-      "Letairis"
+      "Ambrisentan Viatris"
     ],
     "links": [
       {
@@ -1260,7 +1272,10 @@
         "tg2": "Vasodilators",
         "tg3": "Endothelin Receptor Antagonists"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB06403"
+    }
   },
   "Amikacin": {
     "name": "Amikacin",
@@ -2865,7 +2880,10 @@
         "tg2": "Immunosuppressants",
         "tg3": "Monoclonal Antibodies"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00074"
+    }
   },
   "Beclometasone": {
     "name": "Beclometasone",
@@ -3078,7 +3096,10 @@
         "tg2": "Pulmonary Surfactants",
         "tg3": "Pulmonary Surfactants"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB06761"
+    }
   },
   "Betahistine": {
     "name": "Betahistine",
@@ -3259,7 +3280,10 @@
         "tg2": "Glaucoma Preparations",
         "tg3": "Beta Blockers"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00195"
+    }
   },
   "Bevacizumab": {
     "name": "Bevacizumab",
@@ -3532,7 +3556,9 @@
   },
   "Bortezomib": {
     "name": "Bortezomib",
-    "brand-names": [],
+    "brand-names": [
+      "DBL Bortezomib"
+    ],
     "links": [
       {
         "source": "Wikipedia",
@@ -3558,7 +3584,10 @@
         "tg2": "Chemotherapeutic Agents",
         "tg3": "Other Cytotoxic Agents"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00188"
+    }
   },
   "Brimonidine": {
     "name": "Brimonidine",
@@ -5163,7 +5192,10 @@
         "tg2": "Immunosuppressants",
         "tg3": "Monoclonal Antibodies"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00002"
+    }
   },
   "Chlorambucil": {
     "name": "Chlorambucil",
@@ -5770,7 +5802,10 @@
         "tg2": "Chemotherapeutic Agents",
         "tg3": "Platinum Compounds"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00515"
+    }
   },
   "Citalopram": {
     "name": "Citalopram",
@@ -5880,7 +5915,10 @@
         "tg2": "Chemotherapeutic Agents",
         "tg3": "Antimetabolites"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00242"
+    }
   },
   "Clarithromycin": {
     "name": "Clarithromycin",
@@ -6108,7 +6146,10 @@
         "tg2": "Antimycobacterials",
         "tg3": "Antileprotics"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00845"
+    }
   },
   "Clomifene": {
     "name": "Clomifene",
@@ -6140,7 +6181,10 @@
         "tg2": "Other Endocrine Agents",
         "tg3": "Other Endocrine Agents"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00882"
+    }
   },
   "Clomipramine": {
     "name": "Clomipramine",
@@ -6461,7 +6505,10 @@
         "tg2": "Anti-Infective Agents",
         "tg3": "Anti-Infective Agents"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00257"
+    }
   },
   "Clozapine": {
     "name": "Clozapine",
@@ -6617,7 +6664,10 @@
         "tg2": "Antipsychotic Agents",
         "tg3": "General"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00363"
+    }
   },
   "Codeine": {
     "name": "Codeine",
@@ -6775,7 +6825,10 @@
         "tg2": "Lipid-Modifying Agents",
         "tg3": "Resins"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00375"
+    }
   },
   "Colestyramine": {
     "name": "Colestyramine",
@@ -6936,7 +6989,10 @@
         "tg2": "Mydriatics and Cycloplegics",
         "tg3": "Anticholinergic Agents"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00979"
+    }
   },
   "Cyclophosphamide": {
     "name": "Cyclophosphamide",
@@ -7021,7 +7077,10 @@
         "tg2": "Antimycobacterials",
         "tg3": "Antituberculotics"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00260"
+    }
   },
   "Cyclosporine": {
     "name": "Cyclosporine",
@@ -7286,7 +7345,10 @@
         "tg2": "Chemotherapeutic Agents",
         "tg3": "Antimetabolites"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00987"
+    }
   },
   "Dabigatran": {
     "name": "Dabigatran",
@@ -7367,7 +7429,10 @@
         "tg2": "Chemotherapeutic Agents",
         "tg3": "Other Cytotoxic Agents"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00851"
+    }
   },
   "Dactinomycin": {
     "name": "Dactinomycin",
@@ -7548,7 +7613,10 @@
         "tg2": "Antimycobacterials",
         "tg3": "Antileprotics"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00250"
+    }
   },
   "Daptomycin": {
     "name": "Daptomycin",
@@ -7580,7 +7648,10 @@
         "tg2": "Antibacterials",
         "tg3": "Other Antibacterials"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00080"
+    }
   },
   "Darunavir": {
     "name": "Darunavir",
@@ -7732,7 +7803,10 @@
         "tg2": "Chemotherapeutic Agents",
         "tg3": "Anthracyclines and Other Cytotoxic Antibiotics"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00694"
+    }
   },
   "Deferasirox": {
     "name": "Deferasirox",
@@ -7782,7 +7856,10 @@
         "tg2": "Agents Used in the Treatment of Poisonings",
         "tg3": "Removal and Elimination"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB01609"
+    }
   },
   "Deferiprone": {
     "name": "Deferiprone",
@@ -7823,7 +7900,10 @@
         "tg2": "Agents Used in the Treatment of Poisonings",
         "tg3": "Removal and Elimination"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB08826"
+    }
   },
   "Deferoxamine": {
     "name": "Deferoxamine",
@@ -7905,7 +7985,10 @@
         "tg2": "Antibacterials",
         "tg3": "Tetracyclines"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00618"
+    }
   },
   "Denosumab": {
     "name": "Denosumab",
@@ -7937,7 +8020,10 @@
         "tg2": "Drugs Affecting Bone Metabolism",
         "tg3": "Other Drugs Affecting Bone Metabolism"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB06643"
+    }
   },
   "Desferrioxamine": {
     "name": "Desferrioxamine",
@@ -8001,7 +8087,10 @@
         "tg2": "Anaesthetics",
         "tg3": "General Anaesthetics"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB01189"
+    }
   },
   "Desloratadine": {
     "name": "Desloratadine",
@@ -8090,7 +8179,10 @@
         "tg2": "Vasopressin Agents",
         "tg3": "Vasopressin Agents"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00035"
+    }
   },
   "Desogestrel; Ethinyl Estradiol": {
     "name": "Desogestrel; Ethinyl Estradiol",
@@ -8447,7 +8539,10 @@
         "tg2": "Anaesthetics",
         "tg3": "General Anaesthetics"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00633"
+    }
   },
   "Dexmethylphenidate": {
     "name": "Dexmethylphenidate",
@@ -8494,7 +8589,10 @@
         "tg2": "Chemotherapeutic Agents",
         "tg3": "Treatment of Cytotoxic-Induced Side Effects"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00380"
+    }
   },
   "Dextroamphetamine; Dextroamphetamine Saccharate; Amphetamine; Amphetamine Aspartate": {
     "name": "Dextroamphetamine; Dextroamphetamine Saccharate; Amphetamine; Amphetamine Aspartate",
@@ -8711,7 +8809,10 @@
         "tg2": "Vasodilators",
         "tg3": "Vasodilators"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB01119"
+    }
   },
   "Diclofenac": {
     "name": "Diclofenac",
@@ -9002,7 +9103,10 @@
         "tg2": "Antimigraine Preparations",
         "tg3": "Acute Migraine Treatment"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00320"
+    }
   },
   "Diltiazem": {
     "name": "Diltiazem",
@@ -9397,7 +9501,10 @@
         "tg2": "Sympathomimetics",
         "tg3": "Sympathomimetics"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00841"
+    }
   },
   "Docetaxel": {
     "name": "Docetaxel",
@@ -9704,7 +9811,10 @@
         "tg2": "Mucolytics and Expectorants",
         "tg3": "Mucolytics and Expectorants"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00003"
+    }
   },
   "Dorzolamide": {
     "name": "Dorzolamide",
@@ -9846,7 +9956,10 @@
         "tg2": "Respiratory Stimulants",
         "tg3": "Respiratory Stimulants"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00561"
+    }
   },
   "Doxazosin": {
     "name": "Doxazosin",
@@ -10003,7 +10116,10 @@
         "tg2": "Chemotherapeutic Agents",
         "tg3": "Anthracyclines and Other Cytotoxic Antibiotics"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00997"
+    }
   },
   "Doxycycline": {
     "name": "Doxycycline",
@@ -10268,7 +10384,10 @@
         "tg2": "Anti-Infective Preparations",
         "tg3": "Antifungals"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB01127"
+    }
   },
   "Edrophonium": {
     "name": "Edrophonium",
@@ -10303,7 +10422,10 @@
         "tg2": "Anticholinesterases",
         "tg3": "Anticholinesterases"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB01010"
+    }
   },
   "Efavirenz": {
     "name": "Efavirenz",
@@ -10584,7 +10706,10 @@
         "tg2": "Antifibrinolytics, Haemostatics and Local Sclerosants",
         "tg3": "Antifibrinolytics, Haemostatics and Local Sclerosants"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB06210"
+    }
   },
   "Emicizumab": {
     "name": "Emicizumab",
@@ -11068,7 +11193,10 @@
         "tg2": "Sympathomimetics",
         "tg3": "Sympathomimetics"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB01364"
+    }
   },
   "Epinephrine": {
     "name": "Epinephrine",
@@ -11136,7 +11264,10 @@
         "tg2": "Chemotherapeutic Agents",
         "tg3": "Anthracyclines and Other Cytotoxic Antibiotics"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00445"
+    }
   },
   "Eplerenone": {
     "name": "Eplerenone",
@@ -11280,7 +11411,10 @@
         "tg2": "Antianaemics",
         "tg3": "Hypoplastic and Haemolytic"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00016"
+    }
   },
   "Epoetin beta": {
     "name": "Epoetin beta",
@@ -11339,7 +11473,10 @@
         "tg2": "Antianaemics",
         "tg3": "Hypoplastic and Haemolytic"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00016"
+    }
   },
   "Epoprostenol": {
     "name": "Epoprostenol",
@@ -11480,7 +11617,10 @@
         "tg2": "Antithrombotics",
         "tg3": "Antiplatelets"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00063"
+    }
   },
   "Eptinezumab": {
     "name": "Eptinezumab",
@@ -11565,7 +11705,10 @@
         "tg2": "Obstetric Preparations",
         "tg3": "Oxytocics"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB01253"
+    }
   },
   "Erlotinib": {
     "name": "Erlotinib",
@@ -12116,7 +12259,10 @@
         "tg2": "Anaesthetics",
         "tg3": "General Anaesthetics"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00292"
+    }
   },
   "Etoposide": {
     "name": "Etoposide",
@@ -12166,7 +12312,10 @@
         "tg2": "Chemotherapeutic Agents",
         "tg3": "Other Cytotoxic Agents"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00773"
+    }
   },
   "Etoricoxib": {
     "name": "Etoricoxib",
@@ -12213,7 +12362,10 @@
         "tg2": "Non-Steroidal Anti-Inflammatory Drugs",
         "tg3": "Non-Steroidal Anti-Inflammatory Drugs"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB01628"
+    }
   },
   "Etravirine": {
     "name": "Etravirine",
@@ -13144,7 +13296,10 @@
         "tg2": "Antifungals",
         "tg3": "Other Antifungals"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB01099"
+    }
   },
   "Fludarabine": {
     "name": "Fludarabine",
@@ -13194,7 +13349,10 @@
         "tg2": "Chemotherapeutic Agents",
         "tg3": "Antimetabolites"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB01073"
+    }
   },
   "Fludrocortisone": {
     "name": "Fludrocortisone",
@@ -13266,7 +13424,10 @@
         "tg2": "Agents Used in the Treatment of Poisonings",
         "tg3": "Antidotes"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB01205"
+    }
   },
   "Flumetasone; Clioquinol": {
     "name": "Flumetasone; Clioquinol",
@@ -13386,7 +13547,10 @@
         "tg2": "Anti-Inflammatory Preparations",
         "tg3": "Corticosteroids"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00324"
+    }
   },
   "Fluorouracil": {
     "name": "Fluorouracil",
@@ -13945,7 +14109,10 @@
         "tg2": "Antithrombotics",
         "tg3": "Anticoagulants"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00569"
+    }
   },
   "Formoterol": {
     "name": "Formoterol",
@@ -13986,7 +14153,10 @@
         "tg2": "Antivirals",
         "tg3": "Herpesviridae"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00529"
+    }
   },
   "Fosfomycin": {
     "name": "Fosfomycin",
@@ -14015,7 +14185,10 @@
         "tg2": "Antibacterials",
         "tg3": "Other Antibacterials"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00828"
+    }
   },
   "Framycetin": {
     "name": "Framycetin",
@@ -14293,7 +14466,10 @@
         "tg2": "Contrast Media",
         "tg3": "Paramagnetic Contrast Media"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB06703"
+    }
   },
   "Gadoteric acid": {
     "name": "Gadoteric acid",
@@ -14409,7 +14585,10 @@
         "tg2": "Contrast Media",
         "tg3": "Paramagnetic Contrast Media"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB09132"
+    }
   },
   "Gadoxetate": {
     "name": "Gadoxetate",
@@ -14533,7 +14712,10 @@
         "tg2": "Antivirals",
         "tg3": "Herpesviridae"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB01004"
+    }
   },
   "Gefitinib": {
     "name": "Gefitinib",
@@ -14632,7 +14814,10 @@
         "tg2": "Chemotherapeutic Agents",
         "tg3": "Antimetabolites"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00441"
+    }
   },
   "Gemfibrozil": {
     "name": "Gemfibrozil",
@@ -14682,7 +14867,10 @@
         "tg2": "Immunosuppressants",
         "tg3": "Monoclonal Antibodies"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00056"
+    }
   },
   "Gentamicin": {
     "name": "Gentamicin",
@@ -14775,7 +14963,10 @@
         "tg2": "Other Endocrine Agents",
         "tg3": "Other Endocrine Agents"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB11619"
+    }
   },
   "Glatiramer": {
     "name": "Glatiramer",
@@ -15053,7 +15244,10 @@
         "tg2": "Antinausea and Vertigo Agents",
         "tg3": "Antinausea and Vertigo Agents"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00889"
+    }
   },
   "Guaifenesin": {
     "name": "Guaifenesin",
@@ -15894,7 +16088,10 @@
         "tg2": "Antiallergy Preparations",
         "tg3": "Allergic Emergencies"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB06196"
+    }
   },
   "Icosapent Ethyl": {
     "name": "Icosapent Ethyl",
@@ -15945,7 +16142,10 @@
         "tg2": "Chemotherapeutic Agents",
         "tg3": "Anthracyclines and Other Cytotoxic Antibiotics"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB01177"
+    }
   },
   "Idarucizumab": {
     "name": "Idarucizumab",
@@ -16009,7 +16209,10 @@
         "tg2": "Metabolic Disorder Agents",
         "tg3": "Metabolic Disorder Agents"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB01271"
+    }
   },
   "Ifosfamide": {
     "name": "Ifosfamide",
@@ -16050,7 +16253,10 @@
         "tg2": "Chemotherapeutic Agents",
         "tg3": "Alkylating Agents"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB01181"
+    }
   },
   "Iloprost": {
     "name": "Iloprost",
@@ -16091,7 +16297,10 @@
         "tg2": "Vasodilators",
         "tg3": "Prostacyclin Analogues"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB01088"
+    }
   },
   "Imatinib": {
     "name": "Imatinib",
@@ -16366,7 +16575,10 @@
         "tg2": "Antiretrovirals",
         "tg3": "Protease Inhibitors"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00224"
+    }
   },
   "Indomethacin": {
     "name": "Indomethacin",
@@ -16822,7 +17034,10 @@
         "tg2": "Chemotherapeutic Agents",
         "tg3": "Other Cytotoxic Agents"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00762"
+    }
   },
   "Isoflurane": {
     "name": "Isoflurane",
@@ -16969,7 +17184,10 @@
         "tg2": "Sympathomimetics",
         "tg3": "Sympathomimetics"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB01064"
+    }
   },
   "Isosorbide": {
     "name": "Isosorbide",
@@ -17108,7 +17326,10 @@
         "tg2": "Calcium Channel Blockers",
         "tg3": "Dihydropyridine Calcium Channel Blockers"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00270"
+    }
   },
   "Itraconazole": {
     "name": "Itraconazole",
@@ -17174,7 +17395,10 @@
         "tg2": "Antiarrhythmics",
         "tg3": "Antiarrhythmics"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB09083"
+    }
   },
   "Ivacaftor": {
     "name": "Ivacaftor",
@@ -17224,7 +17448,10 @@
         "tg2": "Mucolytics and Expectorants",
         "tg3": "Mucolytics and Expectorants"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB08820"
+    }
   },
   "Ivermectin": {
     "name": "Ivermectin",
@@ -17305,7 +17532,10 @@
         "tg2": "Anaesthetics",
         "tg3": "General Anaesthetics"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB01221"
+    }
   },
   "Ketoconazole": {
     "name": "Ketoconazole",
@@ -17844,7 +18074,10 @@
         "tg2": "Chemotherapeutic Agents",
         "tg3": "Protein-Tyrosine Kinase Inhibitors"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB01259"
+    }
   },
   "Laronidase": {
     "name": "Laronidase",
@@ -18130,7 +18363,10 @@
         "tg2": "Chemotherapeutic Agents",
         "tg3": "Other Cytotoxic Agents"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00480"
+    }
   },
   "Letrozole": {
     "name": "Letrozole",
@@ -18202,7 +18438,10 @@
         "tg2": "Pituitary and Hypothalamic Hormones and Analogues",
         "tg3": "GnRH Agonists and Antagonists"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00007"
+    }
   },
   "Levetiracetam": {
     "name": "Levetiracetam",
@@ -18313,7 +18552,10 @@
         "tg2": "Decongestants and Antiallergics",
         "tg3": "Antiallergic Preparations"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB01106"
+    }
   },
   "Levocarnitine": {
     "name": "Levocarnitine",
@@ -18574,7 +18816,10 @@
         "tg2": "Other Cardiac Agents",
         "tg3": "Other Cardiac Agents"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00922"
+    }
   },
   "Levothyroxine": {
     "name": "Levothyroxine",
@@ -19042,7 +19287,10 @@
         "tg2": "Chemotherapeutic Agents",
         "tg3": "Alkylating Agents"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB01206"
+    }
   },
   "Loperamide": {
     "name": "Loperamide",
@@ -19520,7 +19768,10 @@
         "tg2": "Anti-Infective Preparations",
         "tg3": "Antiparasitics"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00772"
+    }
   },
   "Mannitol": {
     "name": "Mannitol",
@@ -19573,7 +19824,10 @@
         "tg2": "Diuretics",
         "tg3": "Osmotic Diuretics"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00742"
+    }
   },
   "Maprotiline": {
     "name": "Maprotiline",
@@ -19608,7 +19862,10 @@
         "tg2": "Antidepressants",
         "tg3": "Cyclic and Related Agents"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00934"
+    }
   },
   "Mebendazole": {
     "name": "Mebendazole",
@@ -19994,7 +20251,10 @@
         "tg2": "Chemotherapeutic Agents",
         "tg3": "Alkylating Agents"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB01042"
+    }
   },
   "Memantine": {
     "name": "Memantine",
@@ -20053,7 +20313,10 @@
         "tg2": "Anaesthetics",
         "tg3": "Local Anaesthetics"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00961"
+    }
   },
   "Mepivacaine; Adrenaline": {
     "name": "Mepivacaine; Adrenaline",
@@ -20176,7 +20439,10 @@
         "tg2": "Chemotherapeutic Agents",
         "tg3": "Antimetabolites"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB01033"
+    }
   },
   "Meropenem": {
     "name": "Meropenem",
@@ -20446,7 +20712,10 @@
         "tg2": "Sympathomimetics",
         "tg3": "Sympathomimetics"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00610"
+    }
   },
   "Metformin": {
     "name": "Metformin",
@@ -20547,7 +20816,10 @@
         "tg2": "Diagnostic Agents",
         "tg3": "Diagnostic Agents"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB06709"
+    }
   },
   "Methadone": {
     "name": "Methadone",
@@ -20708,7 +20980,10 @@
         "tg2": "Anaesthetics",
         "tg3": "General Anaesthetics"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00474"
+    }
   },
   "Methotrexate": {
     "name": "Methotrexate",
@@ -20879,7 +21154,10 @@
         "tg2": "Analgesics",
         "tg3": "Non-Opioid Analgesics"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB01028"
+    }
   },
   "Methyl hydroxybenzoate": {
     "name": "Methyl hydroxybenzoate",
@@ -21560,7 +21838,10 @@
         "tg2": "Other Endocrine Agents",
         "tg3": "Other Endocrine Agents"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB01011"
+    }
   },
   "Mexiletine": {
     "name": "Mexiletine",
@@ -21661,7 +21942,10 @@
         "tg2": "Mouth and Throat",
         "tg3": "Oropharyngeal Anti-Infectives"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB01110"
+    }
   },
   "Midazolam": {
     "name": "Midazolam",
@@ -21877,7 +22161,10 @@
         "tg2": "Obstetric Preparations",
         "tg3": "Antiprogestogens"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00834"
+    }
   },
   "Milrinone": {
     "name": "Milrinone",
@@ -21909,7 +22196,10 @@
         "tg2": "Vasodilators",
         "tg3": "Vasodilators"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00235"
+    }
   },
   "Minocycline": {
     "name": "Minocycline",
@@ -22095,7 +22385,10 @@
         "tg2": "Antiulcerants",
         "tg3": "Antisecretory and Cytoprotective"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00929"
+    }
   },
   "Mitomycin C": {
     "name": "Mitomycin C",
@@ -22235,7 +22528,10 @@
         "tg2": "Antidepressants",
         "tg3": "Monoamine-Oxidase Type A Inhibitors"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB01171"
+    }
   },
   "Modafinil": {
     "name": "Modafinil",
@@ -22995,7 +23291,10 @@
         "tg2": "Agents Used in the Treatment of Poisonings",
         "tg3": "Antidotes"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB01183"
+    }
   },
   "Naltrexone": {
     "name": "Naltrexone",
@@ -23105,7 +23404,10 @@
         "tg2": "Decongestants and Antiallergics",
         "tg3": "Decongestants"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB06711"
+    }
   },
   "Naproxen": {
     "name": "Naproxen",
@@ -23201,7 +23503,10 @@
         "tg2": "Multiple Sclerosis Treatments",
         "tg3": "Multiple Sclerosis Treatments"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00108"
+    }
   },
   "Natamycin": {
     "name": "Natamycin",
@@ -23332,7 +23637,10 @@
         "tg2": "Anticholinesterases",
         "tg3": "Anticholinesterases"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB01400"
+    }
   },
   "Neostigmine; glycopyrronium": {
     "name": "Neostigmine; glycopyrronium",
@@ -23393,7 +23701,10 @@
         "tg2": "Anti-Inflammatory Preparations",
         "tg3": "Non-Steroidal Anti-Inflammatory Drugs"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB06802"
+    }
   },
   "Nevirapine": {
     "name": "Nevirapine",
@@ -23434,7 +23745,10 @@
         "tg2": "Antiretrovirals",
         "tg3": "Non-Nucleoside Reverse Transcriptase Inhibitors"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00238"
+    }
   },
   "Nicardipine": {
     "name": "Nicardipine",
@@ -23463,7 +23777,10 @@
         "tg2": "Calcium Channel Blockers",
         "tg3": "Dihydropyridine Calcium Channel Blockers"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00622"
+    }
   },
   "Nicorandil": {
     "name": "Nicorandil",
@@ -23620,7 +23937,10 @@
         "tg2": "Chemotherapeutic Agents",
         "tg3": "Protein-Tyrosine Kinase Inhibitors"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB04868"
+    }
   },
   "Nimodipine": {
     "name": "Nimodipine",
@@ -23701,7 +24021,10 @@
         "tg2": "Antifibrotics",
         "tg3": "Antifibrotics"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB09079"
+    }
   },
   "Niraparib": {
     "name": "Niraparib",
@@ -23821,7 +24144,10 @@
         "tg2": "Antiparasitics",
         "tg3": "Antiprotozoals"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00507"
+    }
   },
   "Nitrofurantoin": {
     "name": "Nitrofurantoin",
@@ -24486,7 +24812,10 @@
         "tg2": "Immunosuppressants",
         "tg3": "Monoclonal Antibodies"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB08935"
+    }
   },
   "Ocrelizumab": {
     "name": "Ocrelizumab",
@@ -24518,7 +24847,10 @@
         "tg2": "Multiple Sclerosis Treatments",
         "tg3": "Multiple Sclerosis Treatments - Other"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB11988"
+    }
   },
   "Octocog alfa": {
     "name": "Octocog alfa",
@@ -24753,7 +25085,10 @@
         "tg2": "Endocrine Therapy",
         "tg3": "Endocrine Therapy"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00104"
+    }
   },
   "Ofloxacin": {
     "name": "Ofloxacin",
@@ -25474,7 +25809,10 @@
         "tg2": "Anabolic Agents",
         "tg3": "Anabolic Agents"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00621"
+    }
   },
   "Oxazepam": {
     "name": "Oxazepam",
@@ -25556,7 +25894,10 @@
         "tg2": "Diagnostic and Surgical Preparations",
         "tg3": "Ocular Anaesthetics"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00892"
+    }
   },
   "Oxybutynin": {
     "name": "Oxybutynin",
@@ -25797,7 +26138,10 @@
         "tg2": "Decongestants",
         "tg3": "Decongestants"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00935"
+    }
   },
   "Oxytocin": {
     "name": "Oxytocin",
@@ -25838,7 +26182,10 @@
         "tg2": "Obstetric Preparations",
         "tg3": "Oxytocics"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00107"
+    }
   },
   "Paclitaxel": {
     "name": "Paclitaxel",
@@ -26004,7 +26351,10 @@
         "tg2": "Antipsychotic Agents",
         "tg3": "Depot Injections"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB01267"
+    }
   },
   "Pamidronate": {
     "name": "Pamidronate",
@@ -26200,7 +26550,10 @@
         "tg2": "Vasodilators",
         "tg3": "Vasodilators"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB01113"
+    }
   },
   "Para-aminosalicylic Acid": {
     "name": "Para-aminosalicylic Acid",
@@ -26264,7 +26617,10 @@
         "tg2": "Non-Steroidal Anti-Inflammatory Drugs",
         "tg3": "Non-Steroidal Anti-Inflammatory Drugs"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB08439"
+    }
   },
   "Paromomycin": {
     "name": "Paromomycin",
@@ -26406,7 +26762,10 @@
         "tg2": "Chemotherapeutic Agents",
         "tg3": "Other Cytotoxic Agents"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00059"
+    }
   },
   "Pegfilgrastim": {
     "name": "Pegfilgrastim",
@@ -26438,7 +26797,10 @@
         "tg2": "Colony-Stimulating Factors",
         "tg3": "Granulocyte Colony-Stimulating Factors"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00019"
+    }
   },
   "Pembrolizumab": {
     "name": "Pembrolizumab",
@@ -26505,7 +26867,10 @@
         "tg2": "Chemotherapeutic Agents",
         "tg3": "Antimetabolites"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00642"
+    }
   },
   "Penicillamine": {
     "name": "Penicillamine",
@@ -26546,7 +26911,10 @@
         "tg2": "Antirheumatoid Agents",
         "tg3": "Antirheumatoid Agents"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00859"
+    }
   },
   "Penicillin G": {
     "name": "Penicillin G",
@@ -26675,7 +27043,10 @@
         "tg2": "Other Endocrine Agents",
         "tg3": "Other Endocrine Agents"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00183"
+    }
   },
   "Pentamidine": {
     "name": "Pentamidine",
@@ -26707,7 +27078,10 @@
         "tg2": "Antiparasitics",
         "tg3": "Antiprotozoals"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00738"
+    }
   },
   "Pentostatin": {
     "name": "Pentostatin",
@@ -26736,7 +27110,10 @@
         "tg2": "Chemotherapeutic Agents",
         "tg3": "Other Cytotoxic Agents"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00552"
+    }
   },
   "Pentoxifylline": {
     "name": "Pentoxifylline",
@@ -26765,7 +27142,10 @@
         "tg2": "Vasodilators",
         "tg3": "Vasodilators"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00806"
+    }
   },
   "Perflutren": {
     "name": "Perflutren",
@@ -26838,7 +27218,10 @@
         "tg2": "Calcium Channel Blockers",
         "tg3": "Other Calcium Channel Blockers"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB01074"
+    }
   },
   "Pericyazine": {
     "name": "Pericyazine",
@@ -26985,7 +27368,10 @@
         "tg2": "Immunosuppressants",
         "tg3": "Monoclonal Antibodies"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB06366"
+    }
   },
   "Pethidine": {
     "name": "Pethidine",
@@ -27087,7 +27473,10 @@
         "tg2": "Antidepressants",
         "tg3": "Monoamine-Oxidase Inhibitors - Non-Selective"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00780"
+    }
   },
   "Phenindione": {
     "name": "Phenindione",
@@ -27128,7 +27517,10 @@
         "tg2": "Antithrombotics",
         "tg3": "Anticoagulants"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00498"
+    }
   },
   "Phenobarbital": {
     "name": "Phenobarbital",
@@ -27281,7 +27673,10 @@
         "tg2": "Alpha-Adrenoceptor Blockers",
         "tg3": "Alpha-Adrenoceptor Blockers"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00925"
+    }
   },
   "Phentermine": {
     "name": "Phentermine",
@@ -27334,7 +27729,10 @@
         "tg2": "Alpha-Adrenoceptor Blockers",
         "tg3": "Alpha-Adrenoceptor Blockers"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00692"
+    }
   },
   "Phenylalanine": {
     "name": "Phenylalanine",
@@ -27366,7 +27764,10 @@
         "tg2": "Metabolic Products",
         "tg3": "Single Dose Amino Acids"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00120"
+    }
   },
   "Phenylephrine": {
     "name": "Phenylephrine",
@@ -27416,7 +27817,10 @@
         "tg2": "Mydriatics and Cycloplegics",
         "tg3": "Sympathomimetics"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00388"
+    }
   },
   "Phenytoin": {
     "name": "Phenytoin",
@@ -27624,7 +28028,10 @@
         "tg2": "Extemporaneously Compounded Preparations",
         "tg3": "Extemporaneously Compounded Preparations"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB01085"
+    }
   },
   "Pimecrolimus": {
     "name": "Pimecrolimus",
@@ -27656,7 +28063,10 @@
         "tg2": "Psoriasis and Eczema Preparations",
         "tg3": "Psoriasis and Eczema Preparations"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00337"
+    }
   },
   "Pimozide": {
     "name": "Pimozide",
@@ -27915,7 +28325,10 @@
         "tg2": "Colony-Stimulating Factors",
         "tg3": "Drugs Used to Mobilise Stem Cells"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB06809"
+    }
   },
   "Podophyllotoxin": {
     "name": "Podophyllotoxin",
@@ -28180,7 +28593,10 @@
         "tg2": "Chemotherapeutic Agents",
         "tg3": "Other Cytotoxic Agents"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB08910"
+    }
   },
   "Poractant alfa": {
     "name": "Poractant alfa",
@@ -28363,7 +28779,10 @@
         "tg2": "Agents Used in the Treatment of Poisonings",
         "tg3": "Antidotes"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00733"
+    }
   },
   "Pramipexole": {
     "name": "Pramipexole",
@@ -28490,7 +28909,10 @@
         "tg2": "Antiparasitics",
         "tg3": "Anthelmintics"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB01058"
+    }
   },
   "Prazosin": {
     "name": "Prazosin",
@@ -28814,7 +29236,10 @@
         "tg2": "Anaesthetics",
         "tg3": "Local Anaesthetics"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00750"
+    }
   },
   "Prilocaine; Felypressin": {
     "name": "Prilocaine; Felypressin",
@@ -28884,7 +29309,10 @@
         "tg2": "Antiparasitics",
         "tg3": "Antiprotozoals"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB01087"
+    }
   },
   "Primidone": {
     "name": "Primidone",
@@ -28972,7 +29400,10 @@
         "tg2": "Chemotherapeutic Agents",
         "tg3": "Other Cytotoxic Agents"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB01168"
+    }
   },
   "Prochlorperazine": {
     "name": "Prochlorperazine",
@@ -29022,7 +29453,10 @@
         "tg2": "Antinausea and Vertigo Agents",
         "tg3": "Antinausea and Vertigo Agents"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00433"
+    }
   },
   "Procyclidine": {
     "name": "Procyclidine",
@@ -29183,7 +29617,10 @@
         "tg2": "Antiarrhythmics",
         "tg3": "Antiarrhythmics"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB01182"
+    }
   },
   "Propofol": {
     "name": "Propofol",
@@ -29233,7 +29670,10 @@
         "tg2": "Anaesthetics",
         "tg3": "General Anaesthetics"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00818"
+    }
   },
   "Propranolol": {
     "name": "Propranolol",
@@ -29421,7 +29861,10 @@
         "tg2": "Diagnostic and Surgical Preparations",
         "tg3": "Ocular Anaesthetics"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00807"
+    }
   },
   "Pseudoephedrine": {
     "name": "Pseudoephedrine",
@@ -29450,7 +29893,10 @@
         "tg2": "Decongestants",
         "tg3": "Decongestants"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00852"
+    }
   },
   "Pyrazinamide": {
     "name": "Pyrazinamide",
@@ -29568,7 +30014,10 @@
         "tg2": "Antiparasitics",
         "tg3": "Antiprotozoals"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00205"
+    }
   },
   "Quetiapine": {
     "name": "Quetiapine",
@@ -29716,7 +30165,10 @@
         "tg2": "Antiparasitics",
         "tg3": "Antiprotozoals"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00468"
+    }
   },
   "Raloxifene": {
     "name": "Raloxifene",
@@ -29748,7 +30200,10 @@
         "tg2": "Drugs Affecting Bone Metabolism",
         "tg3": "Other Drugs Affecting Bone Metabolism"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00481"
+    }
   },
   "Raltegravir": {
     "name": "Raltegravir",
@@ -29887,7 +30342,10 @@
         "tg2": "Immunosuppressants",
         "tg3": "Monoclonal Antibodies"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB01270"
+    }
   },
   "Ranitidine": {
     "name": "Ranitidine",
@@ -29928,7 +30386,10 @@
         "tg2": "Antiulcerants",
         "tg3": "H2 Antagonists"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00863"
+    }
   },
   "Ranolazine": {
     "name": "Ranolazine",
@@ -30006,7 +30467,10 @@
         "tg2": "Hyperuricaemia and Antigout",
         "tg3": "Hyperuricaemia and Antigout"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00049"
+    }
   },
   "Remdesivir": {
     "name": "Remdesivir",
@@ -30078,7 +30542,10 @@
         "tg2": "Analgesics",
         "tg3": "Opioid Analgesics"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00899"
+    }
   },
   "Retinol": {
     "name": "Retinol",
@@ -30329,7 +30796,10 @@
         "tg2": "Bile and Liver Therapy",
         "tg3": "Bile and Liver Therapy"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB01220"
+    }
   },
   "Riluzole": {
     "name": "Riluzole",
@@ -30361,7 +30831,10 @@
         "tg2": "Agents for Parkinsonism and Related Disorders",
         "tg3": "Agents for Essential Tremor, Chorea and Related Disorders"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00740"
+    }
   },
   "Rimegepant": {
     "name": "Rimegepant",
@@ -31007,7 +31480,10 @@
         "tg2": "Anaesthetics",
         "tg3": "Local Anaesthetics"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00296"
+    }
   },
   "Rosuvastatin": {
     "name": "Rosuvastatin",
@@ -31632,7 +32108,10 @@
         "tg2": "Anaesthetics",
         "tg3": "General Anaesthetics"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB01236"
+    }
   },
   "Sildenafil": {
     "name": "Sildenafil",
@@ -31734,7 +32213,10 @@
         "tg2": "Immunosuppressants",
         "tg3": "Monoclonal Antibodies"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB09036"
+    }
   },
   "Silver Sulfadiazine": {
     "name": "Silver Sulfadiazine",
@@ -31816,7 +32298,10 @@
         "tg2": "Antacids and Antiflatulents",
         "tg3": "Antacids and Reflux Barrier Agents"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB09512"
+    }
   },
   "Simvastatin": {
     "name": "Simvastatin",
@@ -32334,7 +32819,10 @@
         "tg2": "Antiretrovirals",
         "tg3": "Nucleoside Reverse Transcriptase Inhibitors"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00649"
+    }
   },
   "Stiripentol": {
     "name": "Stiripentol",
@@ -32375,7 +32863,10 @@
         "tg2": "Antiepilepsy Drugs",
         "tg3": "Control of Epilepsy"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB09118"
+    }
   },
   "Streptomycin": {
     "name": "Streptomycin",
@@ -32404,7 +32895,10 @@
         "tg2": "Antibacterials",
         "tg3": "Aminoglycosides"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB01082"
+    }
   },
   "Sucralfate": {
     "name": "Sucralfate",
@@ -32479,7 +32973,10 @@
         "tg2": "Muscle Relaxants and Related Agents",
         "tg3": "Reversers of Neuromuscular Blockade"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB06206"
+    }
   },
   "Sulfacetamide; Sulfur": {
     "name": "Sulfacetamide; Sulfur",
@@ -32629,7 +33126,10 @@
         "tg2": "Non-Steroidal Anti-Inflammatory Drugs",
         "tg3": "Non-Steroidal Anti-Inflammatory Drugs"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00605"
+    }
   },
   "Sulphacetamide": {
     "name": "Sulphacetamide",
@@ -32878,7 +33378,10 @@
         "tg2": "Psoriasis and Eczema Preparations",
         "tg3": "Psoriasis and Eczema Preparations"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00864"
+    }
   },
   "Tadalafil": {
     "name": "Tadalafil",
@@ -33177,7 +33680,10 @@
         "tg2": "Chemotherapeutic Agents",
         "tg3": "Other Cytotoxic Agents"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00853"
+    }
   },
   "Tenecteplase": {
     "name": "Tenecteplase",
@@ -33206,7 +33712,10 @@
         "tg2": "Antithrombotics",
         "tg3": "Fibrinolytic Agents"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00031"
+    }
   },
   "Tenofovir": {
     "name": "Tenofovir",
@@ -33439,7 +33948,10 @@
         "tg2": "Multiple Sclerosis Treatments",
         "tg3": "Multiple Sclerosis Treatments"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB08880"
+    }
   },
   "Teriparatide": {
     "name": "Teriparatide",
@@ -33512,7 +34024,10 @@
         "tg2": "Vasopressin Agents",
         "tg3": "Vasopressin Agents"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB02638"
+    }
   },
   "Testosterone": {
     "name": "Testosterone",
@@ -33629,7 +34144,10 @@
         "tg2": "Agents for Parkinsonism and Related Disorders",
         "tg3": "Agents for Essential Tremor, Chorea and Related Disorders"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB04844"
+    }
   },
   "Tetracaine": {
     "name": "Tetracaine",
@@ -33676,7 +34194,10 @@
         "tg2": "Diagnostic and Surgical Preparations",
         "tg3": "Ocular Anaesthetics"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB09085"
+    }
   },
   "Tetracosactide": {
     "name": "Tetracosactide",
@@ -33804,7 +34325,10 @@
         "tg2": "Chemotherapeutic Agents",
         "tg3": "Other Cytotoxic Agents"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB01041"
+    }
   },
   "Theophylline": {
     "name": "Theophylline",
@@ -34166,7 +34690,10 @@
         "tg2": "Antithrombotics",
         "tg3": "Antiplatelets"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00208"
+    }
   },
   "Tigecycline": {
     "name": "Tigecycline",
@@ -34195,7 +34722,10 @@
         "tg2": "Antibacterials",
         "tg3": "Tetracyclines"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00560"
+    }
   },
   "Timolol": {
     "name": "Timolol",
@@ -34518,7 +35048,10 @@
         "tg2": "Immunosuppressants",
         "tg3": "Monoclonal Antibodies"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB06273"
+    }
   },
   "Tofacitinib": {
     "name": "Tofacitinib",
@@ -34633,7 +35166,10 @@
         "tg2": "Diuretics",
         "tg3": "Vasopressin receptor antagonists"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB06212"
+    }
   },
   "Topiramate": {
     "name": "Topiramate",
@@ -35109,7 +35645,10 @@
         "tg2": "Glaucoma Preparations",
         "tg3": "Prostaglandin Analogues"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00287"
+    }
   },
   "Trazodone": {
     "name": "Trazodone",
@@ -35341,7 +35880,10 @@
         "tg2": "Sedatives and Hypnotics",
         "tg3": "Sedatives and Hypnotics"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00897"
+    }
   },
   "Trientine": {
     "name": "Trientine",
@@ -35708,7 +36250,10 @@
         "tg2": "Immunosuppressants",
         "tg3": "JAK inhibitors"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB15091"
+    }
   },
   "Ursodeoxycholic acid": {
     "name": "Ursodeoxycholic acid",
@@ -36054,7 +36599,10 @@
         "tg2": "Vasopressin Agents",
         "tg3": "Vasopressin Agents"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00067"
+    }
   },
   "Vecuronium": {
     "name": "Vecuronium",
@@ -36118,7 +36666,10 @@
         "tg2": "Immunosuppressants",
         "tg3": "Monoclonal Antibodies"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB09033"
+    }
   },
   "Vemurafenib": {
     "name": "Vemurafenib",
@@ -36464,7 +37015,10 @@
         "tg2": "Chemotherapeutic Agents",
         "tg3": "Vinca Alkaloids"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00570"
+    }
   },
   "Vincristine": {
     "name": "Vincristine",
@@ -36505,7 +37059,10 @@
         "tg2": "Chemotherapeutic Agents",
         "tg3": "Vinca Alkaloids"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00541"
+    }
   },
   "Vinorelbine": {
     "name": "Vinorelbine",
@@ -36567,7 +37124,10 @@
         "tg2": "Chemotherapeutic Agents",
         "tg3": "Vinca Alkaloids"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00361"
+    }
   },
   "Vitamin B complex": {
     "name": "Vitamin B complex",
