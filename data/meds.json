@@ -3308,7 +3308,16 @@
     "brand-names": [
       "Avastin"
     ],
-    "description": "Used in cancer therapy for conditions like colorectal and lung cancer by inhibiting vascular endothelial growth factor (VEGF).",
+    "description": "Bevacizumab is a monoclonal antibody used in cancer therapy for conditions like colorectal and lung cancer by inhibiting vascular endothelial growth factor (VEGF).",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bevacizumab"
+      }
+    ],
+    "drugbank": {
+      "accession": "DB00112"
+    },
     "nzhm": [
       {
         "name": "Bevacizumab",
@@ -16674,6 +16683,15 @@
       "Remicade"
     ],
     "description": "Used for autoimmune diseases such as Crohn's disease, ulcerative colitis, and rheumatoid arthritis by inhibiting TNF-alpha.",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Infliximab"
+      }
+    ],
+    "drugbank": {
+      "accession": "DB00065"
+    },
     "nzhm": [
       {
         "name": "Infliximab",
@@ -24361,6 +24379,15 @@
       "Opdivo"
     ],
     "description": "A PD-1 checkpoint inhibitor used to treat cancers like melanoma, non-small cell lung cancer, and renal cell carcinoma.",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nivolumab"
+      }
+    ],
+    "drugbank": {
+      "accession": "DB09035"
+    },
     "nzhm": [
       {
         "name": "Nivolumab",
@@ -26844,6 +26871,15 @@
       "Keytruda"
     ],
     "description": "An immune checkpoint inhibitor used to treat various cancers, including melanoma and lung cancer, by targeting PD-1.",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pembrolizumab"
+      }
+    ],
+    "drugbank": {
+      "accession": "DB09037"
+    },
     "nzhm": [
       {
         "name": "Pembrolizumab",
@@ -31901,6 +31937,12 @@
       "Cosentyx"
     ],
     "description": "Used to treat plaque psoriasis, ankylosing spondylitis, and psoriatic arthritis by targeting IL-17A.",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Secukinumab"
+      }
+    ],
     "nzhm": [
       {
         "name": "Secukinumab",
@@ -35608,6 +35650,15 @@
       "Herzuma"
     ],
     "description": "Used to treat HER2-positive breast cancer and gastric cancer by targeting the HER2 receptor.",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Trastuzumab"
+      }
+    ],
+    "drugbank": {
+      "accession": "DB00072"
+    },
     "nzhm": [
       {
         "name": "Trastuzumab (Herzuma)",
@@ -37340,12 +37391,19 @@
   "Xylometazoline": {
     "name": "Xylometazoline",
     "alt-names": [
-      "Xylometazoline hydrochloride"
+      "Xylometazoline hydrochloride",
+      "xylomethazoline"
     ],
     "description": "Xylometazoline is a direct-acting alpha-adrenergic agonist used for the treatment of nasal congestion.",
     "drugbank": {
       "accession": "DB06694"
     },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Xylometazoline"
+      }
+    ],
     "nzhm": [
       {
         "name": "Xylometazoline hydrochloride",
@@ -37384,6 +37442,12 @@
   "Zanamivir": {
     "name": "Zanamivir",
     "description": "Zanamivir is a neuraminidase inhibitor used to treat influenza A and B.",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Zanamivir"
+      }
+    ],
     "drugbank": {
       "accession": "DB00558"
     },
@@ -37513,10 +37577,17 @@
   },
   "Ziprasidone": {
     "name": "Ziprasidone",
+    "brand-names": ["Geodon"],
     "description": "Ziprasidone is an atypical antipsychotic used to manage schizophrenia and bipolar mania",
     "drugbank": {
       "accession": "DB00246"
     },
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ziprasidone"
+      }
+    ],
     "nzhm": [
       {
         "name": "Ziprasidone",
