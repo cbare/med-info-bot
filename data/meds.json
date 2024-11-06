@@ -2,7 +2,7 @@
   "Abciximab": {
     "name": "Abciximab",
     "brand-names": [
-      "Any brand"
+      "ReoPro"
     ],
     "links": [
       {
@@ -1158,7 +1158,7 @@
   "Alteplase": {
     "name": "Alteplase",
     "brand-names": [
-      "Any brand"
+      "Actilyse", "Activase", "Cathflo", "Activase"
     ],
     "links": [
       {
@@ -1896,6 +1896,8 @@
   },
   "Apixaban": {
     "name": "Apixaban",
+    "brand-names": ["Eliquis"],
+    "description": "Apixaban is an anticoagulant.",
     "clincalc": {
       "name": "Apixaban",
       "rank": 27,
@@ -2245,6 +2247,8 @@
   },
   "Atazanavir": {
     "name": "Atazanavir",
+    "brand-names": ["Reyataz"],
+    "description": "Atazanavir is an antiretroviral protease inhibitor used to treat HIV.",
     "links": [
       {
         "source": "Wikipedia",
@@ -2253,7 +2257,15 @@
     ],
     "drugbank": {
       "accession": "DB01072"
-    }
+    },
+    "source": "NZF",
+    "categories": [
+      {
+        "tg1": "Infections",
+        "tg2": "Antiretrovirals",
+        "tg3": "Protease Inhibitors"
+      }
+    ]
   },
   "Atenolol": {
     "name": "Atenolol",
@@ -2532,6 +2544,8 @@
   },
   "Atropine; Diphenoxylate": {
     "name": "Atropine; Diphenoxylate",
+    "alt-names": ["co-phenotrope"],
+    "brand-names": ["Lomotil"],
     "clincalc": {
       "name": "Atropine; Diphenoxylate",
       "rank": 284,
@@ -2690,7 +2704,7 @@
     "brand-names": [
       "Zithromax"
     ],
-    "descrption": "Azithromycin is a macrolide antibiotic used to treat bacterial infections.",
+    "description": "Azithromycin is a macrolide antibiotic used to treat bacterial infections.",
     "clincalc": {
       "name": "Azithromycin",
       "rank": 78,
@@ -2983,6 +2997,8 @@
   },
   "Bendroflumethiazide": {
     "name": "Bendroflumethiazide",
+    "alt-names": ["bendrofluazide"],
+    "brand-names": ["Aprinox"],
     "links": [
       {
         "source": "Wikipedia",
@@ -2995,6 +3011,8 @@
   },
   "Benzatropine": {
     "name": "Benzatropine",
+    "alt-names": ["benztropine"],
+    "brand-names": ["Cogentin"],
     "links": [
       {
         "source": "Wikipedia",
@@ -5321,6 +5339,9 @@
   },
   "Chlorpheniramine": {
     "name": "Chlorpheniramine",
+    "alt-names": [
+      "Chlorpheniramine maleate"
+    ],
     "clincalc": {
       "name": "Chlorpheniramine",
       "rank": 291,
@@ -5332,9 +5353,6 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Chlorpheniramine"
       }
-    ],
-    "alt-names": [
-      "Chlorpheniramine maleate"
     ],
     "nzhm": [
       {
@@ -5433,20 +5451,9 @@
       }
     ]
   },
-  "Chlortalidone": {
-    "name": "Chlortalidone",
-    "links": [
-      {
-        "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Chlortalidone"
-      }
-    ],
-    "drugbank": {
-      "accession": "DB00310"
-    }
-  },
   "Chlorthalidone": {
     "name": "Chlorthalidone",
+    "alt-names": ["Chlortalidone"],
     "clincalc": {
       "name": "Chlorthalidone",
       "rank": 108,
@@ -5515,7 +5522,11 @@
   },
   "Choline salicylate gel": {
     "name": "Choline salicylate gel",
-    "links": []
+    "brand-names": ["Bonjela"],
+    "links": [],
+    "drugbank": {
+      "accession": "DB14006"
+    }
   },
   "Ciclopirox": {
     "name": "Ciclopirox",
@@ -7468,6 +7479,8 @@
   },
   "Dalteparin": {
     "name": "Dalteparin",
+    "brand-names": ["Fragmin"],
+    "description": "Dalteparin is a low molecular weight heparin used for prophylaxis or treatment of deep vein thrombosis and pulmonary embolism.",
     "drugbank": {
       "accession": "DB06779"
     },
@@ -7907,6 +7920,9 @@
   },
   "Deferoxamine": {
     "name": "Deferoxamine",
+    "alt-names": ["desferrioxamine", "DFOA"],
+    "brand-names": ["Desferal"],
+    "description": "Deferoxamine is a medication that binds iron and aluminium.",
     "links": [
       {
         "source": "Wikipedia",
@@ -8094,6 +8110,8 @@
   },
   "Desloratadine": {
     "name": "Desloratadine",
+    "brand-names": ["Clarinex"],
+    "description": "Desloratadine is a second generation tricyclic antihistamine used to treat allergies.",
     "links": [
       {
         "source": "Wikipedia",
@@ -8484,6 +8502,8 @@
   },
   "Dexchlorpheniramine": {
     "name": "Dexchlorpheniramine",
+    "brand-names": ["Polaramine"],
+    "description": "Dexchlorpheniramine is a chlorpheniramine enantiomer antihistamine.",
     "links": [
       {
         "source": "Wikipedia",
@@ -8491,11 +8511,13 @@
       }
     ],
     "drugbank": {
-      "accession": "DB01114"
+      "accession": "DB13679"
     }
   },
   "Dexlansoprazole": {
     "name": "Dexlansoprazole",
+    "brand-names": ["Kapidex", "Dexilant"],
+    "description": "Dexlansoprazole is a proton pump inhibitor used to treat gastroesophageal reflux disease (GERD).",
     "clincalc": {
       "name": "Dexlansoprazole",
       "rank": 186,
@@ -8507,7 +8529,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Dexlansoprazole"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB05351"
+    }
   },
   "Dexmedetomidine": {
     "name": "Dexmedetomidine",
@@ -10308,7 +10333,16 @@
     "brand-names": [
       "Dupixent"
     ],
-    "description": "Treats moderate-to-severe atopic dermatitis, asthma, and chronic rhinosinusitis by targeting IL-4 and IL-13 receptors."
+    "description": "Treats moderate-to-severe atopic dermatitis, asthma, and chronic rhinosinusitis by targeting IL-4 and IL-13 receptors.",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dupilumab"
+      }
+    ],
+    "drugbank": {
+      "accession": "DB12159"
+    }
   },
   "Durvalumab": {
     "name": "Durvalumab",
@@ -10511,41 +10545,6 @@
         "tg1": "Infections",
         "tg2": "Antiretrovirals",
         "tg3": "Nucleoside Reverse Transcriptase Inhibitors"
-      }
-    ]
-  },
-  "Eformoterol": {
-    "name": "Eformoterol",
-    "alt-names": [
-      "Eformoterol fumarate dihydrate"
-    ],
-    "links": [
-      {
-        "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Eformoterol"
-      }
-    ],
-    "source": "NZHM",
-    "nzhm": [
-      {
-        "name": "Eformoterol fumarate",
-        "presentation": "Powder for inhalation 12 mcg per dose",
-        "brand": "Any brand",
-        "pharmacode": "81640100"
-      },
-      {
-        "name": "Eformoterol fumarate dihydrate",
-        "presentation": "Powder for inhalation 4.5 mcg per dose, breath activated (equivalent to eformoterol fumarate 6 mcg metered dose)",
-        "brand": "Any brand",
-        "pharmacode": "86352500"
-      }
-    ],
-    "categories": [
-      {
-        "source": "nzhm",
-        "tg1": "Respiratory System and Allergies",
-        "tg2": "Long-Acting Beta-Adrenoceptor Agonists",
-        "tg3": "Long-Acting Beta-Adrenoceptor Agonists"
       }
     ]
   },
@@ -14116,6 +14115,10 @@
   },
   "Formoterol": {
     "name": "Formoterol",
+    "alt-names": [
+      "Formoterol", "Eformoterol", "Eformoterol fumarate dihydrate"
+    ],
+    "description": "Formoterol is a long-acting β2 agonist (LABA) used as a bronchodilator in the management of asthma and chronic obstructive pulmonary disease (COPD).",
     "links": [
       {
         "source": "Wikipedia",
@@ -14124,7 +14127,30 @@
     ],
     "drugbank": {
       "accession": "DB00983"
-    }
+    },
+    "source": "NZHM",
+    "nzhm": [
+      {
+        "name": "Eformoterol fumarate",
+        "presentation": "Powder for inhalation 12 mcg per dose",
+        "brand": "Any brand",
+        "pharmacode": "81640100"
+      },
+      {
+        "name": "Eformoterol fumarate dihydrate",
+        "presentation": "Powder for inhalation 4.5 mcg per dose, breath activated (equivalent to eformoterol fumarate 6 mcg metered dose)",
+        "brand": "Any brand",
+        "pharmacode": "86352500"
+      }
+    ],
+    "categories": [
+      {
+        "source": "nzhm",
+        "tg1": "Respiratory System and Allergies",
+        "tg2": "Long-Acting Beta-Adrenoceptor Agonists",
+        "tg3": "Long-Acting Beta-Adrenoceptor Agonists"
+      }
+    ]
   },
   "Foscarnet": {
     "name": "Foscarnet",
@@ -14624,6 +14650,7 @@
   },
   "Galantamine": {
     "name": "Galantamine",
+    "description": "Galantamine is a cholinesterase inhibitor used to manage dementia.",
     "links": [
       {
         "source": "Wikipedia",
@@ -18624,6 +18651,7 @@
   },
   "Levocetirizine": {
     "name": "Levocetirizine",
+    "brand-names": ["Xyzal"],
     "clincalc": {
       "name": "Levocetirizine",
       "rank": 152,
@@ -18887,6 +18915,8 @@
   },
   "Linaclotide": {
     "name": "Linaclotide",
+    "brand-names": ["Linzess", "Constella"],
+    "description": "Linaclotide is a 14-amino acid cyclic peptide used to treat irritable bowel syndrome-related constipation, idiopathic constipation, and functional constipation.",
     "clincalc": {
       "name": "Linaclotide",
       "rank": 189,
@@ -18898,7 +18928,10 @@
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Linaclotide"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB08890"
+    }
   },
   "Lincomycin": {
     "name": "Lincomycin",
@@ -19662,6 +19695,16 @@
   },
   "Macrogol": {
     "name": "Macrogol",
+    "alt-names": [
+      "Macrogol",
+      "Macrogol 3350",
+      "Macrogol 4000",
+      "Macrogol 6000",
+      "PEG",
+      "Polyethylene glycol 3350",
+      "Polyethylene glycol 4000",
+      "Polyethylene glycol 6000"
+    ],
     "links": [
       {
         "source": "Wikipedia",
@@ -20097,12 +20140,18 @@
   },
   "Megestrol": {
     "name": "Megestrol",
+    "alt-names": ["Megace", "MGA"],
+    "description": "Megestrol is a progestin medication used as an appetite stimulant and to treat breast cancer and other cancers.",
+    "source": "NZF",
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Megestrol"
+        "url": "https://en.wikipedia.org/wiki/Megestrol_acetate"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB00351"
+    }
   },
   "Meglumine": {
     "name": "Meglumine",
@@ -24482,24 +24531,17 @@
   },
   "Norethindrone": {
     "name": "Norethindrone",
+    "alt-names": [
+      "Norethisterone"
+    ],
+    "brand-names": ["Norlutin"],
+    "description": "Norethisterone is a synthetic progestin used for contraception or as a component of menopausal hormone replacement therapy.",
     "clincalc": {
       "name": "Norethindrone",
       "rank": 135,
       "prescriptions_2022": 4337336,
       "patients_2022": 1420212
     },
-    "links": [
-      {
-        "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Norethindrone"
-      }
-    ]
-  },
-  "Norethisterone": {
-    "name": "Norethisterone",
-    "alt-names": [
-      "norethindrone"
-    ],
     "links": [
       {
         "source": "Wikipedia",
@@ -25641,6 +25683,8 @@
   },
   "Orlistat": {
     "name": "Orlistat",
+    "brand-names": ["Xenical"],
+    "description": "Orlistat is a lipase inhibitor used for weight loss and to treat obesity.",
     "links": [
       {
         "source": "Wikipedia",
@@ -26405,39 +26449,31 @@
       }
     ]
   },
-  "Pancreatin": {
-    "name": "Pancreatin",
-    "links": [
-      {
-        "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Pancreatic_enzymes_(medication)"
-      }
-    ]
-  },
-  "Pancrelipase": {
-    "name": "Pancrelipase",
-    "links": [
-      {
-        "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Pancreatic_enzymes_(medication)"
-      }
-    ]
-  },
   "Pancrelipase Amylase; Pancrelipase Lipase; Pancrelipase Protease": {
     "name": "Pancrelipase Amylase; Pancrelipase Lipase; Pancrelipase Protease",
+    "alt-names": ["Pancreatin", "Pancrelipase"],
     "clincalc": {
       "name": "Pancrelipase Amylase; Pancrelipase Lipase; Pancrelipase Protease",
       "rank": 253,
       "prescriptions_2022": 1197188,
       "patients_2022": 232124
     },
-    "links": []
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pancreatic_enzymes_(medication)"
+      }
+    ],
+    "drugbank": {
+      "accession": "DB00085"
+    }
   },
   "Pancuronium": {
     "name": "Pancuronium",
     "alt-names": [
       "Pancuronium bromide"
     ],
+    "description": "Pancrelipase is a purified form of porcine pancreatic lipase, amylase, and protease enzymes used to treat malabsorption associated with pancreatic insufficiency resulting from cystic fibrosis and pancreatitis.",
     "links": [
       {
         "source": "Wikipedia",
@@ -27524,6 +27560,11 @@
   },
   "Phenobarbital": {
     "name": "Phenobarbital",
+    "alt-names": [
+      "Phenobarbitone", "Phenylethylbarbiturate"
+    ],
+    "brand-names": ["Luminal"],
+    "description": "Phenobarbital is a barbiturate used to treat seizures.",
     "links": [
       {
         "source": "Wikipedia",
@@ -27532,19 +27573,7 @@
     ],
     "drugbank": {
       "accession": "DB01174"
-    }
-  },
-  "Phenobarbitone": {
-    "name": "Phenobarbitone",
-    "alt-names": [
-      "Phenobarbitone"
-    ],
-    "links": [
-      {
-        "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Phenobarbitone"
-      }
-    ],
+    },
     "source": "NZHM",
     "nzhm": [
       {
@@ -28070,6 +28099,8 @@
   },
   "Pimozide": {
     "name": "Pimozide",
+    "brand-names": ["Orap"],
+    "description": "Pimozide is a typical antipsychotic used to treat Tourette's syndrome.",
     "links": [
       {
         "source": "Wikipedia",
@@ -30617,6 +30648,8 @@
   },
   "Ribavirin": {
     "name": "Ribavirin",
+    "brand-names": ["Copegus", "Rebetol", "Virazole"],
+    "description": "Ribavirin is an antiviral used to treat hepatitis C and viral hemorrhagic fever.",
     "links": [
       {
         "source": "Wikipedia",
@@ -31850,6 +31883,8 @@
   },
   "Saxagliptin": {
     "name": "Saxagliptin",
+    "brand-names": ["Onglyza"],
+    "description": "Saxagliptin is an DPP-4 inhibitor used to control blood sugar in type 2 diabetes.",
     "links": [
       {
         "source": "Wikipedia",
@@ -33515,6 +33550,8 @@
   },
   "Tecovirimat": {
     "name": "Tecovirimat",
+    "brand-names": ["Tpoxx"],
+    "description": "Tecovirimat is an antiviral used to treat orthopoxviruses.",
     "links": [
       {
         "source": "Wikipedia",
@@ -33719,18 +33756,6 @@
   },
   "Tenofovir": {
     "name": "Tenofovir",
-    "links": [
-      {
-        "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Tenofovir_disoproxil"
-      }
-    ],
-    "drugbank": {
-      "accession": "DB14126"
-    }
-  },
-  "Tenofovir disoproxil": {
-    "name": "Tenofovir disoproxil",
     "alt-names": [
       "Tenofovir disoproxil"
     ],
@@ -33740,6 +33765,9 @@
         "url": "https://en.wikipedia.org/wiki/Tenofovir disoproxil"
       }
     ],
+    "drugbank": {
+      "accession": "DB14126"
+    },
     "source": "NZHM",
     "nzhm": [
       {
@@ -34555,6 +34583,8 @@
   },
   "Thyroid": {
     "name": "Thyroid",
+    "description": "Thyroid, porcine is a peptide hormone used for the replacement therapy for hypothyroidism.",
+    "alt-names": ["Armour Thyroid", "thyroid, procine"],
     "clincalc": {
       "name": "Thyroid",
       "rank": 137,
@@ -34564,21 +34594,28 @@
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Thyroid"
+        "url": "https://en.wikipedia.org/wiki/Desiccated_thyroid_extract"
       }
-    ]
+    ],
+    "drugbank": {
+      "accession": "DB09100"
+    }
   },
   "Thyrotropin alfa": {
     "name": "Thyrotropin alfa",
     "alt-names": [
       "Thyrotropin alfa"
     ],
+    "brand-names": ["Thyrogen"],
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Thyrotropin alfa"
+        "url": "https://en.wikipedia.org/wiki/Thyrotropin_alfa"
       }
     ],
+    "drugbank": {
+      "accession": "DB00024"
+    },
     "source": "NZHM",
     "nzhm": [
       {
@@ -34781,6 +34818,9 @@
   },
   "Tinzaparin": {
     "name": "Tinzaparin",
+    "alt-names": ["Tinzaparin sodium"],
+    "brand-names": ["Innohep"],
+    "description": "Tinzaparin is a low molecular weight heparin used as an antithrombotic to treat or prevent deep vein thrombosis.",
     "links": [
       {
         "source": "Wikipedia",
@@ -35919,6 +35959,7 @@
   },
   "Trifluoperazine": {
     "name": "Trifluoperazine",
+    "brand-names": ["Stelazine"],
     "links": [
       {
         "source": "Wikipedia",
@@ -36522,6 +36563,8 @@
   },
   "Vardenafil": {
     "name": "Vardenafil",
+    "brand-names": ["Levitra", "Staxyn"],
+    "description": "Vardenafil is a selective phosphodiesterase 5 inhibitor used to treat erectile dysfunction.",
     "links": [
       {
         "source": "Wikipedia",
@@ -37384,8 +37427,20 @@
     "name": "Zidovudine",
     "alt-names": [
       "Zidovudine [AZT]",
-      "AZT"
+      "AZT",
+      "Azidothymidine"
     ],
+    "brand-names": ["Retrovir"],
+    "description": "Zidovudine, or AZT, is a nucleoside analog reverse transcriptase inhibitor used in the treatment of HIV infection.",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Zidovudine"
+      }
+    ],
+    "drugbank": {
+      "accession": "DB00495"
+    },
     "nzhm": [
       {
         "name": "Zidovudine [AZT]",
@@ -37458,7 +37513,10 @@
   },
   "Ziprasidone": {
     "name": "Ziprasidone",
-    "": "Ziprasidone is an atypical antipsychotic used to manage schizophrenia and bipolar mania",
+    "description": "Ziprasidone is an atypical antipsychotic used to manage schizophrenia and bipolar mania",
+    "drugbank": {
+      "accession": "DB00246"
+    },
     "nzhm": [
       {
         "name": "Ziprasidone",
