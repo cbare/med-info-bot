@@ -246,7 +246,8 @@
     "name": "Acetaminophen; Codeine",
     "alt-names": [
       "Paracetamol; Codeine",
-      "Paracetamol with codeine"
+      "Paracetamol with codeine",
+      "acetaminophen; codeine phosphate"
     ],
     "clincalc": {
       "name": "Acetaminophen; Codeine",
@@ -289,7 +290,8 @@
   "Acetaminophen; Hydrocodone": {
     "name": "Acetaminophen; Hydrocodone",
     "alt-names": [
-      "Paracetamol; Hydrocodone"
+      "Paracetamol; Hydrocodone",
+      "acetaminophen; hydrocodone bitartrate"
     ],
     "brand-names": [
       "Vicodin",
@@ -997,12 +999,18 @@
   "Alendronate; Colecalciferol": {
     "name": "Alendronate; Colecalciferol",
     "alt-names": [
-      "Alendronate sodium with colecalciferol"
+      "Alendronate sodium with colecalciferol",
+      "Alendronate sodium; colecalciferol",
+      "Alendronate sodium; Cholecalciferol",
+      "Alendronate; Cholecalciferol",
+      "Alendronic acid; Colecalciferol",
+      "Alendronic acid and Colecalciferol"
     ],
+    "brand-names": ["Fosamax Plus D"],
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Alendronate; Colecalciferol"
+        "url": "https://en.wikipedia.org/wiki/Alendronic_acid/colecalciferol"
       }
     ],
     "source": "NZHM",
@@ -1025,22 +1033,6 @@
         "tg3": "Bisphosphonates"
       }
     ]
-  },
-  "Alendronic acid; Colecalciferol": {
-    "name": "Alendronic acid and Colecalciferol",
-    "links": [
-      {
-        "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Alendronic_acid"
-      },
-      {
-        "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Colecalciferol"
-      }
-    ],
-    "drugbank": {
-      "accession": "DB00630"
-    }
   },
   "Alfacalcidol": {
     "name": "Alfacalcidol",
@@ -1093,6 +1085,7 @@
   },
   "Allopurinol": {
     "name": "Allopurinol",
+    "alt-names": ["allopurinol sodium"],
     "clincalc": {
       "name": "Allopurinol",
       "rank": 39,
@@ -1364,7 +1357,8 @@
     "name": "Amiloride and hydrochlorothiazide",
     "links": [],
     "alt-names": [
-      "Amiloride hydrochloride with hydrochlorothiazide"
+      "Amiloride hydrochloride with hydrochlorothiazide",
+      "amiloride hydrochloride; hydrochlorothiazide"
     ],
     "nzhm": [
       {
@@ -1498,6 +1492,12 @@
   },
   "Amlodipine": {
     "name": "Amlodipine",
+    "alt-names": [
+      "Amlodipine besylate",
+      "Amlodipine benzoate",
+      "Amlodipine maleate",
+      "Amlodipine mesylate"
+    ],
     "clincalc": {
       "name": "Amlodipine",
       "rank": 5,
@@ -1553,6 +1553,7 @@
   },
   "Amlodipine; Benazepril": {
     "name": "Amlodipine; Benazepril",
+    "alt-names": ["amlodipine besylate; benazepril hydrochloride"],
     "clincalc": {
       "name": "Amlodipine; Benazepril",
       "rank": 170,
@@ -1700,7 +1701,10 @@
     "name": "Amoxicillin; Clavulanate",
     "alt-names": [
       "Amoxicillin and clavulanic acid",
-      "Amoxicillin with clavulanic acid"
+      "Amoxicillin with clavulanic acid",
+      "Amoxicillin; clavulanic acid",
+      "Amoxicillin; clavulanate potassium",
+      "amoxicillin; amoxicillin sodium; clavulanate potassium"
     ],
     "forms": [
       "injection",
@@ -1990,6 +1994,7 @@
   },
   "Aripiprazole": {
     "name": "Aripiprazole",
+    "alt-names": ["Aripiprazole lauroxil"],
     "description": "Aripiprazole is an atypical antipsychotic used in the treatment of psychiatric disorders.",
     "clincalc": {
       "name": "Aripiprazole",
@@ -2544,7 +2549,7 @@
   },
   "Atropine; Diphenoxylate": {
     "name": "Atropine; Diphenoxylate",
-    "alt-names": ["co-phenotrope"],
+    "alt-names": ["co-phenotrope", "atropine sulfate; diphenoxylate hydrochloride"],
     "brand-names": ["Lomotil"],
     "clincalc": {
       "name": "Atropine; Diphenoxylate",
@@ -2651,6 +2656,7 @@
   },
   "Azelastine; Fluticasone": {
     "name": "Azelastine; Fluticasone",
+    "alt-names": ["Azelastine Hydrochloride; Fluticasone Propionate"],
     "clincalc": {
       "name": "Azelastine; Fluticasone",
       "rank": 299,
@@ -2701,6 +2707,7 @@
   },
   "Azithromycin": {
     "name": "Azithromycin",
+    "alt-names": ["Azithromycin dihydrate"],
     "brand-names": [
       "Zithromax"
     ],
@@ -2903,7 +2910,8 @@
     "name": "Beclometasone",
     "alt-names": [
       "beclomethasone",
-      "beclomethasone dipropionate"
+      "beclomethasone dipropionate",
+      "beclomethasone dipropionate monohydrate"
     ],
     "brand-names": [
       "Qvar"
@@ -4256,7 +4264,8 @@
   "Candesartan; Hydrochlorothiazide": {
     "name": "Candesartan; Hydrochlorothiazide",
     "alt-names": [
-      "Candesartan cilexetil with hydrochlorothiazide"
+      "Candesartan cilexetil with hydrochlorothiazide",
+      "Candesartan cilexetil; hydrochlorothiazide"
     ],
     "nzhm": [
       {
@@ -5351,6 +5360,7 @@
     "alt-names": [
       "Chlorpheniramine maleate"
     ],
+    "brand-names": ["Chlor-Trimeton"],
     "clincalc": {
       "name": "Chlorpheniramine",
       "rank": 291,
@@ -5539,6 +5549,8 @@
   },
   "Ciclopirox": {
     "name": "Ciclopirox",
+    "alt-names": ["Ciclopirox olamine"],
+    "description": "Ciclopirox is a synthetic antifungal agent for topical treatment of fungal infections.",
     "clincalc": {
       "name": "Ciclopirox",
       "rank": 247,
@@ -6174,7 +6186,9 @@
   "Clomifene": {
     "name": "Clomifene",
     "alt-names": [
-      "Clomifene citrate"
+      "Clomifene citrate",
+      "Clomiphene citrate",
+      "Clomiphene"
     ],
     "links": [
       {
@@ -6430,6 +6444,10 @@
   },
   "Clopidogrel": {
     "name": "Clopidogrel",
+    "alt-names": [
+      "Clopidogrel bisulfate"
+    ],
+    "brand-names": ["Plavix"],
     "clincalc": {
       "name": "Clopidogrel",
       "rank": 47,
@@ -6852,6 +6870,7 @@
   },
   "Colestyramine": {
     "name": "Colestyramine",
+    "alt-names": ["Cholestyramine"],
     "links": [
       {
         "source": "Wikipedia",
@@ -7291,7 +7310,8 @@
   "Cysteamine": {
     "name": "Cysteamine",
     "alt-names": [
-      "Cysteamine hydrochloride"
+      "Cysteamine hydrochloride",
+      "cysteamine bitartrate"
     ],
     "links": [
       {
@@ -8480,6 +8500,7 @@
   },
   "Dexamfetamine": {
     "name": "Dexamfetamine",
+    "alt-names": ["Dextroamphetamine", "Dextroamphetamine sulfate"],
     "links": [
       {
         "source": "Wikipedia",
@@ -8850,6 +8871,11 @@
   },
   "Diclofenac": {
     "name": "Diclofenac",
+    "alt-names": [
+      "Diclofenac epolamine",
+      "Diclofenac potassium",
+      "Diclofenac sodium"
+    ],
     "clincalc": {
       "name": "Diclofenac",
       "rank": 51,
@@ -8865,9 +8891,6 @@
     "drugbank": {
       "accession": "DB00586"
     },
-    "alt-names": [
-      "Diclofenac sodium"
-    ],
     "nzhm": [
       {
         "name": "Diclofenac sodium",
@@ -9543,7 +9566,7 @@
   "Docetaxel": {
     "name": "Docetaxel",
     "alt-names": [
-      "Docetaxel"
+      "Docetaxel", "Docetaxel anhydrous"
     ],
     "links": [
       {
@@ -10157,6 +10180,10 @@
   },
   "Doxycycline": {
     "name": "Doxycycline",
+    "alt-names": [
+      "Doxycycline anhydrous",
+      "Doxycycline hyclate"
+    ],
     "clincalc": {
       "name": "Doxycycline",
       "rank": 68,
@@ -10238,6 +10265,7 @@
   },
   "Drospirenone; Ethinyl Estradiol": {
     "name": "Drospirenone; Ethinyl Estradiol",
+    "alt-names": ["Drospirenone; Estradiol"],
     "clincalc": {
       "name": "Drospirenone; Ethinyl Estradiol",
       "rank": 142,
@@ -10678,7 +10706,8 @@
   "Eltrombopag": {
     "name": "Eltrombopag",
     "alt-names": [
-      "Eltrombopag"
+      "Eltrombopag Choline",
+      "Eltrombopag Olamine"
     ],
     "links": [
       {
@@ -10913,7 +10942,9 @@
   "Emtricitabine; Tenofovir": {
     "name": "Emtricitabine; Tenofovir",
     "alt-names": [
-      "Emtricitabine with tenofovir disoproxil"
+      "Emtricitabine with tenofovir disoproxil",
+      "Emtricitabine; Tenofovir alafenamide fumarate",
+      "Emtricitabine; Tenofovir disoproxil fumarate"
     ],
     "links": [
       {
@@ -11850,6 +11881,7 @@
   },
   "Escitalopram": {
     "name": "Escitalopram",
+    "alt-names": ["Escitalopram oxalate"],
     "brand-names": [
       "Lexapro",
       "Cipralex"
@@ -11929,6 +11961,12 @@
   },
   "Esomeprazole": {
     "name": "Esomeprazole",
+    "alt-names": [
+      "Esomeprazole magnesium",
+      "Esomeprazole magnesium dihydrate",
+      "Esomeprazole magnesium trihydrate",
+      "Esomeprazole strontium"
+    ],
     "clincalc": {
       "name": "Esomeprazole",
       "rank": 122,
@@ -12112,6 +12150,7 @@
   },
   "Ethinyl Estradiol; Levonorgestrel": {
     "name": "Ethinyl Estradiol; Levonorgestrel",
+    "alt-names": ["Estradiol; Levonorgestrel"],
     "clincalc": {
       "name": "Ethinyl Estradiol; Levonorgestrel",
       "rank": 128,
@@ -12135,6 +12174,7 @@
   },
   "Ethinyl Estradiol; Norethindrone": {
     "name": "Ethinyl Estradiol; Norethindrone",
+    "alt-names": ["estradiol; norethindrone acetate"],
     "clincalc": {
       "name": "Ethinyl Estradiol; Norethindrone",
       "rank": 80,
@@ -12681,6 +12721,8 @@
   },
   "Fenofibrate": {
     "name": "Fenofibrate",
+    "alt-names": ["choline fenofibrate"],
+    "brand-names": ["Tricor"],
     "clincalc": {
       "name": "Fenofibrate",
       "rank": 88,
@@ -13762,6 +13804,7 @@
   },
   "Fluticasone": {
     "name": "Fluticasone",
+    "alt-names": ["fluticasone furoate"],
     "clincalc": {
       "name": "Fluticasone",
       "rank": 25,
@@ -13859,6 +13902,10 @@
   },
   "Fluticasone; Salmeterol": {
     "name": "Fluticasone; Salmeterol",
+    "alt-names": [
+      "Fluticasone propionate; Salmeterol xinafoate",
+      "Fluticasone with salmeterol"
+    ],
     "clincalc": {
       "name": "Fluticasone; Salmeterol",
       "rank": 59,
@@ -13882,9 +13929,6 @@
     "drugbank": {
       "accession": "DB00938"
     },
-    "alt-names": [
-      "Fluticasone with salmeterol"
-    ],
     "nzhm": [
       {
         "name": "Fluticasone with salmeterol",
@@ -13934,6 +13978,9 @@
   },
   "Fluticasone; Umeclidinium; Vilanterol": {
     "name": "Fluticasone; Umeclidinium; Vilanterol",
+    "alt-names": [
+      "Fluticasone furoate; Umeclidinium bromide; Vilanterol trifen"
+    ],
     "clincalc": {
       "name": "Fluticasone; Umeclidinium; Vilanterol",
       "rank": 144,
@@ -15626,6 +15673,7 @@
   },
   "Hydrochlorothiazide; Olmesartan": {
     "name": "Hydrochlorothiazide; Olmesartan",
+    "alt-names": ["Hydrochlorothiazide; Olmesartan medoxomil"],
     "clincalc": {
       "name": "Hydrochlorothiazide; Olmesartan",
       "rank": 235,
@@ -15862,6 +15910,7 @@
   },
   "Hydroxyzine": {
     "name": "Hydroxyzine",
+    "alt-names": ["Hydroxyzine pamoate"],
     "clincalc": {
       "name": "Hydroxyzine",
       "rank": 46,
@@ -16426,7 +16475,8 @@
       "accession": "DB00458"
     },
     "alt-names": [
-      "Imipramine hydrochloride"
+      "Imipramine hydrochloride",
+      "Imipramine pamoate"
     ],
     "nzhm": [
       {
@@ -18447,7 +18497,9 @@
   "Leuprorelin": {
     "name": "Leuprorelin",
     "alt-names": [
-      "Leuprorelin acetate"
+      "Leuprorelin acetate",
+      "Leuprolide acetate",
+      "Leuprolide mesylate"
     ],
     "links": [
       {
@@ -19114,6 +19166,7 @@
   },
   "Lisdexamfetamine": {
     "name": "Lisdexamfetamine",
+    "alt-names": ["Lisdexamfetamine dimesylate"],
     "clincalc": {
       "name": "Lisdexamfetamine",
       "rank": 69,
@@ -20973,8 +21026,10 @@
   "Methenamine": {
     "name": "Methenamine",
     "alt-names": [
-      "Methenamine (Hexamine) hippurate"
+      "Methenamine (Hexamine) hippurate",
+      "Methenamine hippurate"
     ],
+    "brand-names": ["Hiprex", "Urex"],
     "links": [
       {
         "source": "Wikipedia",
@@ -21516,6 +21571,7 @@
   },
   "Methylprednisolone": {
     "name": "Methylprednisolone",
+    "alt-names": ["Methylprednisolone sodium succinate"],
     "clincalc": {
       "name": "Methylprednisolone",
       "rank": 153,
@@ -22460,7 +22516,8 @@
   "Mitomycin C": {
     "name": "Mitomycin C",
     "alt-names": [
-      "Mitomycin C"
+      "Mitomycin C",
+      "Mitomycin"
     ],
     "links": [
       {
@@ -22602,6 +22659,8 @@
   },
   "Modafinil": {
     "name": "Modafinil",
+    "brand-names": ["Provigil"],
+    "description": "Modafinil is a stimulant used to improve wakefulness.",
     "links": [
       {
         "source": "Wikipedia",
@@ -23425,6 +23484,9 @@
   },
   "Naltrexone; bupropion": {
     "name": "Naltrexone and bupropion",
+    "alt-names": [
+      "Bupropion hydrochloride; Naltrexone hydrochloride"
+    ],
     "links": [
       {
         "source": "Wikipedia",
@@ -24052,7 +24114,8 @@
   "Nintedanib": {
     "name": "Nintedanib",
     "alt-names": [
-      "Nintedanib"
+      "Nintedanib",
+      "Nintedanib esylate"
     ],
     "links": [
       {
@@ -25359,6 +25422,8 @@
   },
   "Olmesartan": {
     "name": "Olmesartan",
+    "alt-names": ["Olmesartan medoxomil"],
+    "brand-names": ["Azor", "Benicar", "Olmetec"],
     "clincalc": {
       "name": "Olmesartan",
       "rank": 97,
@@ -25507,6 +25572,9 @@
   },
   "Omeprazole": {
     "name": "Omeprazole",
+    "alt-names": ["Omeprazole magnesium"],
+    "brand-names": ["Prilosec"],
+    "description": "Omeprazole is a proton pump inhibitor used to treat GERD.",
     "clincalc": {
       "name": "Omeprazole",
       "rank": 9,
@@ -26429,6 +26497,7 @@
   },
   "Pamidronate": {
     "name": "Pamidronate",
+    "alt-names": ["Pamidronate disodium"],
     "links": [
       {
         "source": "Wikipedia",
@@ -26903,7 +26972,8 @@
   "Pemetrexed": {
     "name": "Pemetrexed",
     "alt-names": [
-      "Pemetrexed"
+      "Pemetrexed",
+      "Pemetrexed disodium"
     ],
     "links": [
       {
@@ -27332,6 +27402,7 @@
   },
   "Perindopril": {
     "name": "Perindopril",
+    "alt-names": ["Perindopril erbumine"],
     "links": [
       {
         "source": "Wikipedia",
@@ -29475,7 +29546,8 @@
   "Prochlorperazine": {
     "name": "Prochlorperazine",
     "alt-names": [
-      "Prochlorperazine"
+      "Prochlorperazine",
+      "Prochlorperazine edisylate"
     ],
     "links": [
       {
@@ -31325,6 +31397,7 @@
   },
   "Rizatriptan": {
     "name": "Rizatriptan",
+    "alt-names": ["Rizatriptan benzoate"],
     "clincalc": {
       "name": "Rizatriptan",
       "rank": 190,
@@ -31556,6 +31629,7 @@
   },
   "Rosuvastatin": {
     "name": "Rosuvastatin",
+    "alt-names": ["Rosuvastatin calcium"],
     "clincalc": {
       "name": "Rosuvastatin",
       "rank": 13,
@@ -33294,6 +33368,9 @@
   },
   "Sunitinib": {
     "name": "Sunitinib",
+    "alt-names": [
+      "Sunitinib malate"
+    ],
     "brand-names": [
       "Sutent"
     ],
@@ -34103,8 +34180,11 @@
     "name": "Testosterone",
     "alt-names": [
       "Testosterone cipionate",
+      "Testosterone cypionate",
+      "Testosterone enanthate",
       "Testosterone esters",
-      "Testosterone undecanoate"
+      "Testosterone undecanoate",
+      "Methyltestosterone"
     ],
     "clincalc": {
       "name": "Testosterone",
@@ -34875,6 +34955,7 @@
   },
   "Tiotropium": {
     "name": "Tiotropium",
+    "alt-names": ["Tiotropium bromide"],
     "clincalc": {
       "name": "Tiotropium",
       "rank": 154,
@@ -35979,7 +36060,8 @@
   "Trientine": {
     "name": "Trientine",
     "alt-names": [
-      "Trientine"
+      "Trientine",
+      "Trientine tetrahydrochloride"
     ],
     "links": [
       {
@@ -36272,6 +36354,9 @@
   },
   "Umeclidinium; Vilanterol": {
     "name": "Umeclidinium; Vilanterol",
+    "alt-names": [
+      "Umeclidinium bromide; Vilanterol trifenatate"
+    ],
     "clincalc": {
       "name": "Umeclidinium; Vilanterol",
       "rank": 211,
@@ -37577,6 +37662,7 @@
   },
   "Ziprasidone": {
     "name": "Ziprasidone",
+    "alt-names": ["Ziprasidone mesylate"],
     "brand-names": ["Geodon"],
     "description": "Ziprasidone is an atypical antipsychotic used to manage schizophrenia and bipolar mania",
     "drugbank": {
@@ -37686,6 +37772,9 @@
   },
   "Zolpidem": {
     "name": "Zolpidem",
+    "alt-names": [
+      "Zolpidem tartrate"
+    ],
     "clincalc": {
       "name": "Zolpidem",
       "rank": 66,
