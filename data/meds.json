@@ -2471,6 +2471,8 @@
   },
   "Atorvastatin": {
     "name": "Atorvastatin",
+    "alt-names": ["Atorvastatin calcium", "Atorvastatin calcium trihydrate"],
+    "brand-names": ["Lipitor"],
     "description": "Atorvastatin is a cholesterol-lowering HMG-CoA reductase inhibitor used to reduce risk of cardiovascular disease.",
     "clincalc": {
       "name": "Atorvastatin",
@@ -3160,6 +3162,7 @@
   },
   "Betamethasone": {
     "name": "Betamethasone",
+    "alt-names": ["Betamethasone acetate; Betamethasone sodium phosphate"],
     "clincalc": {
       "name": "Betamethasone",
       "rank": 263,
@@ -5771,7 +5774,11 @@
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Ciprofloxacin; Hydrocortisone"
+        "url": "https://en.wikipedia.org/wiki/Ciprofloxacin"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hydrocortisone"
       }
     ],
     "source": "NZHM",
@@ -7283,7 +7290,7 @@
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Cyproterone; Ethinyloestradiol"
+        "url": "https://en.wikipedia.org/wiki/Cyproterone_acetate"
       }
     ],
     "source": "NZHM",
@@ -7313,6 +7320,7 @@
       "Cysteamine hydrochloride",
       "cysteamine bitartrate"
     ],
+    "brand-names": ["Cystagon"],
     "links": [
       {
         "source": "Wikipedia",
@@ -8387,10 +8395,6 @@
       "Dexamethasone with framycetin and gramicidin"
     ],
     "links": [
-      {
-        "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Dexamethasone; Framycetin; Gramicidin"
-      }
     ],
     "source": "NZHM",
     "nzhm": [
@@ -8474,7 +8478,11 @@
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Dexamethasone; Tobramycin"
+        "url": "https://en.wikipedia.org/wiki/Dexamethasone"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tobramycin"
       }
     ],
     "source": "NZHM",
@@ -8651,6 +8659,10 @@
   },
   "Dextroamphetamine; Dextroamphetamine Saccharate; Amphetamine; Amphetamine Aspartate": {
     "name": "Dextroamphetamine; Dextroamphetamine Saccharate; Amphetamine; Amphetamine Aspartate",
+    "alt-names": [
+      "Amphetamine Aspartate Monohydrate; Amphetamine Sulfate; Dextroamphetamine Saccharate; Dextroamphetamine Sulfate",
+      "Amphetamine Aspartate; Amphetamine Sulfate; Dextroamphetamine Saccharate; Dextroamphetamine Sulfate"
+    ],
     "brand-names": [
       "Adderall"
     ],
@@ -9366,7 +9378,7 @@
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Diphenoxylate; Atropine"
+        "url": "https://en.wikipedia.org/wiki/Atropine/diphenoxylate"
       }
     ],
     "source": "NZHM",
@@ -10561,7 +10573,7 @@
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Efavirenz; Emtricitabine; Tenofovir"
+        "url": "https://en.wikipedia.org/wiki/Efavirenz/emtricitabine/tenofovir"
       }
     ],
     "source": "NZHM",
@@ -10662,15 +10674,15 @@
       }
     ]
   },
-  "Elexacaftor; Tezacaftor, ivacaftor and ivacaftor": {
-    "name": "Elexacaftor; Tezacaftor, ivacaftor and ivacaftor",
+  "Elexacaftor; Tezacaftor; Ivacaftor": {
+    "name": "Elexacaftor; Tezacaftor; Ivacaftor",
     "alt-names": [
-      "Elexacaftor with tezacaftor, ivacaftor and ivacaftor"
+      "Elexacaftor with tezacaftor and ivacaftor"
     ],
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Elexacaftor; Tezacaftor, ivacaftor and ivacaftor"
+        "url": "https://en.wikipedia.org/wiki/Elexacaftor/tezacaftor/ivacaftor"
       }
     ],
     "source": "NZHM",
@@ -10946,10 +10958,11 @@
       "Emtricitabine; Tenofovir alafenamide fumarate",
       "Emtricitabine; Tenofovir disoproxil fumarate"
     ],
+    "brand-names": ["Truvada"],
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Emtricitabine; Tenofovir"
+        "url": "https://en.wikipedia.org/wiki/Emtricitabine/tenofovir"
       }
     ],
     "source": "NZHM",
@@ -12515,8 +12528,8 @@
       }
     ]
   },
-  "Ezetimibe; simvastatin": {
-    "name": "Ezetimibe; simvastatin",
+  "Ezetimibe; Simvastatin": {
+    "name": "Ezetimibe; Simvastatin",
     "brand-names": [
       "Inegy",
       "Vytorin"
@@ -13487,7 +13500,11 @@
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Flumetasone; Clioquinol"
+        "url": "https://en.wikipedia.org/wiki/Flumetasone"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Clioquinol"
       }
     ],
     "source": "NZHM",
@@ -13527,16 +13544,11 @@
     }
   },
   "Fluocortolone; Fluocortolone; Cinchocaine": {
-    "name": "Fluocortolone; Fluocortolone; Cinchocaine",
+    "name": "Fluocortolone; Cinchocaine",
     "alt-names": [
       "Fluocortolone caproate with fluocortolone pivalate and cinchocaine"
     ],
-    "links": [
-      {
-        "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Fluocortolone; Fluocortolone; Cinchocaine"
-      }
-    ],
+    "links": [],
     "source": "NZHM",
     "nzhm": [
       {
@@ -13920,10 +13932,6 @@
       {
         "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Fluticasone"
-      },
-      {
-        "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Salmeterol"
       }
     ],
     "drugbank": {
@@ -16439,7 +16447,7 @@
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Imipenem; Cilastatin"
+        "url": "https://en.wikipedia.org/wiki/Imipenem/cilastatin"
       }
     ],
     "source": "NZHM",
@@ -16816,7 +16824,12 @@
       "prescriptions_2022": 4306212,
       "patients_2022": 903028
     },
-    "links": []
+    "links": [
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Insulin_degludec"
+      }
+    ]
   },
   "Insulin Detemir": {
     "name": "Insulin Detemir",
@@ -17083,6 +17096,7 @@
   },
   "Irbesartan": {
     "name": "Irbesartan",
+    "brand-names": ["Aprovel"],
     "clincalc": {
       "name": "Irbesartan",
       "rank": 200,
@@ -17249,8 +17263,10 @@
   "Isoprenaline": {
     "name": "Isoprenaline",
     "alt-names": [
-      "Isoprenaline [Isoproterenol]"
+      "Isoprenaline [Isoproterenol]",
+      "Isoproterenol"
     ],
+    "brand-names": ["Isuprel"],
     "links": [
       {
         "source": "Wikipedia",
@@ -18248,10 +18264,11 @@
     "alt-names": [
       "Latanoprost with timolol"
     ],
+    "brand-names": ["Xalacom"],
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Latanoprost; Timolol"
+        "url": "https://en.wikipedia.org/wiki/Latanoprost/timolol"
       }
     ],
     "source": "NZHM",
@@ -18280,10 +18297,11 @@
     "alt-names": [
       "Ledipasvir with sofosbuvir"
     ],
+    "brand-names": ["Harvoni"],
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Ledipasvir; Sofosbuvir"
+        "url": "https://en.wikipedia.org/wiki/Ledipasvir/sofosbuvir"
       }
     ],
     "source": "NZHM",
@@ -18352,6 +18370,7 @@
     "alt-names": [
       "Lenalidomide (Viatris)"
     ],
+    "brand-names": ["Revlimid"],
     "links": [
       {
         "source": "Wikipedia",
@@ -19450,10 +19469,11 @@
     "alt-names": [
       "Lopinavir with ritonavir"
     ],
+    "brand-names": ["Kaletra"],
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Lopinavir; Ritonavir"
+        "url": "https://en.wikipedia.org/wiki/Lopinavir/ritonavir"
       }
     ],
     "source": "NZHM",
@@ -19722,7 +19742,7 @@
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Losartan; Hydrochlorothiazide"
+        "url": "https://en.wikipedia.org/wiki/Losartan/hydrochlorothiazide"
       }
     ],
     "source": "NZHM",
@@ -19762,28 +19782,6 @@
     ],
     "drugbank": {
       "accession": "DB00227"
-    }
-  },
-  "Macrogol": {
-    "name": "Macrogol",
-    "alt-names": [
-      "Macrogol",
-      "Macrogol 3350",
-      "Macrogol 4000",
-      "Macrogol 6000",
-      "PEG",
-      "Polyethylene glycol 3350",
-      "Polyethylene glycol 4000",
-      "Polyethylene glycol 6000"
-    ],
-    "links": [
-      {
-        "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Macrogol"
-      }
-    ],
-    "drugbank": {
-      "accession": "DB09287"
     }
   },
   "Mafenide": {
@@ -20443,12 +20441,7 @@
     "alt-names": [
       "Mepivacaine hydrochloride with adrenaline"
     ],
-    "links": [
-      {
-        "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Mepivacaine; Adrenaline"
-      }
-    ],
+    "links": [],
     "source": "NZHM",
     "nzhm": [
       {
@@ -21670,7 +21663,7 @@
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Metoclopramide; Paracetamol"
+        "url": "https://en.wikipedia.org/wiki/Paracetamol/metoclopramide"
       }
     ],
     "source": "NZHM",
@@ -23779,7 +23772,7 @@
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Neostigmine; glycopyrronium"
+        "url": "https://en.wikipedia.org/wiki/Neostigmine/glycopyrronium_bromide"
       }
     ],
     "source": "NZHM",
@@ -24693,7 +24686,7 @@
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Norethisterone; Mestranol"
+        "url": "https://en.wikipedia.org/wiki/Mestranol/norethisterone"
       }
     ],
     "source": "NZHM",
@@ -28561,8 +28554,19 @@
       }
     ]
   },
-  "Polyethylene Glycol 3350": {
-    "name": "Polyethylene Glycol 3350",
+  "Polyethylene Glycol": {
+    "name": "Polyethylene Glycol",
+    "alt-names": [
+      "Macrogol",
+      "Macrogol 3350",
+      "Macrogol 4000",
+      "Macrogol 6000",
+      "PEG",
+      "Polyethylene glycol",
+      "Polyethylene glycol 3350",
+      "Polyethylene glycol 4000",
+      "Polyethylene glycol 6000"
+    ],
     "clincalc": {
       "name": "Polyethylene Glycol 3350",
       "rank": 209,
@@ -28572,12 +28576,30 @@
     "links": [
       {
         "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Macrogol"
+      },
+      {
+        "source": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Polyethylene_Glycol_3350"
       }
-    ]
-  },
+    ],
+    "drugbank": {
+      "accession": "DB09287"
+    },
+    "categories": [
+      {
+        "source": "nzhm",
+        "tg1": "Alimentary Tract and Metabolism",
+        "tg2": "Laxatives",
+        "tg3": "Bowel-Cleansing Preparations"
+      }
+    ]  },
   "Polyethylene Glycol 3350 With Electrolytes": {
     "name": "Polyethylene Glycol 3350 With Electrolytes",
+    "alt-names": [
+      "polyethylene glycol 3350; potassium chlorate; sodium bicarbonate; sodium chloride; sodium sulfate anhydrous",
+      "polyethylene glycol 3350; potassium chloride; sodium bicarbonate; sodium chloride"
+    ],
     "clincalc": {
       "name": "Polyethylene Glycol 3350 With Electrolytes",
       "rank": 282,
@@ -29387,7 +29409,11 @@
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Prilocaine; Felypressin"
+        "url": "https://en.wikipedia.org/wiki/Felypressin"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Prilocaine"
       }
     ],
     "source": "NZHM",
@@ -31921,6 +31947,7 @@
   },
   "Salmeterol": {
     "name": "Salmeterol",
+    "alt-names": ["Salmeterol xinafoate"],
     "links": [
       {
         "source": "Wikipedia",
@@ -31993,6 +32020,9 @@
   },
   "Saxagliptin": {
     "name": "Saxagliptin",
+    "alt-names": [
+      "Saxagliptin hydrochloride dihydrate"
+    ],
     "brand-names": ["Onglyza"],
     "description": "Saxagliptin is an DPP-4 inhibitor used to control blood sugar in type 2 diabetes.",
     "links": [
@@ -34801,7 +34831,7 @@
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Ticarcillin; Clavulanic acid"
+        "url": "https://en.wikipedia.org/wiki/Ticarcillin/clavulanic_acid"
       }
     ],
     "source": "NZHM",
@@ -35005,10 +35035,16 @@
     "alt-names": [
       "Tiotropium bromide with olodaterol"
     ],
+    "brand-names": ["Respimat"],
+    "description": "Tiotropium with olodaterol is a LABA+LAMA combination inhaler for COPD sold as Respimat.",
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Tiotropium; Olodaterol"
+        "url": "https://en.wikipedia.org/wiki/Tiotropium"
+      },
+      {
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Olodaterol"
       }
     ],
     "source": "NZHM",
@@ -35037,10 +35073,11 @@
     "alt-names": [
       "Tixagevimab with cilgavimab"
     ],
+    "brand-names": ["Evusheld"],
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Tixagevimab; Cilgavimab"
+        "url": "https://en.wikipedia.org/wiki/Tixagevimab/cilgavimab"
       }
     ],
     "source": "NZHM",
@@ -35992,12 +36029,7 @@
     "alt-names": [
       "Triamcinolone acetonide with gramicidin, neomycin and nystatin"
     ],
-    "links": [
-      {
-        "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Triamcinolone; Gramicidin; Neomycin; Nystatin"
-      }
-    ],
+    "links": [],
     "source": "NZHM",
     "nzhm": [
       {
@@ -36145,10 +36177,11 @@
     "alt-names": [
       "Trimethoprim with sulphamethoxazole [Co-trimoxazole]"
     ],
+    "brand-names": ["Bactrim"],
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Trimethoprim; Sulphamethoxazole"
+        "url": "https://en.wikipedia.org/wiki/Trimethoprim/sulfamethoxazole"
       }
     ],
     "source": "NZHM",
@@ -36587,7 +36620,8 @@
     "name": "Valproate",
     "alt-names": [
       "Valproate sodium",
-      "Sodium Valproate"
+      "Sodium Valproate",
+      "Valproic acid"
     ],
     "clincalc": {
       "name": "Valproate",
@@ -36754,6 +36788,7 @@
   "Vasopressin": {
     "name": "Vasopressin",
     "alt-names": [
+      "Argipressin",
       "Argipressin [Vasopressin]"
     ],
     "links": [
@@ -36927,6 +36962,8 @@
   },
   "Venlafaxine": {
     "name": "Venlafaxine",
+    "alt-names": ["Venlafaxine besylate monohydrate"],
+    "brand-names": ["Effexor"],
     "clincalc": {
       "name": "Venlafaxine",
       "rank": 44,
@@ -36977,6 +37014,9 @@
         "tg1": "Nervous System",
         "tg2": "Antidepressants",
         "tg3": "Other Antidepressants"
+      },
+      {
+        "drug-classes": ["SNRI"]
       }
     ]
   },
@@ -37636,7 +37676,7 @@
     "links": [
       {
         "source": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Zidovudine; Lamivudine"
+        "url": "https://en.wikipedia.org/wiki/Lamivudine/zidovudine"
       }
     ],
     "source": "NZHM",
