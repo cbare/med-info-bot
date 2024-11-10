@@ -379,7 +379,8 @@
     "name": "Alogliptin Benzoate; Pioglitazone",
     "alt-names": [
       "Alogliptin Benzoate; Pioglitazone Hydrochloride"
-    ]
+    ],
+    "description": "Alogliptin and pioglitazone are used to improve control of blood sugar in adults with type 2 diabetes."
   },
   "Alosetron": {
     "name": "Alosetron",
@@ -644,6 +645,16 @@
     "name": "Amoxicillin; Omeprazole; Rifabutin",
     "alt-names": [
       "Amoxicillin; Omeprazole Magnesium; Rifabutin"
+    ],
+    "brand-names": [
+      "Talicia"
+    ],
+    "description": "Omeprazole/amoxicillin/rifabutin, sold under the brand name Talicia, is a fixed-dose combination medication used for the treatment of Helicobacter pylori infection.",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "slug": "Omeprazole/amoxicillin/rifabutin"
+      }
     ]
   },
   "Ampicillin": {
@@ -902,10 +913,20 @@
       }
     ]
   },
-  "Atezolizumab; Hyaluronidase (Human Recombinant)": {
-    "name": "Atezolizumab; Hyaluronidase (Human Recombinant)",
+  "Atezolizumab; Hyaluronidase": {
+    "name": "Atezolizumab; Hyaluronidase",
     "alt-names": [
       "Atezolizumab; Hyaluronidase (Human Recombinant)"
+    ],
+    "brand-names": [
+      "Tecentriq Hybreza"
+    ],
+    "description": "Atezolizumab/hyaluronidase, sold under the brand name Tecentriq Hybreza, is a fixed-dose combination medication used for the treatment of non-small cell lung cancer, small cell lung cancer, hepatocellular carcinoma, melanoma, and alveolar soft part sarcoma.",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "slug": "Atezolizumab/hyaluronidase"
+      }
     ]
   },
   "Atoltivimab; Maftivimab; Odesivimab": {
@@ -970,10 +991,25 @@
       }
     ]
   },
-  "Avacincaptad": {
-    "name": "Avacincaptad",
+  "Avacincaptad Pegol": {
+    "name": "Avacincaptad Pegol",
     "alt-names": [
-      "Avacincaptad Pegol Sodium"
+      "Avacincaptad Pegol Sodium",
+      "Avacincaptad pegol"
+    ],
+    "brand-names": [
+      "Izervay"
+    ],
+    "description": "Avacincaptad pegol, sold under the brand name Izervay, is a medication used for the treatment of age-related macular degeneration.",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "slug": "Avacincaptad_pegol"
+      },
+      {
+        "source": "drugbank",
+        "accession": "DB15165"
+      }
     ]
   },
   "Avacopan": {
@@ -1000,12 +1036,16 @@
     "name": "Avibactam; Ceftazidime",
     "alt-names": [
       "Avibactam Sodium; Ceftazidime"
-    ]
-  },
-  "Avobenzone; Ecamsule; Octocrylene": {
-    "name": "Avobenzone; Ecamsule; Octocrylene",
-    "alt-names": [
-      "Avobenzone; Ecamsule; Octocrylene"
+    ],
+    "brand-names": [
+      "Avycaz"
+    ],
+    "description": "Ceftazidime/avibactam, sold under the brand name Avycaz, is a fixed-dose combination medication composed of ceftazidime, a cephalosporin antibiotic, and avibactam, a \u03b2-lactamase inhibitor. It is used to treat complicated intra-abdominal infections, urinary tract infections, and pneumonia.",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "slug": "Ceftazidime/avibactam"
+      }
     ]
   },
   "Axatilimab": {
@@ -1107,7 +1147,14 @@
     "name": "Bazedoxifene; Estrogen",
     "alt-names": [
       "Bazedoxifene Acetate; Estrogens, Conjugated"
-    ]
+    ],
+    "links": [
+      {
+        "source": "Wikipedia",
+        "slug": "Bazedoxifene/conjugated_estrogens"
+      }
+    ],
+    "description": "Bazedoxifene/conjugated estrogens, marketed as Duavee, is a fixed-dose combination medication that acts as a selective estrogen receptor modulator and estrogen, primarily used to treat menopause symptoms and prevent postmenopausal osteoporosis. [gpt-4o-mini]"
   },
   "Becaplermin": {
     "name": "Becaplermin",
@@ -1288,7 +1335,8 @@
     "name": "Benoxinate; Fluorescein",
     "alt-names": [
       "Benoxinate Hydrochloride; Fluorescein Sodium"
-    ]
+    ],
+    "description": "Benoxinate; Fluorescein is an eye drop that has both a numbing medicine and a colored dye for use during eye procedures."
   },
   "Benzoyl Peroxide; Clindamycin": {
     "name": "Benzoyl Peroxide; Clindamycin",
@@ -1307,6 +1355,16 @@
     "name": "Benzoyl Peroxide; Erythromycin",
     "alt-names": [
       "Benzoyl Peroxide; Erythromycin"
+    ],
+    "links": [
+      {
+        "source": "Wikipedia",
+        "slug": "Erythromycin/benzoyl_peroxide"
+      }
+    ],
+    "description": "Erythromycin/Benzoyl Peroxide, marketed as Benzamycin, is a topical combination antibiotic and antiseptic used primarily to treat acne. [gpt-4o-mini]",
+    "brand-names": [
+      "Benzamycin"
     ]
   },
   "Benzoyl Peroxide; Tretinoin": {
@@ -1360,12 +1418,6 @@
         "source": "drugbank",
         "accession": "DB15982"
       }
-    ]
-  },
-  "Betamethasone; Betamethasone": {
-    "name": "Betamethasone; Betamethasone",
-    "alt-names": [
-      "Betamethasone Acetate; Betamethasone Sodium Phosphate"
     ]
   },
   "Betamethasone; Calcipotriene": {
@@ -1768,14 +1820,26 @@
   "Calcitonin Salmon": {
     "name": "Calcitonin Salmon",
     "alt-names": [
-      "Calcitonin Salmon"
+      "Salmon Calcitonin"
+    ],
+    "description": "Calcipotriene is a synthetic derivative of vitamin D used primarily to treat psoriasis. [gpt-4o-mini]",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "slug": "Salmon_calcitonin"
+      },
+      {
+        "source": "drugbank",
+        "accession": "DB00017"
+      }
     ]
   },
-  "Calcium; Famotidine; Magnesium Hydroxide": {
-    "name": "Calcium; Famotidine; Magnesium Hydroxide",
+  "Calcium Carbonate; Famotidine; Magnesium Hydroxide": {
+    "name": "Calcium Carbonate; Famotidine; Magnesium Hydroxide",
     "alt-names": [
       "Calcium Carbonate; Famotidine; Magnesium Hydroxide"
-    ]
+    ],
+    "description": "Combination of a histamine-2 blocker and antacids to treat heartburn and acid indigestion."
   },
   "Cannabidiol": {
     "name": "Cannabidiol",
@@ -2328,13 +2392,24 @@
     "name": "Chlordiazepoxide; Clidinium",
     "alt-names": [
       "Chlordiazepoxide; Clidinium Bromide"
+    ],
+    "brand-names": [
+      "Librax"
+    ],
+    "description": "Chlordiazepoxide/clidinium bromide is a fixed-dose combination medication used to treat peptic ulcers, irritable bowel syndrome (IBS), and gastritis.",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "slug": "Chlordiazepoxide/clidinium_bromide"
+      }
     ]
   },
   "Chlorpheniramine; Ibuprofen; Phenylephrine": {
     "name": "Chlorpheniramine; Ibuprofen; Phenylephrine",
     "alt-names": [
       "Chlorpheniramine Maleate; Ibuprofen; Phenylephrine Hydrochloride"
-    ]
+    ],
+    "description": "Combination of an antihistamine, NSAID and decongestant used to relieve symptoms of allergies and cold.",
   },
   "Ciclesonide": {
     "name": "Ciclesonide",
@@ -2393,6 +2468,16 @@
     "name": "Cilastatin; Imipenem; Relebactam",
     "alt-names": [
       "Cilastatin; Imipenem Anhydrous; Relebactam Anhydrous"
+    ],
+    "links": [
+      {
+        "source": "Wikipedia",
+        "slug": "Imipenem/cilastatin/relebactam"
+      }
+    ],
+    "description": "Imipenem/cilastatin/relebactam, marketed as Recarbrio, is a fixed-dose combination antibiotic used to treat complicated urinary tract infections and intra-abdominal infections in patients with limited treatment options. [gpt-4o-mini]",
+    "brand-names": [
+      "Recarbrio"
     ]
   },
   "Cinacalcet": {
@@ -2608,7 +2693,11 @@
     "name": "Cobicistat; Darunavir; Emtricitabine; Tenofovir",
     "alt-names": [
       "Cobicistat; Darunavir; Emtricitabine; Tenofovir Alafenamide"
-    ]
+    ],
+    "brand-names": [
+      "Symtuza"
+    ],
+    "description": "Symtuza is a combination medicine used to treat HIV."
   },
   "Cobicistat; Elvitegravir; Emtricitabine; Tenofovir": {
     "name": "Cobicistat; Elvitegravir; Emtricitabine; Tenofovir",
@@ -2633,6 +2722,13 @@
     "name": "Colchicine; Probenecid",
     "alt-names": [
       "Colchicine; Probenecid"
+    ],
+    "description": "Probenecid with colchicine is a combination medication used to treat gout.",
+    "links": [
+      {
+        "source": "Wikipedia",
+        "slug": "Probenecid_and_colchicine"
+      }
     ]
   },
   "Colesevelam": {
@@ -3124,7 +3220,17 @@
     "name": "Dexmethylphenidate; Serdexmethylphenidate",
     "alt-names": [
       "Dexmethylphenidate Hydrochloride; Serdexmethylphenidate Chloride"
-    ]
+    ],
+    "brand-names": [
+      "Azstarys"
+    ],
+    "links": [
+      {
+        "source": "Wikipedia",
+        "slug": "Serdexmethylphenidate/dexmethylphenidate"
+      }
+    ],
+    "description": "Serdexmethylphenidate/dexmethylphenidate, marketed as Azstarys, is a combination CNS stimulant used to treat attention deficit hyperactivity disorder (ADHD) in individuals aged six years and older. [gpt-4o-mini]"
   },
   "Diaminopyrimidine; Minoxidil": {
     "name": "Diaminopyrimidine; Minoxidil",
@@ -3152,12 +3258,6 @@
         "source": "drugbank",
         "accession": "DB00271"
       }
-    ]
-  },
-  "Dibasic; Monobasic": {
-    "name": "Dibasic; Monobasic",
-    "alt-names": [
-      "Dibasic Potassium Phosphate; Monobasic Potassium Phosphate"
     ]
   },
   "Diclofenac; Misoprostol": {
@@ -3269,6 +3369,20 @@
     "name": "Diroximel",
     "alt-names": [
       "Diroximel Fumarate"
+    ],
+    "links": [
+      {
+        "source": "Wikipedia",
+        "slug": "Diroximel_fumarate"
+      },
+      {
+        "source": "drugbank",
+        "accession": "DB14783"
+      }
+    ],
+    "description": "Diroximel fumarate, marketed as Vumerity, is an immunosuppressant used to treat relapsing forms of multiple sclerosis (MS). [gpt-4o-mini]",
+    "brand-names": [
+      "Vumerity "
     ]
   },
   "Disulfiram": {
@@ -4038,6 +4152,17 @@
     "name": "Estradiol; Norethindrone; Relugolix",
     "alt-names": [
       "Estradiol Hemihydrate; Norethindrone Acetate; Relugolix"
+    ],
+    "links": [
+      {
+        "source": "Wikipedia",
+        "slug": "Relugolix/estradiol/norethisterone_acetate"
+      }
+    ],
+    "description": "Relugolix/estradiol/norethisterone acetate, marketed as Myfembree and Ryeqo, is a combination hormonal medication used primarily to treat heavy menstrual bleeding associated with uterine fibroids and moderate to severe pain associated with endometriosis in premenopausal women. [gpt-4o-mini]",
+    "brand-names": [
+      "Myfembree",
+      "Ryeqo"
     ]
   },
   "Conjugated Estrogens": {
@@ -4132,7 +4257,23 @@
   "Ethacrynate": {
     "name": "Ethacrynate",
     "alt-names": [
-      "Ethacrynate Sodium"
+      "Ethacrynate Sodium",
+      "Etacrynic acid",
+      "Ethacrynic acid"
+    ],
+    "links": [
+      {
+        "source": "Wikipedia",
+        "slug": "Etacrynic_acid"
+      },
+      {
+        "source": "drugbank",
+        "accession": "DB00903"
+      }
+    ],
+    "description": "Ethacrynate, also known as Ethacrynic acid and marketed as Edecrin, is a loop diuretic used primarily to treat edema associated with conditions such as congestive heart failure, liver failure, and kidney failure. [gpt-4o-mini]",
+    "brand-names": [
+      "Edecrin"
     ]
   },
   "Ethanolamine": {
@@ -4423,6 +4564,16 @@
     "name": "Formoterol; Glycopyrrolate",
     "alt-names": [
       "Formoterol Fumarate; Glycopyrrolate"
+    ],
+    "links": [
+      {
+        "source": "Wikipedia",
+        "slug": "Glycopyrronium_bromide/formoterol"
+      }
+    ],
+    "description": "Glycopyrronium bromide/formoterol, marketed as Bevespi Aerosphere, is a combination medication that consists of a muscarinic anticholinergic and a long-acting \u03b22-adrenergic agonist used for the maintenance treatment of chronic obstructive pulmonary disease (COPD). [gpt-4o-mini]",
+    "brand-names": [
+      "Bevespi Aerosphere"
     ]
   },
   "Formoterol; Mometasone": {
@@ -4785,6 +4936,16 @@
     "name": "Glycopyrrolate; Neostigmine Methyl",
     "alt-names": [
       "Glycopyrrolate; Neostigmine Methylsulfate"
+    ],
+    "links": [
+      {
+        "source": "Wikipedia",
+        "slug": "Neostigmine/glycopyrronium_bromide"
+      }
+    ],
+    "description": "Neostigmine/glycopyrronium bromide, marketed as Prevduo, is a fixed-dose combination medication consisting of a cholinesterase inhibitor and an antimuscarinic agent used to reverse the effects of non-depolarizing neuromuscular blocking agents after surgery. [gpt-4o-mini]",
+    "brand-names": [
+      "Prevduo"
     ]
   },
   "Glycopyrronium": {
@@ -4818,12 +4979,6 @@
         "source": "drugbank",
         "accession": "DB15593"
       }
-    ]
-  },
-  "Gozetotide": {
-    "name": "Gozetotide",
-    "alt-names": [
-      "Gozetotide"
     ]
   },
   "Griseofulvin": {
@@ -4896,6 +5051,16 @@
     "name": "Heparin; Taurolidine",
     "alt-names": [
       "Heparin; Taurolidine"
+    ],
+    "links": [
+      {
+        "source": "Wikipedia",
+        "slug": "Taurolidine/heparin"
+      }
+    ],
+    "description": "Taurolidine/Heparin, marketed as Defencath, is a fixed-dose combination antimicrobial and anticoagulant used to reduce catheter-related bloodstream infections in adults undergoing chronic hemodialysis. [gpt-4o-mini]",
+    "brand-names": [
+      "Defencath "
     ]
   },
   "Hetastarch": {
@@ -4936,6 +5101,18 @@
     "name": "Homatropine; Hydrocodone",
     "alt-names": [
       "Homatropine Methylbromide; Hydrocodone Bitartrate"
+    ],
+    "links": [
+      {
+        "source": "Wikipedia",
+        "slug": "Hydrocodone/homatropine"
+      }
+    ],
+    "description": "Homatropine/hydrocodone, marketed under the brand name Tussigon, is a fixed-dose combination medication that acts as an opioid agonist and muscarinic antagonist, commonly used to treat cough. [gpt-4o-mini]",
+    "brand-names": [
+      "Tussigon",
+      "Hycodan",
+      "Hydromet"
     ]
   },
   "Hyaluronidase": {
@@ -4964,24 +5141,57 @@
     "name": "Hyaluronidase; Ocrelizumab",
     "alt-names": [
       "Hyaluronidase (Human Recombinant); Ocrelizumab"
+    ],
+    "links": [
+      {
+        "source": "Wikipedia",
+        "slug": "Ocrelizumab/hyaluronidase"
+      }
+    ],
+    "description": "Ocrelizumab/hyaluronidase, marketed as Ocrevus Zunovo, is a fixed-dose combination medication comprising a monoclonal antibody used to treat multiple sclerosis, including its relapsing and primary progressive forms. [gpt-4o-mini]",
+    "brand-names": [
+      "Ocrevus Zunovo"
     ]
   },
   "Hyaluronidase; Pertuzumab; Trastuzumab": {
     "name": "Hyaluronidase; Pertuzumab; Trastuzumab",
     "alt-names": [
       "Hyaluronidase (Human Recombinant); Pertuzumab; Trastuzumab"
+    ],
+    "links": [
+      {
+        "source": "Wikipedia",
+        "slug": "Pertuzumab/trastuzumab/hyaluronidase"
+      }
+    ],
+    "description": "**Pertuzumab/Trastuzumab/Hyaluronidase**, marketed as **Phesgo**, is a fixed-dose combination medication consisting of HER2/neu receptor antagonists used primarily for the treatment of adults with HER2-positive breast cancer. [gpt-4o-mini]",
+    "brand-names": [
+      "Phesgo"
     ]
   },
   "Hyaluronidase; Rituximab": {
     "name": "Hyaluronidase; Rituximab",
     "alt-names": [
       "Hyaluronidase (Human Recombinant); Rituximab"
-    ]
+    ],
+    "description": "Rituximab/hyaluronidase combines Rituximab, a monoclonal anti-CD20 antibody used to treat non-Hodgkin's lymphoma, chronic lymphocytic leukemia with hyaluronidase which increases tissue permeability."
   },
   "Hyaluronidase; Trastuzumab": {
     "name": "Hyaluronidase; Trastuzumab",
     "alt-names": [
-      "Hyaluronidase (Human Recombinant); Trastuzumab"
+      "Hyaluronidase (Human Recombinant); Trastuzumab",
+      "Hyaluronidase; Trastuzumab"
+    ],
+    "links": [
+      {
+        "source": "Wikipedia",
+        "slug": "Trastuzumab/hyaluronidase"
+      }
+    ],
+    "description": "Trastuzumab/hyaluronidase, marketed as Herceptin SC, is a fixed-dose combination medication consisting of a HER2 receptor antagonist and an endoglycosidase used primarily for the treatment of HER2-overexpressing breast cancer in adults. [gpt-4o-mini]",
+    "brand-names": [
+      "Herceptin SC",
+      "Herceptin Hylecta"
     ]
   },
   "Hydralazine; Isosorbide Dinitrate": {
@@ -5141,7 +5351,8 @@
   "Indigotindisulfonate": {
     "name": "Indigotindisulfonate",
     "alt-names": [
-      "Indigotindisulfonate Sodium"
+      "Indigotindisulfonate Sodium",
+      "Indigo carmine"
     ]
   },
   "Insulin Glargine; Lixisenatide": {
@@ -5578,6 +5789,22 @@
     "name": "Letibotulinumtoxina",
     "alt-names": [
       "Letibotulinumtoxina"
+    ],
+    "links": [
+      {
+        "source": "Wikipedia",
+        "slug": "Botulinum_toxin"
+      },
+      {
+        "source": "drugbank",
+        "accession": "DB16820"
+      }
+    ],
+    "description": "LetibotulinumtoxinA (Letybo) is a neuromuscular blocking agent used to temporarily improve the appearance of moderate-to-severe glabellar lines (wrinkles between the eyebrows). [gpt-4o-mini]",
+    "brand-names": [
+      "Botox",
+      "Myobloc",
+      "Jeuveau"
     ]
   },
   "Leucovorin": {
@@ -5795,6 +6022,20 @@
     "name": "Loncastuximab",
     "alt-names": [
       "Loncastuximab Tesirine"
+    ],
+    "links": [
+      {
+        "source": "Wikipedia",
+        "slug": "Loncastuximab_tesirine"
+      },
+      {
+        "source": "drugbank",
+        "accession": "DB16222"
+      }
+    ],
+    "description": "Loncastuximab tesirine, marketed as Zynlonta, is an antibody-drug conjugate used to treat relapsed or refractory large B-cell lymphoma and high-grade B-cell lymphoma. [gpt-4o-mini]",
+    "brand-names": [
+      "Zynlonta"
     ]
   },
   "Loteprednol": {
@@ -5984,12 +6225,6 @@
         "source": "Wikipedia",
         "slug": "Macitentan/tadalafil"
       }
-    ]
-  },
-  "Mannitol; Sorbitol": {
-    "name": "Mannitol; Sorbitol",
-    "alt-names": [
-      "Mannitol; Sorbitol"
     ]
   },
   "Maralixibat": {
@@ -6409,12 +6644,36 @@
     "name": "Mometasone; Olopatadine",
     "alt-names": [
       "Mometasone Furoate Monohydrate; Olopatadine Hydrochloride"
+    ],
+    "links": [
+      {
+        "source": "Wikipedia",
+        "slug": "Olopatadine/mometasone"
+      }
+    ],
+    "description": "Olopatadine/mometasone, marketed as Ryaltris, is a fixed-dose combination medication comprising a selective H1-receptor antagonist and a corticosteroid, primarily used to treat allergic rhinitis and rhinoconjunctivitis in adults and adolescents aged twelve and older. [gpt-4o-mini]",
+    "brand-names": [
+      "Ryaltris"
     ]
   },
-  "Monomethyl": {
-    "name": "Monomethyl",
+  "Monomethyl Fumarate": {
+    "name": "Monomethyl Fumarate",
     "alt-names": [
       "Monomethyl Fumarate"
+    ],
+    "links": [
+      {
+        "source": "Wikipedia",
+        "slug": "Monomethyl_fumarate"
+      },
+      {
+        "source": "drugbank",
+        "accession": "DB14219"
+      }
+    ],
+    "description": "Monomethyl fumarate, marketed as Bafiertam, is an orally administered medication used to treat relapsing forms of multiple sclerosis in adults. [gpt-4o-mini]",
+    "brand-names": [
+      "Bafiertam"
     ]
   },
   "Motixafortide": {
@@ -6882,12 +7141,6 @@
         "source": "drugbank",
         "accession": "DB00348"
       }
-    ]
-  },
-  "Nitrofurantoin; Nitrofurantoin": {
-    "name": "Nitrofurantoin; Nitrofurantoin",
-    "alt-names": [
-      "Nitrofurantoin; Nitrofurantoin Monohydrate"
     ]
   },
   "Nivolumab; Relatlimab": {
@@ -8175,12 +8428,6 @@
       }
     ]
   },
-  "Rimabotulinumtoxinb": {
-    "name": "Rimabotulinumtoxinb",
-    "alt-names": [
-      "Rimabotulinumtoxinb"
-    ]
-  },
   "Riociguat": {
     "name": "Riociguat",
     "alt-names": [
@@ -8636,7 +8883,19 @@
   "Sodium Phenylbutyrate; Taurursodiol Dihydrate": {
     "name": "Sodium Phenylbutyrate; Taurursodiol Dihydrate",
     "alt-names": [
-      "Sodium Phenylbutyrate; Taurursodiol Dihydrate"
+      "Sodium phenylbutyrate; Taurursodiol dihydrate",
+      "Sodium phenylbutyrate; Ursodoxicoltaurine"
+    ],
+    "links": [
+      {
+        "source": "Wikipedia",
+        "slug": "Sodium_phenylbutyrate/ursodoxicoltaurine"
+      }
+    ],
+    "description": "Sodium phenylbutyrate/ursodoxicoltaurine, marketed as Albrioza and Relyvrio, is a fixed-dose combination medication that acts as a pan-histone deacetylase inhibitor and bile acid, primarily used to treat amyotrophic lateral sclerosis (ALS). [gpt-4o-mini]",
+    "brand-names": [
+      "Albrioza",
+      "Relyvrio"
     ]
   },
   "Sodium Polystyrene Sulfonate": {
@@ -9516,6 +9775,20 @@
     "name": "Tisotumab",
     "alt-names": [
       "Tisotumab Vedotin"
+    ],
+    "links": [
+      {
+        "source": "Wikipedia",
+        "slug": "Tisotumab_vedotin"
+      },
+      {
+        "source": "drugbank",
+        "accession": "DB16732"
+      }
+    ],
+    "description": "Tisotumab vedotin, marketed as Tivdak, is an antibody-drug conjugate used to treat recurrent or metastatic cervical cancer. [gpt-4o-mini]",
+    "brand-names": [
+      "Tivdak"
     ]
   },
   "Tivozanib": {
