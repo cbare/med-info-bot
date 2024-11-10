@@ -954,7 +954,7 @@
     "name": "Alendronate",
     "alt-names": [
       "Alendronic acid",
-      "Alendronate Sodium",
+      "Alendronate sodium",
       "Sodium Alendronate"
     ],
     "brand-names": [
@@ -37704,7 +37704,7 @@
     "name": "Ziprasidone",
     "alt-names": ["Ziprasidone mesylate"],
     "brand-names": ["Geodon"],
-    "description": "Ziprasidone is an atypical antipsychotic used to manage schizophrenia and bipolar mania",
+    "description": "Ziprasidone is an atypical antipsychotic used to manage schizophrenia and bipolar mania.",
     "drugbank": {
       "accession": "DB00246"
     },
