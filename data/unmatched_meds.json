@@ -881,6 +881,10 @@
       "Wikipedia": {
         "source": "Wikipedia",
         "key": "Arimoclomol"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB05025"
       }
     }
   },
@@ -1140,6 +1144,10 @@
       "Wikipedia": {
         "source": "Wikipedia",
         "key": "Axatilimab"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB16388"
       }
     }
   },
@@ -1317,6 +1325,10 @@
       "Wikipedia": {
         "source": "Wikipedia",
         "key": "Belinostat"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB05015"
       }
     }
   },
@@ -2735,6 +2747,10 @@
       "Wikipedia": {
         "source": "Wikipedia",
         "key": "Clevidipine"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB04920"
       }
     }
   },
@@ -2984,6 +3000,10 @@
       "Wikipedia": {
         "source": "Wikipedia",
         "key": "Adrenocorticotropic_hormone_(medication)"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB01284"
       }
     }
   },
@@ -3102,6 +3122,10 @@
       "Wikipedia": {
         "source": "Wikipedia",
         "key": "Crovalimab"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB16128"
       }
     }
   },
@@ -3672,6 +3696,10 @@
       "Wikipedia": {
         "source": "Wikipedia",
         "key": "Donanemab"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB16647"
       }
     }
   },
@@ -3941,6 +3969,10 @@
       "Wikipedia": {
         "source": "Wikipedia",
         "key": "Efbemalenograstim_alfa"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB18704"
       }
     }
   },
@@ -4111,6 +4143,10 @@
       "Wikipedia": {
         "source": "Wikipedia",
         "key": "Elosulfase_alfa"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB09051"
       }
     }
   },
@@ -4148,6 +4184,10 @@
       "Wikipedia": {
         "source": "Wikipedia",
         "key": "Eluxadoline"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB09272"
       }
     }
   },
@@ -4253,6 +4293,10 @@
       "Wikipedia": {
         "source": "Wikipedia",
         "key": "Ensifentrine"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB16157"
       }
     }
   },
@@ -4713,6 +4757,10 @@
       "Wikipedia": {
         "source": "Wikipedia",
         "key": "Fidaxomicin"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB08874"
       }
     }
   },
@@ -6301,6 +6349,10 @@
       "Wikipedia": {
         "source": "Wikipedia",
         "key": "Lifitegrast"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB11611"
       }
     }
   },
@@ -6314,6 +6366,10 @@
       "Wikipedia": {
         "source": "Wikipedia",
         "key": "Lodoxamide"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB06794"
       }
     }
   },
@@ -6488,6 +6544,10 @@
       "Wikipedia": {
         "source": "Wikipedia",
         "key": "Lurbinectedin"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB12674"
       }
     }
   },
@@ -6771,6 +6831,10 @@
       "Wikipedia": {
         "source": "Wikipedia",
         "key": "Methylergometrine"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB00353"
       }
     },
     "brand-names": [
@@ -6943,6 +7007,10 @@
       "Wikipedia": {
         "source": "Wikipedia",
         "key": "Mirvetuximab_soravtansine"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB12489"
       }
     }
   },
@@ -7077,6 +7145,10 @@
       "Wikipedia": {
         "source": "Wikipedia",
         "key": "Moxidectin"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB11431"
       }
     }
   },
@@ -7669,6 +7741,10 @@
       "Wikipedia": {
         "source": "Wikipedia",
         "key": "Olodaterol"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB09080"
       }
     }
   },
@@ -7983,6 +8059,10 @@
       "Wikipedia": {
         "source": "Wikipedia",
         "key": "Pegloticase"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB09208"
       }
     }
   },
@@ -9344,7 +9424,10 @@
       "Thiosulfuric acid",
       "Thiosulphuric acid"
     ],
-    "brand-names": ["Pedmark", "Nithiodote"],
+    "brand-names": [
+      "Pedmark",
+      "Nithiodote"
+    ],
     "description": "Sodium thiosulfate is an inorganic compound classified as an antidote, primarily used in the treatment of cyanide poisoning and to reduce the risk of cisplatin-induced hearing loss in pediatric cancer patients. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
@@ -9441,6 +9524,10 @@
       "Wikipedia": {
         "source": "Wikipedia",
         "key": "Sofpironium_bromide"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB19325"
       }
     },
     "brand-names": [
@@ -9602,6 +9689,10 @@
       "Wikipedia": {
         "source": "Wikipedia",
         "key": "Sutimlimab"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB14996"
       }
     }
   },
@@ -10266,6 +10357,10 @@
       "Wikipedia": {
         "source": "Wikipedia",
         "key": "Tivozanib"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB11800"
       }
     }
   },
@@ -10524,6 +10619,10 @@
       "Wikipedia": {
         "source": "Wikipedia",
         "key": "Triclabendazole"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB12245"
       }
     }
   },
@@ -10831,6 +10930,10 @@
       "Wikipedia": {
         "source": "Wikipedia",
         "key": "Vestronidase_alfa"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB12366"
       }
     }
   },
@@ -11027,6 +11130,10 @@
       "Wikipedia": {
         "source": "Wikipedia",
         "key": "Ziconotide"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB06283"
       }
     }
   },
