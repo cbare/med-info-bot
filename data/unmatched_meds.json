@@ -325,6 +325,10 @@
       "Wikipedia": {
         "source": "Wikipedia",
         "key": "GLA_(gene)"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB00103"
       }
     },
     "brand-names": [
@@ -350,13 +354,19 @@
   "Aldesleukin": {
     "name": "Aldesleukin",
     "alt-names": [
-      "Aldesleukin"
+      "Aldesleukin",
+      "Interleukin 2",
+      "IL-2"
     ],
     "description": "Aldesleukin, also known as Interleukin 2, is a cytokine used to treat metastatic kidney cancer and melanoma. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Aldesleukin"
+        "key": "Interleukin_2"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB00041"
       }
     }
   },
@@ -553,8 +563,8 @@
       }
     }
   },
-  "Aminophylline Dihydrate": {
-    "name": "Aminophylline Dihydrate",
+  "Aminophylline": {
+    "name": "Aminophylline",
     "alt-names": [
       "Aminophylline Dihydrate"
     ],
@@ -562,7 +572,11 @@
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Aminophylline_dihydrate"
+        "key": "Aminophylline"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB01223"
       }
     }
   },
@@ -907,7 +921,9 @@
     "alt-names": [
       "Aspirin; Caffeine; Orphenadrine Citrate"
     ],
-    "brand-names": ["Norgesic"],
+    "brand-names": [
+      "Norgesic"
+    ],
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
@@ -1036,7 +1052,7 @@
     "name": "Atracurium",
     "alt-names": [
       "Atracurium besylate",
-      "Atracurium besilate"      
+      "Atracurium besilate"
     ],
     "description": "Atracurium is a neuromuscular blocker used primarily to facilitate skeletal muscle relaxation during surgery or mechanical ventilation. [gpt-4o-mini]",
     "links": {
@@ -1187,6 +1203,10 @@
       "Wikipedia": {
         "source": "Wikipedia",
         "key": "Baloxavir"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB13997"
       }
     }
   },
@@ -2663,13 +2683,18 @@
   "Cisatracurium": {
     "name": "Cisatracurium",
     "alt-names": [
-      "Cisatracurium Besylate"
+      "Cisatracurium besylate",
+      "Cisatracurium besilate"
     ],
     "description": "Cisatracurium, known as cisatracurium besylate or by its trade name Nimbex, is a non-depolarizing neuromuscular-blocking agent used adjunctively in anesthesia to facilitate endotracheal intubation and provide skeletal muscle relaxation during surgery. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
         "key": "Cisatracurium_besilate"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB00565"
       }
     },
     "brand-names": [
@@ -2699,7 +2724,8 @@
   "Clevidipine": {
     "name": "Clevidipine",
     "alt-names": [
-      "Clevidipine"
+      "Clevidipine",
+      "Cleviprex"
     ],
     "description": "Clevidipine, marketed as Cleviprex, is a dihydropyridine calcium channel blocker used intravenously for the rapid reduction of blood pressure when oral therapy is not feasible. [gpt-4o-mini]",
     "brand-names": [
@@ -2949,13 +2975,15 @@
   "Corticotropin": {
     "name": "Corticotropin",
     "alt-names": [
-      "Corticotropin"
+      "Corticotropin",
+      "ACTH",
+      "Adrenocorticotropic hormone"
     ],
     "description": "Corticotropin, also known as adrenocorticotropic hormone (ACTH), is a polypeptide tropic hormone produced by the anterior pituitary gland, primarily used to diagnose and treat conditions related to adrenal insufficiency, such as Addison's disease. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "adrenocorticotropic_hormone"
+        "key": "Adrenocorticotropic_hormone_(medication)"
       }
     }
   },
@@ -3034,6 +3062,10 @@
       "Wikipedia": {
         "source": "Wikipedia",
         "key": "Cromolyn"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB01003"
       }
     }
   },
@@ -3142,6 +3174,10 @@
       "Wikipedia": {
         "source": "Wikipedia",
         "key": "Dalfampridine"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB06637"
       }
     }
   },
@@ -4197,6 +4233,10 @@
       "Wikipedia": {
         "source": "Wikipedia",
         "key": "Enfortumab"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB13007"
       }
     }
   },
@@ -4341,6 +4381,10 @@
       "Wikipedia": {
         "source": "Wikipedia",
         "key": "Erythromycin_lactobionate"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB00199"
       }
     }
   },
@@ -4405,7 +4449,11 @@
     "alt-names": [
       "Estrogens, Conjugated; Medroxyprogesterone Acetate"
     ],
-    "brand-names": ["Prempro", "Premphase", "Premique"],
+    "brand-names": [
+      "Prempro",
+      "Premphase",
+      "Premique"
+    ],
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
@@ -5175,13 +5223,18 @@
   "Glycopyrrolate": {
     "name": "Glycopyrrolate",
     "alt-names": [
-      "Glycopyrrolate"
+      "Glycopyrrolate",
+      "Glycopyrronium Tosylate"
     ],
     "description": "Glycopyrrolate is an anticholinergic muscarinic antagonist primarily used to treat excessive sweating and manage secretions in various medical settings. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
         "key": "Glycopyrronium_bromide"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB00986"
       }
     },
     "brand-names": [
@@ -5204,24 +5257,6 @@
     "description": "Neostigmine/glycopyrronium bromide, marketed as Prevduo, is a fixed-dose combination medication consisting of a cholinesterase inhibitor and an antimuscarinic agent used to reverse the effects of non-depolarizing neuromuscular blocking agents after surgery. [gpt-4o-mini]",
     "brand-names": [
       "Prevduo"
-    ]
-  },
-  "Glycopyrronium": {
-    "name": "Glycopyrronium",
-    "alt-names": [
-      "Glycopyrronium Tosylate"
-    ],
-    "description": "Glycopyrronium, also known as glycopyrrolate, is an antimuscarinic agent used primarily to treat excessive sweating (hyperhidrosis) and chronic obstructive pulmonary disease (COPD). [gpt-4o-mini]",
-    "links": {
-      "Wikipedia": {
-        "source": "Wikipedia",
-        "key": "Glycopyrronium_bromide"
-      }
-    },
-    "brand-names": [
-      "Robinul",
-      "Cuvposa",
-      "Seebri"
     ]
   },
   "Golodirsen": {
@@ -6623,6 +6658,10 @@
       "Wikipedia": {
         "source": "Wikipedia",
         "key": "Mebrofenin"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB09137"
       }
     }
   },
@@ -7960,6 +7999,10 @@
       "Wikipedia": {
         "source": "Wikipedia",
         "key": "Pegulicianine"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB18731"
       }
     }
   },
@@ -8035,28 +8078,20 @@
       "Wikipedia": {
         "source": "Wikipedia",
         "key": "Penicillin_g"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB01053"
       }
     }
   },
   "Pentetate": {
     "name": "Pentetate",
     "alt-names": [
-      "Pentetate Zinc Trisodium"
-    ],
-    "description": "Pentetate, also known as pentetic acid, is a chelating agent used to treat heavy metal poisoning, particularly from lead and mercury. [gpt-4o-mini]",
-    "links": {
-      "Wikipedia": {
-        "source": "Wikipedia",
-        "key": "Pentetic_acid"
-      }
-    }
-  },
-  "Pentetic Acid": {
-    "name": "Pentetic Acid",
-    "alt-names": [
+      "Pentetate Zinc Trisodium",
       "Pentetic Acid"
     ],
-    "description": "Pentetic acid, also known as diethylenetriaminepentaacetic acid (DTPA), is an aminopolycarboxylic acid used primarily as a chelating agent for the treatment of internal contamination by radioactive materials such as plutonium and americium. [gpt-4o-mini]",
+    "description": "Pentetate, also known as pentetic acid, is a chelating agent used to treat heavy metal poisoning, particularly from lead and mercury. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
@@ -8252,6 +8287,10 @@
       "Wikipedia": {
         "source": "Wikipedia",
         "key": "Podofilox"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB01179"
       }
     }
   },
@@ -8757,6 +8796,10 @@
       "Wikipedia": {
         "source": "Wikipedia",
         "key": "Rilonacept"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB06372"
       }
     }
   },
@@ -9296,13 +9339,21 @@
   "Sodium Thiosulfate": {
     "name": "Sodium Thiosulfate",
     "alt-names": [
-      "Sodium Thiosulfate"
+      "Sodium thiosulfate",
+      "Sodium thiosulphate",
+      "Thiosulfuric acid",
+      "Thiosulphuric acid"
     ],
+    "brand-names": ["Pedmark", "Nithiodote"],
     "description": "Sodium thiosulfate is an inorganic compound classified as an antidote, primarily used in the treatment of cyanide poisoning and to reduce the risk of cisplatin-induced hearing loss in pediatric cancer patients. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Sodium_thiosulfate"
+        "key": "Sodium_thiosulfate_(medical_use)"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB09499"
       }
     }
   },
@@ -9630,6 +9681,10 @@
       "Wikipedia": {
         "source": "Wikipedia",
         "key": "Tafenoquine"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB06608"
       }
     }
   },
