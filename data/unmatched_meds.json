@@ -13,7 +13,7 @@
         "source": "Wikipedia",
         "key": "Abacavir"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB01048"
       }
@@ -49,7 +49,7 @@
         "source": "Wikipedia",
         "key": "Abaloparatide"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB05084"
       }
@@ -69,7 +69,7 @@
         "source": "Wikipedia",
         "key": "Abametapir"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB11932"
       }
@@ -89,7 +89,7 @@
         "source": "Wikipedia",
         "key": "Abatacept"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB01281"
       }
@@ -98,15 +98,23 @@
   "Abiraterone": {
     "name": "Abiraterone",
     "alt-names": [
-      "Abiraterone Acetate"
+      "Abiraterone acetate"
     ],
-    "description": "Abiraterone is an androgen biosynthesis inhibitor used to treat metastatic castration-resistant prostate cancer. [gpt-4o-mini]",
+    "description": "Abiraterone acetate, marketed as Zytiga, is an antineoplastic steroidal compound used primarily for the treatment of metastatic castration-resistant prostate cancer (mCRPC). [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Abiraterone"
+        "key": "Abiraterone_acetate"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB05812"
       }
-    }
+    },
+    "brand-names": [
+      "Zytiga",
+      "Yonsa"
+    ]
   },
   "Abiraterone; Niraparib": {
     "name": "Abiraterone; Niraparib",
@@ -138,7 +146,7 @@
         "source": "Wikipedia",
         "key": "Acamprosate"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00659"
       }
@@ -159,7 +167,7 @@
         "source": "Wikipedia",
         "key": "Acebutolol"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB01193"
       }
@@ -179,7 +187,7 @@
         "source": "Wikipedia",
         "key": "Acetohydroxamic_acid"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00551"
       }
@@ -202,7 +210,7 @@
         "source": "Wikipedia",
         "key": "Acetylcysteine"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB06151"
       }
@@ -213,13 +221,18 @@
     "alt-names": [
       "Aclidinium Bromide; Formoterol Fumarate"
     ],
-    "description": "Aclidinium/Formoterol is a combination bronchodilator used to treat chronic obstructive pulmonary disease (COPD). [gpt-4o-mini]",
+    "description": "Aclidinium bromide/Formoterol is a fixed-dose combination of a long-acting muscarinic antagonist and a long-acting \u03b22 agonist used to manage chronic obstructive pulmonary disease (COPD). [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Aclidinium/formoterol"
+        "key": "Aclidinium_bromide/formoterol"
       }
-    }
+    },
+    "brand-names": [
+      "Brimica Genuair",
+      "Duaklir Genuair",
+      "Duaklir Pressair"
+    ]
   },
   "Adagrasib": {
     "name": "Adagrasib",
@@ -235,7 +248,7 @@
         "source": "Wikipedia",
         "key": "Adagrasib"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB15568"
       }
@@ -246,13 +259,20 @@
     "alt-names": [
       "Ado-Trastuzumab Emtansine"
     ],
-    "description": "Ado-Trastuzumab Emtansine is an antibody-drug conjugate used for the treatment of HER2-positive breast cancer. [gpt-4o-mini]",
+    "description": "Ado-Trastuzumab Emtansine, marketed as Kadcyla, is an antibody-drug conjugate used primarily for the treatment of HER2-positive metastatic breast cancer in patients previously treated with trastuzumab and a taxane. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Ado-trastuzumab_emtansine"
+        "key": "Trastuzumab_emtansine"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB05773"
       }
-    }
+    },
+    "brand-names": [
+      "Kadcyla"
+    ]
   },
   "Afamelanotide": {
     "name": "Afamelanotide",
@@ -268,7 +288,7 @@
         "source": "Wikipedia",
         "key": "Afamelanotide"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB04931"
       }
@@ -289,7 +309,7 @@
         "source": "Wikipedia",
         "key": "Aflibercept"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB08885"
       }
@@ -300,26 +320,32 @@
     "alt-names": [
       "Agalsidase Beta"
     ],
-    "description": "Agalsidase Beta is a recombinant enzyme replacement therapy used to treat Fabry disease. [gpt-4o-mini]",
+    "description": "Agalsidase beta, marketed as Fabrazyme, is a recombinant enzyme replacement therapy used to treat Fabry disease, a rare lysosomal storage disorder caused by \u03b1-galactosidase A deficiency. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Agalsidase_beta"
+        "key": "GLA_(gene)"
       }
-    }
+    },
+    "brand-names": [
+      "Fabrazyme"
+    ]
   },
   "Albuterol; Budesonide": {
     "name": "Albuterol; Budesonide",
     "alt-names": [
       "Albuterol Sulfate; Budesonide"
     ],
-    "description": "Albuterol/Budesonide is a combination medication consisting of a short-acting beta2-adrenergic agonist and a corticosteroid, used to treat asthma and chronic obstructive pulmonary disease (COPD). [gpt-4o-mini]",
+    "description": "Salbutamol/budesonide, marketed as Airsupra, is a fixed-dose combination medication comprising a short-acting beta2-adrenergic agonist and a corticosteroid, used for the treatment of bronchoconstriction and asthma. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Albuterol/budesonide"
+        "key": "Salbutamol/budesonide"
       }
-    }
+    },
+    "brand-names": [
+      "Airsupra"
+    ]
   },
   "Aldesleukin": {
     "name": "Aldesleukin",
@@ -348,7 +374,7 @@
         "source": "Wikipedia",
         "key": "Alirocumab"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB09302"
       }
@@ -369,7 +395,7 @@
         "source": "Wikipedia",
         "key": "Aliskiren"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB01258"
       }
@@ -397,7 +423,7 @@
         "source": "Wikipedia",
         "key": "Alosetron"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00969"
       }
@@ -418,7 +444,7 @@
         "source": "Wikipedia",
         "key": "Alpelisib"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB12015"
       }
@@ -429,13 +455,21 @@
     "alt-names": [
       "Alprostadil"
     ],
-    "description": "Alprostadil, a prostaglandin E1 analogue, is used to treat erectile dysfunction and maintain patent ductus arteriosus in neonates. [gpt-4o-mini]",
+    "description": "Alprostadil is a vasodilator prostaglandin used primarily for the treatment of erectile dysfunction. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Alprostadil"
+        "key": "Prostaglandin_E1"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB00770"
       }
-    }
+    },
+    "brand-names": [
+      "Caverject",
+      "Muse"
+    ]
   },
   "Alvimopan": {
     "name": "Alvimopan",
@@ -451,7 +485,7 @@
         "source": "Wikipedia",
         "key": "Alvimopan"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB06274"
       }
@@ -472,7 +506,7 @@
         "source": "Wikipedia",
         "key": "Amifampridine"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB11640"
       }
@@ -492,7 +526,7 @@
         "source": "Wikipedia",
         "key": "Amiloride"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00594"
       }
@@ -513,7 +547,7 @@
         "source": "Wikipedia",
         "key": "Aminolevulinic_acid"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00855"
       }
@@ -547,7 +581,7 @@
         "source": "Wikipedia",
         "key": "Amisulpride"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB06288"
       }
@@ -602,7 +636,7 @@
         "source": "Wikipedia",
         "key": "Amivantamab"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB16695"
       }
@@ -672,7 +706,7 @@
         "source": "Wikipedia",
         "key": "Ampicillin"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00415"
       }
@@ -692,7 +726,7 @@
         "source": "Wikipedia",
         "key": "Anagrelide"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00261"
       }
@@ -712,7 +746,7 @@
         "source": "Wikipedia",
         "key": "Anakinra"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00026"
       }
@@ -733,7 +767,7 @@
         "source": "Wikipedia",
         "key": "Andexanet_alfa"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB14562"
       }
@@ -754,7 +788,7 @@
         "source": "Wikipedia",
         "key": "Anidulafungin"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00362"
       }
@@ -774,7 +808,7 @@
         "source": "Wikipedia",
         "key": "Apremilast"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB05676"
       }
@@ -794,7 +828,7 @@
         "source": "Wikipedia",
         "key": "Aprocitentan"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB15059"
       }
@@ -814,7 +848,7 @@
         "source": "Wikipedia",
         "key": "Argatroban"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00278"
       }
@@ -873,33 +907,45 @@
     "alt-names": [
       "Aspirin; Caffeine; Orphenadrine Citrate"
     ],
-    "links": {}
+    "brand-names": ["Norgesic"],
+    "links": {
+      "Wikipedia": {
+        "source": "Wikipedia",
+        "key": "Norgesic"
+      }
+    }
   },
   "Aspirin; Hydrocodone": {
     "name": "Aspirin; Hydrocodone",
     "alt-names": [
       "Aspirin; Hydrocodone Bitartrate"
     ],
-    "description": "Aspirin; Hydrocodone is a combination analgesic used to relieve moderate to severe pain. [gpt-4o-mini]",
+    "description": "Hydrocodone/aspirin is an opioid analgesic combined with a nonsteroidal anti-inflammatory drug (NSAID) used to treat both chronic and acute pain. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Aspirin/hydrocodone"
+        "key": "Hydrocodone/aspirin"
       }
-    }
+    },
+    "brand-names": [
+      "Azdone"
+    ]
   },
   "Aspirin; Oxycodone": {
     "name": "Aspirin; Oxycodone",
     "alt-names": [
       "Aspirin; Oxycodone Hydrochloride"
     ],
-    "description": "Aspirin/Oxycodone is a combination opioid analgesic used to treat moderate to severe pain. [gpt-4o-mini]",
+    "description": "Oxycodone/aspirin, marketed as Percodan, is a combination opioid analgesic and non-steroidal anti-inflammatory drug (NSAID) used to treat moderate to moderately severe pain. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Aspirin/oxycodone"
+        "key": "Oxycodone/aspirin"
       }
-    }
+    },
+    "brand-names": [
+      "Percodan"
+    ]
   },
   "Atazanavir; Cobicistat": {
     "name": "Atazanavir; Cobicistat",
@@ -954,13 +1000,17 @@
     "alt-names": [
       "Atorvastatin Calcium Trihydrate; Ezetimibe"
     ],
-    "description": "Atorvastatin/Ezetimibe is a combination medication consisting of a statin and a cholesterol absorption inhibitor used primarily to lower cholesterol levels and reduce the risk of cardiovascular disease. [gpt-4o-mini]",
+    "description": "Ezetimibe/atorvastatin (trade names Liptruzet, Atozet) is a combination hypolipidemic and statin agent used to treat elevated low-density lipoprotein (LDL) cholesterol in patients with primary or mixed hyperlipidemia as an adjunct to diet. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Atorvastatin/ezetimibe"
+        "key": "Ezetimibe/atorvastatin"
       }
-    }
+    },
+    "brand-names": [
+      "Liptruzet",
+      "Atozet"
+    ]
   },
   "Atovaquone": {
     "name": "Atovaquone",
@@ -976,7 +1026,7 @@
         "source": "Wikipedia",
         "key": "Atovaquone"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB01117"
       }
@@ -985,15 +1035,24 @@
   "Atracurium": {
     "name": "Atracurium",
     "alt-names": [
-      "Atracurium Besylate"
+      "Atracurium besylate",
+      "Atracurium besilate"      
     ],
-    "description": "Atracurium is a neuromuscular blocking agent used primarily to facilitate tracheal intubation and provide muscle relaxation during surgery. [gpt-4o-mini]",
+    "description": "Atracurium is a neuromuscular blocker used primarily to facilitate skeletal muscle relaxation during surgery or mechanical ventilation. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Atracurium"
+        "key": "Atracurium_besilate"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB00732"
       }
-    }
+    },
+    "brand-names": [
+      "Tracrium",
+      "Acurium"
+    ]
   },
   "Avacincaptad Pegol": {
     "name": "Avacincaptad Pegol",
@@ -1010,7 +1069,7 @@
         "source": "Wikipedia",
         "key": "Avacincaptad_pegol"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB15165"
       }
@@ -1030,7 +1089,7 @@
         "source": "Wikipedia",
         "key": "Avacopan"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB15011"
       }
@@ -1073,13 +1132,16 @@
     "alt-names": [
       "Azilsartan Kamedoxomil; Chlorthalidone"
     ],
-    "description": "Azilsartan/Chlorthalidone is a combination antihypertensive medication used to treat hypertension. [gpt-4o-mini]",
+    "description": "Azilsartan, sold under the brand name Edarbi, is an angiotensin II receptor antagonist commonly used to treat hypertension, often in combination with chlorthalidone as Edarbyclor. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Azilsartan/chlorthalidone"
+        "key": "Azilsartan"
       }
-    }
+    },
+    "brand-names": [
+      "Edarbyclor"
+    ]
   },
   "Aztreonam": {
     "name": "Aztreonam",
@@ -1095,7 +1157,7 @@
         "source": "Wikipedia",
         "key": "Aztreonam"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00355"
       }
@@ -1143,7 +1205,7 @@
         "source": "Wikipedia",
         "key": "Balsalazide"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB01014"
       }
@@ -1176,7 +1238,7 @@
         "source": "Wikipedia",
         "key": "Becaplermin"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00102"
       }
@@ -1196,7 +1258,7 @@
         "source": "Wikipedia",
         "key": "Bedaquiline"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB08903"
       }
@@ -1216,7 +1278,7 @@
         "source": "Wikipedia",
         "key": "Belatacept"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB06681"
       }
@@ -1253,7 +1315,7 @@
         "source": "Wikipedia",
         "key": "Belumosudil"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB16703"
       }
@@ -1273,7 +1335,7 @@
         "source": "Wikipedia",
         "key": "Belzutifan"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB15463"
       }
@@ -1294,7 +1356,7 @@
         "source": "Wikipedia",
         "key": "Bempedoic_acid"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB11936"
       }
@@ -1331,7 +1393,7 @@
         "source": "Wikipedia",
         "key": "Bendamustine"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB06769"
       }
@@ -1401,7 +1463,7 @@
         "source": "Wikipedia",
         "key": "Bepotastine"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB04890"
       }
@@ -1421,7 +1483,7 @@
         "source": "Wikipedia",
         "key": "Berotralstat"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB15982"
       }
@@ -1454,7 +1516,7 @@
         "source": "Wikipedia",
         "key": "Bethanechol"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB01019"
       }
@@ -1474,7 +1536,7 @@
         "source": "Wikipedia",
         "key": "Bexarotene"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00307"
       }
@@ -1494,7 +1556,7 @@
         "source": "Wikipedia",
         "key": "Bezlotoxumab"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB13140"
       }
@@ -1521,13 +1583,22 @@
     "alt-names": [
       "Botulinum Toxin Type A"
     ],
-    "description": "Botulinum Toxin Type A is a neurotoxin used primarily for the treatment of chronic migraine and various muscular disorders. [gpt-4o-mini]",
+    "description": "Botulinum Toxin Type A, also known as Botox, is a neurotoxic protein used primarily for the treatment of muscle spasticity and for cosmetic procedures to reduce facial wrinkles. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Botulinum_toxin_type_a"
+        "key": "Botulinum_toxin"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB00083"
       }
-    }
+    },
+    "brand-names": [
+      "Botox",
+      "Myobloc",
+      "Jeuveau"
+    ]
   },
   "Bremelanotide": {
     "name": "Bremelanotide",
@@ -1543,7 +1614,7 @@
         "source": "Wikipedia",
         "key": "Bremelanotide"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB11653"
       }
@@ -1554,13 +1625,20 @@
     "alt-names": [
       "Brentuximab Vedotin"
     ],
-    "description": "Brentuximab vedotin is a CD30-targeted antibody-drug conjugate used to treat certain types of Hodgkin lymphoma and systemic anaplastic large cell lymphoma. [gpt-4o-mini]",
+    "description": "Brentuximab vedotin, marketed as Adcetris, is an antibody-drug conjugate used to treat relapsed or refractory Hodgkin lymphoma and systemic anaplastic large cell lymphoma by targeting CD30-expressing tumor cells. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Brentuximab"
+        "key": "Brentuximab_vedotin"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB08870"
       }
-    }
+    },
+    "brand-names": [
+      "Adcetris"
+    ]
   },
   "Brimonidine; Brinzolamide": {
     "name": "Brimonidine; Brinzolamide",
@@ -1589,7 +1667,7 @@
         "source": "Wikipedia",
         "key": "Brincidofovir"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB12151"
       }
@@ -1611,7 +1689,7 @@
         "source": "Wikipedia",
         "key": "Brivaracetam"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB05541"
       }
@@ -1633,7 +1711,7 @@
         "source": "Wikipedia",
         "key": "Brodalumab"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB11776"
       }
@@ -1655,7 +1733,7 @@
         "source": "Wikipedia",
         "key": "Bromfenac"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00963"
       }
@@ -1701,7 +1779,7 @@
         "source": "Wikipedia",
         "key": "Buprenorphine"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00921"
       }
@@ -1729,13 +1807,16 @@
     "alt-names": [
       "Bupropion Hydrochloride; Dextromethorphan Hydrobromide"
     ],
-    "description": "Bupropion/Dextromethorphan is a combination medication that includes an atypical antidepressant and a cough suppressant, primarily used to treat depression and associated symptoms. [gpt-4o-mini]",
+    "description": "Dextromethorphan/bupropion, marketed as Auvelity, is a combination medication primarily used to treat major depressive disorder (MDD). [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Bupropion/dextromethorphan"
+        "key": "Dextromethorphan/bupropion"
       }
-    }
+    },
+    "brand-names": [
+      "Auvelity"
+    ]
   },
   "Burosumab": {
     "name": "Burosumab",
@@ -1751,7 +1832,7 @@
         "source": "Wikipedia",
         "key": "Burosumab"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB14012"
       }
@@ -1773,7 +1854,7 @@
         "source": "Wikipedia",
         "key": "Busulfan"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB01008"
       }
@@ -1793,7 +1874,7 @@
         "source": "Wikipedia",
         "key": "Butorphanol"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00611"
       }
@@ -1804,26 +1885,40 @@
     "alt-names": [
       "Caffeine; Ergotamine Tartrate"
     ],
-    "description": "Caffeine; Ergotamine is a combination medication used to treat acute migraine attacks and cluster headaches. [gpt-4o-mini]",
+    "description": "Ergotamine/caffeine, marketed as Cafergot, is a fixed-dose combination medication that acts as a vasoconstrictor and is primarily used to treat acute migraine attacks. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Caffeine/ergotamine"
+        "key": "Ergotamine/caffeine"
       }
-    }
+    },
+    "brand-names": [
+      "Cafergot",
+      "Migergot"
+    ]
   },
   "Calcipotriene": {
     "name": "Calcipotriene",
     "alt-names": [
-      "Calcipotriene"
+      "Calcipotriene",
+      "Calcipotriol"
     ],
-    "description": "Calcipotriene is a synthetic derivative of vitamin D used primarily to treat psoriasis. [gpt-4o-mini]",
+    "description": "Calcipotriene, also known as calcipotriol, is a synthetic vitamin D derivative used primarily in the treatment of psoriasis. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Calcipotriene"
+        "key": "Calcipotriol"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB02300"
       }
-    }
+    },
+    "brand-names": [
+      "Daivonex",
+      "Dovonex",
+      "Sorilux"
+    ]
   },
   "Calcitonin Salmon": {
     "name": "Calcitonin Salmon",
@@ -1836,7 +1931,7 @@
         "source": "Wikipedia",
         "key": "Salmon_calcitonin"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00017"
       }
@@ -1865,7 +1960,7 @@
         "source": "Wikipedia",
         "key": "Cannabidiol"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB09061"
       }
@@ -1901,7 +1996,7 @@
         "source": "Wikipedia",
         "key": "Capivasertib"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB12218"
       }
@@ -1921,7 +2016,7 @@
         "source": "Wikipedia",
         "key": "Captopril"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB01197"
       }
@@ -1941,7 +2036,7 @@
         "source": "Wikipedia",
         "key": "Carbachol"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00411"
       }
@@ -1961,7 +2056,7 @@
         "source": "Wikipedia",
         "key": "Carbidopa"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00190"
       }
@@ -1981,7 +2076,7 @@
         "source": "Wikipedia",
         "key": "Carbinoxamine"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00748"
       }
@@ -2001,7 +2096,7 @@
         "source": "Wikipedia",
         "key": "Carboplatin"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00958"
       }
@@ -2012,13 +2107,20 @@
     "alt-names": [
       "Carboprost Tromethamine"
     ],
-    "description": "Carboprost Tromethamine is a synthetic prostaglandin analogue used to treat postpartum hemorrhage and induce labor. [gpt-4o-mini]",
+    "description": "Carboprost Tromethamine, marketed as Hemabate, is a synthetic prostaglandin analogue used primarily to treat postpartum hemorrhage due to uterine atony unresponsive to other interventions. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Carboprost_tromethamine"
+        "key": "Carboprost"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB00429"
       }
-    }
+    },
+    "brand-names": [
+      "Hemabate"
+    ]
   },
   "Carfilzomib": {
     "name": "Carfilzomib",
@@ -2034,7 +2136,7 @@
         "source": "Wikipedia",
         "key": "Carfilzomib"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB08889"
       }
@@ -2055,7 +2157,7 @@
         "source": "Wikipedia",
         "key": "Carglumic_acid"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB06775"
       }
@@ -2075,7 +2177,7 @@
         "source": "Wikipedia",
         "key": "Casimersen"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB14984"
       }
@@ -2095,7 +2197,7 @@
         "source": "Wikipedia",
         "key": "Caspofungin"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00520"
       }
@@ -2106,13 +2208,17 @@
     "alt-names": [
       "Cedazuridine; Decitabine"
     ],
-    "description": "Cedazuridine/Decitabine is a combination nucleoside metabolic inhibitor used in the treatment of myelodysplastic syndromes and acute myeloid leukemia. [gpt-4o-mini]",
+    "description": "Decitabine/Cedazuridine, marketed as Inqovi, is a fixed-dose combination anticancer medication used to treat adults with myelodysplastic syndromes and chronic myelomonocytic leukemia. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Cedazuridine/decitabine"
+        "key": "Decitabine/cedazuridine"
       }
-    }
+    },
+    "brand-names": [
+      "Inqovi",
+      "Inaqovi"
+    ]
   },
   "Cefadroxil": {
     "name": "Cefadroxil",
@@ -2128,7 +2234,7 @@
         "source": "Wikipedia",
         "key": "Cefadroxil"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB01140"
       }
@@ -2149,7 +2255,7 @@
         "source": "Wikipedia",
         "key": "Cefiderocol"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB14879"
       }
@@ -2169,7 +2275,7 @@
         "source": "Wikipedia",
         "key": "Cefotetan"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB01330"
       }
@@ -2189,7 +2295,7 @@
         "source": "Wikipedia",
         "key": "Cefpodoxime"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB01416"
       }
@@ -2210,7 +2316,7 @@
         "source": "Wikipedia",
         "key": "Cefprozil"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB01150"
       }
@@ -2231,7 +2337,7 @@
         "source": "Wikipedia",
         "key": "Ceftaroline_fosamil"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB06590"
       }
@@ -2283,7 +2389,7 @@
         "source": "Wikipedia",
         "key": "Cemiplimab"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB14707"
       }
@@ -2303,7 +2409,7 @@
         "source": "Wikipedia",
         "key": "Cenegermin"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB13926"
       }
@@ -2324,7 +2430,7 @@
         "source": "Wikipedia",
         "key": "Cenobamate"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB06119"
       }
@@ -2335,13 +2441,20 @@
     "alt-names": [
       "Certolizumab Pegol"
     ],
-    "description": "Certolizumab pegol is a recombinant humanized monoclonal antibody that belongs to the TNF-alpha inhibitor class, used primarily to treat autoimmune conditions such as rheumatoid arthritis and Crohn's disease. [gpt-4o-mini]",
+    "description": "Certolizumab pegol, marketed as Cimzia, is a PEGylated monoclonal antibody used primarily to treat Crohn's disease, rheumatoid arthritis, psoriatic arthritis, and ankylosing spondylitis by inhibiting tumor necrosis factor alpha (TNF-\u03b1). [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Certolizumab"
+        "key": "Certolizumab_pegol"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB08904"
       }
-    }
+    },
+    "brand-names": [
+      "Cimzia"
+    ]
   },
   "Cevimeline": {
     "name": "Cevimeline",
@@ -2357,7 +2470,7 @@
         "source": "Wikipedia",
         "key": "Cevimeline"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00185"
       }
@@ -2368,11 +2481,15 @@
     "alt-names": [
       "Chenodiol"
     ],
-    "description": "Chenodiol, also known as Chenodeoxycholic acid, is a bile acid used to treat certain types of gallstones and to manage bile acid disorders. [gpt-4o-mini]",
+    "description": "Chenodiol, or chenodeoxycholic acid, is a bile acid primarily used in the medical treatment of gallstones and cerebrotendineous xanthomatosis. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Chenodiol"
+        "key": "Chenodeoxycholic_acid"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB06777"
       }
     }
   },
@@ -2391,7 +2508,7 @@
         "source": "Wikipedia",
         "key": "Chloramphenicol"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00446"
       }
@@ -2435,7 +2552,7 @@
         "source": "Wikipedia",
         "key": "Ciclesonide"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB01410"
       }
@@ -2455,7 +2572,7 @@
         "source": "Wikipedia",
         "key": "Cidofovir"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00369"
       }
@@ -2466,13 +2583,18 @@
     "alt-names": [
       "Cilastatin Sodium; Imipenem Anhydrous"
     ],
-    "description": "Cilastatin/Imipenem is a combination antibiotic used to treat severe bacterial infections, particularly those caused by resistant strains. [gpt-4o-mini]",
+    "description": "Imipenem/Cilastatin, marketed as Primaxin, is a combination carbapenem antibiotic and dehydropeptidase inhibitor used primarily to treat serious bacterial infections, including pneumonia, sepsis, and urinary tract infections. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Cilastatin/imipenem"
+        "key": "Imipenem/cilastatin"
       }
-    }
+    },
+    "brand-names": [
+      "Primaxin",
+      "Tienam",
+      "Cilasafe"
+    ]
   },
   "Cilastatin; Imipenem; Relebactam": {
     "name": "Cilastatin; Imipenem; Relebactam",
@@ -2505,7 +2627,7 @@
         "source": "Wikipedia",
         "key": "Cinacalcet"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB01012"
       }
@@ -2525,7 +2647,7 @@
         "source": "Wikipedia",
         "key": "Cipaglucosidase_alfa"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB16708"
       }
@@ -2543,13 +2665,16 @@
     "alt-names": [
       "Cisatracurium Besylate"
     ],
-    "description": "Cisatracurium is a neuromuscular blocker used to facilitate tracheal intubation and provide muscle relaxation during surgery or mechanical ventilation. [gpt-4o-mini]",
+    "description": "Cisatracurium, known as cisatracurium besylate or by its trade name Nimbex, is a non-depolarizing neuromuscular-blocking agent used adjunctively in anesthesia to facilitate endotracheal intubation and provide skeletal muscle relaxation during surgery. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Cisatracurium"
+        "key": "Cisatracurium_besilate"
       }
-    }
+    },
+    "brand-names": [
+      "Nimbex"
+    ]
   },
   "Clascoterone": {
     "name": "Clascoterone",
@@ -2565,7 +2690,7 @@
         "source": "Wikipedia",
         "key": "Clascoterone"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB12499"
       }
@@ -2603,7 +2728,7 @@
         "source": "Wikipedia",
         "key": "Clindamycin"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB01190"
       }
@@ -2639,7 +2764,7 @@
         "source": "Wikipedia",
         "key": "Clocortolone"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00838"
       }
@@ -2661,7 +2786,7 @@
         "source": "Wikipedia",
         "key": "Clorazepate"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00628"
       }
@@ -2681,7 +2806,7 @@
         "source": "Wikipedia",
         "key": "Cobicistat"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB09065"
       }
@@ -2692,13 +2817,17 @@
     "alt-names": [
       "Cobicistat; Darunavir Ethanolate"
     ],
-    "description": "Cobicistat/Darunavir is a combination antiretroviral medication used to treat HIV. [gpt-4o-mini]",
+    "description": "Darunavir/cobicistat, marketed as Prezcobix and Rezolsta, is a fixed-dose combination antiretroviral medication primarily used to treat and prevent HIV/AIDS. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Cobicistat/darunavir"
+        "key": "Darunavir/cobicistat"
       }
-    }
+    },
+    "brand-names": [
+      "Rezolsta",
+      "Prezcobix"
+    ]
   },
   "Cobicistat; Darunavir; Emtricitabine; Tenofovir": {
     "name": "Cobicistat; Darunavir; Emtricitabine; Tenofovir",
@@ -2716,13 +2845,16 @@
     "alt-names": [
       "Cobicistat; Elvitegravir; Emtricitabine; Tenofovir Alafenamide Fumarate"
     ],
-    "description": "Cobicistat/Elvitegravir/Emtricitabine/Tenofovir, marketed as Stribild, is a fixed-dose combination antiretroviral medication used to treat HIV. [gpt-4o-mini]",
+    "description": "Elvitegravir/cobicistat/emtricitabine/tenofovir, marketed as Stribild, is a fixed-dose combination antiretroviral medication used to treat HIV/AIDS. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Cobicistat/elvitegravir/emtricitabine/tenofovir"
+        "key": "Elvitegravir/cobicistat/emtricitabine/tenofovir"
       }
-    }
+    },
+    "brand-names": [
+      "Stribild"
+    ]
   },
   "Codeine; Phenylephrine; Promethazine": {
     "name": "Codeine; Phenylephrine; Promethazine",
@@ -2759,7 +2891,7 @@
         "source": "Wikipedia",
         "key": "Colesevelam"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00930"
       }
@@ -2777,13 +2909,22 @@
     "alt-names": [
       "Conestat Alfa"
     ],
-    "description": "Conestat Alfa is a recombinant C1 esterase inhibitor used to treat hereditary angioedema. [gpt-4o-mini]",
+    "description": "Conestat alfa, a recombinant protease inhibitor derived from transgenic rabbits, is primarily used for the treatment of acute attacks of hereditary angioedema. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Conestat_alfa"
+        "key": "C1-inhibitor"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB06404"
       }
-    }
+    },
+    "brand-names": [
+      "Cinryze",
+      "Ruconest",
+      "Berinert"
+    ]
   },
   "Copanlisib": {
     "name": "Copanlisib",
@@ -2799,7 +2940,7 @@
         "source": "Wikipedia",
         "key": "Copanlisib"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB12483"
       }
@@ -2810,11 +2951,11 @@
     "alt-names": [
       "Corticotropin"
     ],
-    "description": "Corticotropin, also known as adrenocorticotropic hormone (ACTH), is a polypeptide hormone used to treat conditions like adrenal insufficiency and certain autoimmune disorders. [gpt-4o-mini]",
+    "description": "Corticotropin, also known as adrenocorticotropic hormone (ACTH), is a polypeptide tropic hormone produced by the anterior pituitary gland, primarily used to diagnose and treat conditions related to adrenal insufficiency, such as Addison's disease. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Corticotropin"
+        "key": "adrenocorticotropic_hormone"
       }
     }
   },
@@ -2823,13 +2964,24 @@
     "alt-names": [
       "Cosyntropin"
     ],
-    "description": "Cosyntropin is a synthetic form of adrenocorticotropic hormone (ACTH) used to diagnose adrenal insufficiency and treat conditions such as multiple sclerosis and infantile spasms. [gpt-4o-mini]",
+    "description": "Cosyntropin, also known as tetracosactide, is a synthetic adrenocorticotropic hormone (ACTH) used primarily for the ACTH stimulation test to assess adrenal gland function and to diagnose conditions like adrenal insufficiency. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Cosyntropin"
+        "key": "Adrenocorticotropic_hormone_(medication)"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB01284"
       }
-    }
+    },
+    "brand-names": [
+      "Acortan",
+      "Acthar",
+      "Acton",
+      "Cortigel",
+      "Trofocortina"
+    ]
   },
   "Crisaborole": {
     "name": "Crisaborole",
@@ -2846,7 +2998,7 @@
         "source": "Wikipedia",
         "key": "Crisaborole"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB05219"
       }
@@ -2866,7 +3018,7 @@
         "source": "Wikipedia",
         "key": "Crofelemer"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB04941"
       }
@@ -2899,7 +3051,7 @@
         "source": "Wikipedia",
         "key": "Crotamiton"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00265"
       }
@@ -2926,13 +3078,16 @@
     "alt-names": [
       "Cytarabine; Daunorubicin"
     ],
-    "description": "Cytarabine/Daunorubicin is a combination chemotherapy regimen used primarily to treat acute myeloid leukemia (AML). [gpt-4o-mini]",
+    "description": "Cytarabine/Daunorubicin, marketed as Vyxeos, is a fixed-dose combination of an antimetabolite and an anthracycline used primarily for the treatment of acute myeloid leukemia. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Cytarabine/daunorubicin"
+        "key": "Daunorubicin/cytarabine"
       }
-    }
+    },
+    "brand-names": [
+      "Vyxeos"
+    ]
   },
   "Dabigatran": {
     "name": "Dabigatran",
@@ -2950,7 +3105,7 @@
         "source": "Wikipedia",
         "key": "Dabigatran"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB14726"
       }
@@ -2971,7 +3126,7 @@
         "source": "Wikipedia",
         "key": "Dalbavancin"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB06219"
       }
@@ -3007,7 +3162,7 @@
         "source": "Wikipedia",
         "key": "Danazol"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB01406"
       }
@@ -3027,7 +3182,7 @@
         "source": "Wikipedia",
         "key": "Danicopan"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB15401"
       }
@@ -3048,7 +3203,7 @@
         "source": "Wikipedia",
         "key": "Dapagliflozin"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB06292"
       }
@@ -3085,7 +3240,7 @@
         "source": "Wikipedia",
         "key": "Daprodustat"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB11682"
       }
@@ -3121,7 +3276,7 @@
         "source": "Wikipedia",
         "key": "Daridorexant"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB15031"
       }
@@ -3141,7 +3296,7 @@
         "source": "Wikipedia",
         "key": "Darunavir"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB01264"
       }
@@ -3161,7 +3316,7 @@
         "source": "Wikipedia",
         "key": "Dasiglucagon"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB15226"
       }
@@ -3182,7 +3337,7 @@
         "source": "Wikipedia",
         "key": "Deflazacort"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB11921"
       }
@@ -3204,7 +3359,7 @@
         "source": "Wikipedia",
         "key": "Delafloxacin"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB11943"
       }
@@ -3224,7 +3379,7 @@
         "source": "Wikipedia",
         "key": "Deucravacitinib"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB16650"
       }
@@ -3269,7 +3424,7 @@
         "source": "Wikipedia",
         "key": "Diatrizoate"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00271"
       }
@@ -3296,13 +3451,22 @@
     "alt-names": [
       "Diethylpropion Hydrochloride"
     ],
-    "description": "Diethylpropion is an appetite suppressant belonging to the phenethylamine class, primarily used to treat obesity. [gpt-4o-mini]",
+    "description": "Diethylpropion, also known as amfepramone, is a stimulant drug classified as a substituted phenethylamine and cathinone, primarily used as an appetite suppressant for the short-term management of obesity. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Diethylpropion"
+        "key": "Amfepramone"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB00937"
       }
-    }
+    },
+    "brand-names": [
+      "Tenuate",
+      "Tepanil",
+      "Nobesine"
+    ]
   },
   "Difelikefalin": {
     "name": "Difelikefalin",
@@ -3318,7 +3482,7 @@
         "source": "Wikipedia",
         "key": "Difelikefalin"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB11938"
       }
@@ -3354,7 +3518,7 @@
         "source": "Wikipedia",
         "key": "Diflunisal"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00861"
       }
@@ -3374,7 +3538,7 @@
         "source": "Wikipedia",
         "key": "Difluprednate"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB06781"
       }
@@ -3390,7 +3554,7 @@
         "source": "Wikipedia",
         "key": "Diroximel_fumarate"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB14783"
       }
@@ -3416,7 +3580,7 @@
         "source": "Wikipedia",
         "key": "Disulfiram"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00822"
       }
@@ -3427,11 +3591,15 @@
     "alt-names": [
       "Docosanol"
     ],
-    "description": "Docosanol is a long-chain saturated fatty alcohol used topically to treat cold sores caused by the herpes simplex virus. [gpt-4o-mini]",
+    "description": "Docosanol, also known as behenic alcohol, is an over-the-counter antiviral agent used to reduce the duration of cold sores caused by the herpes simplex virus. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Docosanol"
+        "key": "1-Docosanol"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB00632"
       }
     }
   },
@@ -3449,7 +3617,7 @@
         "source": "Wikipedia",
         "key": "Dofetilide"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00204"
       }
@@ -3476,26 +3644,32 @@
     "alt-names": [
       "Donepezil Hydrochloride; Memantine Hydrochloride"
     ],
-    "description": "Donepezil and Memantine is a combination medication used to treat moderate to severe Alzheimer's disease by improving cognitive function. [gpt-4o-mini]",
+    "description": "Memantine/Donepezil, marketed as Namzaric, is a fixed-dose combination medication comprising an NMDA receptor antagonist and an acetylcholinesterase inhibitor, primarily used to treat Alzheimer's disease-related dementia. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Donepezil/memantine"
+        "key": "Memantine/donepezil"
       }
-    }
+    },
+    "brand-names": [
+      "Namzaric"
+    ]
   },
   "Doravirine; Lamivudine; Tenofovir Disoproxil": {
     "name": "Doravirine; Lamivudine; Tenofovir Disoproxil",
     "alt-names": [
       "Doravirine; Lamivudine; Tenofovir Disoproxil Fumarate"
     ],
-    "description": "Doravirine, Lamivudine, and Tenofovir Disoproxil is a combination antiretroviral medication used to treat HIV. [gpt-4o-mini]",
+    "description": "Doravirine, Lamivudine, and Tenofovir Disoproxil, marketed as Delstrigo, is a fixed-dose combination antiretroviral medication used for the treatment of HIV-1 infection. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Doravirine/lamivudine/tenofovir_disoproxil"
+        "key": "Doravirine/lamivudine/tenofovir"
       }
-    }
+    },
+    "brand-names": [
+      "Delstrigo"
+    ]
   },
   "Dostarlimab": {
     "name": "Dostarlimab",
@@ -3511,7 +3685,7 @@
         "source": "Wikipedia",
         "key": "Dostarlimab"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB15627"
       }
@@ -3522,13 +3696,21 @@
     "alt-names": [
       "Doxylamine Succinate; Pyridoxine Hydrochloride"
     ],
-    "description": "Doxylamine/Pyridoxine is a combination medication used to treat nausea and vomiting during pregnancy. [gpt-4o-mini]",
+    "description": "Doxylamine/Pyridoxine, sold under the brand name Diclectin, is a combination antihistamine and vitamin B6 used to treat nausea and vomiting of pregnancy (morning sickness). [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Doxylamine/pyridoxine"
+        "key": "Pyridoxine/doxylamine"
       }
-    }
+    },
+    "brand-names": [
+      "Diclegis",
+      "Bendectin",
+      "Debendox",
+      "Lenotan",
+      "Merbental",
+      "Diclectin"
+    ]
   },
   "Dronabinol": {
     "name": "Dronabinol",
@@ -3545,7 +3727,7 @@
         "source": "Wikipedia",
         "key": "Dronabinol"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00470"
       }
@@ -3565,7 +3747,7 @@
         "source": "Wikipedia",
         "key": "Dronedarone"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB04855"
       }
@@ -3586,7 +3768,7 @@
         "source": "Wikipedia",
         "key": "Droxidopa"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB06262"
       }
@@ -3622,7 +3804,7 @@
         "source": "Wikipedia",
         "key": "Duvelisib"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB11952"
       }
@@ -3642,7 +3824,7 @@
         "source": "Wikipedia",
         "key": "Ecallantide"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB05311"
       }
@@ -3662,7 +3844,7 @@
         "source": "Wikipedia",
         "key": "Edaravone"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB12243"
       }
@@ -3673,13 +3855,20 @@
     "alt-names": [
       "Edetate Calcium Disodium"
     ],
-    "description": "Edetate Calcium Disodium, also known as Calcium Disodium EDTA, is a chelating agent used primarily for the treatment of lead poisoning. [gpt-4o-mini]",
+    "description": "Edetate Calcium Disodium, a chelating agent, is primarily used to treat lead poisoning. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Edetate_calcium_disodium"
+        "key": "Sodium_calcium_edetate"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB00974"
       }
-    }
+    },
+    "brand-names": [
+      "Calcium disodium versenate"
+    ]
   },
   "Edoxaban": {
     "name": "Edoxaban",
@@ -3697,7 +3886,7 @@
         "source": "Wikipedia",
         "key": "Edoxaban"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB09075"
       }
@@ -3733,7 +3922,7 @@
         "source": "Wikipedia",
         "key": "Efgartigimod_alfa"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB15270"
       }
@@ -3769,7 +3958,7 @@
         "source": "Wikipedia",
         "key": "Elafibranor"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB05187"
       }
@@ -3790,7 +3979,7 @@
         "source": "Wikipedia",
         "key": "Elagolix"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB11979"
       }
@@ -3810,7 +3999,7 @@
         "source": "Wikipedia",
         "key": "Elapegademase"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB14712"
       }
@@ -3847,7 +4036,7 @@
         "source": "Wikipedia",
         "key": "Eletriptan"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00216"
       }
@@ -3867,7 +4056,7 @@
         "source": "Wikipedia",
         "key": "Eliglustat"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB09039"
       }
@@ -3903,7 +4092,7 @@
         "source": "Wikipedia",
         "key": "Elranatamab"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB15395"
       }
@@ -3940,7 +4129,7 @@
         "source": "Wikipedia",
         "key": "Emapalumab"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB14724"
       }
@@ -3992,7 +4181,7 @@
         "source": "Wikipedia",
         "key": "Enasidenib"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB13874"
       }
@@ -4041,7 +4230,7 @@
         "source": "Wikipedia",
         "key": "Entrectinib"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB11986"
       }
@@ -4062,7 +4251,7 @@
         "source": "Wikipedia",
         "key": "Epcoritamab"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB16672"
       }
@@ -4096,7 +4285,7 @@
         "source": "Wikipedia",
         "key": "Eplontersen"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB16199"
       }
@@ -4116,7 +4305,7 @@
         "source": "Wikipedia",
         "key": "Ertugliflozin"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB11827"
       }
@@ -4127,13 +4316,20 @@
     "alt-names": [
       "Ertugliflozin Pidolate; Sitagliptin Phosphate"
     ],
-    "description": "Ertugliflozin/Sitagliptin is a combination medication comprising a sodium-glucose co-transporter 2 (SGLT2) inhibitor and a DPP-4 inhibitor, commonly used to improve glycemic control in adults with type 2 diabetes. [gpt-4o-mini]",
+    "description": "Ertugliflozin/Sitagliptin, marketed as Steglujan, is a combination antidiabetic agent used to improve glycemic control in adults with insufficiently controlled type 2 diabetes. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Ertugliflozin/sitagliptin"
+        "key": "Ertugliflozin"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB11827"
       }
-    }
+    },
+    "brand-names": [
+      "Steglujan"
+    ]
   },
   "Erythromycin Lactobionate": {
     "name": "Erythromycin Lactobionate",
@@ -4159,7 +4355,7 @@
         "source": "Wikipedia",
         "key": "Estradiol"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00783"
       }
@@ -4198,7 +4394,7 @@
         "source": "Wikipedia",
         "key": "Conjugated_estrogens"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00286"
       }
@@ -4209,7 +4405,13 @@
     "alt-names": [
       "Estrogens, Conjugated; Medroxyprogesterone Acetate"
     ],
-    "links": {}
+    "brand-names": ["Prempro", "Premphase", "Premique"],
+    "links": {
+      "Wikipedia": {
+        "source": "Wikipedia",
+        "key": "Conjugated_estrogens/medroxyprogesterone_acetate"
+      }
+    }
   },
   "Esterified Estrogens": {
     "name": "Esterified Estrogens",
@@ -4226,7 +4428,7 @@
         "source": "Wikipedia",
         "key": "Esterified_estrogens"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB09381"
       }
@@ -4246,7 +4448,7 @@
         "source": "Wikipedia",
         "key": "Etelcalcetide"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB12865"
       }
@@ -4266,7 +4468,7 @@
         "source": "Wikipedia",
         "key": "Eteplirsen"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB06014"
       }
@@ -4284,7 +4486,7 @@
         "source": "Wikipedia",
         "key": "Etacrynic_acid"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00903"
       }
@@ -4305,7 +4507,7 @@
         "source": "Wikipedia",
         "key": "Ethanolamine"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB03994"
       }
@@ -4325,7 +4527,7 @@
         "source": "Wikipedia",
         "key": "Etrasimod"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB14766"
       }
@@ -4346,7 +4548,7 @@
         "source": "Wikipedia",
         "key": "Exenatide"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB01276"
       }
@@ -4357,13 +4559,16 @@
     "alt-names": [
       "Famotidine; Ibuprofen"
     ],
-    "description": "Famotidine/Ibuprofen is a combination medication that includes a histamine H2 receptor antagonist and a nonsteroidal anti-inflammatory drug (NSAID) used to relieve pain and reduce inflammation while minimizing gastrointestinal irritation. [gpt-4o-mini]",
+    "description": "Ibuprofen/famotidine, marketed as Duexis, is a fixed-dose combination medication that combines an NSAID (ibuprofen) and an H2 antagonist (famotidine) primarily used to relieve pain from rheumatoid arthritis and osteoarthritis while reducing the risk of gastric ulcers associated with NSAID therapy. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Famotidine/ibuprofen"
+        "key": "Ibuprofen/famotidine"
       }
-    }
+    },
+    "brand-names": [
+      "Duexis"
+    ]
   },
   "Faricimab": {
     "name": "Faricimab",
@@ -4379,7 +4584,7 @@
         "source": "Wikipedia",
         "key": "Faricimab"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB15303"
       }
@@ -4399,7 +4604,7 @@
         "source": "Wikipedia",
         "key": "Felbamate"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00949"
       }
@@ -4419,7 +4624,7 @@
         "source": "Wikipedia",
         "key": "Fenoprofen"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00573"
       }
@@ -4440,7 +4645,7 @@
         "source": "Wikipedia",
         "key": "Fezolinetant"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB15669"
       }
@@ -4493,7 +4698,7 @@
         "source": "Wikipedia",
         "key": "Finerenone"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB16165"
       }
@@ -4505,15 +4710,12 @@
       "Flavoxate Hydrochloride"
     ],
     "description": "Flavoxate is an anticholinergic muscle relaxant used to treat urinary bladder spasms and related conditions such as interstitial cystitis and dysuria. [gpt-4o-mini]",
-    "brand-names": [
-      "| Drugs.com = {{drugs.com|monograph|flavoxate-hydrochloride}}"
-    ],
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
         "key": "Flavoxate"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB01148"
       }
@@ -4525,15 +4727,12 @@
       "Floxuridine"
     ],
     "description": "Floxuridine, also known as 5-fluorodeoxyuridine, is an antimetabolite drug primarily used in the treatment of colorectal cancer. [gpt-4o-mini]",
-    "brand-names": [
-      "| Drugs.com = {{drugs.com|monograph|floxuridine}}"
-    ],
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
         "key": "Floxuridine"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00322"
       }
@@ -4544,37 +4743,50 @@
     "alt-names": [
       "Fluoxetine Hydrochloride; Olanzapine"
     ],
-    "description": "Fluoxetine/Olanzapine is a combination medication, combining an SSRI and an atypical antipsychotic, primarily used in the treatment of major depressive disorder and treatment-resistant depression. [gpt-4o-mini]",
+    "description": "Olanzapine/Fluoxetine, sold under the trade name Symbyax, is a fixed-dose combination medication that includes an atypical antipsychotic and a selective serotonin reuptake inhibitor, primarily used to treat depressive episodes in bipolar I disorder and treatment-resistant depression. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Fluoxetine/olanzapine"
+        "key": "Olanzapine/fluoxetine"
       }
-    }
+    },
+    "brand-names": [
+      "Symbyax",
+      "Cinol Forte",
+      "Olapin Forte"
+    ]
   },
   "Flurandrenolide": {
     "name": "Flurandrenolide",
     "alt-names": [
       "Flurandrenolide"
     ],
-    "description": "Flurandrenolide, also known as Fludroxycortide, is a synthetic corticosteroid used to treat inflammatory skin conditions. [gpt-4o-mini]",
+    "description": "Fludroxycortide, also known as flurandrenolide, is a synthetic topical corticosteroid used to treat inflammatory skin conditions. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Flurandrenolide"
+        "key": "Fludroxycortide"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB00846"
       }
-    }
+    },
+    "brand-names": [
+      "Cordran",
+      "Haelan"
+    ]
   },
   "Follitropin": {
     "name": "Follitropin",
     "alt-names": [
       "Follitropin"
     ],
-    "description": "Follitropin is a recombinant follicle-stimulating hormone (FSH) used to treat infertility in women and hypogonadism in men. [gpt-4o-mini]",
+    "description": "Follitropin, a glycoprotein gonadotropin, is primarily used to treat infertility by promoting ovarian stimulation and ovulation induction. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Follitropin"
+        "key": "Gonadotropin_preparations"
       }
     }
   },
@@ -4599,13 +4811,17 @@
     "alt-names": [
       "Formoterol Fumarate; Mometasone Furoate"
     ],
-    "description": "Formoterol/Mometasone is a combination long-acting beta2-adrenergic agonist and corticosteroid used to manage asthma and chronic obstructive pulmonary disease (COPD). [gpt-4o-mini]",
+    "description": "Mometasone/formoterol, marketed as Dulera, is a fixed-dose combination medication consisting of a corticosteroid and a long-acting \u03b22 adrenoreceptor agonist (LABA) used for the long-term management of asthma. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Formoterol/mometasone"
+        "key": "Mometasone/formoterol"
       }
-    }
+    },
+    "brand-names": [
+      "Zenhale",
+      "Dulera"
+    ]
   },
   "Fosamprenavir": {
     "name": "Fosamprenavir",
@@ -4622,7 +4838,7 @@
         "source": "Wikipedia",
         "key": "Fosamprenavir"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB01319"
       }
@@ -4642,7 +4858,7 @@
         "source": "Wikipedia",
         "key": "Fosdenopterin"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB16628"
       }
@@ -4664,7 +4880,7 @@
         "source": "Wikipedia",
         "key": "Fosfomycin"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00828"
       }
@@ -4675,13 +4891,16 @@
     "alt-names": [
       "Fosnetupitant; Palonosetron Hydrochloride"
     ],
-    "description": "Fosnetupitant, in combination with Palonosetron, is a neurokinin-1 receptor antagonist and 5-HT3 receptor antagonist used primarily for the prevention of nausea and vomiting associated with chemotherapy. [gpt-4o-mini]",
+    "description": "Fosnetupitant/palonosetron, marketed as Akynzeo, is a fixed-dose combination medication that includes an NK1 receptor antagonist and a 5-HT3 receptor antagonist, primarily used for the prevention of acute and delayed chemotherapy-induced nausea and vomiting. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Fosnetupitant/palonosetron"
+        "key": "Netupitant/palonosetron"
       }
-    }
+    },
+    "brand-names": [
+      "Akynzeo"
+    ]
   },
   "Fostamatinib": {
     "name": "Fostamatinib",
@@ -4698,7 +4917,7 @@
         "source": "Wikipedia",
         "key": "Fostamatinib"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB12010"
       }
@@ -4718,7 +4937,7 @@
         "source": "Wikipedia",
         "key": "Fostemsavir"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB11796"
       }
@@ -4738,7 +4957,7 @@
         "source": "Wikipedia",
         "key": "Fruquintinib"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB11679"
       }
@@ -4758,7 +4977,7 @@
         "source": "Wikipedia",
         "key": "Gabapentin"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00996"
       }
@@ -4778,7 +4997,7 @@
         "source": "Wikipedia",
         "key": "Ganaxolone"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB05087"
       }
@@ -4799,7 +5018,7 @@
         "source": "Wikipedia",
         "key": "Ganirelix"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB06785"
       }
@@ -4819,7 +5038,7 @@
         "source": "Wikipedia",
         "key": "Givinostat"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB12645"
       }
@@ -4839,7 +5058,7 @@
         "source": "Wikipedia",
         "key": "Givosiran"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB15066"
       }
@@ -4859,7 +5078,7 @@
         "source": "Wikipedia",
         "key": "Glasdegib"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB11978"
       }
@@ -4870,13 +5089,17 @@
     "alt-names": [
       "Glimepiride; Pioglitazone Hydrochloride"
     ],
-    "description": "Glimepiride/Pioglitazone is a combination medication belonging to the classes of sulfonylureas and thiazolidinediones, used to improve glycemic control in adults with type 2 diabetes mellitus. [gpt-4o-mini]",
+    "description": "Pioglitazone/glimepiride, sold under the brand name Duetact, is a combination anti-diabetic medication used to improve glycemic control in adults with type 2 diabetes mellitus. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Glimepiride/pioglitazone"
+        "key": "Pioglitazone/glimepiride"
       }
-    }
+    },
+    "brand-names": [
+      "Duetact",
+      "Tandemact"
+    ]
   },
   "Glofitamab": {
     "name": "Glofitamab",
@@ -4892,7 +5115,7 @@
         "source": "Wikipedia",
         "key": "Glofitamab"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB16371"
       }
@@ -4908,19 +5131,28 @@
       "Wikipedia": {
         "source": "Wikipedia",
         "key": "Glucagon"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB00040"
       }
     }
   },
   "Glyburide": {
     "name": "Glyburide",
     "alt-names": [
-      "Glyburide"
+      "Glyburide",
+      "Glibenclamide"
     ],
-    "description": "Glyburide, also known as Glibenclamide, is a sulfonylurea medication used to treat type 2 diabetes mellitus by stimulating insulin release from the pancreas. [gpt-4o-mini]",
+    "description": "Glyburide, also known as glibenclamide, is a sulfonylurea antidiabetic medication used to improve glycemic control in adults with type 2 diabetes. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Glyburide"
+        "key": "Glibenclamide"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB01016"
       }
     }
   },
@@ -4929,26 +5161,34 @@
     "alt-names": [
       "Glyburide; Metformin Hydrochloride"
     ],
-    "description": "Glyburide/Metformin is a combination antihyperglycemic medication used to treat type 2 diabetes mellitus. [gpt-4o-mini]",
+    "description": "Glucovance is a combination of Glyburide and Metformin used to treat type 2 diabetes.",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Glyburide/metformin"
+        "key": "Glibenclamide/metformin"
       }
-    }
+    },
+    "brand-names": [
+      "Glucovance"
+    ]
   },
   "Glycopyrrolate": {
     "name": "Glycopyrrolate",
     "alt-names": [
       "Glycopyrrolate"
     ],
-    "description": "Glycopyrrolate is an anticholinergic medication used to reduce excessive salivation and to treat peptic ulcers. [gpt-4o-mini]",
+    "description": "Glycopyrrolate is an anticholinergic muscarinic antagonist primarily used to treat excessive sweating and manage secretions in various medical settings. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Glycopyrrolate"
+        "key": "Glycopyrronium_bromide"
       }
-    }
+    },
+    "brand-names": [
+      "Robinul",
+      "Cuvposa",
+      "Seebri"
+    ]
   },
   "Glycopyrrolate; Neostigmine Methyl": {
     "name": "Glycopyrrolate; Neostigmine Methyl",
@@ -4971,13 +5211,18 @@
     "alt-names": [
       "Glycopyrronium Tosylate"
     ],
-    "description": "Glycopyrronium is an anticholinergic medication primarily used to treat chronic obstructive pulmonary disease (COPD) and excessive sweating. [gpt-4o-mini]",
+    "description": "Glycopyrronium, also known as glycopyrrolate, is an antimuscarinic agent used primarily to treat excessive sweating (hyperhidrosis) and chronic obstructive pulmonary disease (COPD). [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Glycopyrronium"
+        "key": "Glycopyrronium_bromide"
       }
-    }
+    },
+    "brand-names": [
+      "Robinul",
+      "Cuvposa",
+      "Seebri"
+    ]
   },
   "Golodirsen": {
     "name": "Golodirsen",
@@ -4993,7 +5238,7 @@
         "source": "Wikipedia",
         "key": "Golodirsen"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB15593"
       }
@@ -5014,7 +5259,7 @@
         "source": "Wikipedia",
         "key": "Griseofulvin"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00400"
       }
@@ -5025,13 +5270,17 @@
     "alt-names": [
       "Guaifenesin; Hydrocodone Bitartrate"
     ],
-    "description": "Guaifenesin/Hydrocodone is a combination medication that includes an expectorant and an opioid used to relieve cough due to colds and other conditions. [gpt-4o-mini]",
+    "description": "Hydrocodone/guaifenesin, marketed as Obredon, is a fixed-dose combination medication that combines an opioid agonist (hydrocodone) and an expectorant (guaifenesin) used primarily to treat cough. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Guaifenesin/hydrocodone"
+        "key": "Hydrocodone/guaifenesin"
       }
-    }
+    },
+    "brand-names": [
+      "Obredon",
+      "Flowtuss"
+    ]
   },
   "Halobetasol; Tazarotene": {
     "name": "Halobetasol; Tazarotene",
@@ -5086,13 +5335,20 @@
     "alt-names": [
       "Hetastarch"
     ],
-    "description": "Hetastarch is a colloid volume expander used to treat hypovolemia due to plasma loss, particularly in surgical or trauma settings. [gpt-4o-mini]",
+    "description": "Hetastarch, sold under various brand names including Voluven and Hespan, is a volume expander used in intravenous therapy, primarily to prevent shock following severe blood loss, although its use in critically ill patients is associated with increased risks of mortality and kidney injury. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Hetastarch"
+        "key": "Hydroxyethyl_starch"
       }
-    }
+    },
+    "brand-names": [
+      "Hespan",
+      "Voluven",
+      "Volulyte",
+      "Tetrahes",
+      "Hestar"
+    ]
   },
   "Histrelin": {
     "name": "Histrelin",
@@ -5109,7 +5365,7 @@
         "source": "Wikipedia",
         "key": "Histrelin"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB06788"
       }
@@ -5149,7 +5405,7 @@
         "source": "Wikipedia",
         "key": "Hyaluronidase"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00070"
       }
@@ -5261,7 +5517,7 @@
         "source": "Wikipedia",
         "key": "Ibrexafungerp"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB12471"
       }
@@ -5281,7 +5537,7 @@
         "source": "Wikipedia",
         "key": "Ibutilide"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00308"
       }
@@ -5301,7 +5557,7 @@
         "source": "Wikipedia",
         "key": "Idelalisib"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB09054"
       }
@@ -5321,7 +5577,7 @@
         "source": "Wikipedia",
         "key": "Imetelstat"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB05036"
       }
@@ -5341,7 +5597,7 @@
         "source": "Wikipedia",
         "key": "Imiglucerase"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00053"
       }
@@ -5361,7 +5617,7 @@
         "source": "Wikipedia",
         "key": "Inclisiran"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB14901"
       }
@@ -5401,7 +5657,11 @@
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Insulin_human"
+        "key": "Insulin_(medication)"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB00030"
       }
     }
   },
@@ -5421,7 +5681,7 @@
         "source": "Wikipedia",
         "key": "Interferon_beta-1a"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00060"
       }
@@ -5432,13 +5692,20 @@
     "alt-names": [
       "Interferon Gamma-1B"
     ],
-    "description": "Interferon Gamma-1B is a recombinant cytokine used to treat chronic granulomatous disease and severe, malignant osteopetrosis. [gpt-4o-mini]",
+    "description": "Interferon Gamma-1B, marketed as Actimmune, is a type II cytokine used primarily to treat chronic granulomatous disease (CGD). [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Interferon_gamma-1b"
+        "key": "Interferon_gamma"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB00033"
       }
-    }
+    },
+    "brand-names": [
+      "Actimmune"
+    ]
   },
   "Iptacopan": {
     "name": "Iptacopan",
@@ -5454,7 +5721,7 @@
         "source": "Wikipedia",
         "key": "Iptacopan"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB16200"
       }
@@ -5474,7 +5741,7 @@
         "source": "Wikipedia",
         "key": "Isavuconazonium"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB11633"
       }
@@ -5495,7 +5762,7 @@
         "source": "Wikipedia",
         "key": "Istradefylline"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB11757"
       }
@@ -5506,13 +5773,17 @@
     "alt-names": [
       "Ivacaftor; Lumacaftor"
     ],
-    "description": "Ivacaftor/Lumacaftor is a combination cystic fibrosis transmembrane conductance regulator (CFTR) modulator used to treat cystic fibrosis in patients with specific genetic mutations. [gpt-4o-mini]",
+    "description": "Ivacaftor/Lumacaftor, sold under the brand name Orkambi, is a combination drug consisting of a CFTR chaperone and a CFTR potentiator, used to treat cystic fibrosis in patients with two copies of the F508del mutation. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Ivacaftor/lumacaftor"
+        "key": "Lumacaftor/ivacaftor"
       }
-    }
+    },
+    "brand-names": [
+      "Orkambi",
+      "Lucaftor"
+    ]
   },
   "Ivosidenib": {
     "name": "Ivosidenib",
@@ -5528,7 +5799,7 @@
         "source": "Wikipedia",
         "key": "Ivosidenib"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB14568"
       }
@@ -5548,7 +5819,7 @@
         "source": "Wikipedia",
         "key": "Ixazomib"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB09570"
       }
@@ -5568,7 +5839,7 @@
         "source": "Wikipedia",
         "key": "Ixekizumab"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB11569"
       }
@@ -5604,7 +5875,7 @@
         "source": "Wikipedia",
         "key": "Lanadelumab"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB14597"
       }
@@ -5624,7 +5895,7 @@
         "source": "Wikipedia",
         "key": "Lanreotide"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB06791"
       }
@@ -5658,7 +5929,7 @@
         "source": "Wikipedia",
         "key": "Lapatinib"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB01259"
       }
@@ -5678,7 +5949,7 @@
         "source": "Wikipedia",
         "key": "Larotrectinib"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB14723"
       }
@@ -5699,7 +5970,7 @@
         "source": "Wikipedia",
         "key": "Lasmiditan"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB11732"
       }
@@ -5719,7 +5990,7 @@
         "source": "Wikipedia",
         "key": "Lefamulin"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB12825"
       }
@@ -5739,7 +6010,7 @@
         "source": "Wikipedia",
         "key": "Lemborexant"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB11951"
       }
@@ -5759,7 +6030,7 @@
         "source": "Wikipedia",
         "key": "Lenacapavir"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB15673"
       }
@@ -5779,7 +6050,7 @@
         "source": "Wikipedia",
         "key": "Leniolisib"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB16217"
       }
@@ -5799,7 +6070,7 @@
         "source": "Wikipedia",
         "key": "Letermovir"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB12070"
       }
@@ -5815,7 +6086,7 @@
         "source": "Wikipedia",
         "key": "Botulinum_toxin"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB16820"
       }
@@ -5832,13 +6103,20 @@
     "alt-names": [
       "Leucovorin Calcium"
     ],
-    "description": "Leucovorin, also known as folinic acid, is a folate analog used primarily to enhance the efficacy of certain chemotherapy agents and to mitigate the toxic effects of methotrexate. [gpt-4o-mini]",
+    "description": "Leucovorin, also known as folinic acid, is a folate derivative primarily used to reduce the toxic effects of methotrexate in cancer treatment and to enhance the efficacy of 5-fluorouracil in colorectal cancer. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Leucovorin"
+        "key": "folinic_acid"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB00650"
       }
-    }
+    },
+    "brand-names": [
+      "Many"
+    ]
   },
   "Levobunolol": {
     "name": "Levobunolol",
@@ -5856,7 +6134,7 @@
         "source": "Wikipedia",
         "key": "Levobunolol"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB01210"
       }
@@ -5878,7 +6156,7 @@
         "source": "Wikipedia",
         "key": "Levodopa"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB01235"
       }
@@ -5889,13 +6167,20 @@
     "alt-names": [
       "Levoleucovorin Disodium"
     ],
-    "description": "Levoleucovorin, a reduced form of folic acid, is used as a folate cofactor in the treatment of patients with certain types of cancer, particularly following methotrexate therapy. [gpt-4o-mini]",
+    "description": "Levoleucovorin, a derivative of folic acid, is a folate analog used primarily in cancer treatment, particularly to mitigate the toxic effects of methotrexate and enhance the efficacy of 5-fluorouracil in colorectal cancer therapy. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Levoleucovorin"
+        "key": "Folinic_acid"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB00650"
       }
-    }
+    },
+    "brand-names": [
+      "Many"
+    ]
   },
   "Levomilnacipran": {
     "name": "Levomilnacipran",
@@ -5911,7 +6196,7 @@
         "source": "Wikipedia",
         "key": "Levomilnacipran"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB08918"
       }
@@ -5931,7 +6216,7 @@
         "source": "Wikipedia",
         "key": "Levorphanol"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00854"
       }
@@ -5960,11 +6245,11 @@
     "alt-names": [
       "Lidocaine; Tetracaine"
     ],
-    "description": "Lidocaine/Tetracaine is a combination local anesthetic used for topical anesthesia in procedures such as minor skin surgery and mucosal procedures. [gpt-4o-mini]",
+    "description": "Lidocaine, an amide local anesthetic, and Tetracaine, an ester local anesthetic, are both primarily utilized to provide localized pain relief during surgical procedures and other medical interventions. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Lidocaine/tetracaine"
+        "key": "Local_anesthetic"
       }
     }
   },
@@ -6012,7 +6297,7 @@
         "source": "Wikipedia",
         "key": "Lomitapide"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB08827"
       }
@@ -6032,7 +6317,7 @@
         "source": "Wikipedia",
         "key": "Lonafarnib"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB06448"
       }
@@ -6048,7 +6333,7 @@
         "source": "Wikipedia",
         "key": "Loncastuximab_tesirine"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB16222"
       }
@@ -6072,7 +6357,7 @@
         "source": "Wikipedia",
         "key": "Loteprednol"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB14596"
       }
@@ -6109,7 +6394,7 @@
         "source": "Wikipedia",
         "key": "Lotilaner"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB17992"
       }
@@ -6129,7 +6414,7 @@
         "source": "Wikipedia",
         "key": "Lumasiran"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB15935"
       }
@@ -6149,7 +6434,7 @@
         "source": "Wikipedia",
         "key": "Lumateperone"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB06077"
       }
@@ -6185,7 +6470,7 @@
         "source": "Wikipedia",
         "key": "Luspatercept"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB12281"
       }
@@ -6205,7 +6490,7 @@
         "source": "Wikipedia",
         "key": "Macimorelin"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB13074"
       }
@@ -6225,7 +6510,7 @@
         "source": "Wikipedia",
         "key": "Macitentan"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB08932"
       }
@@ -6252,13 +6537,20 @@
     "alt-names": [
       "Maralixibat Chloride"
     ],
-    "description": "Maralixibat is a selective inhibitor of the ileal bile acid transporter (IBAT) used to treat cholestatic liver diseases, particularly in pediatric patients. [gpt-4o-mini]",
+    "description": "Maralixibat chloride, marketed as Livmarli, is an ileal bile acid transporter (IBAT) inhibitor used to treat cholestatic pruritus in patients with Alagille syndrome. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Maralixibat"
+        "key": "Maralixibat_chloride"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB16226"
       }
-    }
+    },
+    "brand-names": [
+      "Livmarli"
+    ]
   },
   "Maraviroc": {
     "name": "Maraviroc",
@@ -6275,7 +6567,7 @@
         "source": "Wikipedia",
         "key": "Maraviroc"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB04835"
       }
@@ -6295,7 +6587,7 @@
         "source": "Wikipedia",
         "key": "Mavacamten"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB14921"
       }
@@ -6315,7 +6607,7 @@
         "source": "Wikipedia",
         "key": "Mavorixafor"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB05501"
       }
@@ -6339,13 +6631,20 @@
     "alt-names": [
       "Meclofenamate Sodium"
     ],
-    "description": "Meclofenamate is a nonsteroidal anti-inflammatory drug (NSAID) used to treat mild to moderate pain and inflammation, particularly in conditions like arthritis. [gpt-4o-mini]",
+    "description": "Meclofenamic acid, marketed as Meclomen, is an anthranilic acid derivative and nonsteroidal anti-inflammatory drug (NSAID) primarily used to treat joint, muscular pain, arthritis, and dysmenorrhea. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Meclofenamate"
+        "key": "Meclofenamic_acid"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB00939"
       }
-    }
+    },
+    "brand-names": [
+      "Meclomen"
+    ]
   },
   "Meprobamate": {
     "name": "Meprobamate",
@@ -6362,7 +6661,7 @@
         "source": "Wikipedia",
         "key": "Meprobamate"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00371"
       }
@@ -6390,11 +6689,15 @@
     "alt-names": [
       "Metformin Hydrochloride; Saxagliptin Hydrochloride Dihydrate"
     ],
-    "description": "Metformin/Saxagliptin is a combination drug that includes a biguanide and a DPP-4 inhibitor used to improve glycemic control in adults with type 2 diabetes mellitus. [gpt-4o-mini]",
+    "description": "Metformin, marketed as Glucophage, is an oral antidiabetic agent used primarily to manage type 2 diabetes mellitus. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Metformin/saxagliptin"
+        "key": "Metformin"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB00331"
       }
     }
   },
@@ -6413,7 +6716,7 @@
         "source": "Wikipedia",
         "key": "Methoxsalen"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00553"
       }
@@ -6424,13 +6727,16 @@
     "alt-names": [
       "Methylergonovine Maleate"
     ],
-    "description": "Methylergonovine is an ergot alkaloid used primarily to prevent and treat postpartum hemorrhage. [gpt-4o-mini]",
+    "description": "Methylergonovine, also known as methylergometrine and marketed as Methergine, is an ergoline derivative used primarily as an oxytocic to prevent or control postpartum hemorrhage and facilitate uterine contractions after childbirth. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Methylergonovine"
+        "key": "Methylergometrine"
       }
-    }
+    },
+    "brand-names": [
+      "Methergine"
+    ]
   },
   "Metreleptin": {
     "name": "Metreleptin",
@@ -6447,7 +6753,7 @@
         "source": "Wikipedia",
         "key": "Metreleptin"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB09046"
       }
@@ -6467,7 +6773,7 @@
         "source": "Wikipedia",
         "key": "Micafungin"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB01141"
       }
@@ -6494,7 +6800,7 @@
         "source": "Wikipedia",
         "key": "Migalastat"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB05018"
       }
@@ -6514,7 +6820,7 @@
         "source": "Wikipedia",
         "key": "Miglitol"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00491"
       }
@@ -6536,7 +6842,7 @@
         "source": "Wikipedia",
         "key": "Miglustat"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00419"
       }
@@ -6558,7 +6864,7 @@
         "source": "Wikipedia",
         "key": "Milnacipran"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB04896"
       }
@@ -6579,7 +6885,7 @@
         "source": "Wikipedia",
         "key": "Miltefosine"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB09031"
       }
@@ -6615,7 +6921,7 @@
         "source": "Wikipedia",
         "key": "Mitapivat"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB16236"
       }
@@ -6635,7 +6941,7 @@
         "source": "Wikipedia",
         "key": "Mitotane"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00648"
       }
@@ -6655,7 +6961,7 @@
         "source": "Wikipedia",
         "key": "Mobocertinib"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB16390"
       }
@@ -6687,7 +6993,7 @@
         "source": "Wikipedia",
         "key": "Monomethyl_fumarate"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB14219"
       }
@@ -6711,7 +7017,7 @@
         "source": "Wikipedia",
         "key": "Motixafortide"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB14939"
       }
@@ -6749,7 +7055,7 @@
         "source": "Wikipedia",
         "key": "Mupirocin"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00410"
       }
@@ -6771,7 +7077,7 @@
         "source": "Wikipedia",
         "key": "Mycophenolic_acid"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB01024"
       }
@@ -6808,7 +7114,7 @@
         "source": "Wikipedia",
         "key": "Naftifine"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00735"
       }
@@ -6830,7 +7136,7 @@
         "source": "Wikipedia",
         "key": "Nalbuphine"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00844"
       }
@@ -6841,13 +7147,21 @@
     "alt-names": [
       "Naldemedine Tosylate"
     ],
-    "description": "Naldemedine Tosylate is an opioid receptor antagonist used to treat opioid-induced constipation in adults with chronic pain. [gpt-4o-mini]",
+    "description": "Naldemedine tosylate, marketed as Symproic and Rizmoic, is a peripherally acting \u03bc-opioid receptor antagonist used to treat opioid-induced constipation in adults. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Naldemedine_tosylate"
+        "key": "Naldemedine"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB11691"
       }
-    }
+    },
+    "brand-names": [
+      "Symproic",
+      "Rizmoic"
+    ]
   },
   "Nalmefene": {
     "name": "Nalmefene",
@@ -6863,7 +7177,7 @@
         "source": "Wikipedia",
         "key": "Nalmefene"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB06230"
       }
@@ -6899,13 +7213,17 @@
     "alt-names": [
       "Naproxen Sodium; Sumatriptan Succinate"
     ],
-    "description": "Sumatriptan/Naproxen is a combination medication that includes a triptan and an NSAID, primarily used for the acute treatment of migraines. [gpt-4o-mini]",
+    "description": "Sumatriptan/Naproxen, marketed as Treximet, is a fixed-dose combination medication comprising a triptan and a nonsteroidal anti-inflammatory drug (NSAID) used for the acute treatment of migraines. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Naproxen/sumatriptan"
+        "key": "Sumatriptan/naproxen"
       }
-    }
+    },
+    "brand-names": [
+      "Treximet",
+      "Suvexx"
+    ]
   },
   "Nateglinide": {
     "name": "Nateglinide",
@@ -6921,7 +7239,7 @@
         "source": "Wikipedia",
         "key": "Nateglinide"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00731"
       }
@@ -6941,7 +7259,7 @@
         "source": "Wikipedia",
         "key": "Naxitamab"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB15965"
       }
@@ -6961,7 +7279,7 @@
         "source": "Wikipedia",
         "key": "Necitumumab"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB09559"
       }
@@ -6981,7 +7299,7 @@
         "source": "Wikipedia",
         "key": "Nedocromil"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00716"
       }
@@ -7001,7 +7319,7 @@
         "source": "Wikipedia",
         "key": "Nedosiran"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB17635"
       }
@@ -7022,7 +7340,7 @@
         "source": "Wikipedia",
         "key": "Netarsudil"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB13931"
       }
@@ -7058,7 +7376,7 @@
         "source": "Wikipedia",
         "key": "Nevirapine"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00238"
       }
@@ -7078,7 +7396,7 @@
         "source": "Wikipedia",
         "key": "Nifurtimox"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB11820"
       }
@@ -7098,7 +7416,7 @@
         "source": "Wikipedia",
         "key": "Niraparib"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB11793"
       }
@@ -7118,7 +7436,7 @@
         "source": "Wikipedia",
         "key": "Nirogacestat"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB12005"
       }
@@ -7138,7 +7456,7 @@
         "source": "Wikipedia",
         "key": "Nirsevimab"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB16258"
       }
@@ -7159,7 +7477,7 @@
         "source": "Wikipedia",
         "key": "Nitisinone"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00348"
       }
@@ -7196,7 +7514,7 @@
         "source": "Wikipedia",
         "key": "Obiltoxaximab"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB05336"
       }
@@ -7216,7 +7534,7 @@
         "source": "Wikipedia",
         "key": "Odevixibat"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB16261"
       }
@@ -7237,7 +7555,7 @@
         "source": "Wikipedia",
         "key": "Ofatumumab"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB06650"
       }
@@ -7273,7 +7591,7 @@
         "source": "Wikipedia",
         "key": "Oliceridine"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB14881"
       }
@@ -7293,7 +7611,7 @@
         "source": "Wikipedia",
         "key": "Olipudase_alfa"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB12835"
       }
@@ -7329,7 +7647,7 @@
         "source": "Wikipedia",
         "key": "Olutasidenib"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB16267"
       }
@@ -7349,7 +7667,7 @@
         "source": "Wikipedia",
         "key": "Omadacycline"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB12455"
       }
@@ -7369,7 +7687,7 @@
         "source": "Wikipedia",
         "key": "Omaveloxolone"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB12513"
       }
@@ -7390,7 +7708,7 @@
         "source": "Wikipedia",
         "key": "Omidenepag"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB15071"
       }
@@ -7411,7 +7729,7 @@
         "source": "Wikipedia",
         "key": "Oritavancin"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB04911"
       }
@@ -7431,7 +7749,7 @@
         "source": "Wikipedia",
         "key": "Osilodrostat"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB11837"
       }
@@ -7451,7 +7769,7 @@
         "source": "Wikipedia",
         "key": "Ozanimod"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB12612"
       }
@@ -7471,7 +7789,7 @@
         "source": "Wikipedia",
         "key": "Pafolacianine"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB15413"
       }
@@ -7491,7 +7809,7 @@
         "source": "Wikipedia",
         "key": "Palonosetron"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00377"
       }
@@ -7511,7 +7829,7 @@
         "source": "Wikipedia",
         "key": "Palovarotene"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB05467"
       }
@@ -7531,7 +7849,7 @@
         "source": "Wikipedia",
         "key": "Panitumumab"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB01269"
       }
@@ -7564,7 +7882,7 @@
         "source": "Wikipedia",
         "key": "Pasireotide"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB06663"
       }
@@ -7584,7 +7902,7 @@
         "source": "Wikipedia",
         "key": "Patisiran"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB14582"
       }
@@ -7606,7 +7924,7 @@
         "source": "Wikipedia",
         "key": "Pegcetacoplan"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB16694"
       }
@@ -7659,7 +7977,7 @@
         "source": "Wikipedia",
         "key": "Pegunigalsidase_alfa"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB14992"
       }
@@ -7679,7 +7997,7 @@
         "source": "Wikipedia",
         "key": "Pegvaliase"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB12839"
       }
@@ -7701,7 +8019,7 @@
         "source": "Wikipedia",
         "key": "Pemetrexed"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00642"
       }
@@ -7729,7 +8047,7 @@
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Pentetate"
+        "key": "Pentetic_acid"
       }
     }
   },
@@ -7773,7 +8091,7 @@
         "source": "Wikipedia",
         "key": "Peramivir"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB06614"
       }
@@ -7793,7 +8111,7 @@
         "source": "Wikipedia",
         "key": "Perampanel"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB08883"
       }
@@ -7813,7 +8131,7 @@
         "source": "Wikipedia",
         "key": "Perfluorohexyloctane"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB17823"
       }
@@ -7833,7 +8151,7 @@
         "source": "Wikipedia",
         "key": "Pexidartinib"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB12978"
       }
@@ -7877,7 +8195,7 @@
         "source": "Wikipedia",
         "key": "Piroxicam"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00554"
       }
@@ -7898,7 +8216,7 @@
         "source": "Wikipedia",
         "key": "Pitolisant"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB11642"
       }
@@ -7918,7 +8236,7 @@
         "source": "Wikipedia",
         "key": "Plazomicin"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB12615"
       }
@@ -7951,7 +8269,7 @@
         "source": "Wikipedia",
         "key": "Polatuzumab_vedotin"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB12240"
       }
@@ -7967,6 +8285,10 @@
       "Wikipedia": {
         "source": "Wikipedia",
         "key": "Polymyxin_b"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB00781"
       }
     }
   },
@@ -7984,7 +8306,7 @@
         "source": "Wikipedia",
         "key": "Ponesimod"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB12016"
       }
@@ -7995,13 +8317,20 @@
     "alt-names": [
       "Porfimer Sodium"
     ],
-    "description": "Porfimer sodium is a photosensitizing agent used in photodynamic therapy for the treatment of certain types of cancer, particularly esophageal and non-small cell lung cancer. [gpt-4o-mini]",
+    "description": "Porfimer sodium, marketed as Photofrin, is a photosensitizer used primarily in photodynamic therapy for the treatment of obstructing non-small cell lung carcinoma and esophageal cancer. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Porfimer"
+        "key": "Porfimer_sodium"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB00707"
       }
-    }
+    },
+    "brand-names": [
+      "Photofrin"
+    ]
   },
   "Povidone-Iodine": {
     "name": "Povidone-Iodine",
@@ -8019,7 +8348,7 @@
         "source": "Wikipedia",
         "key": "Povidone-iodine"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB06812"
       }
@@ -8039,7 +8368,7 @@
         "source": "Wikipedia",
         "key": "Pozelimab"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB15218"
       }
@@ -8059,7 +8388,7 @@
         "source": "Wikipedia",
         "key": "Pralatrexate"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB06813"
       }
@@ -8079,7 +8408,7 @@
         "source": "Wikipedia",
         "key": "Pralsetinib"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB15822"
       }
@@ -8099,7 +8428,7 @@
         "source": "Wikipedia",
         "key": "Pramlintide"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB01278"
       }
@@ -8120,7 +8449,7 @@
         "source": "Wikipedia",
         "key": "Prasugrel"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB06209"
       }
@@ -8140,7 +8469,7 @@
         "source": "Wikipedia",
         "key": "Prednicarbate"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB01130"
       }
@@ -8167,7 +8496,7 @@
         "source": "Wikipedia",
         "key": "Pretomanid"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB05154"
       }
@@ -8189,7 +8518,7 @@
         "source": "Wikipedia",
         "key": "Prucalopride"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB06480"
       }
@@ -8209,7 +8538,7 @@
         "source": "Wikipedia",
         "key": "Ramelteon"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00980"
       }
@@ -8229,7 +8558,7 @@
         "source": "Wikipedia",
         "key": "Ramucirumab"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB05578"
       }
@@ -8250,7 +8579,7 @@
         "source": "Wikipedia",
         "key": "Relugolix"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB11853"
       }
@@ -8270,7 +8599,7 @@
         "source": "Wikipedia",
         "key": "Remimazolam"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB12404"
       }
@@ -8292,7 +8621,7 @@
         "source": "Wikipedia",
         "key": "Repaglinide"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00912"
       }
@@ -8312,7 +8641,7 @@
         "source": "Wikipedia",
         "key": "Repotrectinib"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB16826"
       }
@@ -8332,7 +8661,7 @@
         "source": "Wikipedia",
         "key": "Resmetirom"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB12914"
       }
@@ -8353,7 +8682,7 @@
         "source": "Wikipedia",
         "key": "Retapamulin"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB01256"
       }
@@ -8373,7 +8702,7 @@
         "source": "Wikipedia",
         "key": "Retifanlimab"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB15766"
       }
@@ -8393,7 +8722,7 @@
         "source": "Wikipedia",
         "key": "Revefenacin"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB11855"
       }
@@ -8446,7 +8775,7 @@
         "source": "Wikipedia",
         "key": "Rilpivirine"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB08864"
       }
@@ -8466,7 +8795,7 @@
         "source": "Wikipedia",
         "key": "Riociguat"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB08931"
       }
@@ -8477,13 +8806,22 @@
     "alt-names": [
       "Risedronate Sodium Hemi-Pentahydrate; Risedronate Sodium Monohydrate"
     ],
-    "description": "Risedronate is a bisphosphonate drug used to treat osteoporosis and other conditions that cause bone loss. [gpt-4o-mini]",
+    "description": "Risedronate, also known as risedronate sodium, is a bisphosphonate used primarily to treat and prevent osteoporosis and to manage Paget's disease of bone. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Risedronate"
+        "key": "Risedronic_acid"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB00884"
       }
-    }
+    },
+    "brand-names": [
+      "Actonel",
+      "Atelvia",
+      "Benet"
+    ]
   },
   "Ritlecitinib": {
     "name": "Ritlecitinib",
@@ -8499,7 +8837,7 @@
         "source": "Wikipedia",
         "key": "Ritlecitinib"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB14924"
       }
@@ -8521,7 +8859,7 @@
         "source": "Wikipedia",
         "key": "Roflumilast"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB01656"
       }
@@ -8541,7 +8879,7 @@
         "source": "Wikipedia",
         "key": "Romidepsin"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB06176"
       }
@@ -8561,7 +8899,7 @@
         "source": "Wikipedia",
         "key": "Romiplostim"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB05332"
       }
@@ -8581,7 +8919,7 @@
         "source": "Wikipedia",
         "key": "Romosozumab"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB11866"
       }
@@ -8601,7 +8939,7 @@
         "source": "Wikipedia",
         "key": "Ropeginterferon_alfa-2b"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB15119"
       }
@@ -8622,7 +8960,7 @@
         "source": "Wikipedia",
         "key": "Rotigotine"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB05271"
       }
@@ -8642,7 +8980,7 @@
         "source": "Wikipedia",
         "key": "Rucaparib"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB12332"
       }
@@ -8662,7 +9000,7 @@
         "source": "Wikipedia",
         "key": "Sacituzumab_govitecan"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB12893"
       }
@@ -8682,7 +9020,7 @@
         "source": "Wikipedia",
         "key": "Sargramostim"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00020"
       }
@@ -8702,7 +9040,7 @@
         "source": "Wikipedia",
         "key": "Seladelpar"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB12390"
       }
@@ -8722,7 +9060,7 @@
         "source": "Wikipedia",
         "key": "Selexipag"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB11362"
       }
@@ -8743,7 +9081,7 @@
         "source": "Wikipedia",
         "key": "Selinexor"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB11942"
       }
@@ -8763,7 +9101,7 @@
         "source": "Wikipedia",
         "key": "Selumetinib"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB11689"
       }
@@ -8783,7 +9121,7 @@
         "source": "Wikipedia",
         "key": "Setmelanotide"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB11700"
       }
@@ -8804,7 +9142,7 @@
         "source": "Wikipedia",
         "key": "Sevelamer"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00658"
       }
@@ -8826,7 +9164,7 @@
         "source": "Wikipedia",
         "key": "Silodosin"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB06207"
       }
@@ -8859,7 +9197,7 @@
         "source": "Wikipedia",
         "key": "Siponimod"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB12371"
       }
@@ -8880,7 +9218,7 @@
         "source": "Wikipedia",
         "key": "Sodium_nitroprusside"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00325"
       }
@@ -8927,11 +9265,15 @@
     "alt-names": [
       "Sodium Polystyrene Sulfonate"
     ],
-    "description": "Sodium Polystyrene Sulfonate is a cation-exchange resin used to treat hyperkalemia by reducing elevated levels of potassium in the blood. [gpt-4o-mini]",
+    "description": "Sodium Polystyrene Sulfonate is an ion-exchange resin used primarily to treat hyperkalemia, a condition characterized by elevated potassium levels in the blood. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Sodium_polystyrene_sulfonate"
+        "key": "Polystyrene_sulfonate"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB01344"
       }
     }
   },
@@ -8978,7 +9320,7 @@
         "source": "Wikipedia",
         "key": "Sodium_zirconium_cyclosilicate"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB14048"
       }
@@ -8998,7 +9340,7 @@
         "source": "Wikipedia",
         "key": "Sofosbuvir"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB08934"
       }
@@ -9043,13 +9385,17 @@
     "alt-names": [
       "Sofpironium Bromide"
     ],
-    "description": "Sofpironium bromide is an anticholinergic agent used to treat primary axillary hyperhidrosis. [gpt-4o-mini]",
+    "description": "Sofpironium bromide, marketed as Ecclock and Sofdra, is an anticholinergic medication primarily used to treat primary axillary hyperhidrosis (excessive sweating). [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Sofpironium"
+        "key": "Sofpironium_bromide"
       }
-    }
+    },
+    "brand-names": [
+      "Ecclock",
+      "others "
+    ]
   },
   "Solriamfetol": {
     "name": "Solriamfetol",
@@ -9065,7 +9411,7 @@
         "source": "Wikipedia",
         "key": "Solriamfetol"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB14754"
       }
@@ -9085,7 +9431,7 @@
         "source": "Wikipedia",
         "key": "Somapacitan"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB15093"
       }
@@ -9105,7 +9451,7 @@
         "source": "Wikipedia",
         "key": "Sonidegib"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB09143"
       }
@@ -9125,7 +9471,7 @@
         "source": "Wikipedia",
         "key": "Sorafenib"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00398"
       }
@@ -9146,7 +9492,7 @@
         "source": "Wikipedia",
         "key": "Sotorasib"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB15569"
       }
@@ -9166,7 +9512,7 @@
         "source": "Wikipedia",
         "key": "Spesolimab"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB15626"
       }
@@ -9186,7 +9532,7 @@
         "source": "Wikipedia",
         "key": "Spinosad"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB08823"
       }
@@ -9222,7 +9568,7 @@
         "source": "Wikipedia",
         "key": "Suvorexant"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB09034"
       }
@@ -9243,7 +9589,7 @@
         "source": "Wikipedia",
         "key": "Tafamidis"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB11644"
       }
@@ -9264,7 +9610,7 @@
         "source": "Wikipedia",
         "key": "Tafasitamab"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB15044"
       }
@@ -9303,7 +9649,7 @@
         "source": "Wikipedia",
         "key": "Tafluprost"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB08819"
       }
@@ -9323,7 +9669,7 @@
         "source": "Wikipedia",
         "key": "Tagraxofusp"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB14731"
       }
@@ -9343,7 +9689,7 @@
         "source": "Wikipedia",
         "key": "Talazoparib"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB11760"
       }
@@ -9364,7 +9710,7 @@
         "source": "Wikipedia",
         "key": "Talimogene_laherparepvec"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB13896"
       }
@@ -9384,7 +9730,7 @@
         "source": "Wikipedia",
         "key": "Talquetamab"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB16678"
       }
@@ -9409,7 +9755,7 @@
         "source": "Wikipedia",
         "key": "Tapentadol"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB06204"
       }
@@ -9429,7 +9775,7 @@
         "source": "Wikipedia",
         "key": "Tapinarof"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB06083"
       }
@@ -9448,6 +9794,10 @@
       "Wikipedia": {
         "source": "Wikipedia",
         "key": "Tasimelteon"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB09071"
       }
     }
   },
@@ -9465,7 +9815,7 @@
         "source": "Wikipedia",
         "key": "Tavaborole"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB09041"
       }
@@ -9485,7 +9835,7 @@
         "source": "Wikipedia",
         "key": "Tazarotene"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00799"
       }
@@ -9505,7 +9855,7 @@
         "source": "Wikipedia",
         "key": "Tazemetostat"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB12887"
       }
@@ -9525,7 +9875,7 @@
         "source": "Wikipedia",
         "key": "Tebentafusp"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB15283"
       }
@@ -9545,7 +9895,7 @@
         "source": "Wikipedia",
         "key": "Teclistamab"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB16655"
       }
@@ -9565,7 +9915,7 @@
         "source": "Wikipedia",
         "key": "Tedizolid"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB09042"
       }
@@ -9584,6 +9934,10 @@
       "Wikipedia": {
         "source": "Wikipedia",
         "key": "Telavancin"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB06402"
       }
     }
   },
@@ -9592,13 +9946,20 @@
     "alt-names": [
       "Telotristat Ethyl"
     ],
-    "description": "Telotristat is a tryptophan hydroxylase inhibitor used to treat carcinoid syndrome-related diarrhea. [gpt-4o-mini]",
+    "description": "Telotristat ethyl, marketed as Xermelo, is a tryptophan hydroxylase inhibitor used to treat diarrhea associated with carcinoid syndrome in adults inadequately controlled by somatostatin analog therapy. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Telotristat"
+        "key": "Telotristat_ethyl"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB12095"
       }
-    }
+    },
+    "brand-names": [
+      "Xermelo"
+    ]
   },
   "Tenapanor": {
     "name": "Tenapanor",
@@ -9615,7 +9976,7 @@
         "source": "Wikipedia",
         "key": "Tenapanor"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB11761"
       }
@@ -9626,26 +9987,40 @@
     "alt-names": [
       "Tenofovir Alafenamide Fumarate"
     ],
-    "description": "Tenofovir is a nucleotide reverse transcriptase inhibitor (NRTI) used to treat HIV and chronic hepatitis B infection. [gpt-4o-mini]",
+    "description": "Tenofovir disoproxil, marketed as Viread, is a nucleotide reverse transcriptase inhibitor used to treat HIV and chronic hepatitis B infections. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Tenofovir"
+        "key": "Tenofovir_disoproxil"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB14126"
       }
-    }
+    },
+    "brand-names": [
+      "Viread"
+    ]
   },
   "Tetrofosmin": {
     "name": "Tetrofosmin",
     "alt-names": [
       "Tetrofosmin"
     ],
-    "description": "Tetrofosmin is a radiopharmaceutical used as a myocardial perfusion agent in single-photon emission computed tomography (SPECT) imaging to evaluate heart conditions. [gpt-4o-mini]",
+    "description": "Technetium (<sup>99m</sup>Tc) tetrofosmin is a radiopharmaceutical used in nuclear medicine for myocardial perfusion imaging to assess cardiac ischemia and infarction. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Tetrofosmin"
+        "key": "Technetium_(99mTc)_tetrofosmin"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB09160"
       }
-    }
+    },
+    "brand-names": [
+      ""
+    ]
   },
   "Tezepelumab": {
     "name": "Tezepelumab",
@@ -9661,7 +10036,7 @@
         "source": "Wikipedia",
         "key": "Tezepelumab"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB15090"
       }
@@ -9670,15 +10045,23 @@
   "Thiothixene": {
     "name": "Thiothixene",
     "alt-names": [
-      "Thiothixene"
+      "Thiothixene",
+      "Tiotixene"
     ],
-    "description": "Thiothixene is an atypical antipsychotic primarily used to treat schizophrenia. [gpt-4o-mini]",
+    "description": "Thiothixene, a typical antipsychotic medication marketed as Navane, is primarily used to treat acute and chronic schizophrenia. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Thiothixene"
+        "key": "Tiotixene"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB01623"
       }
-    }
+    },
+    "brand-names": [
+      "Navane"
+    ]
   },
   "Tiopronin": {
     "name": "Tiopronin",
@@ -9694,7 +10077,7 @@
         "source": "Wikipedia",
         "key": "Tiopronin"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB06823"
       }
@@ -9727,7 +10110,7 @@
         "source": "Wikipedia",
         "key": "Tipranavir"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00932"
       }
@@ -9748,7 +10131,7 @@
         "source": "Wikipedia",
         "key": "Tirbanibulin"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB06137"
       }
@@ -9768,7 +10151,7 @@
         "source": "Wikipedia",
         "key": "Tirofiban"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00775"
       }
@@ -9789,7 +10172,7 @@
         "source": "Wikipedia",
         "key": "Tirzepatide"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB15171"
       }
@@ -9805,7 +10188,7 @@
         "source": "Wikipedia",
         "key": "Tisotumab_vedotin"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB16732"
       }
@@ -9845,7 +10228,7 @@
         "source": "Wikipedia",
         "key": "Tofersen"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB14782"
       }
@@ -9866,7 +10249,7 @@
         "source": "Wikipedia",
         "key": "Tolterodine"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB01036"
       }
@@ -9886,7 +10269,7 @@
         "source": "Wikipedia",
         "key": "Topotecan"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB01030"
       }
@@ -9906,7 +10289,7 @@
         "source": "Wikipedia",
         "key": "Trabectedin"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB05109"
       }
@@ -9927,7 +10310,7 @@
         "source": "Wikipedia",
         "key": "Tralokinumab"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB12169"
       }
@@ -9948,7 +10331,7 @@
         "source": "Wikipedia",
         "key": "Trametinib"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB08911"
       }
@@ -9968,7 +10351,7 @@
         "source": "Wikipedia",
         "key": "Trandolapril"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00519"
       }
@@ -10004,7 +10387,7 @@
         "source": "Wikipedia",
         "key": "Trastuzumab"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00072"
       }
@@ -10024,7 +10407,7 @@
         "source": "Wikipedia",
         "key": "Tremelimumab"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB11771"
       }
@@ -10046,7 +10429,7 @@
         "source": "Wikipedia",
         "key": "Treprostinil"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00374"
       }
@@ -10066,7 +10449,7 @@
         "source": "Wikipedia",
         "key": "Triamterene"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00384"
       }
@@ -10103,7 +10486,7 @@
         "source": "Wikipedia",
         "key": "Trifarotene"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB12808"
       }
@@ -10123,7 +10506,7 @@
         "source": "Wikipedia",
         "key": "Triheptanoin"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB11677"
       }
@@ -10146,7 +10529,7 @@
         "source": "Wikipedia",
         "key": "Trihexyphenidyl"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00376"
       }
@@ -10166,7 +10549,7 @@
         "source": "Wikipedia",
         "key": "Trofinetide"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB06045"
       }
@@ -10177,13 +10560,22 @@
     "alt-names": [
       "Ulipristal Acetate"
     ],
-    "description": "Ulipristal acetate is a selective progesterone receptor modulator (SPRM) used primarily for the treatment of uterine fibroids and as an emergency contraceptive. [gpt-4o-mini]",
+    "description": "Ulipristal acetate, sold under the brand name Ella, is a selective progesterone receptor modulator used primarily for emergency contraception and managing symptoms of uterine fibroids. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Ulipristal"
+        "key": "Ulipristal_acetate"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB08867"
       }
-    }
+    },
+    "brand-names": [
+      "Ella",
+      "EllaOne",
+      "Esmya"
+    ]
   },
   "Uridine Triacetate": {
     "name": "Uridine Triacetate",
@@ -10200,7 +10592,7 @@
         "source": "Wikipedia",
         "key": "Uridine_triacetate"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB09144"
       }
@@ -10209,15 +10601,25 @@
   "Ursodiol": {
     "name": "Ursodiol",
     "alt-names": [
-      "Ursodiol"
+      "Ursodiol",
+      "ursodeoxycholic acid",
+      "UDCA"
     ],
-    "description": "Ursodiol, also known as Ursodeoxycholic acid, is a bile acid used to treat primary biliary cholangitis and to dissolve gallstones. [gpt-4o-mini]",
+    "description": "Ursodiol, also known as ursodeoxycholic acid (UDCA), is a bile acid used primarily to treat gallstone disease and primary biliary cholangitis. [gpt-4o-mini]",
     "links": {
       "Wikipedia": {
         "source": "Wikipedia",
-        "key": "Ursodiol"
+        "key": "Ursodeoxycholic_acid"
+      },
+      "DrugBank": {
+        "source": "DrugBank",
+        "key": "DB01586"
       }
-    }
+    },
+    "brand-names": [
+      "Actigall",
+      "Urso"
+    ]
   },
   "Vadadustat": {
     "name": "Vadadustat",
@@ -10233,7 +10635,7 @@
         "source": "Wikipedia",
         "key": "Vadadustat"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB12255"
       }
@@ -10253,7 +10655,7 @@
         "source": "Wikipedia",
         "key": "Valbenazine"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB11915"
       }
@@ -10273,7 +10675,7 @@
         "source": "Wikipedia",
         "key": "Valoctocogene_roxaparvovec"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB15561"
       }
@@ -10293,7 +10695,7 @@
         "source": "Wikipedia",
         "key": "Vandetanib"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB08764"
       }
@@ -10315,7 +10717,7 @@
         "source": "Wikipedia",
         "key": "Vardenafil"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00862"
       }
@@ -10335,7 +10737,7 @@
         "source": "Wikipedia",
         "key": "Vericiguat"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB15456"
       }
@@ -10355,7 +10757,7 @@
         "source": "Wikipedia",
         "key": "Verteporfin"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00460"
       }
@@ -10391,7 +10793,7 @@
         "source": "Wikipedia",
         "key": "Viloxazine"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB09185"
       }
@@ -10411,7 +10813,7 @@
         "source": "Wikipedia",
         "key": "Viltolarsen"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB15005"
       }
@@ -10431,7 +10833,7 @@
         "source": "Wikipedia",
         "key": "Vismodegib"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB08828"
       }
@@ -10451,7 +10853,7 @@
         "source": "Wikipedia",
         "key": "Vonoprazan"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB11739"
       }
@@ -10471,7 +10873,7 @@
         "source": "Wikipedia",
         "key": "Vorasidenib"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB17097"
       }
@@ -10491,7 +10893,7 @@
         "source": "Wikipedia",
         "key": "Voxelotor"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB14975"
       }
@@ -10511,7 +10913,7 @@
         "source": "Wikipedia",
         "key": "Vutrisiran"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB16699"
       }
@@ -10531,7 +10933,7 @@
         "source": "Wikipedia",
         "key": "Zafirlukast"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00549"
       }
@@ -10551,7 +10953,7 @@
         "source": "Wikipedia",
         "key": "Zaleplon"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00962"
       }
@@ -10587,7 +10989,7 @@
         "source": "Wikipedia",
         "key": "Zileuton"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00744"
       }
@@ -10607,7 +11009,7 @@
         "source": "Wikipedia",
         "key": "Zilucoplan"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB15636"
       }
@@ -10627,7 +11029,7 @@
         "source": "Wikipedia",
         "key": "Zolmitriptan"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00315"
       }
@@ -10648,7 +11050,7 @@
         "source": "Wikipedia",
         "key": "Zonisamide"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB00909"
       }
@@ -10668,7 +11070,7 @@
         "source": "Wikipedia",
         "key": "Zuranolone"
       },
-      "drugbank": {
+      "DrugBank": {
         "source": "DrugBank",
         "key": "DB15490"
       }
