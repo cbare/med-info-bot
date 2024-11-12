@@ -6185,7 +6185,16 @@
   },
   "Clindamycin": {
     "name": "Clindamycin",
-    "clincalc": {
+    "alt-names": [
+      "Clindamycin Palmitate Hydrochloride"
+    ],
+    "description": "Clindamycin is a lincosamide antibiotic commonly used to treat various bacterial infections, including skin and soft tissue infections, respiratory tract infections, and acne. [gpt-4o-mini]",
+    "brand-names": [
+      "Cleocin",
+      "Clinacin",
+      "Dalacin"
+    ],
+      "clincalc": {
       "name": "Clindamycin",
       "rank": 147,
       "prescriptions_2022": 3855100,
@@ -7598,6 +7607,15 @@
   },
   "Dabigatran": {
     "name": "Dabigatran",
+    "alt-names": [
+      "Dabigatran Etexilate Mesylate"
+    ],
+    "description": "Dabigatran, marketed under the brand name Pradaxa, is a direct thrombin inhibitor anticoagulant commonly used to prevent strokes in patients with atrial fibrillation and to treat and prevent blood clots. [gpt-4o-mini]",
+    "brand-names": [
+      "Pradaxa",
+      "Pradax",
+      "Prazaxa"
+    ],
     "links": [
       {
         "source": "Wikipedia",
@@ -7812,6 +7830,14 @@
   },
   "Dapagliflozin": {
     "name": "Dapagliflozin",
+    "alt-names": [
+      "Dapagliflozin Propanediol"
+    ],
+    "description": "Dapagliflozin, marketed as Farxiga and Forxiga, is an SGLT2 inhibitor primarily used to manage type 2 diabetes, and it is also indicated for heart failure and chronic kidney disease. [gpt-4o-mini]",
+    "brand-names": [
+      "Forxiga",
+      "Farxiga"
+    ],
     "clincalc": {
       "name": "Dapagliflozin",
       "rank": 115,
@@ -7912,6 +7938,13 @@
   },
   "Darunavir": {
     "name": "Darunavir",
+    "alt-names": [
+      "Darunavir Propylene Glycolate"
+    ],
+    "description": "Darunavir, marketed as Prezista, is an HIV protease inhibitor used to treat HIV infection in adults and children, often co-administered with ritonavir or cobicistat to enhance its effectiveness. [gpt-4o-mini]",
+    "brand-names": [
+      "Prezista"
+    ],
     "links": [
       {
         "source": "Wikipedia",
@@ -12299,6 +12332,10 @@
   },
   "Estradiol": {
     "name": "Estradiol",
+    "alt-names": [
+      "Estradiol Valerate"
+    ],
+    "description": "Estradiol (E2) is a steroid hormone and the primary estrogen used for hormone replacement therapy in menopausal women and feminizing hormone therapy for transgender individuals. [gpt-4o-mini]",
     "clincalc": {
       "name": "Estradiol",
       "rank": 50,
@@ -14601,7 +14638,14 @@
   "Fosfomycin": {
     "name": "Fosfomycin",
     "alt-names": [
-      "Fosfomycin"
+      "Fosfomycin",
+      "Fosfomycin Tromethamine"
+    ],
+    "description": "Fosfomycin, sold under the brand name Monurol, is an antibiotic used primarily to treat lower urinary tract infections. [gpt-4o-mini]",
+    "brand-names": [
+      "Monuril",
+      "Monurol",
+      "Ivozfo"
     ],
     "links": [
       {
@@ -14803,6 +14847,13 @@
   },
   "Gabapentin": {
     "name": "Gabapentin",
+    "alt-names": [
+      "Gabapentin Enacarbil"
+    ],
+    "description": "Gabapentin, sold as Neurontin, is an anticonvulsant medication primarily used to treat partial seizures and neuropathic pain. [gpt-4o-mini]",
+    "brand-names": [
+      "Neurontin"
+    ],
     "clincalc": {
       "name": "Gabapentin",
       "rank": 10,
@@ -15488,8 +15539,10 @@
   "Glibenclamide": {
     "name": "Glibenclamide",
     "alt-names": [
-      "Glyburide"
+      "Glyburide",
+      "Glibenclamide"
     ],
+    "description": "Glyburide, also known as glibenclamide, is a sulfonylurea antidiabetic medication used to improve glycemic control in adults with type 2 diabetes. [gpt-4o-mini]",
     "links": [
       {
         "source": "Wikipedia",
@@ -18594,7 +18647,12 @@
   "Lapatinib": {
     "name": "Lapatinib",
     "alt-names": [
-      "Lapatinib"
+      "Lapatinib",
+      "Lapatinib Ditosylate"
+    ],
+    "description": "Lapatinib, a dual tyrosine kinase inhibitor, is used to treat advanced or metastatic HER2-positive breast cancer, often in combination with other therapies. [gpt-4o-mini]",
+    "brand-names": [
+      "Tyverb"
     ],
     "links": [
       {
@@ -19800,8 +19858,9 @@
   "Lodoxamide": {
     "name": "Lodoxamide",
     "alt-names": [
-      "Lodoxamide"
+      "Lodoxamide Tromethamine"
     ],
+    "description": "Lodoxamide is an antiallergic mast cell stabilizer used to treat allergic conjunctivitis. [gpt-4o-mini]",
     "links": [
       {
         "source": "Wikipedia",
@@ -23741,6 +23800,13 @@
   },
   "Mupirocin": {
     "name": "Mupirocin",
+    "alt-names": [
+      "Mupirocin Calcium"
+    ],
+    "description": "Mupirocin, marketed as Bactroban, is a topical antibiotic primarily used to treat superficial skin infections such as impetigo and folliculitis. [gpt-4o-mini]",
+    "brand-names": [
+      "Bactroban"
+    ],
     "clincalc": {
       "name": "Mupirocin",
       "rank": 162,
@@ -24376,7 +24442,11 @@
   "Nevirapine": {
     "name": "Nevirapine",
     "alt-names": [
-      "Nevirapine"
+      "Nevirapine Hemihydrate"
+    ],
+    "description": "Nevirapine, sold under the brand name Viramune, is a non-nucleoside reverse transcriptase inhibitor (NNRTI) primarily used in the treatment of HIV-1 infection, often as part of combination antiretroviral therapy. [gpt-4o-mini]",
+    "brand-names": [
+      "Viramune"
     ],
     "links": [
       {
@@ -24703,12 +24773,20 @@
   "Niraparib": {
     "name": "Niraparib",
     "alt-names": [
-      "Niraparib"
+      "Niraparib Tosylate Monohydrate"
+    ],
+    "description": "Niraparib, marketed as Zejula, is a PARP inhibitor used primarily for the maintenance treatment of adults with recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer. [gpt-4o-mini]",
+    "brand-names": [
+      "Zejula"
     ],
     "links": [
       {
         "source": "Wikipedia",
         "key": "Niraparib"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB11793"
       }
     ],
     "source": "NZHM",
@@ -27575,7 +27653,14 @@
     "name": "Pemetrexed",
     "alt-names": [
       "Pemetrexed",
-      "Pemetrexed disodium"
+      "Pemetrexed disodium",
+      "Pemetrexed Tromethamine Anhydrous"
+    ],
+    "description": "Pemetrexed, marketed as Alimta, is a chemotherapy drug classified as a folate antimetabolite, primarily used to treat malignant pleural mesothelioma and non-small cell lung cancer (NSCLC). [gpt-4o-mini]",
+    "brand-names": [
+      "Alimta",
+      "Pemfexy",
+      "Ciambra"
     ],
     "links": [
       {
@@ -27665,12 +27750,18 @@
   "Penicillin G": {
     "name": "Penicillin G",
     "alt-names": [
-      "Benzylpenicillin sodium [Penicillin G]"
+      "Benzylpenicillin sodium [Penicillin G]",
+      "Penicillin G Benzathine; Penicillin G Procaine"
     ],
+    "description": "Penicillin G, also known as Benzylpenicillin, is a beta-lactam antibiotic primarily used to treat bacterial infections, particularly those caused by susceptible organisms. [gpt-4o-mini]",
     "links": [
       {
         "source": "Wikipedia",
-        "key": "Penicillin G"
+        "key": "Penicillin_g"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB01053"
       }
     ],
     "source": "NZHM",
@@ -31750,6 +31841,15 @@
   },
   "Risedronate": {
     "name": "Risedronate",
+    "alt-names": [
+      "Risedronate Sodium Hemi-Pentahydrate; Risedronate Sodium Monohydrate"
+    ],
+    "brand-names": [
+      "Actonel",
+      "Atelvia",
+      "Benet"
+    ],
+    "description": "Risedronate, also known as risedronate sodium, is a bisphosphonate used primarily to treat and prevent osteoporosis and to manage Paget's disease of bone. [gpt-4o-mini]",
     "links": [
       {
         "source": "Wikipedia",
@@ -33554,6 +33654,9 @@
   },
   "Sorafenib": {
     "name": "Sorafenib",
+    "alt-names": [
+      "Sorafenib Tosylate"
+    ],
     "brand-names": [
       "Nexavar"
     ],
@@ -34661,17 +34764,22 @@
   "Tenofovir": {
     "name": "Tenofovir",
     "alt-names": [
-      "Tenofovir disoproxil"
+      "Tenofovir disoproxil",
+      "Tenofovir Alafenamide Fumarate"
     ],
+    "description": "Tenofovir disoproxil, marketed as Viread, is a nucleotide reverse transcriptase inhibitor used to treat HIV and chronic hepatitis B infections. [gpt-4o-mini]",
     "links": [
       {
         "source": "Wikipedia",
-        "key": "Tenofovir disoproxil"
+        "key": "Tenofovir_disoproxil"
       },
       {
         "source": "DrugBank",
         "key": "DB14126"
       }
+    ],
+    "brand-names": [
+      "Viread"
     ],
     "source": "NZHM",
     "nzhm": [
@@ -36565,11 +36673,14 @@
   },
   "Trastuzumab": {
     "name": "Trastuzumab",
+    "alt-names": [
+      "Trastuzumab Deruxtecan"
+    ],
+    "description": "Trastuzumab, sold under the brand name Herceptin, is a monoclonal antibody that targets the HER2 receptor and is primarily used to treat HER2-positive breast and stomach cancers. [gpt-4o-mini]",
     "brand-names": [
       "Herceptin",
       "Herzuma"
     ],
-    "description": "Used to treat HER2-positive breast cancer and gastric cancer by targeting the HER2 receptor.",
     "links": [
       {
         "source": "Wikipedia",
@@ -37556,9 +37667,13 @@
   },
   "Vardenafil": {
     "name": "Vardenafil",
+    "alt-names": [
+      "Vardenafil Hydrochloride Trihydrate"
+    ],
     "brand-names": [
       "Levitra",
-      "Staxyn"
+      "Staxyn",
+      "Vivanza"
     ],
     "description": "Vardenafil is a selective phosphodiesterase 5 inhibitor used to treat erectile dysfunction.",
     "links": [

@@ -353,3 +353,47 @@ for name, med in unmatched_meds.items():
                 if cont == 'n' : continue
                 if cont == 'q' : break
                 os.remove(f"data/wikipedia/{filename}.txt")
+
+
+
+with open('data/meds.json', 'rt') as f:
+    meds = json.load(f)
+med_idx = {a:med for name, med in meds.items() for a in [name] + med.get('alt-names', [])}
+
+with open('data/unmatched_meds.json', 'rt') as f:
+    unmatched_meds = json.load(f)
+
+i = 0
+for name, med in unmatched_meds.items():
+    if name in med_idx:
+        print(f"{name[0:48]:-<50} {count_parts(med)}")
+        i += 1
+        print(json.dumps(med, indent=2))
+        print('- '*30)
+        print(json.dumps(med_idx[name], indent=2))
+        if input("Continue? ").lower() == 'n':
+            break
+print(f"found {i} matches")
+
+
+def count_parts(med):
+    parts = 0
+    if 'alt-names' in med:
+        parts += 1
+    if 'brand-names' in med:
+        parts += 1
+    if 'description' in med:
+        parts += 1
+    if 'clincalc' in med:
+        parts += 1
+    if 'nzhm' in med:
+        parts += 1
+    for link in med.get('links', []):
+        if link['source'] == 'Wikipedia':
+            parts += 1
+        if link['source'] == 'DrugBank':
+            parts += 1
+    for category in med.get('categories', []):
+        parts += 1
+    return parts
+
