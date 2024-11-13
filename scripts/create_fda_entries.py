@@ -65,8 +65,8 @@ def get_wikipedia_entry_(slug, use_cached=True):
         redirect_slug = detect_redirect(content)
 
         if redirect_slug and not redirect_slug == slug:
-            return get_wikipedia_entry(redirect_slug)
-        else:
+            return get_wikipedia_entry_(redirect_slug, use_cached)
+        elif content:
             return slug, content
 
     url = f"http://en.wikipedia.org/w/api.php?action=query&format=json&prop=revisions&titles={slug}&formatversion=2&rvprop=content&rvslots=*"
@@ -424,15 +424,20 @@ def has_wikipedia(med):
 
 
 i=0
+sim = 0
 db = 0
 descr = 0
 cats = 0
+wp = 0
 for name, med in meds.items():
     print(f"{name[0:48]:-<50} {'▓'*count_parts(meds[name])}")
     i += 1
+    sim += 0 if ';' in name else 1
     db += 1 if has_drugbank(med) else 0
     descr += 1 if med.get('description') else 0
     cats += 1 if med.get('categories') else 0
+    slug, content = get_wikipedia_entry_cached(get_link_key(med, 'Wikipedia'))
+    wp += 1 if content else 0
 
 
 i=0
@@ -463,18 +468,59 @@ for name, med in meds.items():
             slug, content = get_wikipedia_entry(slug, use_cached=False)
             if content:
                 accession = extract_drugbank_accession(content)
-                # if accession:
-                #     med['links'].append({
-                #         "source": "DrugBank",
-                #         "key": accession
-                #     })
+                if accession:
+                    med['links'].append({
+                        "source": "DrugBank",
+                        "key": accession
+                    })
                 brand_names = extract_brand_names(content)
-                # if brand_names:
-                #     med['brand-names'] = sorted(set(brand_names) | set(med.get('brand-names', [])))
+                if brand_names:
+                    med['brand-names'] = sorted(set(brand_names) | set(med.get('brand-names', [])))
                 descr = med.get('description')
-                # if not descr or descr.endswith(f" [{MODEL_NAME}]"):
-                #     descr = write_description(name, content) + f" [{MODEL_NAME}]"
-                    # med['description'] = descr
+                if not descr or descr.endswith(f" [{MODEL_NAME}]"):
+                    descr = write_description(name, content) + f" [{MODEL_NAME}]"
+                    med['description'] = descr
                 print(f"✅ {accession} {brand_names} {descr}")
             else:
                 print("❌")
+
+
+i = 0
+for name, med in meds.items():
+    if has_wikipedia(med) and not (med.get('description') and med.get('brand-names')):
+        slug = get_link_key(med, 'Wikipedia')
+        print(f"{name[0:48]:-<50} {count_parts(med)} {slug or '-'}")
+        i += 1
+        if slug:
+            slug, content = get_wikipedia_entry(slug, use_cached=False)
+            if content:
+                brand_names = extract_brand_names(content)
+                if brand_names:
+                    med['brand-names'] = sorted(set(brand_names) | set(med.get('brand-names', [])))
+                descr = med.get('description')
+                if not descr or descr.endswith(f" [{MODEL_NAME}]"):
+                    descr = write_description(name, content) + f" [{MODEL_NAME}]"
+                    med['description'] = descr
+                print(f"✅ {brand_names} {descr}")
+            else:
+                print("❌")
+print(i)
+
+
+i=0
+comb = 0
+db = 0
+descr = 0
+cats = 0
+wp = 0
+brands = 0
+for name, med in meds.items():
+    print(f"{name[0:48]:-<50} {'▓'*count_parts(meds[name])}")
+    i += 1
+    comb += 1 if ';' in name else 0
+    db += 1 if has_drugbank(med) else 0
+    brands += 1 if med.get('brand-names') else 0
+    descr += 1 if med.get('description') else 0
+    cats += 1 if med.get('categories') else 0
+    wp += 1 if has_wikipedia(med) else 0
+print(f"{i=}, {comb=}, {db=}, {brands=}, {wp=}, {cats=}, {descr=}")
