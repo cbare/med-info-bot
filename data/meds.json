@@ -978,119 +978,6 @@
       "Kadcyla"
     ]
   },
-  "Adrenaline": {
-    "name": "Adrenaline",
-    "alt-names": [
-      "Adrenaline"
-    ],
-    "links": [
-      {
-        "source": "Wikipedia",
-        "key": "Adrenaline"
-      }
-    ],
-    "source": "NZHM",
-    "nzhm": [
-      {
-        "name": "Adrenaline",
-        "presentation": "Inj 0.15 mg per 0.3 ml auto-injector",
-        "brand": "Epipen Jr",
-        "pharmacode": "208191",
-        "nzmt-ctpp-id": "50013511000117109",
-        "price": 90.0,
-        "per": "1 inj"
-      },
-      {
-        "name": "Adrenaline",
-        "presentation": "Inj 0.3 mg per 0.3 ml auto-injector",
-        "brand": "Epipen",
-        "pharmacode": "223972",
-        "nzmt-ctpp-id": "50038111000117102",
-        "price": 90.0,
-        "per": "1 inj"
-      },
-      {
-        "name": "Adrenaline",
-        "presentation": "Inj 1 in 1,000, 30 ml vial",
-        "brand": "Any brand",
-        "pharmacode": "92640100"
-      },
-      {
-        "name": "Adrenaline",
-        "presentation": "Inj 1 in 10,000, 10 ml syringe",
-        "brand": "Any brand",
-        "pharmacode": "92640200"
-      },
-      {
-        "name": "Adrenaline",
-        "presentation": "Inj 1 in 1,000, 1 ml ampoule",
-        "brand": "DBL Adrenaline",
-        "pharmacode": "346659",
-        "nzmt-ctpp-id": "50076061000117102",
-        "price": 100.0,
-        "per": "50 inj"
-      },
-      {
-        "name": "Adrenaline",
-        "presentation": "Inj 1 in 1,000, 1 ml ampoule",
-        "brand": "DBL Adrenaline",
-        "pharmacode": "603341",
-        "nzmt-ctpp-id": "50098491000117108",
-        "price": 13.27,
-        "per": "5 inj"
-      },
-      {
-        "name": "Adrenaline",
-        "presentation": "Inj 1 in 1,000, 1 ml ampoule",
-        "brand": "Aspen Adrenaline",
-        "pharmacode": "2309823",
-        "nzmt-ctpp-id": "50046931000117109",
-        "price": 4.98,
-        "per": "5 inj"
-      },
-      {
-        "name": "Adrenaline",
-        "presentation": "Inj 1 in 1,000, 1 ml ampoule",
-        "brand": "Hameln",
-        "pharmacode": "2685043",
-        "nzmt-ctpp-id": "50337331000117106",
-        "price": 25.3,
-        "per": "10 inj"
-      },
-      {
-        "name": "Adrenaline",
-        "presentation": "Inj 1 in 10,000, 10 ml ampoule",
-        "brand": "Hospira",
-        "pharmacode": "534196",
-        "nzmt-ctpp-id": "50094741000117103",
-        "price": 27.0,
-        "per": "5 inj"
-      },
-      {
-        "name": "Adrenaline",
-        "presentation": "Inj 1 in 10,000, 10 ml ampoule",
-        "brand": "Aspen Adrenaline",
-        "pharmacode": "2390949",
-        "nzmt-ctpp-id": "50125901000117103",
-        "price": 49.0,
-        "per": "10 inj"
-      }
-    ],
-    "categories": [
-      {
-        "source": "nzhm",
-        "tg1": "Respiratory System and Allergies",
-        "tg2": "Antiallergy Preparations",
-        "tg3": "Allergic Emergencies"
-      },
-      {
-        "source": "nzhm",
-        "tg1": "Cardiovascular System",
-        "tg2": "Sympathomimetics",
-        "tg3": "Sympathomimetics"
-      }
-    ]
-  },
   "Afamelanotide": {
     "name": "Afamelanotide",
     "alt-names": [
@@ -3395,12 +3282,18 @@
     "alt-names": [
       "anti-thymocyte immunoglobulin",
       "Atgam (antithymocyte immunoglobulin - equine)",
-      "Antithymocyte globulin (equine)"
+      "Antithymocyte globulin (equine)",
+      "Antithymocyte globulin"
     ],
+    "description": "Anti-thymocyte globulin (ATGAM) is an infusion of antibodies against human T cells and their precursors, thymocytes, used to prevent rejection of transplanted organs.",
     "links": [
       {
         "source": "Wikipedia",
         "key": "Anti-thymocyte_globulin"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB09312"
       }
     ],
     "nzhm": [
@@ -4169,6 +4062,10 @@
       {
         "source": "Wikipedia",
         "key": "Baricitinib"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB11817"
       }
     ],
     "source": "NZHM",
@@ -4197,7 +4094,8 @@
         "tg2": "Immunosuppressants",
         "tg3": "JAK inhibitors"
       }
-    ]
+    ],
+    "description": "Baricitinib, marketed as Olumiant, is an immunomodulatory Janus kinase inhibitor primarily used for the treatment of moderate to severe rheumatoid arthritis, alopecia areata, and COVID-19 in hospitalized patients. [gpt-4o-mini]"
   },
   "Basiliximab": {
     "name": "Basiliximab",
@@ -4578,6 +4476,10 @@
       {
         "source": "Wikipedia",
         "key": "Benzbromarone"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB12319"
       }
     ],
     "nzhm": [
@@ -4604,7 +4506,11 @@
         "tg2": "Hyperuricaemia and Antigout",
         "tg3": "Hyperuricaemia and Antigout"
       }
-    ]
+    ],
+    "brand-names": [
+      ""
+    ],
+    "description": "Benzbromarone is a uricosuric agent used primarily for the treatment of gout, particularly in patients who do not tolerate or respond adequately to allopurinol. [gpt-4o-mini]"
   },
   "Benzonatate": {
     "name": "Benzonatate",
@@ -4664,19 +4570,6 @@
       {
         "source": "Wikipedia",
         "key": "Tretinoin/benzoyl_peroxide"
-      }
-    ]
-  },
-  "Benzylpenicillin": {
-    "name": "Benzylpenicillin",
-    "links": [
-      {
-        "source": "Wikipedia",
-        "key": "Benzylpenicillin"
-      },
-      {
-        "source": "DrugBank",
-        "key": "DB01053"
       }
     ]
   },
@@ -6276,7 +6169,8 @@
         "tg2": "Other Skin Preparations",
         "tg3": "Wound Management Products"
       }
-    ]
+    ],
+    "description": "Calcium is an essential mineral used as a supplement to treat and prevent osteoporosis and to support bone health. [gpt-4o-mini]"
   },
   "Calcium Carbonate; Famotidine; Magnesium Hydroxide": {
     "name": "Calcium Carbonate; Famotidine; Magnesium Hydroxide",
@@ -6428,7 +6322,7 @@
     "alt-names": [
       "Cantharidin"
     ],
-    "description": "Cantharidin is a potent vesicant derived from blister beetles, primarily used topically to treat molluscum contagiosum and warts. [gpt-4o-mini]",
+    "description": "Cantharidin is a blistering agent derived from certain blister beetles, primarily used topically to treat molluscum contagiosum and warts. [gpt-4o-mini]",
     "brand-names": [
       "Ycanth"
     ],
@@ -6436,6 +6330,10 @@
       {
         "source": "Wikipedia",
         "key": "Cantharidin"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB12328"
       }
     ]
   },
@@ -8073,7 +7971,8 @@
       "Chlorpheniramine maleate"
     ],
     "brand-names": [
-      "Chlor-Trimeton"
+      "Chlor-Trimeton",
+      "Chlor-Trimeton; Piriton; Chlor-Tripolon"
     ],
     "clincalc": {
       "name": "Chlorpheniramine",
@@ -8085,6 +7984,10 @@
       {
         "source": "Wikipedia",
         "key": "Chlorpheniramine"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB01114"
       }
     ],
     "nzhm": [
@@ -8108,7 +8011,8 @@
         "tg2": "Antiallergy Preparations",
         "tg3": "Antihistamines"
       }
-    ]
+    ],
+    "description": "Chlorpheniramine is a first-generation antihistamine commonly used to treat allergic conditions such as allergic rhinitis (hay fever). [gpt-4o-mini]"
   },
   "Chlorpheniramine; Ibuprofen; Phenylephrine": {
     "name": "Chlorpheniramine; Ibuprofen; Phenylephrine",
@@ -8773,6 +8677,10 @@
       {
         "source": "Wikipedia",
         "key": "Citrulline"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB00155"
       }
     ],
     "source": "NZHM",
@@ -8794,7 +8702,8 @@
         "tg2": "Metabolic Products",
         "tg3": "Single Dose Amino Acids"
       }
-    ]
+    ],
+    "description": "Citrulline is an \u03b1-amino acid used primarily as a dietary supplement to improve exercise performance and support cardiovascular health. [gpt-4o-mini]"
   },
   "Cladribine": {
     "name": "Cladribine",
@@ -9056,7 +8965,11 @@
     "links": [
       {
         "source": "Wikipedia",
-        "key": "Clobetasol"
+        "key": "Clobetasol_propionate"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB01013"
       }
     ],
     "alt-names": [
@@ -9104,7 +9017,13 @@
         "tg2": "Scalp Preparations",
         "tg3": "Scalp Preparations"
       }
-    ]
+    ],
+    "brand-names": [
+      "Clovate",
+      "Dermovate",
+      "Temovate"
+    ],
+    "description": "Clobetasol propionate is a super-potent topical corticosteroid used to treat various skin conditions, including psoriasis and eczema. [gpt-4o-mini]"
   },
   "Clocortolone": {
     "name": "Clocortolone",
@@ -10672,12 +10591,18 @@
       "cysteamine bitartrate"
     ],
     "brand-names": [
-      "Cystagon"
+      "Cystagon",
+      "Cystaran",
+      "Procysbi"
     ],
     "links": [
       {
         "source": "Wikipedia",
         "key": "Cysteamine"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB00847"
       }
     ],
     "source": "NZHM",
@@ -10696,7 +10621,8 @@
         "tg2": "Extemporaneously Compounded Preparations",
         "tg3": "Extemporaneously Compounded Preparations"
       }
-    ]
+    ],
+    "description": "Cysteamine is an organosulfur compound used primarily to treat cystinosis, a lysosomal storage disease characterized by cystine accumulation in cells. [gpt-4o-mini]"
   },
   "Cytarabine": {
     "name": "Cytarabine",
@@ -10866,12 +10792,17 @@
   "Dactinomycin": {
     "name": "Dactinomycin",
     "alt-names": [
-      "Dactinomycin [Actinomycin D]"
+      "Dactinomycin [Actinomycin D]",
+      "Actinomycin D"
     ],
     "links": [
       {
         "source": "Wikipedia",
         "key": "Dactinomycin"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB00970"
       }
     ],
     "source": "NZHM",
@@ -10893,7 +10824,11 @@
         "tg2": "Chemotherapeutic Agents",
         "tg3": "Anthracyclines and Other Cytotoxic Antibiotics"
       }
-    ]
+    ],
+    "brand-names": [
+      "Cosmegen"
+    ],
+    "description": "Dactinomycin, also known as actinomycin D, is a cytotoxic antibiotic used primarily in chemotherapy for various cancers, including Wilms tumor and rhabdomyosarcoma. [gpt-4o-mini]"
   },
   "Dalbavancin": {
     "name": "Dalbavancin",
@@ -10959,6 +10894,10 @@
       {
         "source": "Wikipedia",
         "key": "Danaparoid"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB06754"
       }
     ],
     "source": "NZHM",
@@ -10977,7 +10916,11 @@
         "tg2": "Antithrombotics",
         "tg3": "Anticoagulants"
       }
-    ]
+    ],
+    "brand-names": [
+      "Orgaran"
+    ],
+    "description": "Danaparoid, marketed as Orgaran, is an anticoagulant used primarily to prevent deep venous thrombosis, especially in patients at high risk following surgery, and as a heparin substitute in cases of heparin-induced thrombocytopenia. [gpt-4o-mini]"
   },
   "Danazol": {
     "name": "Danazol",
@@ -11567,6 +11510,10 @@
       {
         "source": "Wikipedia",
         "key": "Defibrotide"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB04932"
       }
     ],
     "source": "NZHM",
@@ -11714,12 +11661,18 @@
   "Desferrioxamine": {
     "name": "Desferrioxamine",
     "alt-names": [
-      "Desferrioxamine mesilate"
+      "Desferrioxamine mesilate",
+      "Deferoxamine",
+      "DFOA"
     ],
     "links": [
       {
         "source": "Wikipedia",
         "key": "Desferrioxamine"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB00746"
       }
     ],
     "source": "NZHM",
@@ -11741,7 +11694,11 @@
         "tg2": "Agents Used in the Treatment of Poisonings",
         "tg3": "Removal and Elimination"
       }
-    ]
+    ],
+    "brand-names": [
+      "Desferal"
+    ],
+    "description": "Deferoxamine, also known as Desferal, is a chelating agent primarily used to treat iron overload conditions such as hemochromatosis and acute iron poisoning. [gpt-4o-mini]"
   },
   "Desflurane": {
     "name": "Desflurane",
@@ -12815,14 +12772,18 @@
     "alt-names": [
       "Diflorasone Diacetate"
     ],
-    "description": "Diflorasone is a synthetic glucocorticoid corticosteroid, primarily investigated for its anti-inflammatory properties but has never been marketed. [gpt-4o-mini]",
+    "description": "Diflorasone diacetate is a Class I topical corticosteroid used primarily to treat psoriasis and atopic dermatitis. [gpt-4o-mini]",
     "brand-names": [
-      "| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->"
+      "Psorcon"
     ],
     "links": [
       {
         "source": "Wikipedia",
-        "key": "Diflorasone"
+        "key": "Diflorasone_diacetate"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB00223"
       }
     ]
   },
@@ -12832,6 +12793,10 @@
       {
         "source": "Wikipedia",
         "key": "Diflucortolone_valerate"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB09095"
       }
     ],
     "nzhm": [
@@ -12855,7 +12820,8 @@
         "tg2": "Corticosteroids",
         "tg3": "Corticosteroids"
       }
-    ]
+    ],
+    "description": "Diflucortolone valerate is a potent topical corticosteroid used to treat various inflammatory and pruritic skin conditions. [gpt-4o-mini]"
   },
   "Diflunisal": {
     "name": "Diflunisal",
@@ -13098,6 +13064,10 @@
       {
         "source": "Wikipedia",
         "key": "Dimercaprol"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB06782"
       }
     ],
     "source": "NZHM",
@@ -13116,17 +13086,26 @@
         "tg2": "Agents Used in the Treatment of Poisonings",
         "tg3": "Removal and Elimination"
       }
-    ]
+    ],
+    "brand-names": [
+      "BAL in Oil"
+    ],
+    "description": "Dimercaprol, also known as British anti-Lewisite (BAL), is a chelating agent used primarily to treat acute poisoning from heavy metals such as arsenic, mercury, and lead. [gpt-4o-mini]"
   },
   "Dinoprostone": {
     "name": "Dinoprostone",
     "alt-names": [
-      "Dinoprostone"
+      "Prostaglandin E2",
+      "PGE2"
     ],
     "links": [
       {
         "source": "Wikipedia",
-        "key": "Dinoprostone"
+        "key": "Prostaglandin_E2"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB00917"
       }
     ],
     "source": "NZHM",
@@ -13163,7 +13142,13 @@
         "tg2": "Obstetric Preparations",
         "tg3": "Oxytocics"
       }
-    ]
+    ],
+    "brand-names": [
+      "Cervidil",
+      "Propess",
+      "Prostin E2"
+    ],
+    "description": "Dinoprostone, also known as prostaglandin E2, is a naturally occurring prostaglandin used primarily for labor induction and cervical ripening. [gpt-4o-mini]"
   },
   "Diphemanil": {
     "name": "Diphemanil",
@@ -13173,7 +13158,11 @@
     "links": [
       {
         "source": "Wikipedia",
-        "key": "Diphemanil"
+        "key": "Diphemanil_metilsulfate"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB00729"
       }
     ],
     "source": "NZHM",
@@ -13192,7 +13181,11 @@
         "tg2": "Other Skin Preparations",
         "tg3": "Other Skin Preparations"
       }
-    ]
+    ],
+    "brand-names": [
+      ""
+    ],
+    "description": "Diphemanil is an antimuscarinic agent used primarily for the treatment of gastrointestinal disorders. [gpt-4o-mini]"
   },
   "Diphenhydramine": {
     "name": "Diphenhydramine",
@@ -13315,6 +13308,10 @@
       {
         "source": "Wikipedia",
         "key": "Disodium edetate"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB14600"
       }
     ],
     "source": "NZHM",
@@ -13401,12 +13398,17 @@
   "Dithranol": {
     "name": "Dithranol",
     "alt-names": [
-      "Dithranol"
+      "Dithranol",
+      "Anthralin"
     ],
     "links": [
       {
         "source": "Wikipedia",
         "key": "Dithranol"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB11157"
       }
     ],
     "source": "NZHM",
@@ -13473,6 +13475,10 @@
       {
         "source": "Wikipedia",
         "key": "Docetaxel"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB01248"
       }
     ],
     "source": "NZHM",
@@ -13494,7 +13500,13 @@
         "tg2": "Chemotherapeutic Agents",
         "tg3": "Taxanes"
       }
-    ]
+    ],
+    "brand-names": [
+      "Docecad",
+      "Docefrez",
+      "Taxotere"
+    ],
+    "description": "Docetaxel, marketed as Taxotere, is a chemotherapy medication in the taxane class primarily used to treat various cancers, including breast, lung, prostate, and gastric cancer. [gpt-4o-mini]"
   },
   "Docosanol": {
     "name": "Docosanol",
@@ -13784,6 +13796,10 @@
       {
         "source": "Wikipedia",
         "key": "Dopamine"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB00988"
       }
     ],
     "source": "NZHM",
@@ -13814,7 +13830,8 @@
         "tg2": "Sympathomimetics",
         "tg3": "Sympathomimetics"
       }
-    ]
+    ],
+    "description": "Dopamine is a catecholamine neurotransmitter and hormone used primarily in the treatment of severe hypotension and cardiac arrest. [gpt-4o-mini]"
   },
   "Doravirine; Lamivudine; Tenofovir Disoproxil": {
     "name": "Doravirine; Lamivudine; Tenofovir Disoproxil",
@@ -13967,10 +13984,18 @@
   },
   "Dosulepin": {
     "name": "Dosulepin",
+    "alt-names": [
+      "Dothiepin",
+      "Dosulepin [Dothiepin] hydrochloride"
+    ],
     "links": [
       {
         "source": "Wikipedia",
         "key": "Dosulepin"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB09167"
       }
     ],
     "nzhm": [
@@ -14000,7 +14025,11 @@
         "tg2": "Antidepressants",
         "tg3": "Cyclic and Related Agents"
       }
-    ]
+    ],
+    "brand-names": [
+      "Prothiaden"
+    ],
+    "description": "Dosulepin, also known as dothiepin and marketed as Prothiaden, is a tricyclic antidepressant (TCA) primarily used to treat major depressive disorder. [gpt-4o-mini]"
   },
   "Doxapram": {
     "name": "Doxapram",
@@ -14323,6 +14352,10 @@
       {
         "source": "Wikipedia",
         "key": "Droperidol"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB00450"
       }
     ],
     "source": "NZHM",
@@ -14344,7 +14377,8 @@
         "tg2": "Antinausea and Vertigo Agents",
         "tg3": "Antinausea and Vertigo Agents"
       }
-    ]
+    ],
+    "description": "Droperidol is a typical antipsychotic and antidopaminergic drug primarily used to treat nausea and vomiting, as well as to manage acute agitation in emergency settings. [gpt-4o-mini]"
   },
   "Drospirenone; Ethinyl Estradiol": {
     "name": "Drospirenone; Ethinyl Estradiol",
@@ -14499,6 +14533,10 @@
       {
         "source": "Wikipedia",
         "key": "Durvalumab"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB11714"
       }
     ],
     "source": "NZHM",
@@ -14529,7 +14567,11 @@
         "tg2": "Immunosuppressants",
         "tg3": "Programmed Cell Death-1 (PD-1) Inhibitors"
       }
-    ]
+    ],
+    "brand-names": [
+      "Imfinzi"
+    ],
+    "description": "Durvalumab, marketed as Imfinzi, is a human IgG1 monoclonal antibody that acts as an immune checkpoint inhibitor used primarily to treat various forms of cancer, including non-small cell lung cancer and bladder cancer. [gpt-4o-mini]"
   },
   "Dutasteride; Tamsulosin": {
     "name": "Dutasteride; Tamsulosin",
@@ -14946,7 +14988,11 @@
         "tg2": "Antifibrinolytics, Haemostatics and Local Sclerosants",
         "tg3": "Blood Factors"
       }
-    ]
+    ],
+    "brand-names": [
+      "Benefix"
+    ],
+    "description": "Eftrenonacog alfa, also known as Alprolix, is a recombinant coagulation factor IX used to treat hemophilia B. [gpt-4o-mini]"
   },
   "Elafibranor": {
     "name": "Elafibranor",
@@ -15243,6 +15289,10 @@
       {
         "source": "Wikipedia",
         "key": "Emicizumab"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB13923"
       }
     ],
     "source": "NZHM",
@@ -15291,7 +15341,11 @@
         "tg2": "Antifibrinolytics, Haemostatics and Local Sclerosants",
         "tg3": "Antifibrinolytics, Haemostatics and Local Sclerosants"
       }
-    ]
+    ],
+    "brand-names": [
+      "Hemlibra"
+    ],
+    "description": "Emicizumab, marketed as Hemlibra, is a bispecific monoclonal antibody used to treat hemophilia A, particularly in patients who have developed resistance to standard treatments. [gpt-4o-mini]"
   },
   "Empagliflozin": {
     "name": "Empagliflozin",
@@ -15553,8 +15607,9 @@
     "alt-names": [
       "Enalaprilat Dihydrate"
     ],
-    "description": "Enalaprilat is an active metabolite of the ACE inhibitor enalapril, primarily used for the treatment of hypertension. [gpt-4o-mini]",
+    "description": "Enalaprilat is an active metabolite of the ACE inhibitor enalapril, primarily used to treat hypertension and heart failure. [gpt-4o-mini]",
     "brand-names": [
+      "",
       "| Drugs.com = {{drugs.com|monograph|enalaprilat-enalapril-maleate}}"
     ],
     "links": [
@@ -15865,6 +15920,9 @@
   },
   "Epinephrine": {
     "name": "Epinephrine",
+    "alt-names": [
+      "Adrenaline"
+    ],
     "clincalc": {
       "name": "Epinephrine",
       "rank": 240,
@@ -15874,11 +15932,112 @@
     "links": [
       {
         "source": "Wikipedia",
-        "key": "Adrenaline"
+        "key": "Epinephrine_(medication)"
       },
       {
         "source": "DrugBank",
         "key": "DB00668"
+      }
+    ],
+    "source": "NZHM",
+    "nzhm": [
+      {
+        "name": "Adrenaline",
+        "presentation": "Inj 0.15 mg per 0.3 ml auto-injector",
+        "brand": "Epipen Jr",
+        "pharmacode": "208191",
+        "nzmt-ctpp-id": "50013511000117109",
+        "price": 90.0,
+        "per": "1 inj"
+      },
+      {
+        "name": "Adrenaline",
+        "presentation": "Inj 0.3 mg per 0.3 ml auto-injector",
+        "brand": "Epipen",
+        "pharmacode": "223972",
+        "nzmt-ctpp-id": "50038111000117102",
+        "price": 90.0,
+        "per": "1 inj"
+      },
+      {
+        "name": "Adrenaline",
+        "presentation": "Inj 1 in 1,000, 30 ml vial",
+        "brand": "Any brand",
+        "pharmacode": "92640100"
+      },
+      {
+        "name": "Adrenaline",
+        "presentation": "Inj 1 in 10,000, 10 ml syringe",
+        "brand": "Any brand",
+        "pharmacode": "92640200"
+      },
+      {
+        "name": "Adrenaline",
+        "presentation": "Inj 1 in 1,000, 1 ml ampoule",
+        "brand": "DBL Adrenaline",
+        "pharmacode": "346659",
+        "nzmt-ctpp-id": "50076061000117102",
+        "price": 100.0,
+        "per": "50 inj"
+      },
+      {
+        "name": "Adrenaline",
+        "presentation": "Inj 1 in 1,000, 1 ml ampoule",
+        "brand": "DBL Adrenaline",
+        "pharmacode": "603341",
+        "nzmt-ctpp-id": "50098491000117108",
+        "price": 13.27,
+        "per": "5 inj"
+      },
+      {
+        "name": "Adrenaline",
+        "presentation": "Inj 1 in 1,000, 1 ml ampoule",
+        "brand": "Aspen Adrenaline",
+        "pharmacode": "2309823",
+        "nzmt-ctpp-id": "50046931000117109",
+        "price": 4.98,
+        "per": "5 inj"
+      },
+      {
+        "name": "Adrenaline",
+        "presentation": "Inj 1 in 1,000, 1 ml ampoule",
+        "brand": "Hameln",
+        "pharmacode": "2685043",
+        "nzmt-ctpp-id": "50337331000117106",
+        "price": 25.3,
+        "per": "10 inj"
+      },
+      {
+        "name": "Adrenaline",
+        "presentation": "Inj 1 in 10,000, 10 ml ampoule",
+        "brand": "Hospira",
+        "pharmacode": "534196",
+        "nzmt-ctpp-id": "50094741000117103",
+        "price": 27.0,
+        "per": "5 inj"
+      },
+      {
+        "name": "Adrenaline",
+        "presentation": "Inj 1 in 10,000, 10 ml ampoule",
+        "brand": "Aspen Adrenaline",
+        "pharmacode": "2390949",
+        "nzmt-ctpp-id": "50125901000117103",
+        "price": 49.0,
+        "per": "10 inj"
+      }
+    ],
+    "categories": [
+      {
+        "source": "nzhm",
+        "tg1": "Respiratory System and Allergies",
+        "tg2": "Antiallergy Preparations",
+        "tg3": "Allergic Emergencies"
+      },
+      {
+        "source": "nzhm",
+        "tg1": "Cardiovascular System",
+        "tg2": "Sympathomimetics",
+        "tg3": "Sympathomimetics"
       }
     ]
   },
@@ -16191,6 +16350,10 @@
       {
         "source": "Wikipedia",
         "key": "Epoprostenol"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB01240"
       }
     ],
     "source": "NZHM",
@@ -16221,7 +16384,12 @@
         "tg2": "Vasodilators",
         "tg3": "Prostacyclin Analogues"
       }
-    ]
+    ],
+    "brand-names": [
+      "Flolan",
+      "Veletri"
+    ],
+    "description": "Epoprostenol, also known as prostacyclin, is a potent vasodilator and antiplatelet agent used primarily to treat pulmonary arterial hypertension (PAH). [gpt-4o-mini]"
   },
   "Eptacog alfa": {
     "name": "Eptacog alfa",
@@ -16232,6 +16400,10 @@
       {
         "source": "Wikipedia",
         "key": "Eptacog alfa"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB00036"
       }
     ],
     "source": "NZHM",
@@ -16280,7 +16452,12 @@
         "tg2": "Antifibrinolytics, Haemostatics and Local Sclerosants",
         "tg3": "Blood Factors"
       }
-    ]
+    ],
+    "brand-names": [
+      "Novoseven",
+      "Sevenfact"
+    ],
+    "description": "Eptacog alfa, also known as recombinant factor VIIa, is an activated coagulation factor used to treat bleeding episodes in patients with hemophilia A or B who have inhibitors to factor VIII or IX, as well as in individuals with acquired hemophilia. [gpt-4o-mini]"
   },
   "Eptifibatide": {
     "name": "Eptifibatide",
@@ -16672,6 +16849,10 @@
       {
         "source": "Wikipedia",
         "key": "Esmolol"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB00187"
       }
     ],
     "source": "NZHM",
@@ -16690,7 +16871,11 @@
         "tg2": "Beta-Adrenoceptor Blockers",
         "tg3": "Beta-Adrenoceptor Blockers"
       }
-    ]
+    ],
+    "brand-names": [
+      "Brevibloc"
+    ],
+    "description": "Esmolol, marketed as Brevibloc, is a class II antiarrhythmic beta1-adrenergic receptor blocker primarily used to treat supraventricular tachycardia and to manage heart rate during surgical procedures. [gpt-4o-mini]"
   },
   "Esomeprazole": {
     "name": "Esomeprazole",
@@ -16787,6 +16972,10 @@
       {
         "source": "Wikipedia",
         "key": "Etanercept"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB00005"
       }
     ],
     "source": "NZHM",
@@ -16835,7 +17024,11 @@
         "tg2": "Immunosuppressants",
         "tg3": "Fusion Proteins"
       }
-    ]
+    ],
+    "brand-names": [
+      "Enbrel"
+    ],
+    "description": "Etanercept, marketed as Enbrel, is a TNF inhibitor used to treat autoimmune diseases such as rheumatoid arthritis, juvenile idiopathic arthritis, and psoriasis. [gpt-4o-mini]"
   },
   "Etelcalcetide": {
     "name": "Etelcalcetide",
@@ -17312,6 +17505,10 @@
       {
         "source": "Wikipedia",
         "key": "Etravirine"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB06414"
       }
     ],
     "source": "NZHM",
@@ -17333,7 +17530,11 @@
         "tg2": "Antiretrovirals",
         "tg3": "Non-Nucleoside Reverse Transcriptase Inhibitors"
       }
-    ]
+    ],
+    "brand-names": [
+      "Intelence"
+    ],
+    "description": "Etravirine, marketed as Intelence, is an antiretroviral non-nucleoside reverse transcriptase inhibitor (NNRTI) used to treat HIV-1 infection in treatment-experienced patients. [gpt-4o-mini]"
   },
   "Exemestane": {
     "name": "Exemestane",
@@ -17587,6 +17788,10 @@
       {
         "source": "Wikipedia",
         "key": "Febuxostat"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB04854"
       }
     ],
     "source": "NZHM",
@@ -17617,7 +17822,8 @@
         "tg2": "Hyperuricaemia and Antigout",
         "tg3": "Hyperuricaemia and Antigout"
       }
-    ]
+    ],
+    "description": "Febuxostat, marketed under the brand names Uloric and Adenuric, is a xanthine oxidase inhibitor used to treat chronic gout and hyperuricemia in patients who cannot tolerate allopurinol. [gpt-4o-mini]"
   },
   "Felbamate": {
     "name": "Felbamate",
@@ -17912,7 +18118,8 @@
         "tg2": "Minerals",
         "tg3": "Iron"
       }
-    ]
+    ],
+    "description": "Ferrous sulfate is an iron supplement used primarily to treat iron deficiency anemia. [gpt-4o-mini]"
   },
   "Fexofenadine": {
     "name": "Fexofenadine",
@@ -18139,6 +18346,10 @@
       {
         "source": "Wikipedia",
         "key": "Fingolimod"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB08868"
       }
     ],
     "source": "NZHM",
@@ -18160,7 +18371,11 @@
         "tg2": "Multiple Sclerosis Treatments",
         "tg3": "Multiple Sclerosis Treatments"
       }
-    ]
+    ],
+    "brand-names": [
+      "Gilenya"
+    ],
+    "description": "Fingolimod, marketed as Gilenya, is an immunomodulating medication used primarily to treat relapsing forms of multiple sclerosis. [gpt-4o-mini]"
   },
   "Flavoxate": {
     "name": "Flavoxate",
@@ -18869,6 +19084,10 @@
       {
         "source": "Wikipedia",
         "key": "Flupenthixol"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB00875"
       }
     ],
     "source": "NZHM",
@@ -18908,7 +19127,12 @@
         "tg2": "Antipsychotic Agents",
         "tg3": "Depot Injections"
       }
-    ]
+    ],
+    "brand-names": [
+      "Depixol",
+      "Fluanxol"
+    ],
+    "description": "Flupenthixol, a typical antipsychotic of the thioxanthene class, is primarily used to treat schizophrenia, particularly in patients with poor medication compliance. [gpt-4o-mini]"
   },
   "Flurandrenolide": {
     "name": "Flurandrenolide",
@@ -19298,7 +19522,7 @@
     "alt-names": [
       "Follitropin"
     ],
-    "description": "Follitropin, a glycoprotein gonadotropin, is primarily used to treat infertility by promoting ovarian stimulation and ovulation induction. [gpt-4o-mini]",
+    "description": "Follitropin, a glycoprotein gonadotropin, is primarily used in fertility treatments for ovarian hyperstimulation and ovulation induction. [gpt-4o-mini]",
     "links": [
       {
         "source": "Wikipedia",
@@ -19600,6 +19824,10 @@
       {
         "source": "Wikipedia",
         "key": "Framycetin"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB00994"
       }
     ],
     "source": "NZHM",
@@ -19618,7 +19846,11 @@
         "tg2": "Anti-Infective Preparations",
         "tg3": "Antibacterials"
       }
-    ]
+    ],
+    "brand-names": [
+      "Neo-rx"
+    ],
+    "description": "Framycetin, also known as neomycin B, is an aminoglycoside antibiotic primarily used to treat topical bacterial infections and hepatic encephalopathy. [gpt-4o-mini]"
   },
   "Fremanezumab": {
     "name": "Fremanezumab",
@@ -19666,6 +19898,10 @@
       {
         "source": "Wikipedia",
         "key": "Fulvestrant"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB00947"
       }
     ],
     "source": "NZHM",
@@ -19687,7 +19923,11 @@
         "tg2": "Endocrine Therapy",
         "tg3": "Endocrine Therapy"
       }
-    ]
+    ],
+    "brand-names": [
+      "Faslodex"
+    ],
+    "description": "Fulvestrant, marketed as Faslodex, is an antiestrogen medication used to treat hormone receptor-positive metastatic breast cancer in postmenopausal women, often administered via intramuscular injection. [gpt-4o-mini]"
   },
   "Furosemide": {
     "name": "Furosemide",
@@ -20033,6 +20273,10 @@
       {
         "source": "Wikipedia",
         "key": "Gadoxetate"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB08884"
       }
     ],
     "source": "NZHM",
@@ -20054,7 +20298,11 @@
         "tg2": "Contrast Media",
         "tg3": "Paramagnetic Contrast Media"
       }
-    ]
+    ],
+    "brand-names": [
+      "Eovist"
+    ],
+    "description": "Gadoxetate disodium, a gadolinium-based MRI contrast agent, is primarily used to enhance liver imaging by increasing the T1 signal intensity for the detection of liver lesions, including benign cysts, hemangiomas, and liver cancer. [gpt-4o-mini]"
   },
   "Galantamine": {
     "name": "Galantamine",
@@ -20096,6 +20344,10 @@
       {
         "source": "Wikipedia",
         "key": "Galsulfase"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB01279"
       }
     ],
     "source": "NZHM",
@@ -20117,7 +20369,11 @@
         "tg2": "Metabolic Disorder Agents",
         "tg3": "Metabolic Disorder Agents"
       }
-    ]
+    ],
+    "brand-names": [
+      "Naglazyme"
+    ],
+    "description": "Galsulfase, also known as N-acetylgalactosamine-4-sulfatase, is a recombinant enzyme used for enzyme replacement therapy in individuals with mucopolysaccharidosis VI (Maroteaux-Lamy syndrome). [gpt-4o-mini]"
   },
   "Ganaxolone": {
     "name": "Ganaxolone",
@@ -20262,7 +20518,8 @@
         "tg2": "Fluids and Electrolytes",
         "tg3": "Plasma Volume Expanders"
       }
-    ]
+    ],
+    "description": "Gelatin is a natural hydrolyzed collagen derived from animal connective tissues, commonly used as a gelling agent in food products and pharmaceuticals. [gpt-4o-mini]"
   },
   "Gemcitabine": {
     "name": "Gemcitabine",
@@ -20522,6 +20779,10 @@
       {
         "source": "Wikipedia",
         "key": "Glatiramer"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB05259"
       }
     ],
     "source": "NZHM",
@@ -20543,7 +20804,8 @@
         "tg2": "Multiple Sclerosis Treatments",
         "tg3": "Multiple Sclerosis Treatments"
       }
-    ]
+    ],
+    "description": "Glatiramer acetate, commonly known by the brand names Copaxone and Glatopa, is an immunomodulator used primarily to treat multiple sclerosis (MS). [gpt-4o-mini]"
   },
   "Glecaprevir; pibrentasvir": {
     "name": "Glecaprevir; pibrentasvir",
@@ -20837,6 +21099,10 @@
       {
         "source": "Wikipedia",
         "key": "Gonadorelin"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB00644"
       }
     ],
     "source": "NZHM",
@@ -20855,7 +21121,16 @@
         "tg2": "Pituitary and Hypothalamic Hormones and Analogues",
         "tg3": "GnRH Agonists and Antagonists"
       }
-    ]
+    ],
+    "brand-names": [
+      "Factrel",
+      "HRF",
+      "Kryptocur",
+      "Lutrelef",
+      "Lutrepulse",
+      "Relefact"
+    ],
+    "description": "Gonadorelin is a gonadotropin-releasing hormone agonist (GnRH agonist) used primarily in fertility medicine to treat conditions such as hypogonadotropic hypogonadism, amenorrhea, and delayed puberty. [gpt-4o-mini]"
   },
   "Goserelin": {
     "name": "Goserelin",
@@ -21131,8 +21406,9 @@
     "alt-names": [
       "Hemin"
     ],
-    "description": "Hemin is an iron-containing porphyrin used primarily to treat acute intermittent porphyria by reducing heme deficits and suppressing the production of toxic porphyrin precursors. [gpt-4o-mini]",
+    "description": "Hemin, also known as haemin, is an iron-containing porphyrin complex used to treat acute attacks of porphyria, particularly acute intermittent porphyria. [gpt-4o-mini]",
     "brand-names": [
+      "",
       "| Drugs.com = {{drugs.com|CDI|hemin}}"
     ],
     "links": [
@@ -21151,6 +21427,10 @@
       {
         "source": "Wikipedia",
         "key": "Heparin"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB01109"
       }
     ],
     "source": "NZHM",
@@ -21229,7 +21509,11 @@
         "tg2": "Antithrombotics",
         "tg3": "Anticoagulants"
       }
-    ]
+    ],
+    "brand-names": [
+      ""
+    ],
+    "description": "Heparin, also known as unfractionated heparin (UFH), is an anticoagulant used primarily to prevent and treat thrombosis and embolism, including conditions like myocardial infarction and unstable angina. [gpt-4o-mini]"
   },
   "Heparin; Taurolidine": {
     "name": "Heparin; Taurolidine",
@@ -21252,7 +21536,7 @@
     "alt-names": [
       "Hetastarch"
     ],
-    "description": "Hetastarch, sold under various brand names including Voluven and Hespan, is a volume expander used in intravenous therapy, primarily to prevent shock following severe blood loss, although its use in critically ill patients is associated with increased risks of mortality and kidney injury. [gpt-4o-mini]",
+    "description": "Hetastarch, also known as Hydroxyethyl starch (HES), is a starch derivative used primarily as a volume expander in intravenous therapy to treat hypovolemia due to severe blood loss, though its use is associated with significant risks such as kidney injury and increased mortality in critically ill patients. [gpt-4o-mini]",
     "links": [
       {
         "source": "Wikipedia",
@@ -21261,10 +21545,10 @@
     ],
     "brand-names": [
       "Hespan",
-      "Voluven",
-      "Volulyte",
+      "Hestar",
       "Tetrahes",
-      "Hestar"
+      "Volulyte",
+      "Voluven"
     ]
   },
   "Histrelin": {
@@ -21811,6 +22095,10 @@
       {
         "source": "Wikipedia",
         "key": "Hyoscine"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB00747"
       }
     ],
     "source": "NZHM",
@@ -21856,7 +22144,11 @@
         "tg2": "Antinausea and Vertigo Agents",
         "tg3": "Antinausea and Vertigo Agents"
       }
-    ]
+    ],
+    "brand-names": [
+      "Transderm Scop"
+    ],
+    "description": "Hyoscine, also known as scopolamine, is a tropane alkaloid and anticholinergic drug primarily used to treat motion sickness and postoperative nausea and vomiting. [gpt-4o-mini]"
   },
   "Hyoscine butylbromide": {
     "name": "Hyoscine butylbromide",
@@ -21893,7 +22185,11 @@
         "tg2": "Antispasmodics and Other Agents Altering Gut Motility",
         "tg3": "Antispasmodics and Other Agents Altering Gut Motility"
       }
-    ]
+    ],
+    "brand-names": [
+      "Buscopan"
+    ],
+    "description": "Hyoscine butylbromide, also known as scopolamine butylbromide, is an anticholinergic medication primarily used to treat abdominal pain and spasms. [gpt-4o-mini]"
   },
   "Ibrexafungerp": {
     "name": "Ibrexafungerp",
@@ -22160,6 +22456,10 @@
       {
         "source": "Wikipedia",
         "key": "Idarucizumab"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB09264"
       }
     ],
     "source": "NZHM",
@@ -22181,7 +22481,11 @@
         "tg2": "Antifibrinolytics, Haemostatics and Local Sclerosants",
         "tg3": "Anticoagulant Reversal Agents"
       }
-    ]
+    ],
+    "brand-names": [
+      "Praxbind"
+    ],
+    "description": "Idarucizumab, marketed as Praxbind, is a monoclonal antibody used as a reversal agent for dabigatran in patients experiencing bleeding or requiring urgent surgery. [gpt-4o-mini]"
   },
   "Idelalisib": {
     "name": "Idelalisib",
@@ -22600,7 +22904,12 @@
         "tg2": "Long-Acting Beta-Adrenoceptor Agonists",
         "tg3": "Long-Acting Beta-Adrenoceptor Agonists"
       }
-    ]
+    ],
+    "brand-names": [
+      "Arcapta",
+      "Onbrez"
+    ],
+    "description": "Indacaterol is an ultra-long-acting beta2-adrenergic receptor agonist used for the treatment of chronic obstructive pulmonary disease (COPD) and is administered via inhalation. [gpt-4o-mini]"
   },
   "Indapamide": {
     "name": "Indapamide",
@@ -22823,7 +23132,8 @@
         "tg2": "Diabetes",
         "tg3": "Insulin - Rapid-Acting Preparations"
       }
-    ]
+    ],
+    "description": "Insulin Aspart is a rapid-acting insulin analog used to manage blood glucose levels in individuals with type 1 and type 2 diabetes. [gpt-4o-mini]"
   },
   "Insulin Degludec": {
     "name": "Insulin Degludec",
@@ -22838,7 +23148,11 @@
         "source": "Wikipedia",
         "key": "Insulin_degludec"
       }
-    ]
+    ],
+    "brand-names": [
+      "Tresiba"
+    ],
+    "description": "Insulin degludec, marketed as Tresiba, is an ultralong-acting basal insulin analogue used to improve glycemic control in individuals with diabetes. [gpt-4o-mini]"
   },
   "Insulin Detemir": {
     "name": "Insulin Detemir",
@@ -22853,7 +23167,8 @@
         "source": "Wikipedia",
         "key": "Insulin_Detemir"
       }
-    ]
+    ],
+    "description": "Insulin Detemir is a long-acting insulin analog used to manage blood glucose levels in individuals with diabetes mellitus. [gpt-4o-mini]"
   },
   "Insulin Glargine": {
     "name": "Insulin Glargine",
@@ -23291,6 +23606,10 @@
       {
         "source": "Wikipedia",
         "key": "Isoflurane"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB00753"
       }
     ],
     "source": "NZHM",
@@ -23312,7 +23631,11 @@
         "tg2": "Anaesthetics",
         "tg3": "General Anaesthetics"
       }
-    ]
+    ],
+    "brand-names": [
+      "Forane"
+    ],
+    "description": "Isoflurane, also known as Forane, is a halogenated ether classified as a general anesthetic used primarily to maintain anesthesia during surgical procedures. [gpt-4o-mini]"
   },
   "Isoniazid": {
     "name": "Isoniazid",
@@ -24080,6 +24403,10 @@
       {
         "source": "Wikipedia",
         "key": "Lacosamide"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB06218"
       }
     ],
     "nzhm": [
@@ -24151,7 +24478,11 @@
         "tg2": "Antiepilepsy Drugs",
         "tg3": "Control of Epilepsy"
       }
-    ]
+    ],
+    "brand-names": [
+      "Vimpat"
+    ],
+    "description": "Lacosamide, marketed as Vimpat, is an anticonvulsant medication primarily used to treat partial-onset seizures and primary generalized tonic-clonic seizures. [gpt-4o-mini]"
   },
   "Lactate": {
     "name": "Lactate",
@@ -24188,7 +24519,8 @@
         "tg2": "Antinausea and Vertigo Agents",
         "tg3": "Antinausea and Vertigo Agents"
       }
-    ]
+    ],
+    "description": "Lactate, the conjugate base of lactic acid, is primarily used as a metabolic marker and in intravenous solutions for treating lactic acidosis. [gpt-4o-mini]"
   },
   "Lactulose": {
     "name": "Lactulose",
@@ -24472,7 +24804,7 @@
     "alt-names": [
       "Lanthanum Carbonate"
     ],
-    "description": "Lanthanum is a rare earth element and phosphate binder used primarily to treat hyperphosphatemia in patients with end-stage kidney disease. [gpt-4o-mini]",
+    "description": "Lanthanum is a trivalent cation used primarily as a phosphate binder in the treatment of hyperphosphatemia associated with end-stage kidney disease. [gpt-4o-mini]",
     "links": [
       {
         "source": "Wikipedia",
@@ -24527,6 +24859,10 @@
       {
         "source": "Wikipedia",
         "key": "Laronidase"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB00090"
       }
     ],
     "source": "NZHM",
@@ -24548,7 +24884,11 @@
         "tg2": "Metabolic Disorder Agents",
         "tg3": "Metabolic Disorder Agents"
       }
-    ]
+    ],
+    "brand-names": [
+      "Aldurazyme"
+    ],
+    "description": "Laronidase, marketed as Aldurazyme, is a recombinant enzyme used for enzyme replacement therapy in patients with mucopolysaccharidosis I (MPS I), specifically for treating the nonneurological manifestations of the disease. [gpt-4o-mini]"
   },
   "Larotrectinib": {
     "name": "Larotrectinib",
@@ -25228,6 +25568,10 @@
       {
         "source": "Wikipedia",
         "key": "Levocarnitine"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB00583"
       }
     ],
     "source": "NZHM",
@@ -25282,7 +25626,8 @@
         "tg2": "Metabolic Disorder Agents",
         "tg3": "Metabolic Disorder Agents"
       }
-    ]
+    ],
+    "description": "Levocarnitine, a quaternary ammonium compound, is primarily used to treat primary and secondary carnitine deficiency syndromes. [gpt-4o-mini]"
   },
   "Levocetirizine": {
     "name": "Levocetirizine",
@@ -25723,6 +26068,10 @@
       {
         "source": "Wikipedia",
         "key": "Lincomycin"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB01627"
       }
     ],
     "source": "NZHM",
@@ -25741,7 +26090,12 @@
         "tg2": "Antibacterials",
         "tg3": "Other Antibacterials"
       }
-    ]
+    ],
+    "brand-names": [
+      "Biocine",
+      "Lincocin"
+    ],
+    "description": "Lincomycin is a lincosamide antibiotic primarily used to treat severe bacterial infections in patients who are allergic to penicillin or when bacteria exhibit antibiotic resistance. [gpt-4o-mini]"
   },
   "Linezolid": {
     "name": "Linezolid",
@@ -25994,7 +26348,11 @@
     "links": [
       {
         "source": "Wikipedia",
-        "key": "Lithium"
+        "key": "Lithium_(medication)"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB01356"
       }
     ],
     "alt-names": [
@@ -26027,18 +26385,23 @@
         "tg2": "Antipsychotic Agents",
         "tg3": "General"
       }
-    ]
+    ],
+    "description": "Lithium is a mood stabilizer primarily used to treat bipolar disorder. [gpt-4o-mini]"
   },
   "Lodoxamide": {
     "name": "Lodoxamide",
     "alt-names": [
       "Lodoxamide Tromethamine"
     ],
-    "description": "Lodoxamide is an antiallergic mast cell stabilizer used to treat allergic conjunctivitis. [gpt-4o-mini]",
+    "description": "Lodoxamide is an antiallergic mast cell stabilizer used primarily to treat allergic conjunctivitis. [gpt-4o-mini]",
     "links": [
       {
         "source": "Wikipedia",
         "key": "Lodoxamide"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB06794"
       }
     ],
     "source": "NZHM",
@@ -26418,6 +26781,10 @@
       {
         "source": "Wikipedia",
         "key": "Lormetazepam"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB13872"
       }
     ],
     "nzhm": [
@@ -26435,7 +26802,12 @@
         "tg2": "Sedatives and Hypnotics",
         "tg3": "Sedatives and Hypnotics"
       }
-    ]
+    ],
+    "brand-names": [
+      "Loramet",
+      "Noctamid"
+    ],
+    "description": "Lormetazepam, a benzodiazepine, is primarily used for the short-term treatment of moderate-to-severe insomnia. [gpt-4o-mini]"
   },
   "Losartan": {
     "name": "Losartan",
@@ -26755,6 +27127,10 @@
       {
         "source": "Wikipedia",
         "key": "Mafenide"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB06795"
       }
     ],
     "source": "NZHM",
@@ -26773,7 +27149,12 @@
         "tg2": "Anti-Infective Preparations",
         "tg3": "Antibacterials"
       }
-    ]
+    ],
+    "brand-names": [
+      "Mafylon",
+      "Sulfamylon"
+    ],
+    "description": "Mafenide, also known as Mafenide acetate and marketed under the trade name Sulfamylon, is a sulfonamide antibiotic used topically as an adjunctive treatment for severe burns. [gpt-4o-mini]"
   },
   "Magnesium Salts": {
     "name": "Magnesium Salts",
@@ -26807,7 +27188,11 @@
         "tg2": "Minerals",
         "tg3": "Magnesium"
       }
-    ]
+    ],
+    "brand-names": [
+      ""
+    ],
+    "description": "Magnesium salts are a class of mineral supplements used primarily to treat magnesium deficiency and prevent seizures in conditions such as pre-eclampsia and eclampsia. [gpt-4o-mini]"
   },
   "Malathion": {
     "name": "Malathion",
@@ -27072,6 +27457,10 @@
       {
         "source": "Wikipedia",
         "key": "Mebeverine"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB12554"
       }
     ],
     "source": "NZHM",
@@ -27093,7 +27482,11 @@
         "tg2": "Antispasmodics and Other Agents Altering Gut Motility",
         "tg3": "Antispasmodics and Other Agents Altering Gut Motility"
       }
-    ]
+    ],
+    "brand-names": [
+      ""
+    ],
+    "description": "Mebeverine is an antispasmodic drug used to alleviate symptoms of irritable bowel syndrome (IBS) by relaxing the smooth muscles in the gastrointestinal tract. [gpt-4o-mini]"
   },
   "Mebrofenin": {
     "name": "Mebrofenin",
@@ -27234,7 +27627,11 @@
         "tg2": "Hormone Replacement Therapy",
         "tg3": "Progestogens"
       }
-    ]
+    ],
+    "brand-names": [
+      ""
+    ],
+    "description": "Medroxyprogesterone, also known as 6\u03b1-methyl-17\u03b1-hydroxyprogesterone, is a synthetic progestin that is not used clinically. [gpt-4o-mini]"
   },
   "Mefenamic acid": {
     "name": "Mefenamic acid",
@@ -27313,15 +27710,17 @@
       }
     ]
   },
-  "Meglumine": {
-    "name": "Meglumine",
-    "alt-names": [
-      "Meglumine iotroxate"
-    ],
+  "Meglumine Gadopentetate": {
+    "name": "Meglumine Gadopentetate",
+    "alt-names": [],
     "links": [
       {
         "source": "Wikipedia",
-        "key": "Meglumine"
+        "key": "Gadopentetic_acid"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB00789"
       }
     ],
     "source": "NZHM",
@@ -27361,7 +27760,11 @@
         "tg2": "Contrast Media",
         "tg3": "Paramagnetic Contrast Media"
       }
-    ]
+    ],
+    "brand-names": [
+      "Magnevist"
+    ],
+    "description": "Gadopentetate dimeglumine, marketed as Magnevist, is a gadolinium-based MRI contrast agent used to enhance imaging of blood vessels and inflamed or diseased tissues. [gpt-4o-mini]"
   },
   "Melatonin": {
     "name": "Melatonin",
@@ -27571,6 +27974,10 @@
       {
         "source": "Wikipedia",
         "key": "Mepolizumab"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB06612"
       }
     ],
     "source": "NZHM",
@@ -27598,7 +28005,11 @@
         "tg2": "Immunosuppressants",
         "tg3": "Monoclonal Antibodies"
       }
-    ]
+    ],
+    "brand-names": [
+      "Nucala"
+    ],
+    "description": "Mepolizumab, marketed as Nucala, is a humanized monoclonal antibody that targets interleukin-5 (IL-5) and is used primarily for the treatment of severe eosinophilic asthma. [gpt-4o-mini]"
   },
   "Meprobamate": {
     "name": "Meprobamate",
@@ -27852,6 +28263,10 @@
       {
         "source": "Wikipedia",
         "key": "Mesna"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB09110"
       }
     ],
     "source": "NZHM",
@@ -27900,7 +28315,11 @@
         "tg2": "Chemotherapeutic Agents",
         "tg3": "Treatment of Cytotoxic-Induced Side Effects"
       }
-    ]
+    ],
+    "brand-names": [
+      ""
+    ],
+    "description": "Mesna, sold under the brand name Mesnex, is a chemoprotective agent used to reduce the risk of hemorrhagic cystitis caused by the chemotherapy drugs ifosfamide and cyclophosphamide. [gpt-4o-mini]"
   },
   "Metaraminol": {
     "name": "Metaraminol",
@@ -28181,13 +28600,19 @@
       "Methenamine hippurate"
     ],
     "brand-names": [
+      "Antihydral",
       "Hiprex",
-      "Urex"
+      "Urex",
+      "Urotropin"
     ],
     "links": [
       {
         "source": "Wikipedia",
         "key": "Methenamine"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB06799"
       }
     ],
     "source": "NZHM",
@@ -28209,7 +28634,8 @@
         "tg2": "Antibacterials",
         "tg3": "Other Antibacterials"
       }
-    ]
+    ],
+    "description": "Methenamine, also known as hexamine, is a urinary antiseptic and antibacterial medication primarily used for the prevention of recurrent urinary tract infections (UTIs). [gpt-4o-mini]"
   },
   "Methocarbamol": {
     "name": "Methocarbamol",
@@ -28553,6 +28979,10 @@
       {
         "source": "Wikipedia",
         "key": "Methylnaltrexone"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB06800"
       }
     ],
     "source": "NZHM",
@@ -28583,7 +29013,11 @@
         "tg2": "Laxatives",
         "tg3": "Opioid Receptor Antagonists - Peripheral"
       }
-    ]
+    ],
+    "brand-names": [
+      "Relistor"
+    ],
+    "description": "Methylnaltrexone, marketed as Relistor, is a peripherally acting \u03bc-opioid receptor antagonist used to treat opioid-induced constipation. [gpt-4o-mini]"
   },
   "Methylphenidate": {
     "name": "Methylphenidate",
@@ -29246,6 +29680,10 @@
       {
         "source": "Wikipedia",
         "key": "Mianserin"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB06148"
       }
     ],
     "source": "NZHM",
@@ -29264,7 +29702,11 @@
         "tg2": "Antidepressants",
         "tg3": "Cyclic and Related Agents"
       }
-    ]
+    ],
+    "brand-names": [
+      "Tolvon"
+    ],
+    "description": "Mianserin, marketed as Tolvon, is an atypical tetracyclic antidepressant primarily used to treat major depressive disorder. [gpt-4o-mini]"
   },
   "Micafungin": {
     "name": "Micafungin",
@@ -29495,6 +29937,10 @@
       {
         "source": "Wikipedia",
         "key": "Midostaurin"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB06595"
       }
     ],
     "source": "NZHM",
@@ -29516,7 +29962,11 @@
         "tg2": "Chemotherapeutic Agents",
         "tg3": "Protein-Tyrosine Kinase Inhibitors"
       }
-    ]
+    ],
+    "brand-names": [
+      "Rydapt"
+    ],
+    "description": "Midostaurin, marketed as Rydapt, is a multi-targeted protein kinase inhibitor most commonly used to treat acute myeloid leukemia (AML) with FLT3 mutations. [gpt-4o-mini]"
   },
   "Mifepristone": {
     "name": "Mifepristone",
@@ -29742,6 +30192,10 @@
       {
         "source": "Wikipedia",
         "key": "Minoxidil"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB00350"
       }
     ],
     "source": "NZHM",
@@ -29763,7 +30217,12 @@
         "tg2": "Vasodilators",
         "tg3": "Vasodilators"
       }
-    ]
+    ],
+    "brand-names": [
+      "Loniten",
+      "Rogaine"
+    ],
+    "description": "Minoxidil is an antihypertensive and vasodilator primarily used to treat pattern hair loss. [gpt-4o-mini]"
   },
   "Mirabegron": {
     "name": "Mirabegron",
@@ -29935,6 +30394,10 @@
       {
         "source": "Wikipedia",
         "key": "Mitomycin C"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB00305"
       }
     ],
     "source": "NZHM",
@@ -29962,7 +30425,13 @@
         "tg2": "Chemotherapeutic Agents",
         "tg3": "Anthracyclines and Other Cytotoxic Antibiotics"
       }
-    ]
+    ],
+    "brand-names": [
+      "Jelmyto",
+      "Mitosol",
+      "Mutamycin"
+    ],
+    "description": "Mitomycin C is an antineoplastic agent used primarily to treat various types of cancer, including upper gastrointestinal, anal, breast, and bladder cancers. [gpt-4o-mini]"
   },
   "Mitotane": {
     "name": "Mitotane",
@@ -29987,12 +30456,17 @@
   "Mitozantrone": {
     "name": "Mitozantrone",
     "alt-names": [
-      "Mitozantrone"
+      "Mitozantrone",
+      "Mitoxantrone"
     ],
     "links": [
       {
         "source": "Wikipedia",
-        "key": "Mitozantrone"
+        "key": "Mitoxantrone"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB01204"
       }
     ],
     "source": "NZHM",
@@ -30014,7 +30488,11 @@
         "tg2": "Chemotherapeutic Agents",
         "tg3": "Anthracyclines and Other Cytotoxic Antibiotics"
       }
-    ]
+    ],
+    "brand-names": [
+      "Novantrone"
+    ],
+    "description": "Mitoxantrone, also known by its trade name Novantrone, is an anthracenedione antineoplastic agent primarily used to treat certain types of cancer, including acute myeloid leukemia, and to manage secondary-progressive multiple sclerosis. [gpt-4o-mini]"
   },
   "Mivacurium": {
     "name": "Mivacurium",
@@ -30025,6 +30503,10 @@
       {
         "source": "Wikipedia",
         "key": "Mivacurium"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB01226"
       }
     ],
     "source": "NZHM",
@@ -30043,7 +30525,11 @@
         "tg2": "Muscle Relaxants and Related Agents",
         "tg3": "Muscle Relaxants and Related Agents"
       }
-    ]
+    ],
+    "brand-names": [
+      "Mivacron"
+    ],
+    "description": "Mivacurium chloride, marketed as Mivacron, is a short-duration non-depolarizing neuromuscular-blocking drug used adjunctively in anesthesia to facilitate endotracheal intubation and provide muscle relaxation during surgery. [gpt-4o-mini]"
   },
   "Mobocertinib": {
     "name": "Mobocertinib",
@@ -30155,6 +30641,10 @@
       {
         "source": "Wikipedia",
         "key": "Molnupiravir"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB15661"
       }
     ],
     "source": "NZHM",
@@ -30175,7 +30665,11 @@
         "tg2": "Antivirals",
         "tg3": "COVID-19 Treatments"
       }
-    ]
+    ],
+    "brand-names": [
+      "Lagevrio"
+    ],
+    "description": "Molnupiravir, marketed as Lagevrio, is an antiviral medication used to treat mild to moderate COVID-19 in adults at high risk for severe disease. [gpt-4o-mini]"
   },
   "Mometasone": {
     "name": "Mometasone",
@@ -30346,6 +30840,10 @@
       {
         "source": "Wikipedia",
         "key": "Moroctocog alfa"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB13999"
       }
     ],
     "source": "NZHM",
@@ -30403,7 +30901,12 @@
         "tg2": "Antifibrinolytics, Haemostatics and Local Sclerosants",
         "tg3": "Blood Factors"
       }
-    ]
+    ],
+    "brand-names": [
+      "ReFacto",
+      "ReFacto AF"
+    ],
+    "description": "Moroctocog alfa, marketed as ReFacto, is a recombinant antihemophilic factor used for the treatment and prophylaxis of bleeding in patients with hemophilia A. [gpt-4o-mini]"
   },
   "Morphine": {
     "name": "Morphine",
@@ -30904,7 +31407,7 @@
     "alt-names": [
       "Nadofaragene Firadenovec"
     ],
-    "description": "Nadofaragene firadenovec, marketed as Adstiladrin, is a gene therapy used to treat high-risk Bacillus Calmette-Gu\u00e9rin (BCG)-unresponsive non-muscle-invasive bladder cancer. [gpt-4o-mini]",
+    "description": "Nadofaragene firadenovec, sold under the brand name Adstiladrin, is a gene therapy indicated for the treatment of high-risk Bacillus Calmette-Gu\u00e9rin (BCG)-unresponsive non-muscle-invasive bladder cancer. [gpt-4o-mini]",
     "brand-names": [
       "Adstiladrin"
     ],
@@ -30912,6 +31415,10 @@
       {
         "source": "Wikipedia",
         "key": "Nadofaragene_firadenovec"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB17381"
       }
     ]
   },
@@ -31364,6 +31871,10 @@
       {
         "source": "Wikipedia",
         "key": "Natamycin"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB00826"
       }
     ],
     "source": "NZHM",
@@ -31382,7 +31893,11 @@
         "tg2": "Anti-Infective Preparations",
         "tg3": "Antifungals"
       }
-    ]
+    ],
+    "brand-names": [
+      "Natacyn"
+    ],
+    "description": "Natamycin, also known as pimaricin, is an antifungal medication primarily used to treat fungal infections of the eye, including keratitis and conjunctivitis. [gpt-4o-mini]"
   },
   "Nateglinide": {
     "name": "Nateglinide",
@@ -31509,6 +32024,10 @@
       {
         "source": "Wikipedia",
         "key": "Nefopam"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB12293"
       }
     ],
     "nzhm": [
@@ -31526,7 +32045,11 @@
         "tg2": "Analgesics",
         "tg3": "Non-Opioid Analgesics"
       }
-    ]
+    ],
+    "brand-names": [
+      "nefopam medisol"
+    ],
+    "description": "Nefopam is a centrally acting, non-opioid analgesic primarily used to treat moderate to severe pain, with additional applications in preventing shivering during surgery. [gpt-4o-mini]"
   },
   "Neomycin; Polymyxin B; Hydrocortisone": {
     "name": "Neomycin; Polymyxin B; Hydrocortisone",
@@ -31781,6 +32304,10 @@
       {
         "source": "Wikipedia",
         "key": "Nicorandil"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB09220"
       }
     ],
     "nzhm": [
@@ -31810,7 +32337,11 @@
         "tg2": "Vasodilators",
         "tg3": "Vasodilators"
       }
-    ]
+    ],
+    "brand-names": [
+      "Ikorel"
+    ],
+    "description": "Nicorandil is a vasodilator drug used to treat angina by acting as both a nitrate and an ATP-sensitive potassium channel opener. [gpt-4o-mini]"
   },
   "Nifedipine": {
     "name": "Nifedipine",
@@ -32514,7 +33045,11 @@
         "tg2": "Antifibrinolytics, Haemostatics and Local Sclerosants",
         "tg3": "Blood Factors"
       }
-    ]
+    ],
+    "brand-names": [
+      "Benefix"
+    ],
+    "description": "Nonacog gamma, marketed as Rixubis, is a recombinant coagulation factor IX used to treat hemophilia B. [gpt-4o-mini]"
   },
   "Noradrenaline": {
     "name": "Noradrenaline",
@@ -32525,6 +33060,10 @@
       {
         "source": "Wikipedia",
         "key": "Noradrenaline"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB00368"
       }
     ],
     "source": "NZHM",
@@ -32594,7 +33133,8 @@
         "tg2": "Sympathomimetics",
         "tg3": "Sympathomimetics"
       }
-    ]
+    ],
+    "description": "Noradrenaline, also known as norepinephrine, is a catecholamine that acts as both a hormone and neurotransmitter, primarily used in the treatment of critically low blood pressure. [gpt-4o-mini]"
   },
   "Norethindrone": {
     "name": "Norethindrone",
@@ -32785,6 +33325,10 @@
       {
         "source": "Wikipedia",
         "key": "Nusinersen"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB13161"
       }
     ],
     "source": "NZHM",
@@ -32806,7 +33350,11 @@
         "tg2": "Spinal Muscular Atrophy",
         "tg3": "Spinal Muscular Atrophy"
       }
-    ]
+    ],
+    "brand-names": [
+      "Spinraza"
+    ],
+    "description": "Nusinersen, marketed as Spinraza, is an antisense oligonucleotide used to treat spinal muscular atrophy (SMA). [gpt-4o-mini]"
   },
   "Nystatin": {
     "name": "Nystatin",
@@ -33110,7 +33658,11 @@
         "tg2": "Antifibrinolytics, Haemostatics and Local Sclerosants",
         "tg3": "Blood Factors"
       }
-    ]
+    ],
+    "brand-names": [
+      "Adynovi"
+    ],
+    "description": "Octocog alfa, also known as recombinant Factor VIII, is a clotting factor used to treat and prevent bleeding in individuals with hemophilia A. [gpt-4o-mini]"
   },
   "Octreotide": {
     "name": "Octreotide",
@@ -33454,6 +34006,10 @@
       {
         "source": "Wikipedia",
         "key": "Olaparib"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB09074"
       }
     ],
     "source": "NZHM",
@@ -33484,7 +34040,11 @@
         "tg2": "Chemotherapeutic Agents",
         "tg3": "Other Cytotoxic Agents"
       }
-    ]
+    ],
+    "brand-names": [
+      "Lynparza"
+    ],
+    "description": "Olaparib, marketed as Lynparza, is a PARP inhibitor used primarily for the maintenance treatment of BRCA-mutated advanced ovarian cancer. [gpt-4o-mini]"
   },
   "Oliceridine": {
     "name": "Oliceridine",
@@ -34043,6 +34603,10 @@
       {
         "source": "Wikipedia",
         "key": "Ornidazole"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB13026"
       }
     ],
     "nzhm": [
@@ -34063,7 +34627,11 @@
         "tg2": "Antiparasitics",
         "tg3": "Antiprotozoals"
       }
-    ]
+    ],
+    "brand-names": [
+      "'''Xynor'''"
+    ],
+    "description": "Ornidazole is a synthetic nitroimidazole antibiotic used to treat protozoan infections, particularly effective against trichomoniasis. [gpt-4o-mini]"
   },
   "Orphenadrine": {
     "name": "Orphenadrine",
@@ -34167,6 +34735,10 @@
       {
         "source": "Wikipedia",
         "key": "Oxaliplatin"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB00526"
       }
     ],
     "source": "NZHM",
@@ -34188,7 +34760,11 @@
         "tg2": "Chemotherapeutic Agents",
         "tg3": "Platinum Compounds"
       }
-    ]
+    ],
+    "brand-names": [
+      "Eloxatin"
+    ],
+    "description": "Oxaliplatin, marketed as Eloxatin, is a platinum-based antineoplastic drug used primarily in the treatment of colorectal cancer. [gpt-4o-mini]"
   },
   "Oxandrolone": {
     "name": "Oxandrolone",
@@ -34232,6 +34808,10 @@
       {
         "source": "Wikipedia",
         "key": "Oxazepam"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB00842"
       }
     ],
     "source": "NZHM",
@@ -34256,7 +34836,13 @@
         "tg2": "Anxiolytics",
         "tg3": "Anxiolytics"
       }
-    ]
+    ],
+    "brand-names": [
+      "Alepam",
+      "Serax",
+      "Serepax"
+    ],
+    "description": "Oxazepam is a short-to-intermediate-acting benzodiazepine used primarily to treat anxiety disorders, insomnia, and symptoms of alcohol withdrawal. [gpt-4o-mini]"
   },
   "Oxcarbazepine": {
     "name": "Oxcarbazepine",
@@ -34631,6 +35217,10 @@
       {
         "source": "Wikipedia",
         "key": "Paclitaxel"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB01229"
       }
     ],
     "source": "NZHM",
@@ -34661,7 +35251,12 @@
         "tg2": "Chemotherapeutic Agents",
         "tg3": "Taxanes"
       }
-    ]
+    ],
+    "brand-names": [
+      "Abraxane",
+      "Taxol"
+    ],
+    "description": "Paclitaxel, marketed as Taxol, is a chemotherapy medication used primarily to treat various cancers, including breast, ovarian, and lung cancer. [gpt-4o-mini]"
   },
   "Pafolacianine": {
     "name": "Pafolacianine",
@@ -34692,6 +35287,10 @@
       {
         "source": "Wikipedia",
         "key": "Palbociclib"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB09073"
       }
     ],
     "source": "NZHM",
@@ -34731,7 +35330,11 @@
         "tg2": "Chemotherapeutic Agents",
         "tg3": "Protein-Tyrosine Kinase Inhibitors"
       }
-    ]
+    ],
+    "brand-names": [
+      "Ibrance"
+    ],
+    "description": "Palbociclib, marketed as Ibrance, is a selective CDK4/6 inhibitor used primarily to treat hormone receptor-positive (HR+) and human epidermal growth factor receptor 2-negative (HER2\u2212) metastatic breast cancer. [gpt-4o-mini]"
   },
   "Paliperidone": {
     "name": "Paliperidone",
@@ -34938,6 +35541,10 @@
       {
         "source": "Wikipedia",
         "key": "Pancuronium"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB01337"
       }
     ],
     "source": "NZHM",
@@ -35081,7 +35688,11 @@
     "links": [
       {
         "source": "Wikipedia",
-        "key": "Para-aminosalicylic Acid"
+        "key": "4-Aminosalicylic_acid"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB00233"
       }
     ],
     "source": "NZHM",
@@ -35103,14 +35714,19 @@
         "tg2": "Antimycobacterials",
         "tg3": "Antituberculotics"
       }
-    ]
+    ],
+    "brand-names": [
+      "Granupas",
+      "Paser"
+    ],
+    "description": "Para-aminosalicylic acid (PAS) is an antibiotic used primarily to treat drug-resistant tuberculosis, often in combination with other antituberculosis medications. [gpt-4o-mini]"
   },
   "Parathyroid Hormone": {
     "name": "Parathyroid Hormone",
     "alt-names": [
       "Parathyroid Hormone"
     ],
-    "description": "Parathyroid hormone (PTH) is a peptide hormone that regulates serum calcium levels and is primarily used in the treatment of osteoporosis. [gpt-4o-mini]",
+    "description": "Parathyroid hormone (PTH), a peptide hormone secreted by the parathyroid glands, is primarily used in the treatment of osteoporosis by regulating serum calcium levels through its effects on bone, kidney, and intestine. [gpt-4o-mini]",
     "links": [
       {
         "source": "Wikipedia",
@@ -35163,6 +35779,10 @@
       {
         "source": "Wikipedia",
         "key": "Paromomycin"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB01421"
       }
     ],
     "source": "NZHM",
@@ -35184,7 +35804,8 @@
         "tg2": "Antibacterials",
         "tg3": "Aminoglycosides"
       }
-    ]
+    ],
+    "description": "Paromomycin is an aminoglycoside antibiotic primarily used to treat intestinal parasitic infections such as amebiasis and giardiasis. [gpt-4o-mini]"
   },
   "Paroxetine": {
     "name": "Paroxetine",
@@ -35273,6 +35894,10 @@
       {
         "source": "Wikipedia",
         "key": "Pazopanib"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB06589"
       }
     ],
     "source": "NZHM",
@@ -35303,7 +35928,11 @@
         "tg2": "Chemotherapeutic Agents",
         "tg3": "Protein-Tyrosine Kinase Inhibitors"
       }
-    ]
+    ],
+    "brand-names": [
+      "Votrient"
+    ],
+    "description": "Pazopanib, marketed as Votrient, is a multi-targeted tyrosine kinase inhibitor primarily used to treat advanced renal cell carcinoma and soft tissue sarcoma. [gpt-4o-mini]"
   },
   "Pegaspargase": {
     "name": "Pegaspargase",
@@ -35618,7 +36247,9 @@
     "name": "Penicillin G",
     "alt-names": [
       "Benzylpenicillin sodium [Penicillin G]",
-      "Penicillin G Benzathine; Penicillin G Procaine"
+      "Penicillin G Benzathine; Penicillin G Procaine",
+      "Benzylpenicillin sodium",
+      "Benzylpenicillin"
     ],
     "description": "Penicillin G, also known as Benzylpenicillin, is a beta-lactam antibiotic primarily used to treat bacterial infections, particularly those caused by susceptible organisms. [gpt-4o-mini]",
     "links": [
@@ -35796,7 +36427,7 @@
       "Pentetate Zinc Trisodium",
       "Pentetic Acid"
     ],
-    "description": "Pentetate, also known as pentetic acid, is a chelating agent used to treat heavy metal poisoning, particularly from lead and mercury. [gpt-4o-mini]",
+    "description": "Pentetic acid, also known as diethylenetriaminepentaacetic acid (DTPA), is an aminopolycarboxylic acid used primarily as a chelating agent for the treatment of internal contamination with radioactive elements such as plutonium and americium. [gpt-4o-mini]",
     "links": [
       {
         "source": "Wikipedia",
@@ -35804,17 +36435,26 @@
       }
     ]
   },
-  "Pentosan": {
-    "name": "Pentosan",
+  "Pentosan Polysulfate": {
+    "name": "Pentosan Polysulfate",
     "alt-names": [
+      "Pentosan",
       "Pentosan Polysulfate Sodium"
     ],
-    "description": "Pentosan is a polysaccharide that can act as a heparinoid and is most commonly used in the treatment of interstitial cystitis. [gpt-4o-mini]",
+    "description": "Pentosan polysulfate, marketed as Elmiron, is a glycosaminoglycan used for the treatment of interstitial cystitis. [gpt-4o-mini]",
     "links": [
       {
         "source": "Wikipedia",
-        "key": "Pentosan"
+        "key": "Pentosan_polysulfate"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB00686"
       }
+    ],
+    "brand-names": [
+      "Elmiron",
+      "Zycosan"
     ]
   },
   "Pentostatin": {
@@ -35982,7 +36622,8 @@
         "tg2": "Contrast Media",
         "tg3": "Ultrasound Contrast Media"
       }
-    ]
+    ],
+    "description": "Perflutren, marketed as Definity and Luminity, is a perfluorocarbon microbubble contrast agent used to enhance echocardiography and ultrasound imaging for the assessment of cardiac function and characterization of liver lesions. [gpt-4o-mini]"
   },
   "Perhexiline": {
     "name": "Perhexiline",
@@ -36029,6 +36670,10 @@
       {
         "source": "Wikipedia",
         "key": "Pericyazine"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB01608"
       }
     ],
     "source": "NZHM",
@@ -36053,7 +36698,8 @@
         "tg2": "Antipsychotic Agents",
         "tg3": "General"
       }
-    ]
+    ],
+    "description": "Pericyazine is a typical antipsychotic medication primarily used to treat severe anxiety and psychotic disorders such as schizophrenia. [gpt-4o-mini]"
   },
   "Perindopril": {
     "name": "Perindopril",
@@ -36437,6 +37083,10 @@
       {
         "source": "Wikipedia",
         "key": "Phenothrin"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB13717"
       }
     ],
     "source": "NZHM",
@@ -36455,7 +37105,8 @@
         "tg2": "Anti-Infective Preparations",
         "tg3": "Antiparasitics"
       }
-    ]
+    ],
+    "description": "Phenothrin, also known as sumithrin, is a synthetic pyrethroid insecticide primarily used to treat and control infestations of fleas, ticks, and head lice. [gpt-4o-mini]"
   },
   "Phenoxybenzamine": {
     "name": "Phenoxybenzamine",
@@ -36754,6 +37405,10 @@
       {
         "source": "Wikipedia",
         "key": "Phytomenadione"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB01022"
       }
     ],
     "source": "NZHM",
@@ -36784,7 +37439,12 @@
         "tg2": "Antifibrinolytics, Haemostatics and Local Sclerosants",
         "tg3": "Vitamin K"
       }
-    ]
+    ],
+    "brand-names": [
+      "Hemophyt",
+      "Mephyton"
+    ],
+    "description": "Phytomenadione, also known as vitamin K1, is a fat-soluble vitamin that is primarily used to treat bleeding disorders, including warfarin overdose and vitamin K deficiency. [gpt-4o-mini]"
   },
   "Picibanil": {
     "name": "Picibanil",
@@ -36795,6 +37455,10 @@
       {
         "source": "Wikipedia",
         "key": "Picibanil"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB17591"
       }
     ],
     "source": "NZHM",
@@ -37033,6 +37697,10 @@
       {
         "source": "Wikipedia",
         "key": "Pipothiazine"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB01621"
       }
     ],
     "source": "NZHM",
@@ -37057,7 +37725,11 @@
         "tg2": "Antipsychotic Agents",
         "tg3": "Depot Injections"
       }
-    ]
+    ],
+    "brand-names": [
+      "Piportil"
+    ],
+    "description": "Pipothiazine, marketed as Piportil, is a typical antipsychotic medication of the phenothiazine class used primarily for the treatment of schizophrenia. [gpt-4o-mini]"
   },
   "Pirfenidone": {
     "name": "Pirfenidone",
@@ -37068,6 +37740,10 @@
       {
         "source": "Wikipedia",
         "key": "Pirfenidone"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB04951"
       }
     ],
     "source": "NZHM",
@@ -37098,7 +37774,13 @@
         "tg2": "Antifibrotics",
         "tg3": "Antifibrotics"
       }
-    ]
+    ],
+    "brand-names": [
+      "Esbriet",
+      "Etuary",
+      "Pirespa"
+    ],
+    "description": "Pirfenidone, marketed under the brand names Esbriet and Pirespa, is an antifibrotic medication primarily used to treat idiopathic pulmonary fibrosis by reducing lung fibrosis through the modulation of growth factors and procollagen production. [gpt-4o-mini]"
   },
   "Piroxicam": {
     "name": "Piroxicam",
@@ -37176,6 +37858,10 @@
       {
         "source": "Wikipedia",
         "key": "Pizotifen"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB06153"
       }
     ],
     "nzhm": [
@@ -37196,7 +37882,11 @@
         "tg2": "Antimigraine Preparations",
         "tg3": "Prophylaxis of Migraine"
       }
-    ]
+    ],
+    "brand-names": [
+      "Sandomigran"
+    ],
+    "description": "Pizotifen, marketed as Sandomigran, is a benzocycloheptene derivative primarily used as a preventive treatment to reduce the frequency of migraine headaches. [gpt-4o-mini]"
   },
   "Plazomicin": {
     "name": "Plazomicin",
@@ -37280,6 +37970,10 @@
       {
         "source": "Wikipedia",
         "key": "Podophyllotoxin"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB01179"
       }
     ],
     "source": "NZHM",
@@ -37301,7 +37995,8 @@
         "tg2": "Wart Preparations",
         "tg3": "Wart Preparations"
       }
-    ]
+    ],
+    "description": "Podophyllotoxin, also known as Podofilox, is a non-alkaloid lignin used topically to treat genital warts and molluscum contagiosum infections. [gpt-4o-mini]"
   },
   "Polatuzumab Vedotin": {
     "name": "Polatuzumab Vedotin",
@@ -37332,6 +38027,10 @@
       {
         "source": "Wikipedia",
         "key": "Polidocanol"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB06811"
       }
     ],
     "source": "NZHM",
@@ -37350,7 +38049,11 @@
         "tg2": "Antifibrinolytics, Haemostatics and Local Sclerosants",
         "tg3": "Antifibrinolytics, Haemostatics and Local Sclerosants"
       }
-    ]
+    ],
+    "brand-names": [
+      ""
+    ],
+    "description": "Polidocanol is a local anesthetic and antipruritic used primarily in the treatment of varicose veins and to relieve itching associated with eczema and dry skin. [gpt-4o-mini]"
   },
   "Poloxamer": {
     "name": "Poloxamer",
@@ -37382,7 +38085,8 @@
         "tg2": "Laxatives",
         "tg3": "Faecal Softeners"
       }
-    ]
+    ],
+    "description": "Poloxamer is a nonionic triblock copolymer used primarily as a surfactant and drug delivery agent, particularly in enhancing the solubility of hydrophobic drugs and sensitizing drug-resistant cancers to chemotherapy. [gpt-4o-mini]"
   },
   "Polyethylene Glycol": {
     "name": "Polyethylene Glycol",
@@ -37637,6 +38341,10 @@
       {
         "source": "Wikipedia",
         "key": "Poractant alfa"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB09113"
       }
     ],
     "source": "NZHM",
@@ -37667,7 +38375,11 @@
         "tg2": "Pulmonary Surfactants",
         "tg3": "Pulmonary Surfactants"
       }
-    ]
+    ],
+    "brand-names": [
+      "Curosurf"
+    ],
+    "description": "Poractant alfa, marketed as Curosurf, is a pulmonary surfactant used to treat neonatal respiratory distress syndrome (RDS) in preterm infants. [gpt-4o-mini]"
   },
   "Porfimer": {
     "name": "Porfimer",
@@ -39024,12 +39736,17 @@
   "Protionamide": {
     "name": "Protionamide",
     "alt-names": [
-      "Protionamide"
+      "Protionamide",
+      "Prothionamide"
     ],
     "links": [
       {
         "source": "Wikipedia",
-        "key": "Protionamide"
+        "key": "Prothionamide"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB12667"
       }
     ],
     "source": "NZHM",
@@ -39051,17 +39768,27 @@
         "tg2": "Antimycobacterials",
         "tg3": "Antituberculotics"
       }
-    ]
+    ],
+    "brand-names": [
+      ""
+    ],
+    "description": "Protionamide, also known as prothionamide, is a thioamide antibiotic most often used to treat tuberculosis and leprosy. [gpt-4o-mini]"
   },
   "Protirelin": {
     "name": "Protirelin",
     "alt-names": [
-      "Protirelin"
+      "Protirelin",
+      "Thyrotropin-releasing hormone"
     ],
+    "description": "Protirelin is a synthetic analogue of thyrotropin-releasing hormone.",
     "links": [
       {
         "source": "Wikipedia",
-        "key": "Protirelin"
+        "key": "Thyrotropin-releasing_hormone"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB09421"
       }
     ],
     "source": "NZHM",
@@ -40028,6 +40755,10 @@
       {
         "source": "Wikipedia",
         "key": "Retinol"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB00162"
       }
     ],
     "source": "NZHM",
@@ -40085,7 +40816,11 @@
         "tg2": "Ocular Lubricants",
         "tg3": "Ocular Lubricants"
       }
-    ]
+    ],
+    "brand-names": [
+      ""
+    ],
+    "description": "Retinol, also known as vitamin A1, is a fat-soluble vitamin primarily used to treat vitamin A deficiency, particularly to prevent xerophthalmia and support overall vision and immune function. [gpt-4o-mini]"
   },
   "Revefenacin": {
     "name": "Revefenacin",
@@ -40112,7 +40847,7 @@
     "alt-names": [
       "Rezafungin"
     ],
-    "description": "Rezafungin, marketed as Rezzayo, is an echinocandin antifungal used primarily for the treatment of invasive candidiasis. [gpt-4o-mini]",
+    "description": "Rezafungin, marketed as Rezzayo, is an echinocandin antifungal used to treat invasive candidiasis in adults. [gpt-4o-mini]",
     "brand-names": [
       "Rezzayo"
     ],
@@ -40120,6 +40855,10 @@
       {
         "source": "Wikipedia",
         "key": "Rezafungin"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB16310"
       }
     ]
   },
@@ -40151,6 +40890,10 @@
       {
         "source": "Wikipedia",
         "key": "Ribociclib"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB11730"
       }
     ],
     "source": "NZHM",
@@ -40190,7 +40933,11 @@
         "tg2": "Chemotherapeutic Agents",
         "tg3": "Protein-Tyrosine Kinase Inhibitors"
       }
-    ]
+    ],
+    "brand-names": [
+      "Kisqali"
+    ],
+    "description": "Ribociclib, marketed as Kisqali, is a kinase inhibitor used primarily for the treatment of hormone receptor-positive, HER2-negative advanced or metastatic breast cancer. [gpt-4o-mini]"
   },
   "Rifabutin": {
     "name": "Rifabutin",
@@ -40442,6 +41189,10 @@
       {
         "source": "Wikipedia",
         "key": "Risdiplam"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB15305"
       }
     ],
     "source": "NZHM",
@@ -40463,7 +41214,11 @@
         "tg2": "Spinal Muscular Atrophy",
         "tg3": "Spinal Muscular Atrophy"
       }
-    ]
+    ],
+    "brand-names": [
+      "Evrysdi"
+    ],
+    "description": "Risdiplam, marketed as Evrysdi, is a small molecule RNA splicing modifier used to treat spinal muscular atrophy (SMA). [gpt-4o-mini]"
   },
   "Risedronate": {
     "name": "Risedronate",
@@ -40920,6 +41675,10 @@
       {
         "source": "Wikipedia",
         "key": "Rocuronium bromide"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB00728"
       }
     ],
     "source": "NZHM",
@@ -40941,7 +41700,12 @@
         "tg2": "Muscle Relaxants and Related Agents",
         "tg3": "Muscle Relaxants and Related Agents"
       }
-    ]
+    ],
+    "brand-names": [
+      "Esmeron",
+      "Zemuron"
+    ],
+    "description": "Rocuronium bromide, marketed as Zemuron and Esmeron, is a non-depolarizing neuromuscular blocker used primarily to facilitate tracheal intubation during surgical procedures and mechanical ventilation. [gpt-4o-mini]"
   },
   "Roflumilast": {
     "name": "Roflumilast",
@@ -41422,7 +42186,11 @@
         "tg2": "Antifibrinolytics, Haemostatics and Local Sclerosants",
         "tg3": "Blood Factors"
       }
-    ]
+    ],
+    "brand-names": [
+      "Adynovi"
+    ],
+    "description": "Rurioctocog alfa pegol, marketed as Adynovi, is a recombinant antihemophilic factor VIII used to treat and prevent bleeding in patients with hemophilia A. [gpt-4o-mini]"
   },
   "Ruxolitinib": {
     "name": "Ruxolitinib",
@@ -41620,6 +42388,10 @@
       {
         "source": "Wikipedia",
         "key": "Sapropterin"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB00360"
       }
     ],
     "source": "NZHM",
@@ -41641,7 +42413,12 @@
         "tg2": "Metabolic Disorder Agents",
         "tg3": "Metabolic Disorder Agents"
       }
-    ]
+    ],
+    "brand-names": [
+      "Biopten",
+      "Kuvan"
+    ],
+    "description": "Sapropterin, also known as sapropterin dihydrochloride, is a synthetic form of tetrahydrobiopterin used primarily to treat phenylketonuria (PKU) by aiding in the metabolism of phenylalanine. [gpt-4o-mini]"
   },
   "Sargramostim": {
     "name": "Sargramostim",
@@ -41693,6 +42470,10 @@
       {
         "source": "Wikipedia",
         "key": "Secukinumab"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB09029"
       }
     ],
     "nzhm": [
@@ -41809,7 +42590,8 @@
         "tg2": "Minerals",
         "tg3": "Selenium"
       }
-    ]
+    ],
+    "description": "Selenium is an essential trace element used as a dietary supplement to support cellular function and antioxidant defense, although it can be toxic at high doses. [gpt-4o-mini]"
   },
   "Selexipag": {
     "name": "Selexipag",
@@ -42376,6 +43158,10 @@
       {
         "source": "Wikipedia",
         "key": "Sincalide"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB09142"
       }
     ],
     "source": "NZHM",
@@ -42394,7 +43180,11 @@
         "tg2": "Diagnostic Agents",
         "tg3": "Diagnostic Agents"
       }
-    ]
+    ],
+    "brand-names": [
+      ""
+    ],
+    "description": "Sincalide is a cholecystokinetic peptide used to stimulate gallbladder contraction and assist in the diagnosis of gallbladder and pancreatic disorders. [gpt-4o-mini]"
   },
   "Sinecatechins": {
     "name": "Sinecatechins",
@@ -42406,6 +43196,10 @@
       {
         "source": "Wikipedia",
         "key": "Sinecatechins"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB01266"
       }
     ]
   },
@@ -42530,7 +43324,8 @@
         "tg2": "Minerals",
         "tg3": "Fluoride"
       }
-    ]
+    ],
+    "description": "Sodium fluoride is an inorganic compound used primarily in the prevention of dental caries through water fluoridation and dental products. [gpt-4o-mini]"
   },
   "Sodium Nitroprusside": {
     "name": "Sodium Nitroprusside",
@@ -42558,11 +43353,11 @@
     "alt-names": [
       "Sodium Phenylbutyrate"
     ],
-    "description": "Sodium phenylbutyrate, marketed as Buphenyl, is a medication used to treat urea cycle disorders by providing an alternative pathway for nitrogen excretion. [gpt-4o-mini]",
+    "description": "Sodium phenylbutyrate, marketed as Buphenyl, is a salt of an aromatic fatty acid used to treat urea cycle disorders by providing an alternative pathway for nitrogen excretion. [gpt-4o-mini]",
     "brand-names": [
+      "Ammonaps",
       "Buphenyl",
-      "Pheburane",
-      "Ammonaps"
+      "Pheburane"
     ],
     "links": [
       {
@@ -42640,8 +43435,9 @@
     "alt-names": [
       "Sodium Tetradecyl Sulfate"
     ],
-    "description": "Sodium tetradecyl sulfate (STS) is an anionic surfactant primarily used as a sclerosant in the treatment of varicose and spider veins through sclerotherapy. [gpt-4o-mini]",
+    "description": "Sodium Tetradecyl Sulfate (STS) is an anionic surfactant used primarily as a sclerosant in the treatment of varicose and spider veins through sclerotherapy. [gpt-4o-mini]",
     "brand-names": [
+      "",
       "| Drugs.com = {{drugs.com|CDI|sodium_tetradecyl_sulfate}}"
     ],
     "links": [
@@ -42905,7 +43701,8 @@
         "tg2": "Pituitary and Hypothalamic Hormones and Analogues",
         "tg3": "Growth Hormone"
       }
-    ]
+    ],
+    "description": "Somatropin is a recombinant human growth hormone used primarily to treat growth hormone deficiency in both children and adults. [gpt-4o-mini]"
   },
   "Sonidegib": {
     "name": "Sonidegib",
@@ -43058,6 +43855,10 @@
       {
         "source": "Wikipedia",
         "key": "Spiramycin"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB06145"
       }
     ],
     "source": "NZHM",
@@ -43076,7 +43877,11 @@
         "tg2": "Antiparasitics",
         "tg3": "Antiprotozoals"
       }
-    ]
+    ],
+    "brand-names": [
+      ""
+    ],
+    "description": "Spiramycin is a macrolide antibiotic primarily used to treat toxoplasmosis and various soft tissue infections. [gpt-4o-mini]"
   },
   "Spironolactone": {
     "name": "Spironolactone",
@@ -43369,6 +44174,10 @@
       {
         "source": "Wikipedia",
         "key": "Sulfadiazine"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB00359"
       }
     ],
     "source": "NZHM",
@@ -43387,7 +44196,11 @@
         "tg2": "Antibacterials",
         "tg3": "Other Antibacterials"
       }
-    ]
+    ],
+    "brand-names": [
+      ""
+    ],
+    "description": "Sulfadiazine is a sulfonamide antibiotic most often used in combination with pyrimethamine to treat toxoplasmosis. [gpt-4o-mini]"
   },
   "Sulfamethoxazole; Trimethoprim": {
     "name": "Sulfamethoxazole; Trimethoprim",
@@ -43501,6 +44314,10 @@
       {
         "source": "Wikipedia",
         "key": "Sulphacetamide"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB00634"
       }
     ],
     "source": "NZHM",
@@ -43519,7 +44336,11 @@
         "tg2": "Anti-Infective Preparations",
         "tg3": "Antibacterials"
       }
-    ]
+    ],
+    "brand-names": [
+      "Bleph-10"
+    ],
+    "description": "Sulfacetamide is a sulfonamide antibiotic primarily used to treat bacterial infections of the eyes and skin, including acne and seborrheic dermatitis. [gpt-4o-mini]"
   },
   "Sumatriptan": {
     "name": "Sumatriptan",
@@ -43683,6 +44504,10 @@
       {
         "source": "Wikipedia",
         "key": "Suxamethonium"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB00202"
       }
     ],
     "source": "NZHM",
@@ -43704,7 +44529,12 @@
         "tg2": "Muscle Relaxants and Related Agents",
         "tg3": "Muscle Relaxants and Related Agents"
       }
-    ]
+    ],
+    "brand-names": [
+      "Anectine",
+      "Quelicin"
+    ],
+    "description": "Suxamethonium, also known as succinylcholine, is a depolarizing neuromuscular blocker used to induce short-term paralysis for tracheal intubation and during surgical procedures. [gpt-4o-mini]"
   },
   "Tacrolimus": {
     "name": "Tacrolimus",
@@ -43943,6 +44773,10 @@
       {
         "source": "Wikipedia",
         "key": "Taliglucerase alfa"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB08876"
       }
     ],
     "source": "NZHM",
@@ -43964,7 +44798,11 @@
         "tg2": "Metabolic Disorder Agents",
         "tg3": "Metabolic Disorder Agents"
       }
-    ]
+    ],
+    "brand-names": [
+      "Elelyso"
+    ],
+    "description": "Taliglucerase alfa, marketed as Elelyso, is a biopharmaceutical enzyme replacement therapy used to treat Gaucher's disease. [gpt-4o-mini]"
   },
   "Talimogene Laherparepvec": {
     "name": "Talimogene Laherparepvec",
@@ -44596,6 +45434,10 @@
       {
         "source": "Wikipedia",
         "key": "Tenoxicam"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB00469"
       }
     ],
     "nzhm": [
@@ -44625,7 +45467,11 @@
         "tg2": "Non-Steroidal Anti-Inflammatory Drugs",
         "tg3": "Non-Steroidal Anti-Inflammatory Drugs"
       }
-    ]
+    ],
+    "brand-names": [
+      ""
+    ],
+    "description": "Tenoxicam, marketed under the brand name Mobiflex, is a nonsteroidal anti-inflammatory drug (NSAID) primarily used to treat pain and inflammation associated with conditions such as rheumatoid arthritis and osteoarthritis. [gpt-4o-mini]"
   },
   "Terazosin": {
     "name": "Terazosin",
@@ -44795,6 +45641,10 @@
       {
         "source": "Wikipedia",
         "key": "Teriparatide"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB06285"
       }
     ],
     "source": "NZHM",
@@ -44816,7 +45666,12 @@
         "tg2": "Drugs Affecting Bone Metabolism",
         "tg3": "Other Drugs Affecting Bone Metabolism"
       }
-    ]
+    ],
+    "brand-names": [
+      "Forsteo",
+      "Forteo"
+    ],
+    "description": "Teriparatide, sold under the brand name Forteo, is a recombinant parathyroid hormone analog used primarily for the treatment of osteoporosis in postmenopausal women and men at high risk for fractures. [gpt-4o-mini]"
   },
   "Terlipressin": {
     "name": "Terlipressin",
@@ -45048,6 +45903,10 @@
       {
         "source": "Wikipedia",
         "key": "Tetracosactide"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB01284"
       }
     ],
     "source": "NZHM",
@@ -45087,7 +45946,15 @@
         "tg2": "Pituitary and Hypothalamic Hormones and Analogues",
         "tg3": "Adrenocorticotropic Hormones"
       }
-    ]
+    ],
+    "brand-names": [
+      "Acortan",
+      "Acthar",
+      "Acton",
+      "Cortigel",
+      "Trofocortina"
+    ],
+    "description": "Tetracosactide, also known as cosyntropin, is a synthetic form of adrenocorticotropic hormone (ACTH) used primarily for the ACTH stimulation test to assess adrenal gland function and diagnose conditions like adrenocortical insufficiency. [gpt-4o-mini]"
   },
   "Tetracycline": {
     "name": "Tetracycline",
@@ -45318,6 +46185,10 @@
       {
         "source": "Wikipedia",
         "key": "Thioguanine"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB00352"
       }
     ],
     "source": "NZHM",
@@ -45336,7 +46207,12 @@
         "tg2": "Chemotherapeutic Agents",
         "tg3": "Antimetabolites"
       }
-    ]
+    ],
+    "brand-names": [
+      "Lanvis",
+      "Tabloid"
+    ],
+    "description": "Thioguanine, also known as 6-thioguanine, is an antimetabolite medication primarily used to treat various types of leukemia, including acute myeloid leukemia (AML) and acute lymphocytic leukemia (ALL). [gpt-4o-mini]"
   },
   "Thiopental": {
     "name": "Thiopental",
@@ -45347,6 +46223,10 @@
       {
         "source": "Wikipedia",
         "key": "Thiopental"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB00599"
       }
     ],
     "source": "NZHM",
@@ -45365,7 +46245,12 @@
         "tg2": "Anaesthetics",
         "tg3": "General Anaesthetics"
       }
-    ]
+    ],
+    "brand-names": [
+      "Pentothal",
+      "Trapanal"
+    ],
+    "description": "Thiopental, also known as sodium thiopental or sodium pentothal, is a short-acting barbiturate general anesthetic primarily used for the induction of anesthesia. [gpt-4o-mini]"
   },
   "Thiotepa": {
     "name": "Thiotepa",
@@ -45376,6 +46261,10 @@
       {
         "source": "Wikipedia",
         "key": "Thiotepa"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB04572"
       }
     ],
     "source": "NZHM",
@@ -45406,7 +46295,11 @@
         "tg2": "Chemotherapeutic Agents",
         "tg3": "Alkylating Agents"
       }
-    ]
+    ],
+    "brand-names": [
+      "Tepadina"
+    ],
+    "description": "Thiotepa, sold under the brand name Tepadina, is an alkylating antineoplastic agent used primarily in combination chemotherapy to treat various cancers, including breast and ovarian cancer. [gpt-4o-mini]"
   },
   "Thiothixene": {
     "name": "Thiothixene",
@@ -45456,7 +46349,8 @@
         "tg2": "Antifibrinolytics, Haemostatics and Local Sclerosants",
         "tg3": "Antifibrinolytics, Haemostatics and Local Sclerosants"
       }
-    ]
+    ],
+    "description": "Thrombin, also known as Factor IIa, is a serine protease involved in blood coagulation, primarily used to promote hemostasis in surgical procedures and manage bleeding. [gpt-4o-mini]"
   },
   "Thyroid": {
     "name": "Thyroid",
@@ -47264,6 +48158,10 @@
       {
         "source": "Wikipedia",
         "key": "Trientine"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB06824"
       }
     ],
     "source": "NZHM",
@@ -47285,7 +48183,13 @@
         "tg2": "Metabolic Disorder Agents",
         "tg3": "Metabolic Disorder Agents"
       }
-    ]
+    ],
+    "brand-names": [
+      "Cufence",
+      "Cuprior",
+      "Syprine"
+    ],
+    "description": "Trientine, also known as triethylenetetramine, is a chelating agent used to treat Wilson's disease, particularly in patients intolerant to penicillamine. [gpt-4o-mini]"
   },
   "Trifarotene": {
     "name": "Trifarotene",
@@ -47483,6 +48387,10 @@
       {
         "source": "Wikipedia",
         "key": "Trometamol"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB03754"
       }
     ],
     "source": "NZHM",
@@ -47501,7 +48409,8 @@
         "tg2": "Surgical Preparations",
         "tg3": "Surgical Preparations"
       }
-    ]
+    ],
+    "description": "Trometamol, also known as THAM, is an organic compound used primarily as a buffering agent in the treatment of metabolic acidosis in certain medical settings. [gpt-4o-mini]"
   },
   "Tropicamide": {
     "name": "Tropicamide",
@@ -47512,6 +48421,10 @@
       {
         "source": "Wikipedia",
         "key": "Tropicamide"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB00809"
       }
     ],
     "source": "NZHM",
@@ -47554,7 +48467,11 @@
         "tg2": "Mydriatics and Cycloplegics",
         "tg3": "Anticholinergic Agents"
       }
-    ]
+    ],
+    "brand-names": [
+      "Mydriacyl"
+    ],
+    "description": "Tropicamide, an antimuscarinic medication, is primarily used to dilate the pupil for eye examinations and to facilitate the observation of the retina and other eye structures. [gpt-4o-mini]"
   },
   "Tropisetron": {
     "name": "Tropisetron",
@@ -47565,6 +48482,10 @@
       {
         "source": "Wikipedia",
         "key": "Tropisetron"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB11699"
       }
     ],
     "source": "NZHM",
@@ -47589,7 +48510,11 @@
         "tg2": "Antinausea and Vertigo Agents",
         "tg3": "Antinausea and Vertigo Agents"
       }
-    ]
+    ],
+    "brand-names": [
+      "Navoban"
+    ],
+    "description": "Tropisetron is a serotonin 5-HT3 receptor antagonist used primarily as an antiemetic to prevent nausea and vomiting following chemotherapy. [gpt-4o-mini]"
   },
   "Ubrogepant": {
     "name": "Ubrogepant",
@@ -47638,7 +48563,11 @@
     "links": [
       {
         "source": "Wikipedia",
-        "key": "Umeclidinium"
+        "key": "Umeclidinium_bromide"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB09076"
       }
     ],
     "source": "NZHM",
@@ -47660,7 +48589,11 @@
         "tg2": "Anticholinergic Agents",
         "tg3": "Long-Acting Muscarinic Agents"
       }
-    ]
+    ],
+    "brand-names": [
+      "Incruse Ellipta"
+    ],
+    "description": "Umeclidinium bromide, marketed as Incruse Ellipta, is a long-acting muscarinic antagonist used for the maintenance treatment of chronic obstructive pulmonary disease (COPD). [gpt-4o-mini]"
   },
   "Umeclidinium; Vilanterol": {
     "name": "Umeclidinium; Vilanterol",
@@ -48246,6 +49179,10 @@
       {
         "source": "Wikipedia",
         "key": "Vecuronium"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB01339"
       }
     ],
     "source": "NZHM",
@@ -48267,7 +49204,11 @@
         "tg2": "Muscle Relaxants and Related Agents",
         "tg3": "Muscle Relaxants and Related Agents"
       }
-    ]
+    ],
+    "brand-names": [
+      "Norcuron"
+    ],
+    "description": "Vecuronium bromide, also known as Norcuron, is a non-depolarizing neuromuscular blocker used primarily to induce skeletal muscle relaxation during surgical procedures and mechanical ventilation. [gpt-4o-mini]"
   },
   "Vedolizumab": {
     "name": "Vedolizumab",
@@ -48331,6 +49272,10 @@
       {
         "source": "Wikipedia",
         "key": "Venetoclax"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB11581"
       }
     ],
     "source": "NZHM",
@@ -48379,7 +49324,12 @@
         "tg2": "Chemotherapeutic Agents",
         "tg3": "Other Cytotoxic Agents"
       }
-    ]
+    ],
+    "brand-names": [
+      "Venclexta",
+      "Venclyxto"
+    ],
+    "description": "Venetoclax, marketed as Venclexta and Venclyxto, is a Bcl-2 inhibitor used primarily to treat chronic lymphocytic leukemia (CLL) and small lymphocytic lymphoma (SLL). [gpt-4o-mini]"
   },
   "Venlafaxine": {
     "name": "Venlafaxine",
@@ -48928,7 +49878,8 @@
         "tg2": "Vitamins",
         "tg3": "Vitamin B"
       }
-    ]
+    ],
+    "description": "Vitamin B complex is a group of water-soluble vitamins crucial for energy metabolism and red blood cell production, commonly used to treat vitamin deficiencies and support overall health. [gpt-4o-mini]"
   },
   "Vitamin E": {
     "name": "Vitamin E",
@@ -48943,7 +49894,8 @@
         "source": "Wikipedia",
         "key": "Vitamin_E"
       }
-    ]
+    ],
+    "description": "Vitamin E, a fat-soluble antioxidant, is primarily used to treat vitamin E deficiency and may help protect against damage from reactive oxygen species. [gpt-4o-mini]"
   },
   "Vonoprazan": {
     "name": "Vonoprazan",

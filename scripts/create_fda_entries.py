@@ -52,14 +52,14 @@ def get_wikipedia_entry_cached(slug):
     return slug, None
 
 
-def get_wikipedia_entry(name):
-    return get_wikipedia_entry_(sluggify(name))
+def get_wikipedia_entry(name, use_cached=True):
+    return get_wikipedia_entry_(sluggify(name), use_cached)
 
 
-def get_wikipedia_entry_(slug):
+def get_wikipedia_entry_(slug, use_cached=True):
 
     filename = slug.lower().replace('/', '_').replace(' ', '_')
-    if os.path.exists(f"data/wikipedia/{filename}.txt"):
+    if use_cached and os.path.exists(f"data/wikipedia/{filename}.txt"):
         with open(f"data/wikipedia/{filename}.txt") as f:
             content = f.read()
         redirect_slug = detect_redirect(content)
@@ -397,3 +397,84 @@ def count_parts(med):
         parts += 1
     return parts
 
+for name in sorted(meds.keys()):
+    print(f"{name[0:48]:-<50} {'▓'*count_parts(meds[name])}")
+
+
+for name, med in unmatched_meds.items():
+    if name in med_idx:
+        continue
+    meds[name] = med
+
+with open('data/meds.json', 'wt') as f:
+    json.dump( meds, f, indent=2)
+
+
+def has_drugbank(med):
+    for link in med.get('links', []):
+        if link['source'] == 'DrugBank':
+            return True
+    return False
+
+def has_wikipedia(med):
+    for link in med.get('links', []):
+        if link['source'] == 'Wikipedia':
+            return True
+    return False
+
+
+i=0
+db = 0
+descr = 0
+cats = 0
+for name, med in meds.items():
+    print(f"{name[0:48]:-<50} {'▓'*count_parts(meds[name])}")
+    i += 1
+    db += 1 if has_drugbank(med) else 0
+    descr += 1 if med.get('description') else 0
+    cats += 1 if med.get('categories') else 0
+
+
+i=0
+db = 0
+for name, med in meds.items():
+    if ';' in name:
+        continue
+    if not has_drugbank(med):
+        print(f"{name[0:48]:-<50} {'▓'*count_parts(meds[name])}")
+    db += 1 if has_drugbank(med) else 0
+    i += 1
+
+print(f"{i=}, {db=}")
+
+
+def get_link_key(med, source):
+    for link in med.get('links', []):
+        if link['source'] == source:
+            return link['key']
+    return None
+
+
+for name, med in meds.items():
+    if ';' not in name and not has_drugbank(med):
+        slug = get_link_key(med, 'Wikipedia')
+        print(f"{name[0:48]:-<50} {count_parts(med)} {slug or '-'}")
+        if slug:
+            slug, content = get_wikipedia_entry(slug, use_cached=False)
+            if content:
+                accession = extract_drugbank_accession(content)
+                # if accession:
+                #     med['links'].append({
+                #         "source": "DrugBank",
+                #         "key": accession
+                #     })
+                brand_names = extract_brand_names(content)
+                # if brand_names:
+                #     med['brand-names'] = sorted(set(brand_names) | set(med.get('brand-names', [])))
+                descr = med.get('description')
+                # if not descr or descr.endswith(f" [{MODEL_NAME}]"):
+                #     descr = write_description(name, content) + f" [{MODEL_NAME}]"
+                    # med['description'] = descr
+                print(f"✅ {accession} {brand_names} {descr}")
+            else:
+                print("❌")
