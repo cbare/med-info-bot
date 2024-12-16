@@ -3967,7 +3967,7 @@
     },
     "links": [
       {
-        "source": "wikipedia",
+        "source": "Wikipedia",
         "key": "Azelaic_acid"
       },
       {
@@ -23559,13 +23559,30 @@
   },
   "Icosapent Ethyl": {
     "name": "Icosapent Ethyl",
+    "alt-names": [
+      "Ethyl eicosapentaenoic acid",
+      "E-EPA"
+    ],
+    "brand-names": [
+      "Vascepa"
+    ],
+    "description": "Icosapent Ethyl, or ethyl eicosapentaenoic acid is an Omega-3 fatty acid derivative used to treat dyslipidemia and hypertriglyceridemia in combination with changes in diet or as an adjunct to a statin.",
     "clincalc": {
       "name": "Icosapent Ethyl",
       "rank": 229,
       "prescriptions_2022": 1551621,
       "patients_2022": 438450
     },
-    "links": []
+    "links": [
+      {
+        "source": "Wikipedia",
+        "key": "Ethyl_eicosapentaenoic_acid"
+      },
+      {
+        "source": "DrugBank",
+        "key": "DB08887"
+      }
+    ]
   },
   "Idarubicin": {
     "name": "Idarubicin",
@@ -43843,9 +43860,7 @@
       }
     ],
     "brand-names": [
-      "Maxalt",
-      "Maxalt-MLT",
-      "Rizafilm"
+      "Maxalt"
     ],
     "description": "Rizatriptan, sold under the brand name Maxalt, is a triptan used for the acute treatment of migraine headaches. [gpt-4o-mini]"
   },
