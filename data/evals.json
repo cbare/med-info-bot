@@ -1,42 +1,142 @@
 [
     {
-        "Question": "What are the effects of an overdose of Tramadol?",
-        "Answer": "seizure, altered consciousness, tachycardia, nausea and vomiting, aggitation, respiratory depression, serotonin syndrome"
+        "prompt": "What are the effects of an overdose of Tramadol?",
+        "response_contains": "seizure, altered consciousness, tachycardia, nausea, vomiting, aggitation, respiratory depression, serotonin syndrome"
     },
     {
-        "Question": "What class of medication is lisinopril?",
-        "Answer": "ACE inhibitor"
+        "prompt": "What class of medication is lisinopril?",
+        "response_contains": "ACE inhibitor | Angiotensin-Converting Enzyme (ACE) inhibitor | angiotensin-converting enzyme inhibitor"
     },
     {
-        "Question": "What is the generic form of Celexa?",
-        "Answer": "Citalopram"
+        "prompt": "What is the generic form of Celexa?",
+        "response_contains": "Citalopram"
     },
     {
-        "Question": "",
-        "Answer": ""
+        "prompt": "What drugs are recommended for acute treatment of migraine?",
+        "response_contains": "NSAID, triptan"
     },
     {
-        "Question": "",
-        "Answer": ""
+        "prompt": "What kinds of drugs are there for treating high blood pressure?",
+        "response_contains": "angiotensin-converting enzyme | ACE inhibitors, beta blocker, calcium channel blocker, Angiotensin II receptor blockers | ARB | Angiotensin II receptor antagonist | Angiotensin receptor blockers, diuretic, alpha blockers"
     },
     {
-        "Question": "",
-        "Answer": ""
+        "prompt": "What's the difference between Incruse Ellipta and Anoro Ellipta?",
+        "response_contains": "LAMA-LABA, umeclidinium, vilanterol"
     },
     {
-        "Question": "",
-        "Answer": ""
+        "prompt": "Are Prinivil and Zestra different?",
+        "response_contains": "lisinopril"
     },
     {
-        "Question": "",
-        "Answer": ""
+        "prompt": "What is vancomycin?",
+        "response_contains": "antibiotic"
     },
     {
-        "Question": "",
-        "Answer": ""
+        "prompt": "What condition does vardenafil treat?",
+        "response_contains": "erectile dysfunction"
     },
     {
-        "Question": "",
-        "Answer": ""
+        "prompt": "What condition is treated by venlafaxine?",
+        "response_contains": "depression"
+    },
+    {
+        "prompt": "What is the generic name for the medication Zanaflex?",
+        "response_contains": "tizanidine"
+    },
+    {
+        "prompt": "The combination of lisinopril and hydrochlorothiazide is sold under what brand names?",
+        "response_contains": "prinzide, zestoretic"
+    },
+    {
+        "prompt": "Hyzaar is a combination of what two classes of medication?",
+        "response_contains": "diuretic, angiotensin II receptor blocker"
+    },
+    {
+        "prompt": "In the combination medication Tarka, what ingredient lowers blood pressure by relaxing the blood vessels?",
+        "response_contains": "trandolapril"
+    },
+    {
+        "prompt": "In the combination medication Tarka, what ingredient lowers blood pressure by preventing calcium from entering the cells of the heart and arteries?",
+        "response_contains": "Verapamil"
+    },
+    {
+        "prompt": "Amlodipine and diltiazem are examples of what class of antihypertensives?",
+        "response_contains": "calcium channel blocker"
+    },
+    {
+        "prompt": "What is the generic name of Norvasc?",
+        "response_contains": "amlodipine"
+    },
+    {
+        "prompt": "I'm taking Lotrel for high blood pressure. What ingredient of Lotrel is a calcium channel blocker?",
+        "response_contains": "Amlodipine"
+    },
+    {
+        "prompt": "I'm taking Lotrel for high blood pressure. What ingredient of Lotrel is an ACE inhibitor?",
+        "response_contains": "Benazepril"
+    },
+    {
+        "prompt": "What condition can be treated with Alendronate sodium?",
+        "response_contains": "osteoporosis"
+    },
+    {
+        "prompt": "What does the suffix 'mab' signify in medications like adalimumab, nivolumab, and pembrolizumab?",
+        "response_contains": "monoclonal antibod"
+    },
+    {
+        "prompt": "Trastuzumab treats what condition?",
+        "response_contains": "HER2-positive, breast cancer"
+    },
+    {
+        "prompt": "What is the generic name for Claratin?",
+        "response_contains": "loratadine"
+    },
+    {
+        "prompt": "What kind of drug is loratadine? What does it treat?",
+        "response_contains": "antihistamine, allerg"
+    },
+    {
+        "prompt": "What is the brand name for cetirizine?",
+        "response_contains": "Zyrtec"
+    },
+    {
+        "prompt": "What kind of drug is cetirizine?",
+        "response_contains": "antihistamine"
+    },
+    {
+        "prompt": "What kind of drug is levocetirizine?",
+        "response_contains": "antihistamine"
+    },
+    {
+        "prompt": "Zovirax is used to treat infections caused by what virus?",
+        "response_contains": "herpes"
+    },
+    {
+        "prompt": "Darunavir is used to treat infections of what virus?",
+        "response_contains": "HIV"
+    },
+    {
+        "prompt": "What three medications are in the antiviral combination drug Atripla?",
+        "response_contains": "efavirenz, emtricitabine, tenofovir"
+    },
+    {
+        "prompt": "Escitalopram is used to treat what condition?",
+        "response_contains": "depress"
+    },
+    {
+        "prompt": "What kind of medication is Escitalopram?",
+        "response_contains": "SSRI"
+    },
+    {
+        "prompt": "What kind of medication is amitriptyline?",
+        "response_contains": "tricyclic antidepressant"
+    },
+    {
+        "prompt": "Can amitriptyline be used to treat migraine?",
+        "response_contains": "Yes"
+    },
+    {
+        "prompt": "Can amitriptyline be used to treat viral infection?",
+        "response_contains": "No"
     }
 ]

@@ -4,7 +4,7 @@ Commands for running med-info-bot.
 
 ## Postgres
 
-To do RAG with Postgresql, 
+To do RAG with Postgresql, we'll use the [pgvector][1] extension and the [Nomic][2] 768 embeddings.
 
 ### Starting Postgres
 
@@ -54,3 +54,14 @@ CREATE TABLE docs (
 
 CREATE INDEX ON docs USING hnsw (embedding vector_l2_ops) WITH (m = 16, ef_construction = 64);
 ```
+
+```sql
+select
+    source, key, title, text
+from docs
+order by embedding <-> '[0.029396465,0.03770254,...]'
+limit 10
+```
+
+[1]: https://github.com/pgvector/pgvector
+[2]: https://ollama.com/library/nomic-embed-text

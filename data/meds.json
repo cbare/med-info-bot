@@ -693,6 +693,7 @@
     "alt-names": [
       "Aciclovir"
     ],
+    "brand-names": ["Zovirax"],
     "forms": [
       "injection",
       "tablet"
@@ -2268,9 +2269,9 @@
       }
     ],
     "brand-names": [
-      "Norvasc"
+      "Lotrel"
     ],
-    "description": "Amlodipine, a calcium channel blocker, is primarily used to treat high blood pressure and coronary artery disease. [gpt-4o-mini]"
+    "description": "The combination of Amlodipine, a calcium channel blocker, and Benazepril, an ACE inhibitor is used to lower blood pressure."
   },
   "Amlodipine; Olmesartan": {
     "name": "Amlodipine; Olmesartan",

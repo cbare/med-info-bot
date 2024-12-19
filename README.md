@@ -2,6 +2,12 @@
 
 A project to organize information about prescription and over the counter medications.
 
+## Status
+
+As of **2024-12-16** this is an early work in progress. This project includes a database of 1441 prescription and OTC medications with links to Wikipedia, the FDA's NDC products table, and DrugBank. The intention is to create a reference for medications, drug classes, and conditions treated.
+
+Retrieval augmented generation over Wikipedia pages is implemented as a proof-of-concept. So far, retrieval is hurting more than helping. Similarity search over sections of Wikipedia pages often returns irrelevant information which then gets incorporated into the generation.
+
 ## Data sources
 
 - [ClinCalc DrugStats Top 300][1]
